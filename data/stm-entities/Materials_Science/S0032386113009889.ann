@@ -1,0 +1,69 @@
+T1	Material 0 20	Silica nanoparticles
+T2	Data 32 77	three different diameters (23, 74 and 170 nm)
+T3	Material 98 130	a piperidine-cured epoxy polymer
+T4	Process 132 146	Fracture tests
+T5	Data 166 189	values of the toughness
+T6	Data 212 229	the concentration
+T7	Material 233 253	silica nanoparticles
+T8	Process 258 267	increased
+T9	Process 281 300	significant effects
+T10	Data 304 317	particle size
+T11	Data 332 363	the measured value of toughness
+T12	Process 365 390	The toughening mechanisms
+T13	Material 464 488	the epoxy matrix polymer
+T15	Material 511 535	the silica nanoparticles
+T16	Process 546 555	debonding
+T17	Material 559 583	the silica nanoparticles
+T18	Process 596 615	plastic void growth
+T19	Material 619 643	the epoxy matrix polymer
+T20	Process 645 661	These mechanisms
+T21	Data 673 686	the toughness
+T22	Material 690 708	the epoxy polymers
+T23	Material 720 744	the silica nanoparticles
+T24	Method 766 791	the Hsieh et al. approach
+T25	Process 751 759	modelled
+T26	Material 793 820	Polymer 51, 2010, 6284-6294
+T27	Data 891 910	the volume fraction
+T28	Material 914 939	debonded silica particles
+T29	Material 960 981	the fracture surfaces
+T30	Process 946 954	measured
+T31	Method 1067 1091	finite-element modelling
+T32	Material 1119 1142	one silica nanoparticle
+T33	Process 1143 1150	debonds
+T34	Material 1156 1178	its nearest neighbours
+T35	Process 1183 1191	shielded
+T36	Process 1197 1221	the applied stress field
+T37	Process 1241 1247	debond
+T38	Method 1249 1269	Statistical analysis
+T39	Material 1287 1335	a good, i.e. random, dispersion of nanoparticles
+T40	Material 1337 1354	each nanoparticle
+T41	Data 1359 1362	six
+T42	Material 1363 1381	nearest neighbours
+T43	Data 1386 1403	only one in seven
+T44	Material 1404 1413	particles
+T45	Process 1436 1442	debond
+T46	Data 1482 1492	only 14.3%
+T47	Material 1496 1513	the nanoparticles
+T48	Process 1527 1533	debond
+T49	Material 1604 1623	those nanoparticles
+T50	Process 1632 1641	debonding
+T51	Process 1652 1660	recorded
+T52	Material 1688 1709	the fracture surfaces
+T53	Data 1581 1600	the value of 10-15%
+T54	Data 1539 1549	this value
+T55	Data 1720 1743	this value of about 15%
+T56	Material 1747 1777	silica nanoparticles particles
+T57	Process 1786 1795	debonding
+T58	Data 1931 1944	the toughness
+T59	Material 1948 1974	the various epoxy polymers
+T60	Material 1986 2010	the silica nanoparticles
+T61	Data 1885 1900	The predictions
+T64	Data 2065 2078	the agreement
+T65	Process 1906 1927	the modelling studies
+T14	Process 414 460	the formation of localised shear-band yielding
+T62	Data 2030 2060	the measured fracture energies
+T63	Process 91 97	modify
+T66	Process 152 161	performed
+T67	Process 190 208	increased steadily
+T68	Data 849 877	that previous modelling work
+T69	Process 1423 1432	predicted

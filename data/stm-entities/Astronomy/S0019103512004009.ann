@@ -1,0 +1,65 @@
+T5	Material 175 195	its upper atmosphere
+T9	Material 240 246	models
+T10	Material 317 352	the first hydrodynamic escape model
+T11	Material 357 377	the upper atmosphere
+T13	Data 458 472	high altitudes
+T15	Material 538 548	This model
+T16	Data 560 585	the stellar heating rates
+T17	Data 664 682	the photochemistry
+T20	Process 615 649	photoelectron heating efficiencies
+T22	Material 819 845	a full photochemical model
+T23	Material 849 869	the lower atmosphere
+T24	Material 887 896	molecules
+T25	Process 897 907	dissociate
+T26	Data 913 928	the 1μbar level
+T27	Data 1007 1017	this level
+T28	Data 944 971	complex molecular chemistry
+T29	Process 1040 1060	diffusive separation
+T30	Material 1064 1084	the detected species
+T33	Process 1133 1151	collide frequently
+T34	Material 1249 1265	the thermosphere
+T37	Data 1284 1308	the elemental abundances
+T40	Data 1380 1387	neutral
+T42	Process 1441 1448	ionized
+T43	Data 1452 1481	significantly lower altitudes
+T46	Data 1574 1599	the temperature gradients
+T47	Data 1619 1651	the assumed heating efficiencies
+T48	Material 1653 1663	Our models
+T53	Process 1791 1817	the average solar XUV flux
+T54	Data 1821 1828	0.047AU
+T56	Data 1907 1921	stellar energy
+T57	Process 1925 1932	heating
+T58	Material 1933 1953	the upper atmosphere
+T12	Material 399 419	the detected species
+T64	Material 440 454	their presence
+T21	Data 762 780	the lower boundary
+T67	Material 784 800	the escape model
+T55	Data 1837 1861	these temperature limits
+T78	Data 1866 1882	the observations
+T1	Material 18 55	atomic hydrogen, heavy atoms and ions
+T2	Material 68 111	the extrasolar giant planet (EGP) HD209458b
+T3	Data 122 171	the composition, temperature and density profiles
+T4	Process 264 273	predicted
+T6	Data 274 304	a range of possible conditions
+T7	Data 499 536	the temperature and velocity profiles
+T8	Material 686 706	heavy atoms and ions
+T18	Data 743 758	The composition
+T19	Material 1108 1132	the heavy atoms and ions
+T31	Material 1157 1186	the rapidly escaping H and H+
+T32	Material 1221 1245	the heavy atoms and ions
+T35	Data 1313 1329	ionization rates
+T38	Data 1388 1406	up to at least 3Rp
+T39	Material 1416 1429	both C and Si
+T41	Data 1499 1536	the temperature and velocity profiles
+T44	Data 1552 1569	the outflow speed
+T45	Data 1757 1781	a typical value of 7000K
+T52	Process 0 14	The detections
+T59	Process 549 559	calculates
+T60	Data 595 611	recent estimates
+T14	Material 722 730	hydrogen
+T61	Material 735 741	helium
+T36	Material 1358 1359	H
+T62	Material 1364 1365	O
+T49	Data 1672 1695	an upper limit of 8000K
+T50	Data 1700 1750	the mean (pressure averaged) temperature below 3Rp
+T51	Process 1886 1894	evaluate

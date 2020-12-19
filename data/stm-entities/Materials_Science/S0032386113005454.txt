@@ -1,0 +1,26 @@
+An epoxy resin, cured using an anhydride hardener, has been modified by the addition of pre-formed polysiloxane core-shell rubber (S-CSR) particles with a mean diameter of 0.18 μm.
+The glass transition temperature, Tg, of the cured unmodified epoxy polymer was 148 °C, and this was unchanged after the addition of the S-CSR particles.
+The polysiloxane rubber particles had a Tg of about -100 °C.
+Atomic force microscopy showed that the S-CSR particles were well-dispersed in the epoxy polymer.
+The addition of the S-CSR particles reduced the Young's modulus and tensile strength of the epoxy polymer, but at 20 °C the fracture energy, GIc, increased from 117 J/m2 for the unmodified epoxy to 947 J/m2 when 20 wt% of the S-CSR particles were incorporated.
+Fracture tests were also performed at -55 °C, -80 °C, and -109 °C.
+The results showed that the measured fracture energy of the S-CSR-modified epoxy polymers decreased significantly below room temperature.
+For example, at -109 °C, a fracture energy of 481 J/m2 was measured using 20 wt% of S-CSR particles.
+Nevertheless, this value of toughness still represented a major increase compared with the unmodified epoxy polymer, which possessed a value of GIc of 174 J/m2 at this very low test temperature.
+Thus, a clear fact that emerged was that the addition to the epoxy polymer of the S-CSR particles may indeed lead to significant toughening of the epoxy, even at temperatures as low as about -100 °C.
+The toughening mechanisms induced by the S-CSR particles were identified as (a) localised plastic shear-band yielding around the particles and (b) cavitation of the particles followed by plastic void growth of the epoxy polymer.
+These mechanisms were modelled using the Hsieh et al. approach [33,49] and the values of GIc of the S-CSR-modified epoxy polymers at the different test temperatures were calculated.
+Excellent agreement was found between the predictions and the experimentally measured fracture energies.
+Further, the experimental and modelling results of the present study indicated that the extent of plastic void growth was suppressed at low temperatures for the S-CSR-modified epoxy polymers, but that the localised shear-band yielding mechanism was relatively insensitive to the test temperature.
+Graphical abstract
+Highlights
+•
+An epoxy polymer has been modified with polysiloxane core-shell rubber particles.
+•
+The epoxy had Tg of about 148 °C and the particles had a Tg of about -100 °C.
+•
+AFM showed that the particles were well-dispersed in the epoxy polymer.
+•
+The addition of 20 wt% particles increased GIc from about 120 J/m2 to 950 J/m2.
+•
+The particles also significantly toughened the epoxy polymer even at about -100 °C.

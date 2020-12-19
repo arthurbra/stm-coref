@@ -1,0 +1,37 @@
+T15	Material 220 229	limestone
+T16	Material 273 288	the environment
+T23	Material 454 470	other impurities
+T24	Process 484 494	the effect
+T25	Data 498 510	sorbent mass
+T26	Data 515 532	SO2 concentration
+T29	Material 562 576	the carbonator
+T30	Material 585 598	solid sorbent
+T31	Material 603 616	gaseous phase
+T32	Material 641 666	a bubbler sampling system
+T33	Material 668 675	Samples
+T37	Method 696 702	ICP-MS
+T38	Data 722 734	sorbent mass
+T39	Data 739 756	SO2 concentration
+T40	Material 760 774	the carbonator
+T43	Data 784 802	the concentrations
+T46	Material 955 969	trace elements
+T47	Material 1005 1014	limestone
+T1	Process 0 22	Elemental partitioning
+T2	Material 34 61	gaseous elemental emissions
+T3	Material 123 141	a Ca-based sorbent
+T11	Process 295 333	carbonation and calcination conditions
+T13	Material 401 426	Longcliffe SP52 limestone
+T14	Process 536 558	elemental partitioning
+T17	Method 838 861	Thermodynamic modelling
+T18	Process 865 904	the carbonation and calcination process
+T19	Data 935 951	molar quantities
+T7	Process 89 116	post combustion CO2 capture
+T8	Method 335 397	Inductively Coupled Plasma-Mass Spectrometry (ICP-MS) analysis
+T9	Method 986 1001	ICP-MS analysis
+T4	Material 170 210	naturally occurring elemental impurities
+T5	Data 67 87	pilot scale (25kWth)
+T6	Material 806 836	gaseous trace elements sampled
+T10	Data 1066 1083	element stability
+T12	Process 1088 1100	partitioning
+T20	Data 1107 1139	realistic CO2 capture conditions
+T21	Process 681 689	analysed

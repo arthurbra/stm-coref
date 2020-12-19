@@ -1,0 +1,40 @@
+T1	Material 0 33	Calcium phosphate (CaP) materials
+T8	Material 261 275	submicrofibres
+T9	Data 304 326	their biocompatibility
+T10	Process 401 426	the electrospinning route
+T12	Data 451 481	sintering temperature (1100°C)
+T13	Material 497 523	electrospun polymer fibres
+T14	Material 536 564	hydroxyapatite nanoparticles
+T15	Process 428 447	A thermal treatment
+T16	Process 574 585	aggregation
+T17	Material 589 606	the nanoparticles
+T18	Process 611 619	vaporise
+T19	Material 620 638	the polymer matrix
+T20	Data 640 650	The images
+T21	Method 660 679	electron microscopy
+T23	Material 694 713	the treated samples
+T24	Data 725 757	their submicrofibrous morphology
+T31	Material 889 909	the resulting fibres
+T34	Material 976 994	CaP submicrofibres
+T37	Material 1070 1088	Electrospun fibres
+T38	Material 1108 1123	a PLGA solution
+T39	Material 1149 1165	HA nanoparticles
+T40	Process 1169 1184	Heat treatments
+T41	Material 1211 1222	the polymer
+T42	Material 1247 1264	the nanoparticles
+T43	Process 1201 1210	evaporate
+T44	Process 1234 1243	sintering
+T45	Material 1268 1281	Hydroxypatite
+T46	Material 1324 1345	the sintered scaffold
+T47	Material 1389 1403	submicrofibres
+T48	Material 1409 1438	a variety of ceramic material
+T49	Process 1124 1143	highly concentrated
+T2	Material 42 135	synthetic hydroxyapatite (HA, Ca10(PO4)6·(OH)2) and β-tricalcium phosphate (β-TCP, Ca3(PO4)2)
+T3	Process 174 228	bone tissue engineering and drug delivery applications
+T4	Material 374 392	CaP submicrofibres
+T5	Material 922 961	hydroxypatite and tricalcium phosphates
+T6	Process 1020 1066	a combination of electrospinning and sintering
+T7	Method 769 808	Fourier transform infrared spectroscopy
+T11	Method 810 827	X-ray diffraction
+T22	Method 832 864	X-ray photoelectron spectroscopy
+T25	Process 1227 1233	induce

@@ -1,0 +1,59 @@
+T6	Material 142 157	these organisms
+T9	Process 253 262	decreased
+T20	Process 314 322	decrease
+T21	Material 397 399	pH
+T22	Material 438 449	marine life
+T23	Material 474 484	calcifiers
+T26	Material 512 528	Lophelia pertusa
+T32	Process 723 737	the metabolism
+T34	Material 775 796	Mingulay Reef Complex
+T36	Material 861 867	corals
+T40	Material 995 1001	corals
+T43	Data 1197 1200	14C
+T44	Process 1201 1207	uptake
+T49	Process 1336 1347	utilisation
+T53	Material 1417 1442	the Mingulay Reef Complex
+T57	Data 710 716	750ppm
+T65	Process 1499 1509	the growth
+T67	Process 1511 1521	physiology
+T68	Material 1526 1546	structural integrity
+T70	Process 1209 1221	The decrease
+T72	Process 380 393	This decrease
+T1	Material 0 17	Cold-water corals
+T2	Data 38 42	high
+T3	Material 43 61	local biodiversity
+T4	Process 95 114	ecosystem engineers
+T5	Process 174 203	projected ocean acidification
+T7	Data 232 248	average ocean pH
+T10	Material 285 308	predicted CO2 emissions
+T11	Data 326 352	up to another 0.3 pH units
+T12	Material 493 510	cold-water corals
+T13	Material 532 582	the most widespread cold-water coral (CWC) species
+T14	Data 641 676	the first short-term (21 days) data
+T16	Material 741 769	freshly collected L. pertusa
+T17	Process 828 845	net calcification
+T18	Process 868 875	exposed
+T24	Data 922 927	lower
+T25	Data 928 945	respiration rates
+T27	Data 947 988	11.4±1.39 SE, µmolO2g-1tissuedryweighth-1
+T28	Data 1005 1023	control conditions
+T29	Data 1025 1065	28.6±7.30 SE µmolO2g-1tissuedryweighth-1
+T30	Data 1095 1124	change in calcification rates
+T31	Process 1133 1143	treatments
+T33	Method 1160 1192	the alkalinity anomaly technique
+T35	Data 1225 1241	respiration rate
+T37	Data 1261 1279	calcification rate
+T38	Process 1246 1257	maintenance
+T39	Data 1290 1312	an energetic imbalance
+T41	Material 1351 1365	lipid reserves
+T42	Material 1383 1411	freshly collected L. pertusa
+T45	Process 1474 1493	ocean acidification
+T46	Material 1550 1589	this key reef framework forming species
+T47	Data 211 230	preindustrial times
+T8	Data 263 279	from 8.2 to ~8.1
+T15	Process 680 691	the effects
+T48	Process 695 704	increased
+T50	Material 705 708	CO2
+T51	Data 847 859	Over 21 days
+T19	Process 879 888	increased
+T52	Data 889 903	CO2 conditions

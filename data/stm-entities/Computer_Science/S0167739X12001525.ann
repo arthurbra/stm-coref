@@ -1,0 +1,53 @@
+T4	Material 61 70	the Cloud
+T11	Material 302 312	the system
+T23	Material 626 642	virtual machines
+T32	Data 740 758	The monitored data
+T36	Process 808 819	categorized
+T38	Process 929 943	bioinformatics
+T39	Material 893 925	scientific workflow applications
+T47	Material 1132 1142	Simulation
+T61	Material 1493 1499	Clouds
+T67	Process 1553 1562	structure
+T76	Method 1758 1761	CBR
+T77	Process 1765 1767	KM
+T84	Process 1682 1701	In-depth evaluation
+T1	Process 27 46	Cloud Computing QoS
+T2	Process 140 179	Service Level Agreement (SLA) enactment
+T3	Process 202 225	human-based interaction
+T5	Process 248 298	the scalability and efficient resource utilization
+T6	Process 344 363	Autonomic Computing
+T7	Process 373 399	the autonomic control loop
+T8	Material 423 454	Cloud Computing infrastructures
+T10	Data 667 695	their resource configuration
+T12	Process 713 738	knowledge management (KM)
+T13	Data 606 620	monitored data
+T14	Data 775 807	synthetically generated workload
+T15	Data 823 860	different workload volatility classes
+T22	Material 1111 1130	a simulation engine
+T24	Method 1170 1186	the CBR approach
+T25	Method 1213 1236	the rule-based approach
+T26	Process 1249 1263	SLA violations
+T27	Process 1265 1285	resource utilization
+T29	Data 1359 1402	synthetically generated and real-world data
+T30	Process 1426 1446	knowledge management
+T31	Method 1460 1464	SLAs
+T33	Process 1469 1489	low resource wastage
+T34	Data 1503 1520	Escalation levels
+T35	Material 1529 1549	a hierarchical model
+T37	Process 1572 1595	reconfiguration actions
+T44	Method 1705 1724	rule-based approach
+T45	Data 1782 1797	real-world data
+T46	Process 1812 1846	scientific bioinformatic workflows
+T19	Process 465 489	hierarchically structure
+T18	Process 490 521	all possible adaptation actions
+T9	Data 527 554	so-called escalation levels
+T20	Process 870 891	a real-world scenario
+T16	Method 991 1037	Case-Based Reasoning and a rule-based approach
+T17	Method 1063 1075	both of them
+T28	Data 1287 1348	the number of necessary reconfigurations and time performance
+T41	Method 1599 1643	Case-Based Reasoning and rule-based approach
+T21	Data 573 592	one of these levels
+T43	Process 596 605	analyzing
+T40	Process 948 950	KM
+T48	Process 1080 1088	evaluate
+T42	Process 1665 1667	KM

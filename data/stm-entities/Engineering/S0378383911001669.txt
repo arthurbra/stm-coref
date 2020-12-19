@@ -1,0 +1,12 @@
+A detailed experimental investigation of the hydrodynamics of large-scale, bore-driven swash on impermeable, rough beach slopes is described.
+The experiments were carried out on 1:10 impermeable, rough slopes with three different surface roughnesses based on 1.3mm sand, 5.4mm gravel and 8.4mm gravel.
+The large-scale discrete swash event was produced by the collapse of a dambreak-generated bore on the beach.
+Simultaneous depths and velocities were measured using LIF, Laser-induced fluorescence, and PIV, particle image velocimetry, respectively, yielding better resolution of the hydrodynamics than previous studies.
+Depth time-series, instantaneous velocity profiles, depth-averaged velocities, instantaneous turbulent kinetic energy profiles, depth-averaged turbulent kinetic energy, Reynolds stress profiles and bed shear stresses are presented for five cross-shore measurement locations in the swash.
+The measurements resolve the backwash shoreline position, and the late backwash period when depths are shallow and velocities are high.
+The detailed data can be used to test and develop advanced numerical models for bore-driven waves on rough slopes.
+Highlights
+►Detailed hydrodynamics of bore-driven swash on impermeable, rough slopes.
+►Large-scale laboratory experiments measuring simultaneous depths and velocities.
+►Shows effects of slope roughness on bulk flow and turbulence properties.
+►Yields measures of time-varying bed shear stress across the swash zone.

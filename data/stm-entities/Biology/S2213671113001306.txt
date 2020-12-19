@@ -1,0 +1,23 @@
+Transplantation of the retinal pigment epithelium (RPE) is being developed as a cell-replacement therapy for age-related macular degeneration.
+Human embryonic stem cell (hESC) and induced pluripotent stem cell (iPSC)-derived RPE are currently translating toward clinic.
+We introduce the adult human RPE stem cell (hRPESC) as an alternative RPE source.
+Polarized monolayers of adult hRPESC-derived RPE grown on polyester (PET) membranes had near-native characteristics.
+Trephined pieces of RPE monolayers on PET were transplanted subretinally in the rabbit, a large-eyed animal model.
+After 4 days, retinal edema was observed above the implant, detected by spectral domain optical coherence tomography (SD-OCT) and fundoscopy.
+At 1 week, retinal atrophy overlying the fetal or adult transplant was observed, remaining stable thereafter.
+Histology obtained 4 weeks after implantation confirmed a continuous polarized human RPE monolayer on PET.
+Taken together, the xeno-RPE survived with retained characteristics in the subretinal space.
+These experiments support that adult hRPESC-derived RPE are a potential source for transplantation therapies.
+Graphical Abstract
+Highlights
+•
+Adult hRPESC-derived RPE had comparable in vitro characteristics to fetal hRPE
+•
+hRPE monolayers survived 4 weeks on PET carriers under the rabbit retina
+•
+Better xenograft survival may be due to the maintained hRPE cell polarity
+•
+Atrophy of the retina overlaying the hRPE xenograft remains a future challenge
+Stanzel et al. have transplanted polarized monolayers of human retinal pigment epithelium (hRPE) grown on polyester membranes derived from adult hRPE stem cells or fetal tissue under the rabbit retina.
+The xeno-RPE survived 4 weeks with retained cell polarity characteristics in the subretinal space.
+These experiments support that adult hRPESC-derived RPE are a potential source for transplantation therapies.

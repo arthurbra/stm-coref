@@ -1,0 +1,49 @@
+T4	Process 36 59	the automated debugging
+T18	Data 336 346	properties
+T24	Process 513 523	generating
+T25	Data 524 535	test inputs
+T26	Process 540 549	exploring
+T29	Process 560 571	schedulings
+T36	Process 735 742	storing
+T39	Process 699 705	reduce
+T42	Material 772 792	the formal framework
+T52	Data 1026 1035	the trace
+T54	Process 1089 1095	replay
+T55	Process 1096 1112	these executions
+T56	Process 1116 1122	locate
+T57	Data 1123 1131	the bugs
+T58	Process 1019 1025	stores
+T60	Material 1161 1173	the tool TJT
+T61	Method 1180 1184	Spin
+T68	Material 1265 1268	TJT
+T71	Process 1344 1349	debug
+T75	Process 888 899	abstraction
+T1	Process 63 100	reactive and concurrent Java programs
+T3	Process 151 169	Runtime monitoring
+T5	Data 191 216	the Java execution traces
+T6	Process 236 253	the model checker
+T7	Data 222 231	the input
+T8	Data 305 327	these execution traces
+T9	Method 358 385	linear temporal logic (LTL)
+T10	Data 403 437	desirable or undesirable behaviors
+T11	Data 459 483	several execution traces
+T12	Process 488 509	a single Java program
+T13	Process 575 597	multithreaded programs
+T14	Process 602 617	state explosion
+T15	Process 642 656	model checking
+T16	Data 669 672	two
+T17	Data 743 754	Java states
+T19	Data 706 729	the memory requirements
+T20	Process 673 695	abstraction approaches
+T23	Process 904 947	both finite and infinite program executions
+T27	Method 994 1011	the model checker
+T28	Process 1039 1060	each failed execution
+T30	Method 1188 1205	the model checker
+T31	Method 1210 1240	the Java Debug Interface (JDI)
+T32	Process 1245 1263	runtime monitoring
+T33	Material 1285 1303	an Eclipse plug-in
+T34	Process 1350 1378	complex public Java programs
+T2	Process 112 126	model checking
+T35	Process 131 149	runtime monitoring
+T37	Process 859 877	correctly analysed
+T21	Data 819 851	LTL safety and liveness formulas

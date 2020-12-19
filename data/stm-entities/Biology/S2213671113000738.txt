@@ -1,0 +1,17 @@
+Induced pluripotent stem cells (iPSCs) provide the potential for autologous transplantation using cells derived from a patient's own cells.
+However, the immunogenicity of iPSCs or their derivatives has been a matter of controversy, and up to now there has been no direct comparison of autologous and allogeneic transplantation in the brains of humans or nonhuman primates.
+Here, using nonhuman primates, we found that the autologous transplantation of iPSC-derived neurons elicited only a minimal immune response in the brain.
+In contrast, the allografts caused an acquired immune response with the activation of microglia (IBA-1+/MHC class II+) and the infiltration of leukocytes (CD45+/CD3+).
+Consequently, a higher number of dopaminergic neurons survived in the autografts.
+Our results suggest that the autologous transplantation of iPSC-derived neural cells is advantageous for minimizing the immune response in the brain compared with allogeneic grafts.
+Graphical Abstract
+Highlights
+•
+iPSC-derived autografts cause only a minimal immune response in the primate brain
+•
+Autografts have advantages over allografts even at an immune-privileged site
+•
+Dopamine neurons survive even in allografts without immunosuppression
+The autologous transplantation of iPSC-derived neurons elicited only a minimal immune response in the brain.
+In contrast, the allografts caused an acquired immune response with the activation of microglia (IBA-1+/MHC class II+) and the infiltration of leukocytes (CD45+/CD3+).
+Autologous transplantation is advantageous for minimizing the immune response compared with allogeneic grafts.

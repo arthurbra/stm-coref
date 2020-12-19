@@ -1,0 +1,61 @@
+T10	Process 141 160	the stem cell field
+T13	Material 235 241	hiPSCs
+T14	Data 243 250	n = 114
+T15	Material 256 261	hESCs
+T16	Data 263 270	n = 155
+T19	Material 345 351	hiPSCs
+T20	Material 357 362	hESCs
+T21	Data 299 301	82
+T22	Material 288 295	a panel
+T18	Process 439 455	hypermethylation
+T26	Material 467 473	DNMT3B
+T27	Material 484 490	DNMT3B
+T28	Process 515 540	aberrant hypermethylation
+T29	Process 545 554	silencing
+T32	Material 613 619	DNMT3B
+T34	Process 672 685	reprogramming
+T40	Process 180 188	analyzed
+T41	Process 277 287	identified
+T43	Data 368 381	high accuracy
+T44	Data 767 769	82
+T47	Material 809 819	biomarkers
+T50	Data 874 884	Eighty-two
+T55	Data 941 954	high accuracy
+T56	Data 957 963	Twelve
+T61	Material 1029 1035	DNMT3B
+T62	Material 1038 1044	DNMT3B
+T63	Process 1085 1110	aberrant hypermethylation
+T64	Material 1114 1120	hiPSCs
+T65	Data 1154 1156	82
+T66	Material 1209 1215	hiPSCs
+T67	Material 1221 1226	hESCs
+T68	Data 1232 1245	high accuracy
+T75	Material 1367 1373	DNMT3B
+T76	Process 1329 1348	partially abrogated
+T81	Data 1255 1268	the signature
+T85	Material 1143 1150	a panel
+T87	Process 58 72	epigenetically
+T1	Material 8 53	human induced pluripotent stem cells (hiPSCs)
+T2	Material 86 120	human embryonic stem cells (hESCs)
+T3	Data 189 213	DNA methylation patterns
+T4	Material 302 323	CpG methylation sites
+T5	Data 396 412	12 out of the 82
+T6	Material 413 422	CpG sites
+T7	Material 558 585	the signature gene, TCERG1L
+T8	Process 635 664	a wave of de novo methylation
+T9	Data 721 759	the unique hiPSC methylation signature
+T11	Material 770 791	CpG methylation sites
+T23	Material 885 906	DNA methylation sites
+T24	Material 964 1009	aberrantly hypermethylated signature CG sites
+T25	Material 1157 1178	CpG methylation sites
+T30	Material 1281 1317	aberrantly hypermethylated CpG sites
+T31	Material 1388 1408	DNMT3B-mutant hiPSCs
+T33	Data 1424 1466	other aberrant hypermethylation signatures
+T35	Process 333 344	distinguish
+T36	Process 823 834	distinguish
+T12	Material 843 849	hiPSCs
+T37	Material 854 859	hESCs
+T38	Process 907 918	distinguish
+T17	Material 919 925	hiPSCs
+T39	Material 930 935	hESCs
+T42	Process 1197 1208	distinguish

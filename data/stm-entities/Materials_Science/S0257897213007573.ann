@@ -1,0 +1,66 @@
+T1	Material 20 57	a dual-layer carbon film on SiC wafer
+T2	Process 76 112	carbide-derived carbon (CDC) process
+T3	Process 129 160	chemical vapor deposition (CVD)
+T4	Material 162 181	The dual-layer film
+T6	Process 256 268	chlorination
+T7	Material 272 275	SiC
+T8	Process 280 289	pyrolysis
+T9	Material 293 297	CCl4
+T10	Data 301 317	high temperature
+T11	Material 332 354	The CDC and CVD layers
+T12	Data 359 375	mainly amorphous
+T13	Material 424 441	the Raman spectra
+T14	Process 389 407	dispersion effects
+T15	Material 452 488	the D-band position of the CVD layer
+T16	Process 489 495	shifts
+T17	Data 499 528	higher wavenumber (~1354cm-1)
+T18	Material 542 555	the CDC layer
+T19	Data 557 566	~1337cm-1
+T20	Process 569 595	Surface chemistry analysis
+T21	Material 610 637	the unstable chemical bonds
+T22	Process 646 650	C-Cl
+T23	Material 663 677	dangling bonds
+T24	Material 681 694	the CDC layer
+T27	Material 800 809	SiC wafer
+T28	Material 813 822	CDC layer
+T29	Material 830 845	dual-layer film
+T30	Method 865 894	atomic force microscopy [AFM]
+T31	Method 899 952	field emission scanning electronic microscopy [FESEM]
+T32	Material 954 976	The nanoporous surface
+T33	Process 987 1002	the CDC process
+T35	Material 1050 1063	the gas phase
+T36	Material 1082 1089	seedbed
+T37	Process 1095 1120	the nucleation and growth
+T38	Material 1124 1133	CVD layer
+T34	Process 1020 1029	capturing
+T39	Material 1030 1044	carbon species
+T40	Material 1181 1200	the dual-layer film
+T41	Process 1135 1165	The primary tribological study
+T42	Data 1207 1223	great advantages
+T44	Material 1285 1302	SiC and CDC layer
+T45	Material 1348 1375	SiC-based moving components
+T46	Process 1332 1343	lubrication
+T47	Material 1409 1435	The dual-layer carbon film
+T48	Process 1454 1465	CDC process
+T49	Method 1471 1492	subsequent CVD method
+T50	Material 1496 1524	The surface of the CDC layer
+T51	Data 1528 1541	highly porous
+T52	Data 1545 1554	structure
+T53	Process 1559 1576	chemically active
+T54	Material 1580 1593	The CDC layer
+T55	Material 1602 1617	a seedbed layer
+T56	Process 1622 1647	the nucleation and growth
+T57	Material 1651 1664	the CVD layer
+T58	Material 1668 1687	The dual-layer film
+T59	Material 1701 1733	an effective lubricating coating
+T60	Material 1738 1752	SiC components
+T5	Material 191 209	a sub-layer of CDC
+T61	Material 214 232	a top layer of CVD
+T25	Process 731 745	the nucleation
+T62	Material 749 759	CVD carbon
+T26	Data 761 783	The surface morphology
+T63	Process 784 794	evolvement
+T43	Process 1227 1245	friction reduction
+T64	Process 1250 1265	wear resistance
+T65	Process 1439 1447	prepared
+T66	Process 1691 1697	tested

@@ -1,0 +1,78 @@
+T5	Material 107 121	carbon dioxide
+T9	Material 123 148	The Sleipner storage site
+T12	Material 250 253	CO2
+T13	Material 272 305	the Sleipner gas condensate field
+T14	Material 320 334	the pore space
+T15	Material 338 358	the Utsira Formation
+T16	Data 391 394	1km
+T17	Material 401 412	the surface
+T18	Data 417 422	200km
+T19	Material 428 437	the coast
+T23	Material 516 532	the storage site
+T24	Data 488 494	1Mt/yr
+T25	Process 472 480	injected
+T27	Material 439 446	Statoil
+T28	Material 545 566	The buoyant CO2 plume
+T29	Data 592 597	eight
+T30	Material 598 617	thin shale barriers
+T31	Material 625 636	the aquifer
+T32	Material 646 658	the top seal
+T39	Process 819 832	the spreading
+T40	Data 836 840	nine
+T41	Material 841 856	thin CO2 layers
+T42	Material 960 971	the plume's
+T43	Data 972 980	geometry
+T48	Process 907 935	invasion percolation physics
+T49	Material 878 900	a capillary flow model
+T50	Material 1008 1039	standard Darcy flow simulations
+T51	Material 1156 1165	the plume
+T52	Data 1137 1143	a mass
+T55	Process 1190 1199	replicate
+T56	Process 1268 1277	fractured
+T57	Material 1222 1263	the thin intra-formational shale barriers
+T58	Material 1312 1329	the shale barrier
+T61	Material 1364 1377	The fractures
+T64	Material 1463 1471	the rock
+T65	Material 1497 1506	the plume
+T66	Process 1515 1525	fracturing
+T67	Process 1540 1549	injection
+T69	Process 1583 1599	the deglaciation
+T70	Material 1603 1622	regional ice sheets
+T71	Process 1656 1664	unloaded
+T72	Material 1665 1682	approximately 1km
+T73	Material 1686 1689	ice
+T75	Process 1746 1760	hydro-fracture
+T76	Material 1761 1772	thin shales
+T77	Material 1774 1787	The fractures
+T80	Material 1825 1846	a multi-layered plume
+T83	Material 1943 1964	Quaternary ice sheets
+T1	Process 11 30	ocean acidification
+T2	Process 44 68	greenhouse gas emissions
+T4	Material 211 227	waste repository
+T6	Material 232 248	a greenhouse gas
+T7	Material 360 376	a saline aquifer
+T8	Material 498 510	captured CO2
+T10	Data 728 733	eight
+T11	Method 734 749	seismic surveys
+T20	Process 685 705	The plume's progress
+T21	Process 762 804	gravimetric and electromagnetic monitoring
+T22	Data 1061 1079	the plume geometry
+T26	Material 1081 1121	The calibrated capillary flow simulation
+T34	Data 1200 1218	the plume geometry
+T35	Data 1297 1308	an estimate
+T36	Data 1343 1362	caprock performance
+T37	Process 1419 1432	CO2 injection
+T38	Process 1691 1727	The induced transient pore pressures
+T44	Process 1795 1810	fast CO2 ascent
+T45	Material 1848 1873	Shallow CO2 storage sites
+T46	Process 3 10	prevent
+T47	Process 35 43	mitigate
+T3	Process 89 96	capture
+T53	Process 101 106	store
+T54	Process 257 266	separated
+T59	Process 310 316	stored
+T33	Process 567 583	ascended rapidly
+T60	Process 715 724	monitored
+T62	Material 1279 1288	The model
+T63	Process 1439 1459	the confining stress
+T68	Process 1476 1493	weak overpressure

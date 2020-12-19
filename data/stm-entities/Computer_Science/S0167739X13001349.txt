@@ -1,0 +1,22 @@
+A number of highly-threaded, many-core architectures hide memory-access latency by low-overhead context switching among a large number of threads.
+The speedup of a program on these machines depends on how well the latency is hidden.
+If the number of threads were infinite, theoretically, these machines could provide the performance predicted by the PRAM analysis of these programs.
+However, the number of threads per processor is not infinite, and is constrained by both hardware and algorithmic limits.
+In this paper, we introduce the Threaded Many-core Memory (TMM) model which is meant to capture the important characteristics of these highly-threaded, many-core machines.
+Since we model some important machine parameters of these machines, we expect analysis under this model to provide a more fine-grained and accurate performance prediction than the PRAM analysis.
+We analyze 4 algorithms for the classic all pairs shortest paths problem under this model.
+We find that even when two algorithms have the same PRAM performance, our model predicts different performance for some settings of machine parameters.
+For example, for dense graphs, the dynamic programming algorithm and Johnson's algorithm have the same performance in the PRAM model.
+However, our model predicts different performance for large enough memory-access latency and validates the intuition that the dynamic programming algorithm performs better on these machines.
+We validate several predictions made by our model using empirical measurements on an instantiation of a highly-threaded, many-core machine, namely the NVIDIA GTX 480.
+Highlights
+•
+We design a memory model to analyze algorithms for highly-threaded many-core systems.
+•
+The model captures significant factors of performance: work, span, and memory accesses.
+•
+We show the model is better than PRAM by applying both to 4 shortest paths algorithms.
+•
+Empirical performance is effectively predicted by our model in many circumstances.
+•
+It is the first formalized asymptotic model helpful for algorithm design on many-cores.

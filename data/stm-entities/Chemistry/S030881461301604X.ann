@@ -1,0 +1,37 @@
+T4	Material 51 66	long grain rice
+T19	Material 288 303	long grain rice
+T34	Material 472 487	long grain rice
+T46	Data 620 629	the level
+T49	Process 665 676	quantitated
+T50	Data 680 684	four
+T51	Material 685 692	samples
+T52	Data 715 724	0.11mg/kg
+T56	Material 774 789	long grain rice
+T59	Material 843 858	every age group
+T60	Process 859 869	the intake
+T65	Method 930 934	EFSA
+T66	Process 959 969	the intake
+T11	Method 223 239	an ICP-MS method
+T71	Data 697 704	average
+T72	Data 726 740	Our estimation
+T2	Material 71 92	rice based baby foods
+T5	Material 112 129	Inorganic arsenic
+T15	Material 546 567	rice-based baby foods
+T16	Material 633 650	inorganic arsenic
+T17	Material 794 814	rice-based baby food
+T31	Material 973 990	inorganic arsenic
+T1	Data 13 47	total and inorganic arsenic levels
+T3	Material 148 169	an HPLC-ICP-MS system
+T6	Data 171 202	The total arsenic concentration
+T7	Data 256 284	the inorganic arsenic levels
+T8	Data 311 339	from 0.09 to 0.28mg/kg (n=8)
+T9	Data 344 368	the total arsenic levels
+T10	Data 369 391	from 0.11 to 0.65mg/kg
+T12	Data 430 468	the total and inorganic arsenic levels
+T13	Data 491 516	a confidence level of 95%
+T14	Data 518 542	The total arsenic levels
+T18	Data 576 609	the range 0.02 - 0.29mg/kg (n=10)
+T20	Data 882 922	the lowest BMDL0.1 value 0.3μg/kg bw/day
+T21	Process 744 768	inorganic arsenic intake
+T22	Process 134 142	analysed
+T23	Data 403 421	a good correlation

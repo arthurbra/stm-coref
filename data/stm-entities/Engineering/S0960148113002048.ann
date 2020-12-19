@@ -1,0 +1,54 @@
+T5	Data 136 155	the characteristics
+T6	Material 159 170	the turbine
+T9	Data 177 189	measurements
+T14	Process 300 307	coupled
+T18	Process 388 394	tested
+T19	Data 409 428	different tradeoffs
+T31	Data 546 555	the three
+T32	Process 556 574	control strategies
+T33	Material 520 535	The simulations
+T41	Data 789 795	stable
+T42	Material 807 822	the simulations
+T46	Material 871 882	the turbine
+T53	Data 956 965	a too low
+T54	Process 983 1005	the control strategies
+T55	Material 1029 1040	the turbine
+T60	Method 1121 1139	A control strategy
+T61	Material 1144 1148	VAWT
+T64	Process 1192 1201	evaluated
+T65	Data 1205 1213	Accuracy
+T66	Process 1217 1233	control strategy
+T69	Data 1274 1289	The sensitivity
+T1	Material 21 49	a vertical axis wind turbine
+T2	Data 108 131	the rotational velocity
+T3	Data 64 81	The electric load
+T4	Data 193 216	the incoming wind speed
+T7	Material 272 299	an aerodynamic vortex model
+T8	Material 313 332	an electrical model
+T10	Data 334 383	Three different sets of control system parameters
+T15	Data 643 659	known wind speed
+T16	Material 665 684	dynamic simulations
+T17	Data 706 716	wind speed
+T23	Process 762 784	All control strategies
+T24	Data 828 867	proper power absorption characteristics
+T25	Process 918 939	peak power absorption
+T26	Data 966 981	tip speed ratio
+T27	Material 1055 1104	A coupled aerodynamic - electric simulation model
+T28	Data 1171 1188	wind measurements
+T29	Data 1241 1258	convergence speed
+T30	Data 1293 1315	the control parameters
+T34	Material 0 16	A control system
+T35	Material 235 253	The control system
+T36	Process 257 266	evaluated
+T20	Data 504 518	high stability
+T12	Data 475 481	a fast
+T21	Process 482 498	control strategy
+T11	Data 437 443	a high
+T37	Process 444 460	power absorption
+T13	Process 583 609	a similar power absorption
+T38	Data 690 702	fast changes
+T22	Data 718 726	the fast
+T39	Process 727 745	control strategies
+T40	Process 943 952	estimated
+T43	Process 1262 1270	analysed
+T44	Process 1319 1331	investigated

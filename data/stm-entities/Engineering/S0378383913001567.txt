@@ -1,0 +1,18 @@
+In this paper we propose an integral form of the fully non-linear Boussinesq equations in contravariant formulation, in which Christoffel symbols are avoided, in order to simulate wave transformation phenomena, wave breaking and nearshore currents in computational domains representing the complex morphology of real coastal regions.
+Following the approach proposed by Chen (2006), the motion equations retain the term related to the approximation to the second order of the vertical vorticity.
+A new Upwind Weighted Essentially Non-Oscillatory scheme for the solution of the fully non-linear Boussinesq equations on generalised curvilinear coordinate systems is proposed.
+The equations are rearranged in order to solve them by a high resolution hybrid finite volume-finite difference scheme.
+The conservative part of the above-mentioned equations, consisting of the convective terms and the terms related to the free surface elevation, is discretised by a high-order shock-capturing finite volume scheme in which an exact Riemann solver is involved; dispersive terms and the term related to the approximation to the second order of the vertical vorticity are discretised by a cell-centred finite difference scheme.
+The shock-capturing method makes it possible to intrinsically model the wave breaking, therefore no additional terms are needed to take into account the breaking related energy dissipation in the surf zone.
+The model is verified against several benchmark tests, and the results are compared with experimental, theoretical and alternative numerical solutions.
+Highlights
+•
+We propose a contravariant formulation of the fully non-linear Boussinesq equations.
+•
+The presented contravariant formulation is free of Christoffel symbols.
+•
+The equations retain the approximation to the second order of the vertical vorticity.
+•
+We present a new Upwind Weighted Essentially Non-Oscillatory scheme.
+•
+The shock-capturing scheme allows an explicit simulation of the wave breaking.

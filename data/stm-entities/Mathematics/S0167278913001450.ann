@@ -1,0 +1,66 @@
+T1	Data 65 101	Lagrangian Coherent Structures (LCS)
+T2	Data 0 37	Finite-time Lyapunov exponents (FTLE)
+T3	Data 182 189	the LCS
+T4	Data 211 217	curves
+T5	Process 137 142	flows
+T6	Material 146 175	two-dimensional (2D) surfaces
+T7	Process 236 264	three-dimensional (3D) flows
+T8	Data 272 275	LCS
+T9	Material 280 293	2D structures
+T10	Material 306 317	a 3D volume
+T11	Process 365 382	geophysical flows
+T12	Data 386 401	regional scales
+T13	Process 403 430	full prognostic computation
+T14	Material 434 464	the evolving 3D velocity field
+T15	Data 498 531	The vertical or diabatic velocity
+T16	Data 600 621	questionable accuracy
+T18	Data 573 594	a diagnostic quantity
+T19	Process 549 569	ignored or estimated
+T20	Data 642 664	reliable 3D velocities
+T21	Process 732 743	calculating
+T22	Data 744 756	trajectories
+T23	Data 762 772	velocities
+T24	Material 776 801	carefully chosen surfaces
+T25	Data 813 845	reliable 3D velocity information
+T26	Data 864 886	one velocity component
+T27	Material 945 960	2D LCS surfaces
+T28	Data 910 929	a reduced FTLE form
+T29	Material 964 975	a 3D volume
+T30	Data 990 1002	The accuracy
+T31	Data 1010 1035	reduced FTLE formulations
+T32	Data 1006 1009	two
+T33	Process 1059 1071	the ABC flow
+T34	Process 1076 1096	a 3D quadrupole flow
+T35	Data 1100 1111	test models
+T38	Material 1189 1206	adjacent surfaces
+T39	Process 1145 1162	knitting together
+T40	Process 1256 1270	the dispersion
+T41	Process 1278 1298	vertical (u,v) shear
+T42	Material 1221 1240	a new approximation
+T43	Material 1350 1376	the full 3D velocity field
+T44	Method 1445 1467	a fully 3D computation
+T45	Process 1484 1509	an accurate determination
+T46	Data 1513 1523	the 2D LCS
+T47	Process 1391 1416	two diagnostic quantities
+T48	Process 1529 1541	the ABC flow
+T49	Data 1552 1575	the full 3D calculation
+T50	Data 1599 1623	the vertical (u,v) shear
+T51	Data 1627 1645	sufficiently small
+T52	Data 1692 1710	the 3D calculation
+T53	Data 1715 1735	the quadrupole model
+T54	Process 1736 1742	scaled
+T55	Data 1746 1775	typical open ocean conditions
+T56	Data 1790 1804	Approximations
+T57	Material 1808 1841	2D Lagrangian coherent structures
+T58	Process 1845 1853	3D flows
+T59	Data 1869 1883	Vertical shear
+T60	Process 1912 1939	the three-dimensional flows
+T61	Data 1995 2014	vertical velocities
+T62	Process 1943 1980	A new approximate Cauchy-Green tensor
+T63	Data 2084 2104	the full 3D velocity
+T65	Process 294 302	embedded
+T17	Data 1163 1176	FTLE patterns
+T36	Data 2030 2033	Two
+T37	Process 2034 2063	velocity gradient diagnostics
+T64	Object 1790 1853	Approximations of 2D Lagrangian coherent structures in 3D flows
+T66	Result 1869 1939	Vertical shear is shown to be important in the three-dimensional flows

@@ -1,0 +1,78 @@
+T1	Method 20 56	magnetoencephalography (MEG) studies
+T2	Data 62 125	superior temporal gyrus (STG) auditory processing abnormalities
+T3	Process 129 142	schizophrenia
+T4	Data 146 158	50 and 100ms
+T5	Method 160 189	EEG and corticography studies
+T6	Material 213 257	additional brain areas (e.g., frontal areas)
+T7	Data 265 278	this interval
+T9	Material 430 440	the cortex
+T10	Data 309 320	30 to 130ms
+T11	Process 321 348	auditory encoding processes
+T12	Data 401 418	group differences
+T13	Data 501 503	19
+T14	Method 450 480	The standard paired-click task
+T15	Data 511 513	21
+T16	Method 533 546	MEG recording
+T17	Method 548 617	Vector-based Spatial-temporal Analysis using L1-minimum-norm (VESTAL)
+T18	Process 504 506	SZ
+T19	Material 514 525	HC subjects
+T20	Data 627 634	4D maps
+T21	Data 652 663	30 to 130ms
+T22	Process 638 646	activity
+T23	Process 665 685	Within-group t-tests
+T24	Method 695 708	post-stimulus
+T25	Data 709 723	50ms and 100ms
+T26	Process 746 767	Between-group t-tests
+T27	Process 768 776	examined
+T28	Data 777 789	50 and 100ms
+T29	Data 790 807	group differences
+T30	Process 840 852	STG activity
+T32	Material 869 880	both groups
+T33	Material 882 884	HC
+T31	Process 817 826	Bilateral
+T34	Data 827 839	50 and 100ms
+T35	Process 889 907	stronger bilateral
+T36	Data 908 920	50 and 100ms
+T37	Process 921 933	STG activity
+T38	Process 939 941	SZ
+T39	Data 958 982	the STG group difference
+T40	Process 984 1000	non-STG activity
+T41	Material 1022 1033	both groups
+T42	Material 1056 1058	HC
+T43	Process 1063 1118	stronger left and right inferior frontal gyrus activity
+T44	Process 1124 1126	SZ
+T45	Process 1128 1130	SZ
+T46	Material 1216 1218	HC
+T47	Process 1135 1210	stronger right superior frontal gyrus and left supramarginal gyrus activity
+T48	Process 1232 1249	Less STG activity
+T49	Material 1266 1268	SZ
+T50	Material 1274 1276	HC
+T51	Process 1289 1306	encoding problems
+T52	Material 1310 1312	SZ
+T53	Material 1370 1373	STG
+T54	Data 1318 1349	auditory encoding abnormalities
+T55	Material 1413 1434	frontal and SMG areas
+T56	Data 1378 1395	group differences
+T57	Material 1473 1492	individuals with SZ
+T58	Material 1533 1574	a concurrently activated auditory network
+T59	Material 1515 1529	multiple nodes
+T60	Process 1498 1511	abnormalities
+T61	Process 1589 1606	Auditory encoding
+T62	Process 1610 1628	schizophrenia (SZ)
+T63	Material 1633 1654	healthy controls (HC)
+T64	Data 1712 1732	whole-brain measures
+T65	Data 1733 1749	from 30 to 130ms
+T66	Process 1753 1766	Abnormalities
+T67	Process 1671 1702	Distributed source localization
+T68	Material 1784 1828	superior temporal gyrus (STG) auditory areas
+T69	Process 1832 1834	SZ
+T70	Material 1883 1920	frontal and supramarginal gyrus areas
+T71	Process 1838 1860	Encoding abnormalities
+T72	Process 1924 1926	SZ
+T73	Process 1933 1946	abnormalities
+T74	Material 1950 1964	multiple nodes
+T75	Material 1968 1998	a distributed auditory network
+T8	Material 352 370	schizophrenia (SZ)
+T76	Material 375 396	healthy controls (HC)
+T77	Data 736 744	baseline
+T78	Process 1659 1667	examined

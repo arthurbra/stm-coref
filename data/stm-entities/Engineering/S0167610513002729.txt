@@ -1,0 +1,19 @@
+Dispersion in the near-field region of localised releases in urban areas is difficult to predict because of the strong influence of individual buildings.
+Effects include upstream dispersion, trapping of material into building wakes and enhanced concentration fluctuations.
+As a result, concentration patterns are highly variable in time and mean profiles in the near field are strongly non-Gaussian.
+These aspects of near-field dispersion are documented by analysing data from direct numerical simulations in arrays of building-like obstacles and are related to the underlying flow structure.
+The mean flow structure around the buildings is found to exert a strong influence over the dispersion of material in the near field.
+Diverging streamlines around buildings enhance lateral dispersion.
+Entrainment of material into building wakes in the very near field gives rise to secondary sources, which then affect the subsequent dispersion pattern.
+High levels of concentration fluctuations are also found in this very near field; the fluctuation intensity is of order 2 to 5.
+Highlights
+•
+We document key aspects of near-field dispersion in urban areas using DNS data.
+•
+We relate these dispersion features to the underlying flow structure.
+•
+The effects of wind direction, building layout and source location are examined.
+•
+Secondary sources in the near field have a strong effect on the plume spread.
+•
+Concentration means and fluctuations are mapped and their magnitudes quantified.

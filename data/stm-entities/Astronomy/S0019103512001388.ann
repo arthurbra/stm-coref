@@ -1,0 +1,55 @@
+T4	Material 103 109	region
+T5	Material 113 123	the planet
+T7	Data 136 162	very bright cloud features
+T10	Data 303 333	unusually bright cloud feature
+T17	Data 503 523	a second bright spot
+T20	Data 529 532	2°N
+T21	Material 536 545	the first
+T22	Process 661 677	a close approach
+T23	Method 699 738	A Hubble Target of Opportunity proposal
+T24	Process 743 752	activated
+T25	Process 756 761	image
+T27	Process 777 792	the interaction
+T28	Process 863 883	the HST observations
+T29	Data 808 832	the original bright spot
+T30	Process 837 855	faded dramatically
+T31	Data 898 920	the second bright spot
+T34	Data 1010 1020	Both spots
+T35	Data 1031 1051	variable drift rates
+T36	Data 1100 1120	varied in brightness
+T37	Material 1127 1130	BS1
+T38	Material 1182 1185	BS2
+T39	Data 1140 1157	its observed peak
+T40	Method 1238 1253	near-IR imaging
+T41	Material 1257 1276	H and Hcont filters
+T42	Material 1289 1310	the deeper BS2 clouds
+T45	Material 1378 1381	BS1
+T48	Process 1424 1439	lower pressures
+T49	Process 1442 1469	Large morphological changes
+T50	Data 1473 1498	the bright cloud features
+T51	Process 1550 1567	orographic nature
+T52	Process 1584 1603	vortex circulations
+T53	Material 1521 1537	companion clouds
+T54	Material 1624 1640	companion clouds
+T55	Material 1657 1676	the Great Dark Spot
+T56	Material 1680 1687	Neptune
+T57	Data 1709 1734	a much smaller size scale
+T3	Process 45 61	greater episodes
+T59	Process 65 87	bright cloud formation
+T14	Data 952 967	a new dark spot
+T15	Material 971 977	Uranus
+T32	Process 1081 1089	tracking
+T33	Data 1207 1228	Altitude measurements
+T61	Data 1780 1802	their greatest extents
+T1	Material 0 36	The northern mid-latitudes of Uranus
+T2	Data 556 619	a substantially different drift rate (-9.2°E/day vs -1.4°E/day)
+T18	Data 1329 1370	the methane condensation level (≈1.2bars)
+T19	Data 1396 1419	∼500mb above that level
+T6	Data 125 134	Near 30°N
+T8	Data 207 239	lifetimes of the order of months
+T9	Data 334 343	near 23°N
+T11	Data 1750 1776	a few degrees of longitude
+T12	Material 258 264	Gemini
+T26	Material 269 272	HST
+T13	Process 421 431	increasing
+T43	Data 435 445	brightness

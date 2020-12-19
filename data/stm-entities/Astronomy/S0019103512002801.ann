@@ -1,0 +1,84 @@
+T1	Material 36 60	a simple plasma absorber
+T2	Material 0 18	Saturn's moon Rhea
+T4	Process 238 267	plasma absorbing interactions
+T6	Data 269 292	Energetic electron data
+T7	Material 400 415	the moon's wake
+T9	Process 436 450	these dropouts
+T10	Material 504 522	Rhea's Hill sphere
+T12	Process 488 496	orbiting
+T15	Material 706 735	the moon's interaction region
+T16	Process 667 688	alternative processes
+T17	Process 689 698	operating
+T19	Data 811 867	magnetometer, cold plasma density and energetic ion data
+T20	Material 869 879	All flybys
+T21	Material 928 946	several structures
+T22	Process 1026 1041	narrow dropouts
+T23	Process 1045 1070	energetic electron fluxes
+T24	Material 1085 1100	the wake flanks
+T26	Material 1173 1181	the wake
+T27	Method 1183 1213	A phase-space-density analysis
+T28	Material 1218 1234	these structures
+T29	Material 1240 1265	the first Rhea flyby (R1)
+T30	Method 1277 1296	Liouville's theorem
+T32	Material 1391 1408	the magnetosphere
+T33	Material 1412 1420	the wake
+T34	Material 1430 1445	narrow channels
+T35	Process 1499 1521	this transport process
+T38	Method 1647 1671	a hybrid simulation code
+T39	Process 1688 1699	a transport
+T42	Material 1867 1886	energetic electrons
+T43	Material 1898 1919	the narrow structures
+T45	Method 1991 2006	the hybrid code
+T47	Data 2063 2087	the small scale features
+T48	Material 2152 2165	the electrons
+T50	Data 2180 2196	This instability
+T49	Process 2110 2143	a flute (interchange) instability
+T51	Data 2219 2235	strong gradients
+T52	Data 2239 2258	the plasma pressure
+T55	Process 2402 2416	ion absorption
+T56	Material 2420 2424	Rhea
+T58	Data 2332 2342	signatures
+T59	Data 2454 2469	the instability
+T60	Data 2486 2495	gradients
+T61	Data 2499 2522	the cold plasma density
+T63	Material 2642 2653	Rhea's wake
+T64	Process 2619 2638	a density depletion
+T65	Material 2679 2712	a local cold plasma source region
+T67	Material 2772 2793	the ionized component
+T68	Material 2797 2818	Rhea's weak exosphere
+T69	Material 2750 2761	this source
+T71	Material 2878 2915	the moon's negatively charged surface
+T72	Process 2933 2949	surface charging
+T73	Material 2992 3032	Rhea's magnetospheric interaction region
+T74	Process 2984 2991	shaping
+T5	Data 137 180	unexpected and complex interaction features
+T3	Material 71 89	energetic particle
+T8	Process 337 345	a series
+T11	Process 456 466	absorption
+T78	Material 470 487	dust and boulders
+T18	Material 749 767	energetic electron
+T80	Data 885 900	unique features
+T31	Process 1347 1362	rapid transport
+T83	Material 1366 1385	energetic electrons
+T37	Material 1580 1602	the interaction region
+T84	Material 1606 1629	a plasma absorbing moon
+T40	Process 1746 1756	broadening
+T85	Material 1760 1776	the central wake
+T54	Material 2293 2305	magnetometer
+T62	Process 2569 2583	most crossings
+T90	Material 2587 2605	Rhea's plasma wake
+T76	Process 349 381	broad and narrow flux depletions
+T13	Material 606 637	all four Cassini flybys of Rhea
+T14	Process 1141 1165	narrow flux enhancements
+T25	Process 1543 1576	complex energetic electron drifts
+T36	Data 1841 1863	interaction signatures
+T46	Process 1942 1972	Additional dynamical processes
+T53	Data 2263 2291	the magnetic field magnitude
+T57	Process 2359 2394	the (expected) plasma pressure loss
+T66	Method 2714 2739	Hybrid plasma simulations
+T70	Material 2846 2872	accelerated photoelectrons
+T75	Data 979 1014	The most interesting common feature
+T77	Data 1723 1739	several features
+T44	Process 417 432	The association
+T41	Process 1782 1792	increasing
+T79	Data 1793 1808	electron energy

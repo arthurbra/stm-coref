@@ -1,0 +1,35 @@
+T1	Process 13 23	the effect
+T2	Process 27 40	halide doping
+T3	Process 44 91	the Aerosol-assisted Chemical Vapour Deposition
+T4	Material 95 104	tin oxide
+T5	Process 138 160	precursor interactions
+T6	Process 177 203	A halide exchange reaction
+T7	Material 235 252	the tin precursor
+T8	Material 277 288	the solvent
+T9	Material 290 301	the complex
+T10	Data 312 320	a marker
+T11	Material 325 339	improved films
+T12	Data 345 387	improved transparent-conducting properties
+T13	Material 411 484	butyltin trichloride and potassium halide (X=F, Cl, Br, I) in propan-2-ol
+T14	Data 503 535	a substrate temperature of 450°C
+T15	Process 490 499	deposited
+T16	Material 542 557	air carrier gas
+T17	Material 389 407	Precursor mixtures
+T19	Material 593 601	fluorine
+T20	Material 607 667	the best performing n-type transparent conducting thin films
+T21	Data 683 724	high optical transparency (>80% at 550nm)
+T22	Data 729 763	resistivity values of 4.9×10-4Ω.cm
+T23	Data 770 851	charge carrier density and carrier mobility values of 8.85×1020cm-3 and 15cm3/V.s
+T24	Material 924 952	Halide-doped tin oxide films
+T25	Material 967 972	glass
+T26	Method 979 984	AACVD
+T27	Material 988 996	Fluorine
+T28	Material 1013 1038	the most effective dopant
+T29	Material 1043 1059	TCO applications
+T30	Process 1063 1088	A halide exchange process
+T31	Material 1102 1126	a direct tin-dopant bond
+T32	Material 1130 1143	the precursor
+T33	Material 1147 1161	This structure
+T34	Data 1173 1181	a marker
+T35	Material 1185 1208	higher-performing films
+T36	Process 559 570	Hall Effect

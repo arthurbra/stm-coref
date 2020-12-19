@@ -1,0 +1,96 @@
+T2	Process 16 21	cured
+T18	Data 261 267	148 °C
+T19	Process 282 291	unchanged
+T29	Process 457 471	well-dispersed
+T33	Data 538 557	the Young's modulus
+T38	Data 608 613	20 °C
+T1	Material 0 14	An epoxy resin
+T3	Material 28 49	an anhydride hardener
+T4	Material 88 147	pre-formed polysiloxane core-shell rubber (S-CSR) particles
+T5	Data 153 179	a mean diameter of 0.18 μm
+T8	Material 222 256	the cured unmodified epoxy polymer
+T9	Material 314 333	the S-CSR particles
+T10	Process 72 84	the addition
+T11	Process 298 310	the addition
+T12	Material 335 368	The polysiloxane rubber particles
+T13	Data 373 394	a Tg of about -100 °C
+T15	Method 396 419	Atomic force microscopy
+T17	Material 432 451	the S-CSR particles
+T20	Material 475 492	the epoxy polymer
+T21	Process 494 506	The addition
+T22	Material 510 529	the S-CSR particles
+T23	Data 562 578	tensile strength
+T24	Material 582 599	the epoxy polymer
+T27	Data 655 663	117 J/m2
+T28	Material 668 688	the unmodified epoxy
+T30	Data 692 700	947 J/m2
+T31	Material 716 735	the S-CSR particles
+T32	Data 706 712	20 wt%
+T34	Process 755 769	Fracture tests
+T39	Data 846 874	the measured fracture energy
+T40	Material 878 911	the S-CSR-modified epoxy polymers
+T41	Data 942 958	room temperature
+T42	Data 976 983	-109 °C
+T45	Process 1019 1027	measured
+T46	Data 1034 1040	20 wt%
+T47	Material 1044 1059	S-CSR particles
+T48	Material 1148 1176	the unmodified epoxy polymer
+T49	Data 1075 1098	this value of toughness
+T52	Data 1224 1254	this very low test temperature
+T53	Process 1297 1309	the addition
+T54	Material 1313 1330	the epoxy polymer
+T55	Material 1334 1353	the S-CSR particles
+T56	Process 1373 1408	significant toughening of the epoxy
+T57	Data 1418 1454	temperatures as low as about -100 °C
+T58	Process 1456 1481	The toughening mechanisms
+T59	Material 1493 1512	the S-CSR particles
+T60	Material 1536 1564	localised plastic shear-band
+T61	Process 1565 1573	yielding
+T62	Material 1581 1594	the particles
+T63	Process 1603 1613	cavitation
+T64	Material 1617 1630	the particles
+T65	Process 1643 1662	plastic void growth
+T66	Material 1666 1683	the epoxy polymer
+T67	Method 1722 1747	the Hsieh et al. approach
+T68	Material 1781 1814	the S-CSR-modified epoxy polymers
+T69	Data 1760 1777	the values of GIc
+T70	Data 1818 1849	the different test temperatures
+T71	Process 1855 1865	calculated
+T72	Data 1867 1886	Excellent agreement
+T73	Data 1905 1920	the predictions
+T74	Data 1925 1970	the experimentally measured fracture energies
+T75	Data 2108 2124	low temperatures
+T76	Process 2070 2089	plastic void growth
+T77	Data 2056 2066	the extent
+T78	Process 2094 2104	suppressed
+T79	Material 2129 2162	the S-CSR-modified epoxy polymers
+T80	Process 2173 2216	the localised shear-band yielding mechanism
+T81	Data 2247 2267	the test temperature
+T82	Material 2301 2317	An epoxy polymer
+T83	Process 2327 2335	modified
+T84	Material 2341 2381	polysiloxane core-shell rubber particles
+T85	Material 2385 2394	The epoxy
+T86	Data 2399 2417	Tg of about 148 °C
+T87	Material 2422 2435	the particles
+T88	Data 2440 2461	a Tg of about -100 °C
+T89	Method 2465 2468	AFM
+T90	Material 2481 2494	the particles
+T91	Material 2518 2535	the epoxy polymer
+T92	Process 2500 2514	well-dispersed
+T93	Process 2539 2551	The addition
+T94	Data 2582 2585	GIc
+T95	Data 2591 2617	about 120 J/m2 to 950 J/m2
+T96	Data 2555 2561	20 wt%
+T97	Material 2562 2571	particles
+T98	Material 2621 2634	The particles
+T99	Process 2640 2663	significantly toughened
+T100	Material 2664 2681	the epoxy polymer
+T101	Data 2690 2703	about -100 °C
+T35	Data 793 820	-55 °C, -80 °C, and -109 °C
+T36	Data 1194 1220	a value of GIc of 174 J/m2
+T6	Data 181 217	The glass transition temperature, Tg
+T7	Data 614 638	the fracture energy, GIc
+T14	Data 985 1014	a fracture energy of 481 J/m2
+T16	Process 1685 1701	These mechanisms
+T25	Process 912 935	decreased significantly
+T26	Process 1707 1715	modelled

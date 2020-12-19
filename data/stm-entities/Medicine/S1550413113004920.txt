@@ -1,0 +1,17 @@
+Understanding transcriptional regulation of pancreatic development is required to advance current efforts in developing beta cell replacement therapies for patients with diabetes.
+Current knowledge of key transcriptional regulators has predominantly come from mouse studies, with rare, naturally occurring mutations establishing their relevance in man.
+This study used a combination of homozygosity analysis and Sanger sequencing in 37 consanguineous patients with permanent neonatal diabetes to search for homozygous mutations in 29 transcription factor genes important for murine pancreatic development.
+We identified homozygous mutations in 7 different genes in 11 unrelated patients and show that NKX2-2 and MNX1 are etiological genes for neonatal diabetes, thus confirming their key role in development of the human pancreas.
+The similar phenotype of the patients with recessive mutations and mice with inactivation of a transcription factor gene support there being common steps critical for pancreatic development and validate the use of rodent models for beta cell development.
+Graphical Abstract
+Highlights
+•
+Homozygous mutations in seven pancreatic transcription factors cause neonatal diabetes
+•
+Homozygous NKX2-2 and MNX1 mutations were found in five patients
+•
+Confirms NKX2-2 and MNX1 are critical for murine and human pancreas development
+•
+Similar phenotypes in mouse and man validate models for beta cell development
+Analyzing a large collection of consanguineous patients with permanent neonatal diabetes, Flanagan et al. performed a comprehensive search for recessive mutations in transcription factors known to be critical for mouse pancreatic development.
+They identify seven pancreatic transcription factors that cause neonatal diabetes, including NKX2-2 and MNX1.

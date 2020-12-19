@@ -1,0 +1,94 @@
+T3	Process 119 132	the 3D flight
+T13	Material 310 316	debris
+T14	Process 333 336	fly
+T18	Material 484 493	the plate
+T21	Process 524 532	the flow
+T24	Process 593 599	attack
+T25	Data 572 589	the initial angle
+T26	Material 601 610	The plate
+T29	Process 639 644	flies
+T35	Material 767 776	the plate
+T36	Process 791 797	flying
+T37	Material 810 818	the wind
+T38	Data 798 804	faster
+T40	Data 881 898	rotational energy
+T41	Material 916 925	the plate
+T42	Process 900 912	The rotation
+T43	Process 933 943	the forces
+T44	Material 954 963	the plate
+T45	Process 975 985	accelerate
+T46	Process 989 999	decelerate
+T49	Material 1046 1055	the plate
+T52	Process 1090 1098	the flow
+T53	Material 1100 1109	the plate
+T54	Process 1063 1070	aligned
+T55	Material 1208 1217	the plate
+T58	Process 1248 1256	the flow
+T65	Material 1296 1302	plates
+T66	Process 1303 1309	flying
+T69	Material 1350 1365	a porous region
+T71	Material 1411 1417	plates
+T72	Process 1422 1430	launched
+T73	Material 1436 1444	the roof
+T74	Data 1449 1465	their trajectory
+T75	Process 1469 1478	simulated
+T79	Material 1511 1523	the building
+T89	Material 1681 1691	the plates
+T90	Process 1737 1740	fly
+T91	Material 1752 1764	the building
+T92	Process 1772 1780	entering
+T97	Data 1706 1719	that position
+T98	Material 1827 1830	CFD
+T99	Process 1831 1838	coupled
+T100	Material 1842 1861	Rigid Body Dynamics
+T101	Process 1871 1881	the flight
+T106	Process 2001 2006	flies
+T107	Material 2019 2027	the wind
+T110	Data 2064 2071	kinetic
+T111	Material 2075 2081	Plates
+T114	Process 2092 2100	launched
+T125	Process 109 118	modelling
+T1	Material 0 74	A coupled Computational Fluid Dynamics-Rigid Body Dynamics (CFD-RBD) model
+T2	Material 136 163	plate-type windborne debris
+T4	Material 165 178	The RBD model
+T6	Process 232 264	complex spinning modes of flight
+T8	Material 355 367	obstructions
+T9	Data 400 429	the initial plate orientation
+T11	Data 508 520	right angles
+T12	Data 534 549	the flight mode
+T16	Process 663 678	a full rotation
+T17	Data 696 725	an autorotational flight mode
+T20	Data 1017 1039	the rotation direction
+T22	Data 1074 1086	right angles
+T23	Process 1124 1150	a complex 3D spinning mode
+T27	Data 1232 1244	right angles
+T28	Process 1258 1276	This spinning mode
+T30	Material 1313 1329	real wind storms
+T31	Material 1379 1409	a simple double-eaved building
+T32	Material 1480 1503	The complex flow fields
+T39	Data 1534 1567	more realistic plate trajectories
+T47	Material 1617 1647	the windward slope of the roof
+T48	Process 1599 1613	large suctions
+T51	Material 1781 1805	the wake of the building
+T56	Material 1885 1901	windborne debris
+T57	Data 1962 1985	the initial orientation
+T59	Data 1905 1920	Different modes
+T60	Process 1924 1930	flight
+T61	Data 2031 2047	potential energy
+T63	Material 2106 2136	the roof of a typical building
+T64	Data 2140 2161	The predicted flights
+T67	Data 2180 2213	limited experimental observations
+T68	Data 191 213	rotational quaternions
+T5	Data 431 464	a number of distinct flight modes
+T10	Data 855 875	its potential energy
+T7	Data 740 753	the direction
+T19	Process 757 765	rotation
+T33	Data 1656 1669	large amounts
+T34	Process 1673 1677	lift
+T50	Process 1157 1185	significant crosswind motion
+T62	Process 272 280	modelled
+T70	Data 281 291	accurately
+T76	Data 296 304	robustly
+T15	Process 615 621	wobble
+T77	Process 625 632	flutter
+T78	Material 1989 2000	Some debris

@@ -1,0 +1,13 @@
+The paper presents a numerical model for bore-driven swash on permeable coarse-grained beaches.
+The surface flow module is modelled using the non-linear shallow water equations (NLSWEs), solved using the Godunov-based finite volume ADER scheme, which is suitable for handling steep bores as well as large source terms in the NLSWEs.
+The subsurface flow comprises: (i) infiltration and exfiltration modelled as vertical piston-like flow, (ii) horizontal pore-air movement within the unsaturated region of the beach, (iii) the horizontal groundwater flow.
+Model predictions of the surface and subsurface flow are in good agreement with measurements from large-scale laboratory experiments for swash on permeable, immobile beaches.
+In these simulations air velocity was sufficiently small to justify using Darcy's resistance law for the air flow, whereas the quadratic Forchheimer law had to be used for the infiltration and groundwater flow.
+The validated numerical model provides insight into the surface-subsurface water exchange for bore-driven swash on coarse-grained beaches.
+The impact of air entrapped between the wetting front and the groundwater level on the water exchange is examined in particular.
+Highlights
+► We model key mechanisms of the water exchange between swash and subsurface.
+► Focus is on filtration and pore-air pressure build-up within the unsaturated beach.
+► Validation is carried out with measurements from large-scale laboratory experiments.
+► Swash model is consistent with experimental results on two coarse-grained beaches.
+► The insights contribute to better understanding and modelling of key swash processes.

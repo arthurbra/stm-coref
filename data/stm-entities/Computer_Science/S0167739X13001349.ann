@@ -1,0 +1,73 @@
+T2	Process 162 171	a program
+T3	Data 210 221	the latency
+T6	Material 175 189	these machines
+T7	Data 147 158	The speedup
+T13	Data 263 271	infinite
+T14	Material 288 302	these machines
+T15	Data 317 332	the performance
+T17	Process 367 381	these programs
+T19	Data 431 443	not infinite
+T37	Material 729 743	these machines
+T42	Process 875 882	analyze
+T56	Material 1424 1438	these machines
+T64	Material 1587 1605	the NVIDIA GTX 480
+T66	Process 1443 1451	validate
+T67	Material 1480 1489	our model
+T69	Material 1258 1267	our model
+T72	Material 1033 1042	our model
+T79	Material 770 780	this model
+T84	Method 1656 1666	algorithms
+T94	Method 1831 1835	PRAM
+T97	Material 1806 1815	the model
+T100	Material 1937 1946	our model
+T111	Material 1708 1717	The model
+T41	Material 951 961	this model
+T113	Process 1043 1051	predicts
+T117	Process 1268 1276	predicts
+T120	Process 1342 1351	validates
+T125	Process 1623 1629	design
+T26	Material 12 52	highly-threaded, many-core architectures
+T4	Process 83 113	low-overhead context switching
+T5	Data 58 79	memory-access latency
+T1	Process 120 145	a large number of threads
+T8	Process 236 257	the number of threads
+T9	Method 346 363	the PRAM analysis
+T10	Data 467 503	both hardware and algorithmic limits
+T12	Material 533 574	the Threaded Many-core Memory (TMM) model
+T16	Material 634 675	these highly-threaded, many-core machines
+T20	Data 792 847	a more fine-grained and accurate performance prediction
+T21	Method 853 870	the PRAM analysis
+T23	Process 986 1000	two algorithms
+T24	Data 1006 1031	the same PRAM performance
+T25	Data 1052 1073	different performance
+T27	Data 1095 1113	machine parameters
+T28	Data 1132 1144	dense graphs
+T29	Method 1146 1179	the dynamic programming algorithm
+T30	Method 1184 1203	Johnson's algorithm
+T31	Method 1233 1247	the PRAM model
+T32	Data 1209 1229	the same performance
+T33	Data 1277 1298	different performance
+T34	Data 1303 1337	large enough memory-access latency
+T35	Method 1371 1404	the dynamic programming algorithm
+T36	Data 1452 1471	several predictions
+T38	Data 1496 1518	empirical measurements
+T40	Method 1630 1644	a memory model
+T43	Material 1671 1704	highly-threaded many-core systems
+T45	Data 1763 1794	work, span, and memory accesses
+T47	Data 1727 1761	significant factors of performance
+T48	Data 1887 1908	Empirical performance
+T49	Material 1978 2015	the first formalized asymptotic model
+T50	Material 2048 2058	many-cores
+T51	Process 2028 2044	algorithm design
+T11	Process 392 413	the number of threads
+T52	Material 418 427	processor
+T53	Data 601 630	the important characteristics
+T18	Data 692 725	some important machine parameters
+T44	Material 900 944	the classic all pairs shortest paths problem
+T22	Method 885 895	algorithms
+T54	Data 883 884	4
+T39	Material 1522 1578	an instantiation of a highly-threaded, many-core machine
+T55	Process 1648 1655	analyze
+T46	Method 1858 1883	shortest paths algorithms
+T57	Data 1856 1857	4
+T58	Process 1912 1933	effectively predicted

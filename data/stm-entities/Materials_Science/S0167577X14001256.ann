@@ -1,0 +1,44 @@
+T1	Method 0 47	A three-dimensional atom probe (3DAP) technique
+T2	Material 139 197	neutron-irradiated modified 316 austenitic stainless steel
+T3	Material 117 135	screw dislocations
+T5	Material 250 281	the cores of screw dislocations
+T7	Process 313 321	depleted
+T8	Material 325 339	the same areas
+T9	Process 68 109	the three-dimensional solute distribution
+T10	Process 234 242	enriched
+T11	Material 341 343	Si
+T12	Process 348 358	segregated
+T13	Material 362 389	a narrow region in the core
+T14	Material 423 425	Si
+T15	Process 430 437	trapped
+T16	Process 441 473	the initial stage of segregation
+T17	Process 580 591	Si trapping
+T20	Material 475 498	Other enriched elements
+T21	Process 499 509	segregated
+T22	Data 513 531	some edge features
+T23	Material 652 670	screw dislocations
+T24	Process 618 648	solute-dislocation interaction
+T25	Process 686 715	radiation-induced segregation
+T26	Data 738 760	the volume size factor
+T27	Material 764 776	solute atoms
+T28	Material 803 821	screw dislocations
+T29	Method 873 877	3DAP
+T30	Material 825 869	an irradiated 316 austenitic stainless steel
+T31	Material 907 929	screw dislocation core
+T34	Process 945 974	radiation induced segregation
+T35	Data 1046 1064	volume size factor
+T36	Material 1012 1030	screw dislocations
+T37	Process 978 1008	Solute dislocation interaction
+T39	Material 1092 1110	screw dislocations
+T40	Process 1125 1152	a mixed dumb-bell mechanism
+T19	Process 881 899	Solute segregation
+T32	Process 1068 1088	Segregation behavior
+T4	Material 199 201	Si
+T33	Material 203 205	Ni
+T38	Material 211 212	P
+T6	Material 289 291	Fe
+T41	Material 293 295	Cr
+T42	Material 297 299	Mn
+T43	Material 305 307	Mo
+T18	Material 540 545	kinks
+T44	Material 553 557	jogs

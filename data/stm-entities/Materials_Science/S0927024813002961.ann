@@ -1,0 +1,80 @@
+T1	Material 0 16	The energy yield
+T2	Material 30 68	different types of photovoltaic device
+T3	Process 141 171	cheap photovoltaic electricity
+T4	Data 235 267	certain strengths and weaknesses
+T5	Material 173 199	The different technologies
+T6	Process 285 294	operating
+T7	Material 298 320	different environments
+T8	Data 387 408	contradictory results
+T9	Process 345 362	comparative tests
+T10	Process 434 450	device behaviour
+T11	Material 454 488	contrasting thin film technologies
+T12	Material 503 528	a-Si and CIGS derivatives
+T13	Data 636 648	the accuracy
+T14	Process 652 676	module inter-comparisons
+T15	Process 681 704	most outdoor monitoring
+T16	Process 735 742	compare
+T17	Material 743 750	devices
+T18	Data 708 718	this scale
+T19	Data 825 836	differences
+T20	Process 840 855	energy delivery
+T21	Data 860 873	the magnitude
+T22	Material 799 821	five main contributors
+T23	Material 894 910	the environments
+T24	Material 920 931	the devices
+T25	Process 967 978	two effects
+T26	Process 1008 1025	inter-comparisons
+T27	Data 1036 1064	the reported energy delivery
+T28	Data 1099 1114	light intensity
+T29	Data 1116 1150	spectrum and operating temperature
+T30	Process 1161 1183	performance variations
+T31	Data 1194 1214	in the range of 2-7%
+T32	Process 1066 1090	Environmental influences
+T33	Process 1249 1271	most comparative tests
+T34	Data 1297 1318	short periods of time
+T35	Data 1323 1342	the order of months
+T36	Data 1350 1366	the power rating
+T37	Data 1392 1403	uncertainty
+T38	Material 1433 1443	thin films
+T39	Data 1453 1472	the range of 10-15%
+T40	Material 1408 1424	new technologies
+T41	Process 1489 1506	inter-comparisons
+T42	Material 1518 1550	as-new, first-year energy yields
+T43	Material 1568 1594	the life-time energy yield
+T44	Process 1612 1618	ageing
+T45	Data 1626 1635	up to 25%
+T46	Process 1636 1645	variation
+T47	Material 1654 1671	different devices
+T48	Data 1673 1687	The durability
+T49	Material 1691 1698	devices
+T50	Process 1703 1726	performance-maintenance
+T51	Process 1773 1788	energy delivery
+T52	Data 1813 1829	electricity cost
+T53	Data 1858 1880	long-term measurements
+T54	Method 1931 1974	Renewable Energy Systems Technology (CREST)
+T55	Process 2039 2058	the energy delivery
+T56	Material 2062 2092	thin film photovoltaic devices
+T57	Material 2096 2114	a maritime climate
+T58	Material 2119 2150	amorphous silicon based modules
+T59	Material 2155 2204	Copper -Indium, Gallium -DiSelenide based devices
+T60	Material 2239 2262	thin film photovoltaics
+T61	Process 2216 2235	the energy delivery
+T63	Process 2205 2212	Effects
+T64	Data 2316 2336	measurement accuracy
+T65	Process 2341 2368	changes in device behaviour
+T66	Data 2374 2378	time
+T67	Material 2391 2402	environment
+T68	Process 2406 2413	Effects
+T71	Process 2508 2524	long term ageing
+T72	Material 2528 2545	different devices
+T73	Data 2489 2504	The differences
+T74	Process 2549 2559	quantified
+T75	Process 936 944	operated
+T76	Process 1027 1035	dominate
+T62	Process 2267 2276	separated
+T77	Process 2281 2291	quantified
+T69	Data 2417 2428	temperature
+T78	Data 2430 2440	irradiance
+T79	Data 2445 2453	spectrum
+T70	Process 2458 2470	investigated
+T80	Process 2475 2485	quantified

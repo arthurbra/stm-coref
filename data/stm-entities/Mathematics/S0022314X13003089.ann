@@ -1,0 +1,43 @@
+T2	Data 4 5	K
+T3	Material 9 23	a number field
+T4	Data 27 35	degree n
+T5	Data 187 193	h∈K[X]
+T6	Data 234 254	an algebraic integer
+T9	Material 154 168	a number field
+T10	Data 74 95	a criterion of Gilmer
+T11	Material 100 126	polynomially dense subsets
+T12	Data 303 311	h(OK)⊂OK
+T13	Process 261 265	h(X)
+T14	Data 269 292	integral-valued over OK
+T15	Process 403 422	a polynomial f∈Q[X]
+T21	Data 629 649	the integral closure
+T23	Data 695 709	integer-valued
+T1	Material 41 45	ring
+T27	Data 49 60	integers OK
+T8	Material 130 138	the ring
+T28	Data 142 150	integers
+T19	Process 499 503	f(β)
+T33	Data 507 522	integral over Z
+T18	Process 427 431	f(α)
+T34	Data 435 450	integral over Z
+T24	Material 715 722	the set
+T35	Process 726 740	matrices Mn(Z)
+T25	Material 753 761	the ring
+T26	Data 765 780	integral-valued
+T36	Process 781 792	polynomials
+T37	Material 798 805	the set
+T22	Material 653 661	the ring
+T40	Process 665 684	polynomials in Q[X]
+T30	Material 353 360	the set
+T42	Result 184 311	if h∈K[X] maps every element of OK of degree n to an algebraic integer, then h(X) is integral-valued over OK, that is, h(OK)⊂OK
+T43	Result 424 577	if f(α) is integral over Z for every algebraic integer α of degree n, then f(β) is integral over Z for every algebraic integer β of degree smaller than n
+T44	Result 629 848	the integral closure of the ring of polynomials in Q[X] which are integer-valued over the set of matrices Mn(Z) is equal to the ring of integral-valued polynomials over the set of algebraic integers of degree equal to n
+T45	Object 184 311	if h∈K[X] maps every element of OK of degree n to an algebraic integer, then h(X) is integral-valued over OK, that is, h(OK)⊂OK
+T46	Object 424 577	if f(α) is integral over Z for every algebraic integer α of degree n, then f(β) is integral over Z for every algebraic integer β of degree smaller than n
+T47	Task 74 95	a criterion of Gilmer
+T7	Data 199 230	every element of OK of degree n
+T16	Data 364 398	all algebraic integers of degree n
+T17	Data 455 492	every algebraic integer α of degree n
+T20	Data 527 577	every algebraic integer β of degree smaller than n
+T29	Data 809 848	algebraic integers of degree equal to n
+T31	Process 194 198	maps

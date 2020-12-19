@@ -1,0 +1,48 @@
+T1	Material 0 48	Mitochondrial aminoacyl-tRNA synthetases (aaRSs)
+T2	Material 53 70	essential enzymes
+T3	Process 74 91	protein synthesis
+T4	Material 121 146	their cognate amino acids
+T5	Material 110 115	tRNAs
+T6	Material 161 170	the genes
+T7	Process 148 157	Mutations
+T8	Material 180 199	mitochondrial aaRSs
+T10	Process 312 332	pathogenic mutations
+T11	Process 334 360	a partial genomic deletion
+T13	Material 418 423	FARS2
+T15	Material 425 485	the gene encoding mitochondrial phenylalanyl-tRNA synthetase
+T16	Material 490 499	a patient
+T17	Process 505 525	early-onset epilepsy
+T18	Process 530 560	isolated complex IV deficiency
+T19	Material 564 570	muscle
+T20	Material 633 644	fibroblasts
+T21	Material 612 621	myoblasts
+T22	Data 572 594	The biochemical defect
+T23	Data 665 694	decreased steady state levels
+T24	Material 698 720	COXI and COXII protein
+T25	Data 725 752	reduced steady state levels
+T26	Material 756 781	the mt-tRNAPhe transcript
+T31	Material 993 1003	substrates
+T32	Process 905 941	undetectable aminoacylation activity
+T33	Material 884 887	ATP
+T34	Process 879 883	bind
+T35	Process 1005 1028	Lentiviral transduction
+T37	Material 1032 1037	cells
+T36	Data 1043 1092	wildtype FARS2 restored complex IV protein levels
+T38	Process 1110 1134	the p.Asp325Tyr mutation
+T39	Process 1138 1148	pathogenic
+T40	Data 1191 1212	neurological deficits
+T41	Process 1158 1186	respiratory chain deficiency
+T42	Material 1255 1265	mt-tRNAPhe
+T43	Process 1227 1251	defective aminoacylation
+T44	Process 1329 1343	aaRS mutations
+T45	Data 1280 1309	The tissue specific variation
+T46	Data 1395 1409	a FARS2 defect
+T47	Data 1436 1448	FARS2 defect
+T48	Process 1413 1432	Molecular mechanism
+T49	Method 1466 1474	in vitro
+T9	Process 226 273	a wide spectrum of human mitochondrial diseases
+T14	Material 948 989	either bacterial tRNA or human mt-tRNAPhe
+T29	Process 171 179	encoding
+T30	Process 290 308	the identification
+T27	Material 806 831;832 855	the recombinant mutant p. Asp325Tyr FARS2 protein
+T12	Material 365 386;387 413	a highly conserved p. Asp325Tyr missense variant

@@ -1,0 +1,49 @@
+T16	Material 390 396	varves
+T17	Data 386 389	873
+T28	Process 641 660	magnetosomal origin
+T51	Process 917 927	correcting
+T56	Data 1088 1104	reference curves
+T57	Process 1070 1079	regressed
+T58	Data 1208 1228	the reference curves
+T71	Material 1519 1531	bioturbation
+T80	Process 1670 1680	Chronology
+T85	Data 1796 1809	at least 21cm
+T87	Process 1782 1792	quantified
+T88	Material 1726 1750	terrestrial macrofossils
+T1	Data 11 39	the paleomagnetic properties
+T3	Material 174 192	An age-depth model
+T4	Material 206 240	a regional lead pollution isochron
+T5	Method 245 263	Bayesian modelling
+T6	Data 267 283	radiocarbon ages
+T8	Material 347 382	a radiocarbon wiggle-matched series
+T9	Data 414 444	between 3000 and 2000 Cal a BP
+T10	Data 471 492	Mineral magnetic data
+T11	Data 497 524	first order reversal curves
+T12	Process 538 572	the natural remanent magnetization
+T13	Material 587 627	stable single-domain grains of magnetite
+T14	Material 662 678	Discrete samples
+T15	Material 690 714	overlapping piston cores
+T18	Process 736 806	smoothed paleomagnetic secular variation (inclination and declination)
+T19	Material 811 844	relative paleointensity data sets
+T20	Material 877 899	the paleomagnetic data
+T21	Process 858 873	temporal trends
+T22	Data 932 960	paleomagnetic lock-in depths
+T23	Data 961 979	between 0 and 70cm
+T24	Data 1004 1041	changes in sediment accumulation rate
+T25	Data 1043 1064	These temporal trends
+T26	Material 1109 1174	the same region (FENNOSTACK and FENNORPIS; Snowball et al., 2007)
+T27	Data 1256 1281	lock-in depths of 21-34cm
+T29	Material 1285 1319	the Gyltigesjön paleomagnetic data
+T30	Data 1352 1369	minimum estimates
+T31	Data 1395 1436	a significant paleomagnetic lock-in depth
+T32	Process 1467 1507	post-depositional remanent magnetization
+T33	Material 1549 1577	mixed sediment surface layer
+T34	Material 1599 1617	Paleomagnetic data
+T35	Material 1632 1666	organic rich varved lake sediments
+T36	Data 1690 1709	14C wiggle-matching
+T37	Data 1714 1722	14C ages
+T38	Data 1754 1781	Paleomagnetic lock-in delay
+T2	Material 43 105	relatively organic rich, annually laminated (varved) sediments
+T39	Data 109 121	Holocene age
+T7	Material 287 301	bulk sediments
+T40	Material 306 330	terrestrial macrofossils

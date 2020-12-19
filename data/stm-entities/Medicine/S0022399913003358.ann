@@ -1,0 +1,65 @@
+T2	Process 116 124	tinnitus
+T4	Data 263 282	personality factors
+T5	Process 214 240	the perception of severity
+T6	Process 291 302	neuroticism
+T7	Data 192 208	growing evidence
+T9	Material 412 434	the UK Biobank dataset
+T10	Process 468 476	tinnitus
+T11	Process 533 548	the association
+T12	Process 557 565	tinnitus
+T13	Process 570 625	a putative predisposing personality factor, neuroticism
+T14	Data 670 703	National Health Service registers
+T15	Material 755 772	the UK population
+T18	Material 810 830	subjective questions
+T19	Process 786 800	The assessment
+T20	Process 864 875	Neuroticism
+T21	Material 894 906	13 questions
+T22	Material 912 945	the Eysenck Personality Inventory
+T23	Method 880 890	self-rated
+T26	Method 1010 1038	logistic regression analyses
+T27	Data 947 959	Associations
+T29	Material 1100 1105	males
+T30	Data 1126 1129	age
+T32	Process 1251 1259	tinnitus
+T33	Material 1261 1268	females
+T34	Process 1296 1315	bothersome tinnitus
+T35	Process 1317 1328	Neuroticism
+T38	Process 1508 1527	bothersome tinnitus
+T39	Data 1396 1405	the items
+T41	Process 1541 1552	Neuroticism
+T42	Process 1596 1604	tinnitus
+T43	Process 1623 1631	tinnitus
+T44	Process 1653 1664	neuroticism
+T45	Data 1636 1649	higher levels
+T46	Material 1606 1617	Individuals
+T47	Process 1695 1714	bothersome tinnitus
+T48	Process 1767 1788	intrusive experiences
+T49	Data 1744 1763	greater sensitivity
+T50	Data 450 464	the prevalence
+T51	Material 634 646	Participants
+T52	Process 1131 1139	doubling
+T53	Data 1571 1590	a novel association
+T3	Data 134 156	recent population data
+T1	Data 48 72	a substantial proportion
+T24	Material 76 90	the population
+T8	Data 317 337	a subset (N=172,621)
+T25	Material 341 366	a large population sample
+T54	Data 370 378	>500,000
+T55	Material 379 385	adults
+T56	Data 386 404	aged 40 to 69years
+T28	Process 1048 1070	Prevalence of tinnitus
+T37	Process 95 112	severely affected
+T57	Process 439 449	calculated
+T16	Process 842 849	hearing
+T58	Process 854 862	tinnitus
+T17	Process 968 979	neuroticism
+T59	Process 984 992	tinnitus
+T31	Material 1148 1182	the youngest and oldest age groups
+T60	Data 1184 1221	males 13% and 26%; females 9% and 19%
+T36	Process 1349 1365	current tinnitus
+T61	Process 1370 1389	bothersome tinnitus
+T40	Data 1407 1419	'loneliness'
+T62	Data 1421 1434	'mood swings'
+T63	Data 1436 1453	'worrier/anxious'
+T64	Data 1458 1473	'miserableness'
+T65	Process 1557 1567	identified

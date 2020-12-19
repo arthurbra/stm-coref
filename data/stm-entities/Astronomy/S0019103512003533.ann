@@ -1,0 +1,62 @@
+T1	Material 70 110	Saturn's coupled thermosphere-ionosphere
+T2	Process 41 66	the steady state response
+T3	Data 11 37	comprehensive calculations
+T4	Process 234 248	sub-corotation
+T5	Material 252 273	magnetospheric plasma
+T6	Process 125 140	solar radiation
+T9	Method 337 408	our Saturn Thermosphere Ionosphere General Circulation Model (STIM-GCM)
+T11	Process 552 569	plasma production
+T12	Material 575 603	incident energetic electrons
+T13	Data 514 548	self-consistently calculated rates
+T16	Method 788 840	the Cassini Radio Science Subsystem experiment (RSS)
+T17	Process 850 882	magnetospheric energy deposition
+T19	Material 934 972	the high and mid-latitude thermosphere
+T20	Process 977 999	thermospheric dynamics
+T21	Process 1034 1043	this flow
+T24	Process 1086 1094	dynamics
+T25	Method 1098 1138	any high latitude energy balance studies
+T26	Data 1430 1447	the H3+ densities
+T27	Data 1267 1296	simulated atmosphere profiles
+T30	Data 1484 1506	local time variability
+T32	Process 1560 1578	local time changes
+T33	Data 1582 1595	H3+ densities
+T34	Data 1608 1620	temperatures
+T37	Data 1635 1654	the parameter space
+T38	Data 1775 1807	thermospheric polar temperatures
+T40	Data 1881 1886	10keV
+T41	Process 1887 1902	electron fluxes
+T42	Data 1906 1918	0.1-1.2mWm-2
+T46	Data 2088 2114	thermospheric temperatures
+T47	Process 2196 2208	its coupling
+T48	Material 2212 2232	the upper atmosphere
+T50	Method 605 620	Our simulations
+T8	Process 142 189	magnetospheric energetic electron precipitation
+T7	Data 194 207	high latitude
+T51	Material 208 223	electric fields
+T52	Process 300 322	the physical processes
+T14	Data 657 683	high latitude temperatures
+T15	Data 695 721	the latitudinal variations
+T54	Data 725 760	ionospheric peak electron densities
+T56	Process 895 902	control
+T57	Process 1026 1033	driving
+T28	Material 1382 1406	vibrationally excited H2
+T60	Process 1331 1350	better constraining
+T61	Material 1351 1378	the still unknown abundance
+T64	Data 1759 1771	the response
+T10	Process 468 498	neutral-ion dynamical coupling
+T29	Data 1192 1229	H3+ column emissions and temperatures
+T31	Process 1510 1534	H3+ column emission flux
+T39	Data 1811 1861	a range of these magnetospheric forcing parameters
+T43	Data 1939 1963	electric field strengths
+T45	Data 1967 1978	80-100mVm-1
+T44	Process 1987 2000	H3+ emissions
+T22	Material 1142 1169	Saturn and other Gas Giants
+T23	Data 1449 1465	Our calculations
+T36	Data 1667 1705	high latitude electric field strengths
+T35	Process 1710 1744	incident energetic electron fluxes
+T53	Data 2031 2047	Our calculations
+T18	Process 903 911	the flow
+T55	Material 915 919	mass
+T58	Material 924 930	energy
+T49	Data 2156 2165	the state
+T59	Material 2169 2191	Saturn's magnetosphere

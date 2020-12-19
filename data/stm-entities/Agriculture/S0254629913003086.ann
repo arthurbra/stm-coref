@@ -1,0 +1,82 @@
+T2	Material 46 62	economic legumes
+T5	Process 162 167	trade
+T6	Process 171 199	the cut wild flower industry
+T17	Material 770 779	bulk soil
+T20	Material 829 844	the rhizosphere
+T23	Material 998 1020	older Cyclopia species
+T24	Material 1087 1102	the rhizosphere
+T27	Material 1173 1193	C. subternata plants
+T38	Material 1487 1495	cuttings
+T39	Material 1501 1510	seedlings
+T44	Material 1693 1711	Aspalathus species
+T45	Material 1859 1867	cuttings
+T46	Material 1879 1888	seedlings
+T47	Material 1772 1780	cuttings
+T50	Material 1978 1995	rhizosphere soils
+T51	Material 2008 2018	bulk soils
+T52	Material 2022 2036	fynbos legumes
+T54	Process 1927 1935	measured
+T55	Process 2056 2064	measured
+T58	Material 2171 2188	rhizosphere soils
+T59	Material 2201 2227	non-rhizosphere bulk soils
+T62	Data 2273 2276	age
+T63	Material 2280 2295	Cyclopia plants
+T65	Material 2380 2389	seedlings
+T66	Material 2321 2329	cuttings
+T67	Material 2299 2305	Plants
+T69	Material 1760 1766	plants
+T70	Process 120 126	making
+T72	Data 1340 1357	the concentration
+T96	Material 982 996	younger plants
+T25	Data 1032 1044	much greater
+T31	Material 1209 1217	cuttings
+T101	Process 1194 1203	developed
+T30	Data 1238 1245	greater
+T107	Data 1398 1409	much higher
+T37	Data 1468 1475	greater
+T108	Material 1476 1483	shoot P
+T110	Data 1597 1613	a good indicator
+T68	Data 1732 1744	The enhanced
+T26	Data 1130 1141	much higher
+T48	Material 1142 1172	plant-available rhizosphere P.
+T117	Data 1803 1813	the higher
+T120	Material 1892 1909	their plantations
+T60	Data 2126 2132	higher
+T1	Material 0 31	Cyclopia and Aspalathus species
+T3	Material 127 152	Honeybush and Rooibos tea
+T4	Process 230 236	assess
+T7	Process 237 275	acid and alkaline phosphatase activity
+T8	Material 279 393	the rhizosphere of Cyclopia genistoides, Cyclopia subternata, Aspalathus caledonensis and Aspalathus aspalathoides
+T11	Material 441 464	the nutrient-poor soils
+T9	Data 397 409	an indicator
+T12	Process 520 543	the P enzyme activities
+T71	Data 549 560	much higher
+T13	Material 564 664	the rhizospheres of the legumes C. genistoides, C. subternata, A. caledonensis, and A. aspalathoides
+T14	Material 677 765	those of the non-legumes Leucadendron strictum, Elegia thyrsoidea and Mimetes cucullatus
+T15	Data 794 825	plant-available P concentration
+T16	Data 857 871	shoot P levels
+T18	Process 889 927	acid and alkaline phosphatase activity
+T19	Material 931 968	the rhizosphere of each plant species
+T21	Process 1045 1083	acid and alkaline phosphatase activity
+T22	Process 1246 1296	rhizosphere acid and alkaline phosphatase activity
+T29	Material 1413 1455	the rhizosphere of cuttings than seedlings
+T34	Material 1645 1676	Cyclopia cuttings and seedlings
+T33	Process 1552 1581	rhizosphere P enzyme activity
+T36	Process 1745 1756	P nutrition
+T40	Material 1814 1824	tea yields
+T41	Process 1936 1974	acid and alkaline phosphatase activity
+T42	Data 2065 2073	P levels
+T49	Process 2133 2167	acid/alkaline phosphatase activity
+T53	Process 2231 2257	Acid and alkaline activity
+T56	Process 2340 2374	acid/alkaline phosphatase activity
+T10	Process 413 421	P supply
+T57	Process 426 437	P nutrition
+T28	Material 1302 1311	seedlings
+T61	Material 1316 1325	bulk soil
+T32	Material 1361 1378	plant available-P
+T64	Material 1383 1392	organic P
+T35	Process 1617 1625	P supply
+T73	Process 1630 1641	P nutrition
+T43	Material 2077 2088	rhizosphere
+T74	Material 2093 2099	shoots
+T75	Process 2306 2315	developed

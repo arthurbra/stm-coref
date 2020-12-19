@@ -1,0 +1,17 @@
+A control system for a vertical axis wind turbine is presented.
+The electric load is determined solely from the rotational velocity and the characteristics of the turbine, thus measurements of the incoming wind speed are not required.
+The control system is evaluated with an aerodynamic vortex model coupled with an electrical model.
+Three different sets of control system parameters are tested, representing different tradeoffs between a high power absorption and achieving a fast control strategy with high stability.
+The simulations show that the three control strategies provide a similar power absorption as a reference strategy based on known wind speed.
+For dynamic simulations with fast changes in wind speed, the fast control strategies are beneficial.
+All control strategies are stable throughout the simulations when proper power absorption characteristics of the turbine are used.
+It is also shown that if peak power absorption is estimated at a too low tip speed ratio, the control strategies may inadvertently stop the turbine.
+Highlights
+•
+A coupled aerodynamic - electric simulation model is presented.
+•
+A control strategy for VAWT that does not require wind measurements is evaluated.
+•
+Accuracy of control strategy versus convergence speed is analysed.
+•
+The sensitivity of the control parameters is investigated.

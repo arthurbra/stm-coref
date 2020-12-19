@@ -1,0 +1,5 @@
+The transfer of a laboratory process into a manufacturing facility is one of the most critical steps required for the large scale production of cell-based therapy products.
+This study describes the first published protocol for scalable automated expansion of human induced pluripotent stem cell lines growing in aggregates in feeder-free and chemically defined medium.
+Cells were successfully transferred between different sites representative of research and manufacturing settings; and passaged manually and using the CompacT SelecT automation platform.
+Modified protocols were developed for the automated system and the management of cells aggregates (clumps) was identified as the critical step.
+Cellular morphology, pluripotency gene expression and differentiation into the three germ layers have been used compare the outcomes of manual and automated processes.

@@ -1,0 +1,17 @@
+The disruption of large-scale brain networks is increasingly recognised as a consequence of neurodegenerative dementias.
+We assessed adults with behavioural variant frontotemporal dementia and progressive supranuclear palsy using magnetoencephalography during an auditory oddball paradigm.
+Network connectivity among bilateral temporal, frontal and parietal sources was examined using dynamic causal modelling.
+We found evidence for a systematic change in effective connectivity in both diseases.
+Compared with healthy subjects, who had focal modulation of intrahemispheric frontal-temporal connections, the patient groups showed abnormally extensive and inefficient networks.
+The changes in connectivity were accompanied by impaired responses of the auditory cortex to unexpected deviant tones (MMNm), despite normal responses to standard stimuli.
+Together, these results suggest that neurodegeneration in two distinct clinical syndromes with overlapping profiles of prefrontal atrophy, causes a similar pattern of reorganisation of large-scale networks.
+We discuss this network reorganisation in the context of other focal brain disorders and the specific vulnerability of functional brain networks to neurodegenerative disease.
+Highlights
+•
+We compare two distinct neurodegenerative syndromes with prefrontal atrophy.
+•
+We show both diseases impair the automatic detection of change (MMNm).
+•
+Using DCM we discover that both diseases lead to similar network reorganisation.
+•
+We suggest principled network reorganisation in response to prefrontal degeneration.

@@ -1,0 +1,56 @@
+T1	Process 68 90	mitochondrial diseases
+T2	Data 115 148	a wide range of clinical symptoms
+T3	Process 0 39	Multiple respiratory chain deficiencies
+T4	Material 179 201	consanguineous parents
+T5	Material 160 169	a subject
+T8	Process 259 296	Multiple respiratory chain deficiency
+T12	Material 359 398	abnormal assembly of complexes I and IV
+T13	Method 400 427	A microsatellite genotyping
+T14	Material 494 518	chromosome 17q24.2-q25.3
+T15	Material 431 449	the family members
+T16	Process 478 490	homozygosity
+T17	Material 556 561	genes
+T18	Process 574 599	mitochondrial translation
+T19	Process 604 613	sequenced
+T20	Material 614 620	MRPL12
+T21	Material 631 670	the mitochondrial ribosomal protein L12
+T22	Material 727 753	a highly conserved alanine
+T25	Material 711 717	exon 5
+T26	Process 686 707	a c.542C>T transition
+T27	Process 783 796	This mutation
+T28	Data 809 839	a decreased steady-state level
+T29	Material 843 857	MRPL12 protein
+T30	Material 889 916	the large ribosomal subunit
+T31	Process 864 883	altered integration
+T32	Data 928 971	an overall mitochondrial translation defect
+T33	Material 988 1013	the subject's fibroblasts
+T34	Material 1059 1090	COXI, COXII and COXIII subunits
+T35	Process 1019 1055	a significant reduction of synthesis
+T36	Material 1117 1123	Ala181
+T37	Material 1104 1110	MRPL12
+T38	Material 1138 1145	a helix
+T39	Data 1283 1305	the elongation factors
+T40	Process 1214 1236	the p.Ala181Val change
+T43	Material 1386 1401	L7/L12 proteins
+T44	Material 1552 1573	the mammalian protein
+T45	Process 1446 1457	translation
+T46	Material 1482 1501	the mutated version
+T47	Material 1511 1522	the subject
+T48	Material 1627 1660	the eubacterial L7/L12 equivalent
+T51	Material 1720 1753	the eubacterial L7/L12 equivalent
+T52	Material 1770 1776	MRPL12
+T53	Process 1757 1766	Mutations
+T56	Process 1806 1815	Mutations
+T57	Data 1830 1859	universal translation factors
+T58	Material 1871 1897	different OXPHOS complexes
+T59	Process 1170 1197	an interface of interaction
+T60	Process 1259 1277	alter interactions
+T7	Material 310 347	muscle and fibroblasts of the subject
+T9	Material 759 781	a valine (p.Ala181Val)
+T10	Material 1335 1378	the eubacterial orthologues of human MRPL12
+T6	Process 208 226	growth retardation
+T11	Process 231 257	neurological deterioration
+T23	Process 1092 1100	Modeling
+T24	Process 1424 1442	a selective effect
+T41	Process 1675 1690	MRPL12 function
+T42	Process 1783 1802	translation defects

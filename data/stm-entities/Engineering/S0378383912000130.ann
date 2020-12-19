@@ -1,0 +1,57 @@
+T1	Material 19 36	a numerical model
+T12	Data 276 281	steep
+T13	Material 282 287	bores
+T14	Process 321 331	the NLSWEs
+T34	Data 634 646	measurements
+T39	Material 691 696	swash
+T40	Data 560 571	predictions
+T56	Material 1093 1096	air
+T61	Process 1097 1106	entrapped
+T68	Process 1311 1321	filtration
+T74	Data 1416 1428	measurements
+T86	Data 299 304	large
+T2	Material 41 58	bore-driven swash
+T3	Material 62 94	permeable coarse-grained beaches
+T4	Process 138 185	the non-linear shallow water equations (NLSWEs)
+T5	Method 200 243	the Godunov-based finite volume ADER scheme
+T6	Data 305 317	source terms
+T7	Process 333 352	The subsurface flow
+T9	Process 410 435	vertical piston-like flow
+T11	Material 478 513	the unsaturated region of the beach
+T15	Process 521 552	the horizontal groundwater flow
+T16	Process 575 606	the surface and subsurface flow
+T17	Process 652 686	large-scale laboratory experiments
+T18	Material 700 727	permeable, immobile beaches
+T19	Process 830 842	the air flow
+T20	Process 852 881	the quadratic Forchheimer law
+T21	Process 901 938	the infiltration and groundwater flow
+T24	Material 1034 1051	bore-driven swash
+T23	Process 992 1029	the surface-subsurface water exchange
+T25	Material 1055 1077	coarse-grained beaches
+T27	Data 1137 1158	the groundwater level
+T28	Material 1115 1132	the wetting front
+T29	Process 1162 1180	the water exchange
+T30	Process 1248 1266	the water exchange
+T32	Material 1360 1381	the unsaturated beach
+T33	Process 1326 1352	pore-air pressure build-up
+T35	Process 1434 1468	large-scale laboratory experiments
+T37	Data 1503 1523	experimental results
+T38	Data 1527 1530	two
+T43	Material 1531 1553	coarse-grained beaches
+T44	Process 1626 1641	swash processes
+T22	Material 96 119	The surface flow module
+T45	Process 123 131	modelled
+T46	Process 187 193	solved
+T8	Process 368 380	infiltration
+T47	Process 385 397	exfiltration
+T10	Process 442 470	horizontal pore-air movement
+T48	Material 732 749	these simulations
+T41	Data 750 762	air velocity
+T49	Process 803 825	Darcy's resistance law
+T42	Process 398 406	modelled
+T26	Material 940 969	The validated numerical model
+T31	Material 1275 1280	swash
+T50	Material 1285 1295	subsurface
+T51	Process 1385 1395	Validation
+T36	Material 1472 1483	Swash model
+T52	Process 1609 1618	modelling

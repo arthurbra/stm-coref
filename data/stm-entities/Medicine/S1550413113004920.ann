@@ -1,0 +1,61 @@
+T1	Process 14 40	transcriptional regulation
+T2	Process 44 66	pancreatic development
+T3	Process 120 151	beta cell replacement therapies
+T4	Material 156 178	patients with diabetes
+T5	Material 201 231	key transcriptional regulators
+T6	Process 260 273	mouse studies
+T7	Process 280 315	rare, naturally occurring mutations
+T8	Process 386 407	homozygosity analysis
+T9	Process 412 429	Sanger sequencing
+T10	Data 433 435	37
+T11	Material 436 459	consanguineous patients
+T12	Process 465 492	permanent neonatal diabetes
+T13	Process 507 527	homozygous mutations
+T14	Data 531 533	29
+T15	Material 534 560	transcription factor genes
+T16	Process 575 604	murine pancreatic development
+T17	Process 620 640	homozygous mutations
+T18	Data 644 645	7
+T19	Material 646 661	different genes
+T20	Data 665 667	11
+T21	Material 668 686	unrelated patients
+T23	Material 721 738	etiological genes
+T24	Process 743 760	neonatal diabetes
+T25	Process 796 807	development
+T26	Material 811 829	the human pancreas
+T27	Data 831 852	The similar phenotype
+T28	Material 856 868	the patients
+T29	Process 874 893	recessive mutations
+T30	Material 898 902	mice
+T31	Process 908 920	inactivation
+T32	Material 924 959	a transcription factor gene support
+T33	Process 998 1020	pancreatic development
+T34	Process 1063 1084	beta cell development
+T35	Material 1045 1058	rodent models
+T36	Process 1118 1138	Homozygous mutations
+T37	Data 1142 1147	seven
+T38	Data 1148 1180	pancreatic transcription factors
+T39	Process 1187 1204	neonatal diabetes
+T40	Material 1258 1271	five patients
+T41	Process 1207 1243	Homozygous NKX2-2 and MNX1 mutations
+T43	Process 1316 1353	murine and human pancreas development
+T44	Data 1356 1374	Similar phenotypes
+T46	Process 1412 1433	beta cell development
+T47	Data 1444 1462	a large collection
+T48	Material 1466 1489	consanguineous patients
+T49	Process 1495 1522	permanent neonatal diabetes
+T50	Process 1577 1596	recessive mutations
+T51	Data 1600 1621	transcription factors
+T52	Process 1647 1675	mouse pancreatic development
+T53	Data 1691 1696	seven
+T54	Data 1698 1729	ancreatic transcription factors
+T55	Process 1741 1758	neonatal diabetes
+T22	Material 701 707	NKX2-2
+T57	Material 712 716	MNX1
+T42	Material 1283 1289	NKX2-2
+T58	Material 1294 1298	MNX1
+T45	Material 1378 1383	mouse
+T59	Material 1388 1391	man
+T60	Process 1392 1400	validate
+T56	Material 1770 1776	NKX2-2
+T61	Material 1781 1785	MNX1

@@ -1,0 +1,44 @@
+T4	Material 318 330	ground flora
+T5	Process 418 429	clearfelled
+T6	Material 433 441	conifers
+T8	Material 532 551	mature native trees
+T9	Material 500 515	a clearcut site
+T13	Data 796 798	10
+T14	Material 799 824	native woody tree species
+T15	Process 840 856	the regeneration
+T16	Material 874 887	birch species
+T18	Material 941 955	clearcut sites
+T20	Material 1030 1050	a dense ground flora
+T21	Process 1061 1088	the clearfelling operations
+T22	Material 1122 1147	local native seed sources
+T23	Process 1155 1167	clearfelling
+T24	Material 1168 1199	upland conifer plantation sites
+T25	Process 1209 1229	natural regeneration
+T28	Material 223 246	a more natural woodland
+T29	Material 260 279	native tree species
+T30	Process 176 190	the conversion
+T31	Material 568 581	a seed source
+T33	Process 747 764	the establishment
+T34	Material 768 787	new native woodland
+T38	Process 91 102	established
+T2	Data 106 118	poor quality
+T39	Material 119 136	agricultural land
+T27	Material 202 219	these plantations
+T35	Data 334 336	15
+T41	Material 337 349	upland sites
+T51	Process 830 838	recorded
+T19	Material 964 978	adjacent areas
+T53	Material 982 1000	unplanted moorland
+T26	Process 1277 1289	establishing
+T54	Material 1290 1305	native woodland
+T1	Material 34 80	large tracts of non-native conifer plantations
+T3	Process 292 313	the tree regeneration
+T37	Data 393 402	sea level
+T40	Data 351 386	altitudes ranging from 120m to 380m
+T7	Process 443 455	Regeneration
+T42	Material 459 478	native tree species
+T10	Data 583 610	Mean regeneration densities
+T11	Material 614 651	native tree species on clearcut sites
+T12	Data 667 692	greater than 1000stems/ha
+T32	Data 724 742	planting densities
+T17	Data 889 911	Regeneration densities

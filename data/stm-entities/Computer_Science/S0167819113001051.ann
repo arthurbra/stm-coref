@@ -1,0 +1,31 @@
+T1	Material 0 9	SpiNNaker
+T5	Process 65 73	designed
+T9	Data 83 98	up to a billion
+T11	Process 77 82	model
+T12	Material 162 180	a SpiNNaker system
+T14	Material 209 228	integrated circuits
+T15	Material 248 254	SDRAMs
+T20	Data 299 309	this scale
+T22	Process 350 354	fail
+T29	Process 466 474	tolerate
+T33	Material 695 704	SpiNNaker
+T34	Process 705 712	operate
+T37	Process 792 800	tolerate
+T41	Process 675 686	collaborate
+T42	Material 439 461	the target application
+T44	Data 259 263	half
+T2	Material 13 64	a biologically-inspired massively-parallel computer
+T3	Data 118 127	real-time
+T6	Material 264 290	multi-core systems-on-chip
+T7	Material 334 349	some components
+T8	Process 376 391	fault-tolerance
+T10	Process 411 428	the system design
+T16	Data 486 495	low level
+T17	Process 499 507	failures
+T18	Process 585 600	fault tolerance
+T19	Process 642 674	hardware and software mechanisms
+T21	Process 758 776	component failures
+T23	Data 801 826	system-degradation levels
+T4	Data 99 114	spiking neurons
+T13	Data 195 208	more than 105
+T24	Data 230 243	half of which

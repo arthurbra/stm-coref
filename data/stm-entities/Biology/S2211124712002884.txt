@@ -1,0 +1,13 @@
+The pathogenic mechanisms of frontotemporal dementia (FTD) remain poorly understood.
+Here we generated multiple induced pluripotent stem cell lines from a control subject, a patient with sporadic FTD, and an FTD patient with a novel heterozygous GRN mutation (progranulin [PGRN] S116X).
+In neurons and microglia differentiated from PGRN S116X induced pluripotent stem cells, the levels of intracellular and secreted PGRN were reduced, establishing patient-specific cellular models of PGRN haploinsufficiency.
+Through a systematic screen of inducers of cellular stress, we found that PGRN S116X neurons, but not sporadic FTD neurons, exhibited increased sensitivity to staurosporine and other kinase inhibitors.
+Moreover, the serine/threonine kinase S6K2, a component of the phosphatidylinositol 3-kinase and mitogen-activated protein kinase pathways, was specifically downregulated in PGRN S116X neurons.
+Both increased sensitivity to kinase inhibitors and reduced S6K2 were rescued by PGRN expression.
+Our findings identify cell-autonomous, reversible defects in patient neurons with PGRN deficiency, and provide a compelling model for studying PGRN-dependent pathogenic mechanisms and testing potential therapies.
+Graphical Abstract
+Highlights
+► A human neuron model of progranulin (PGRN) haploinsufficiency is established ► Sporadic and PGRN-deficient frontotemporal dementia patient iPSCs are made ► PGRN S116X mutant neurons are sensitive to stress by kinase inhibitors ► S6K2 is downregulated in patient neurons in a PGRN-dependent manner
+Progranulin (PGRN) mutations are a common cause of frontotemporal dementia, but the underlying molecular mechanism is unknown.
+Gao and colleagues now generate multiple frontotemporal dementia patient-specific induced pluripotent stem cell lines and establish a human neuronal model of PGRN haploinsufficiency.
+Studies on human postmitotic neurons derived from these lines reveal cell-autonomous and reversible defects in specific signaling pathways that are compromised in PGRN-deficient neurons and establish a model system for studying PGRN-dependent pathogenic mechanisms and testing potential therapies.

@@ -1,0 +1,49 @@
+T1	Process 0 14	Precomputation
+T7	Data 114 123	a request
+T8	Process 124 131	arrives
+T9	Data 133 141	a packet
+T10	Process 149 158	forwarded
+T13	Data 192 211	the QoS information
+T14	Material 225 231	a node
+T15	Data 261 278	a certain request
+T16	Process 304 313	launching
+T18	Process 381 388	a route
+T19	Data 428 439	NP-complete
+T21	Process 483 495	approximated
+T28	Process 566 572	reduce
+T29	Data 573 582	the error
+T30	Process 586 596	estimating
+T32	Data 673 683	this error
+T33	Data 706 721	the performance
+T34	Process 725 742	admission control
+T35	Data 760 769	a request
+T42	Process 902 910	evaluate
+T43	Data 911 926	the performance
+T44	Process 930 942	precomputing
+T46	Method 857 871	a novel metric
+T47	Data 978 993	the performance
+T50	Process 1064 1076	discretizing
+T51	Data 1077 1089	link metrics
+T52	Data 1110 1125	the performance
+T54	Process 1167 1177	increasing
+T55	Data 1178 1188	complexity
+T2	Process 18 35	the supported QoS
+T3	Process 58 74	internet routing
+T4	Method 164 185	a simple table lookup
+T5	Material 92 106	routing tables
+T6	Process 314 338	the path finding process
+T17	Process 502 529	a polynomial time mechanism
+T20	Data 597 621	the actual supported QoS
+T22	Process 531 558	A good approximation scheme
+T23	Process 777 797	correctly classified
+T25	Data 801 823	feasible or infeasible
+T26	Data 943 960	the supported QoS
+T27	Data 882 897	distortion area
+T31	Data 1038 1055	the supported QoS
+T36	Material 997 1020	the class of algorithms
+T37	Process 1129 1142	these schemes
+T38	Method 1237 1282	discretization-based approximation algorithms
+T12	Data 441 470	the supported QoS information
+T39	Process 79 91	constructing
+T11	Data 400 424	two additive constraints
+T24	Process 1026 1037	approximate

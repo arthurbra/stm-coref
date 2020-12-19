@@ -1,0 +1,70 @@
+T2	Method 252 271	The dilution method
+T4	Material 296 312	soil communities
+T6	Method 392 409	the 10-6 dilution
+T7	Material 413 423	field soil
+T8	Method 490 512	the 10-1 soil dilution
+T10	Material 548 561	planted soils
+T11	Method 648 683	principal components analysis (PCA)
+T12	Process 739 754	planting regime
+T13	Material 908 935	planted and unplanted soils
+T14	Data 945 964	aggregate stability
+T19	Process 568 581	root activity
+T20	Data 610 626	species richness
+T24	Process 1014 1038	Mycorrhizal colonisation
+T25	Material 1049 1062	plant biomass
+T26	Material 1192 1225	planted but non-mycorrhizal soils
+T28	Material 1300 1325	these (mycorrhizal) soils
+T34	Data 1480 1499	aggregate stability
+T35	Material 1503 1545	the bare and non-mycorrhizal planted soils
+T37	Material 1617 1630	the bare soil
+T41	Process 1905 1919	mineralisation
+T42	Material 1923 1937	organic matter
+T44	Data 1867 1889	a degree of redundancy
+T46	Process 2099 2137	sustainable soil management techniques
+T47	Material 2160 2164	soil
+T48	Process 2168 2187	a dynamic ecosystem
+T57	Data 1125 1141	lower percentage
+T58	Material 1142 1156	organic matter
+T64	Data 694 725	bacterial community composition
+T66	Process 1594 1608	all treatments
+T17	Process 42 54	manipulating
+T18	Process 28 38	the effect
+T55	Material 179 250	planted (with or without mycorrhizal fungi) and in unplanted macrocosms
+T68	Process 815 825	treatments
+T16	Data 969 990	positively correlated
+T76	Data 1453 1474	positively correlated
+T80	Data 1717 1733	directly related
+T40	Data 1800 1804	more
+T83	Material 1805 1814	organic C
+T45	Process 2012 2023	the effects
+T86	Material 2027 2046	microbial diversity
+T87	Process 2089 2098	advancing
+T88	Data 2050 2071	functional parameters
+T3	Data 331 375	contrasting levels of species (TRF) richness
+T5	Material 436 480	less rich communities in bare unplanted soil
+T9	Data 996 1012	small pore sizes
+T59	Data 1161 1179	smaller pore sizes
+T27	Data 1236 1260	soil aggregate stability
+T30	Process 1265 1281	water repellency
+T29	Process 1342 1363	AMF hyphal activities
+T33	Data 1426 1448	bacterial TRF richness
+T36	Material 1547 1566	Soil organic carbon
+T51	Data 1737 1756	fungal TRF richness
+T50	Data 1691 1707	the percentage C
+T39	Material 1758 1789	The less species rich bare soil
+T38	Material 1820 1851	the more species rich bare soil
+T15	Data 1084 1123	reduced soil bacterial species richness
+T43	Material 1943 1980	additional, more utilisable C sources
+T32	Process 116 131	the development
+T53	Data 135 149	soil structure
+T54	Data 850 882	bacterial community compositions
+T1	Data 55 91	soil microbial community composition
+T22	Data 96 112	species richness
+T21	Material 756 775	planted mycorrhizal
+T23	Material 777 800	planted non-mycorrhizal
+T56	Material 805 814	bare soil
+T60	Process 1039 1048	decreased
+T31	Process 1374 1384	enmeshment
+T61	Process 1392 1411	glomalin production
+T49	Material 1670 1689	labile C from roots
+T52	Process 1650 1666	additional input

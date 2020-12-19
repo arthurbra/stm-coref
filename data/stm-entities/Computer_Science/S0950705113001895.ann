@@ -1,0 +1,44 @@
+T7	Data 144 152	new data
+T8	Data 172 187	prior knowledge
+T9	Data 118 138	additional knowledge
+T10	Process 108 117	acquiring
+T11	Process 161 171	forgetting
+T28	Process 390 400	classified
+T38	Process 572 578	varies
+T43	Data 584 588	time
+T44	Data 451 465	Approximations
+T46	Process 682 691	computing
+T47	Data 692 706	approximations
+T51	Process 712 725	the variation
+T53	Process 776 784	updating
+T60	Data 785 803	the approximations
+T61	Process 965 971	verify
+T62	Data 972 987	the performance
+T65	Method 913 924	experiments
+T76	Data 745 748	Two
+T1	Process 0 20	Incremental learning
+T2	Process 51 70	knowledge discovery
+T3	Material 74 92	a dynamic database
+T4	Method 189 205	Rough set theory
+T5	Material 236 255	information systems
+T6	Process 260 283	classification analysis
+T12	Material 285 315	Set-valued information systems
+T13	Material 342 375	single-valued information systems
+T14	Data 406 420	two categories
+T15	Process 422 449	disjunctive and conjunctive
+T16	Method 494 510	rough set theory
+T17	Material 557 571	the object set
+T18	Material 592 626	the set-valued information systems
+T19	Process 654 677	the updating mechanisms
+T20	Material 729 743	the object set
+T21	Method 749 771	incremental algorithms
+T22	Material 807 861	disjunctive/conjunctive set-valued information systems
+T23	Method 991 1014	the proposed algorithms
+T24	Process 1037 1063	the incremental approaches
+T25	Process 1089 1115	non-incremental approaches
+T26	Process 1121 1141	a dramatic reduction
+T27	Data 1145 1168	the computational speed
+T29	Process 529 550	updated incrementally
+T30	Process 646 653	analyze
+T31	Material 944 961	several data sets
+T32	Process 1064 1088	significantly outperform

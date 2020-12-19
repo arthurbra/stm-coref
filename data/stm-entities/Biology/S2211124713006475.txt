@@ -1,0 +1,21 @@
+Cranial placodes are embryonic structures essential for sensory and endocrine organ development.
+Human placode development has remained largely inaccessible despite the serious medical conditions caused by the dysfunction of placode-derived tissues.
+Here, we demonstrate the efficient derivation of cranial placodes from human pluripotent stem cells.
+Timed removal of the BMP inhibitor Noggin, a component of the dual-SMAD inhibition strategy of neural induction, triggers placode induction at the expense of CNS fates.
+Concomitant inhibition of fibroblast growth factor signaling disrupts placode derivation and induces surface ectoderm.
+Further fate specification at the preplacode stage enables the selective generation of placode-derived trigeminal ganglia capable of in vivo engraftment, mature lens fibers, and anterior pituitary hormone-producing cells that upon transplantation produce human growth hormone and adrenocorticotropic hormone in vivo.
+Our results establish a powerful experimental platform to study human cranial placode development and set the stage for the development of human cell-based therapies in sensory and endocrine disease.
+Graphical Abstract
+Highlights
+•
+Timed withdrawal of BMP inhibitor is sufficient to induce placode fates from hESCs
+•
+Timed FGF inhibition suppresses placode fate and induces epidermal lineage
+•
+Placode-derived trigeminal neurons are functional in vitro and engraft in vivo
+•
+Pituitary placode-derived cells are capable of hormone release in vitro and in vivo
+Cranial placodes are essential for the development of sensory and endocrine organs.
+Here, Studer and colleagues report the efficient derivation of cranial placodes from human pluripotent stem cells.
+They demonstrate how to obtain specific placode derivatives such as trigeminal ganglia capable of in vivo engraftment, mature lens fibers, and anterior pituitary cells capable of producing human GH and ACTH in vivo.
+Their results establish a platform for studying human cranial placode development and for applications of placode derivatives in regenerative medicine.

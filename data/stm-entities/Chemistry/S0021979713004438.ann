@@ -1,0 +1,52 @@
+T3	Material 137 152	the Mefp-1 film
+T4	Material 156 170	iron substrate
+T9	Process 105 118	the formation
+T10	Data 123 133	properties
+T11	Material 247 253	Mefp-1
+T12	Process 258 274	the complexation
+T13	Method 299 304	QCM-D
+T16	Process 326 354	an initially fast adsorption
+T17	Material 361 374	the molecules
+T18	Process 45 69	theoretical calculations
+T19	Material 411 422	the surface
+T20	Material 463 471	the film
+T21	Material 483 492	molecules
+T22	Material 510 518	solution
+T23	Process 375 407	oriented preferentially parallel
+T35	Process 568 589	enhanced complexation
+T36	Process 520 528	Exposure
+T40	Material 775 792	the surface layer
+T43	Method 825 834	the QCM-D
+T44	Process 866 874	addition
+T45	Material 878 882	Fe3+
+T46	Process 883 890	induces
+T47	Process 891 903	a transition
+T48	Material 909 943	an extended and soft protein layer
+T49	Material 947 971	a denser and stiffer one
+T52	Material 1115 1132	the surface layer
+T53	Process 1140 1148	addition
+T59	Process 1071 1078	monitor
+T64	Material 1284 1300	the surface film
+T66	Process 1311 1319	enhanced
+T70	Process 1240 1249	formation
+T2	Material 213 222	Fe3+ ions
+T7	Data 224 243	Adsorption kinetics
+T8	Process 436 455	a structural change
+T14	Material 532 556	a diluted FeCl3 solution
+T15	Material 597 622	the adsorbed protein film
+T24	Method 670 700	In situ Peak Force Tapping AFM
+T25	Method 982 998	in situ ATR-FTIR
+T26	Process 1079 1111	compositional/structural changes
+T27	Material 1152 1161	Fe3+ ions
+T28	Process 1202 1218	DFT calculations
+T33	Material 1253 1280	tri-Fe3+/catechol complexes
+T34	Method 1003 1042	Confocal Raman Micro-spectroscopy (CRM)
+T37	Process 1163 1189	The spectroscopic analyses
+T5	Process 183 207	the protein complexation
+T6	Process 635 648	water removal
+T29	Process 653 668	film compaction
+T30	Data 730 771	morphology and nano-mechanical properties
+T31	Process 1323 1336	Fe3+ addition
+T1	Method 11 18	in situ
+T32	Process 19 40	analytical techniques
+T38	Process 718 729	determining

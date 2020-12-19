@@ -1,0 +1,46 @@
+T5	Process 77 97	solid state reaction
+T8	Data 119 129	1323-1423K
+T10	Material 273 286	rock-salt MgO
+T11	Material 206 212	Mg3NF3
+T16	Data 313 319	vacant
+T17	Method 150 162	powder X-ray
+T18	Method 167 193	powder neutron diffraction
+T19	Material 321 326	Mg2NF
+T25	Material 406 420	Both compounds
+T26	Process 437 442	ionic
+T33	Material 534 555	The nitride fluorides
+T34	Data 250 261	a structure
+T37	Data 723 754	the lower temperature polymorph
+T38	Material 758 763	Mg2NF
+T39	Material 823 842	The nitride halides
+T42	Data 647 668	Definitive structures
+T43	Data 452 462	structures
+T44	Process 859 864	ionic
+T45	Process 869 876	exhibit
+T52	Data 943 964	Definitive structures
+T56	Process 504 532	crystallographically ordered
+T57	Process 1059 1087	crystallographically ordered
+T66	Material 1189 1202	The compounds
+T67	Process 1219 1224	ionic
+T68	Material 1255 1265	F- content
+T69	Data 1230 1238	ionicity
+T2	Material 297 312	one cation site
+T9	Material 472 499	nitride and fluoride anions
+T14	Process 561 607	temperature independent paramagnetic behaviour
+T24	Material 1027 1054	Nitride and fluoride anions
+T40	Material 1110 1124	Both compounds
+T46	Data 1091 1106	both structures
+T21	Material 372 404	an anti-LiFeO2 related structure
+T12	Data 216 241	cubic (space group: Pm3m)
+T20	Data 330 363	tetragonal (space group: I41/amd)
+T13	Data 608 626	between 5 and 300K
+T22	Method 1004 1023	neutron diffraction
+T1	Material 11 54	ternary nitride fluorides, Mg3NF3 and Mg2NF
+T4	Material 672 718	the ternary magnesium nitride fluorides Mg3NF3
+T6	Data 790 821	powder neutron diffraction data
+T27	Process 1133 1185	weak, temperature independent paramagnetic behaviour
+T7	Process 877 928	weak temperature independent paramagnetic behaviour
+T3	Material 101 106	Mg3N2
+T15	Material 111 115	MgF2
+T23	Material 968 974	Mg3NF3
+T28	Material 979 984	Mg2NF

@@ -1,0 +1,23 @@
+Finite-time Lyapunov exponents (FTLE) are often used to identify Lagrangian Coherent Structures (LCS).
+Most applications are confined to flows on two-dimensional (2D) surfaces where the LCS are characterized as curves.
+The extension to three-dimensional (3D) flows, whose LCS are 2D structures embedded in a 3D volume, is theoretically straightforward.
+However, in geophysical flows at regional scales, full prognostic computation of the evolving 3D velocity field is not computationally feasible.
+The vertical or diabatic velocity, then, is either ignored or estimated as a diagnostic quantity with questionable accuracy.
+Even in cases with reliable 3D velocities, it may prove advantageous to minimize the computational burden by calculating trajectories from velocities on carefully chosen surfaces only.
+When reliable 3D velocity information is unavailable or one velocity component is explicitly ignored, a reduced FTLE form to approximate 2D LCS surfaces in a 3D volume is necessary.
+The accuracy of two reduced FTLE formulations is assessed here using the ABC flow and a 3D quadrupole flow as test models.
+One is the standard approach of knitting together FTLE patterns obtained on adjacent surfaces.
+The other is a new approximation accounting for the dispersion due to vertical (u,v) shear.
+The results are compared with those obtained from the full 3D velocity field.
+We introduce two diagnostic quantities to identify situations when a fully 3D computation is required for an accurate determination of the 2D LCS.
+For the ABC flow, we found the full 3D calculation to be necessary unless the vertical (u,v) shear is sufficiently small.
+However, both methods compare favorably with the 3D calculation for the quadrupole model scaled to typical open ocean conditions.
+Highlights
+•
+Approximations of 2D Lagrangian coherent structures in 3D flows are studied.
+•
+Vertical shear is shown to be important in the three-dimensional flows.
+•
+A new approximate Cauchy-Green tensor without using vertical velocities is proposed.
+•
+Two velocity gradient diagnostics help to decide when the full 3D velocity is needed.

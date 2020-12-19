@@ -1,0 +1,67 @@
+T5	Material 73 98	clinically relevant cells
+T6	Process 130 151	regenerative medicine
+T8	Material 208 225	specialized cells
+T9	Process 250 269	universal protocols
+T10	Process 231 246	the development
+T11	Process 274 288	the production
+T14	Material 422 446	a defined culture system
+T21	Material 521 526	hPSCs
+T22	Material 528 533	hFSCs
+T26	Process 538 548	self-renew
+T27	Data 567 581	their capacity
+T28	Process 555 566	maintaining
+T29	Process 585 598	differentiate
+T36	Material 788 793	hFSCs
+T37	Process 823 829	bypass
+T38	Process 830 841	variability
+T45	Data 1019 1035	a clinical value
+T49	Process 1085 1092	derived
+T54	Process 1144 1152	expanded
+T55	Data 1164 1195	their differentiation potential
+T61	Process 1217 1230	differentiate
+T64	Material 1329 1339	cell lines
+T66	Material 1387 1411	a defined culture system
+T76	Material 1503 1508	hFSCs
+T77	Process 1513 1523	self-renew
+T81	Material 1609 1614	hFSCs
+T82	Process 1530 1541	maintaining
+T87	Data 1755 1769	clinical value
+T88	Process 1704 1711	produce
+T90	Process 968 975	produce
+T91	Process 199 207	generate
+T94	Process 1157 1163	retain
+T97	Process 1625 1645	a sustainable source
+T98	Process 51 69	an infinite source
+T1	Material 0 36	Human pluripotent stem cells (hPSCs)
+T2	Material 162 172	hPSC lines
+T3	Material 292 313	tissue-specific cells
+T4	Material 385 407	the endodermal lineage
+T7	Material 475 507	human foregut stem cells (hFSCs)
+T13	Material 604 632	pancreatic and hepatic cells
+T15	Material 647 683	near-homogenous populations of hFSCs
+T16	Material 705 715	hPSC lines
+T17	Process 735 775	refractory to endodermal differentiation
+T18	Material 850 867	pluripotent lines
+T19	Material 887 942	a sustainable source of multipotent endoderm stem cells
+T20	Material 976 1013	a diversity of endodermal derivatives
+T23	Material 1050 1080	Multipotent foregut stem cells
+T24	Material 1098 1115	pluripotent cells
+T25	Material 1118 1136	Foregut stem cells
+T30	Material 1198 1216	Foregut stem cells
+T31	Material 1236 1262	liver and pancreatic cells
+T32	Material 1265 1283	Foregut stem cells
+T33	Process 1293 1320	differentiation variability
+T35	Material 1440 1472	human foregut stem cells (hFSCs)
+T39	Material 1478 1501	human pluripotent cells
+T40	Material 1579 1607	pancreatic and hepatic cells
+T41	Data 1542 1556	their capacity
+T42	Material 1649 1677	multipotent endodermal cells
+T43	Material 1712 1749	a diversity of endodermal derivatives
+T44	Process 411 421	developing
+T12	Process 450 456	expand
+T46	Process 461 474	differentiate
+T47	Process 508 515	derived
+T48	Process 1284 1292	decrease
+T50	Process 1377 1386	developed
+T34	Process 1415 1428	differentiate
+T51	Process 1433 1439	expand

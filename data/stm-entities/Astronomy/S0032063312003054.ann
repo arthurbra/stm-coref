@@ -1,0 +1,116 @@
+T1	Data 23 32	asymmetry
+T2	Data 45 69	the energy distributions
+T5	Data 99 108	M/Q=16-44
+T6	Data 117 127	signatures
+T7	Process 131 153	electron precipitation
+T8	Material 157 179	the Martian ionosphere
+T9	Process 190 200	classified
+T13	Method 317 329	ASPERA-3 ELS
+T14	Data 339 349	signatures
+T15	Process 353 375	electron precipitation
+T16	Material 388 398	MEX orbits
+T17	Data 379 384	43.0%
+T21	Material 537 541	Mars
+T22	Data 558 562	∼70%
+T23	Material 400 423	Unaccelerated electrons
+T24	Process 566 576	the events
+T25	Material 601 610	Electrons
+T28	Material 680 707	local ionospheric electrons
+T29	Data 713 729	enhanced density
+T30	Material 734 743	electrons
+T35	Material 879 888	electrons
+T36	Data 915 924	the shape
+T37	Material 928 956	most electron energy spectra
+T38	Process 864 875	The heating
+T39	Material 1059 1063	Mars
+T40	Process 1084 1101	the precipitation
+T41	Material 1105 1114	electrons
+T42	Process 1018 1034	the general flow
+T43	Material 1038 1048	heavy-ions
+T46	Process 1153 1181	the finite gyroradius effect
+T47	Data 1238 1242	∼17%
+T48	Process 1246 1252	events
+T49	Process 1271 1293	heavy-ion acceleration
+T52	Data 1459 1469	signatures
+T53	Process 1473 1495	electron precipitation
+T54	Material 1505 1514	electrons
+T55	Process 1563 1572	isotropic
+T57	Data 1534 1555	very little asymmetry
+T58	Material 1577 1587	heavy-ions
+T59	Process 1598 1615	a upward net flux
+T60	Process 1629 1647	the upward current
+T61	Material 1664 1670	aurora
+T62	Data 1689 1710	reliable measurements
+T63	Material 1714 1723	electrons
+T64	Material 1743 1747	Mars
+T65	Process 1790 1805	upward currents
+T66	Data 1770 1786	further evidence
+T67	Process 1724 1734	travelling
+T69	Data 1893 1903	signatures
+T70	Process 1907 1929	electron precipitation
+T71	Data 1977 1987	asymmetric
+T72	Process 1997 2015	an net upward flux
+T73	Process 2065 2082	a net upward flux
+T74	Data 2022 2035	distributions
+T75	Material 2039 2049	heavy-ions
+T76	Data 2084 2104	Energy distributions
+T77	Material 2108 2118	heavy-ions
+T78	Process 2124 2134	a net flux
+T79	Material 2143 2147	Mars
+T80	Material 2171 2181	heavy-ions
+T81	Process 2187 2205	an upward net flux
+T82	Process 2252 2269	downward currents
+T85	Data 2324 2344	energy distributions
+T86	Material 2348 2357	electrons
+T87	Data 2367 2377	asymmetric
+T88	Process 2387 2405	an upward net flux
+T89	Data 2421 2441	energy distributions
+T90	Material 2445 2455	heavy-ions
+T91	Process 2466 2485	a downward net flux
+T92	Material 2575 2584	electrons
+T93	Material 2518 2551	downward parallel electric fields
+T96	Data 2598 2625	a large amount of asymmetry
+T97	Process 2653 2676	the energy distribution
+T98	Process 2686 2703	a upward net flux
+T99	Material 2725 2733	ASPERA-3
+T100	Process 2737 2745	classify
+T101	Data 2746 2766	particle asymmetries
+T102	Process 2774 2796	electron precipitation
+T103	Material 2800 2804	Mars
+T106	Data 2828 2847	energy distribution
+T108	Process 2924 2939	upward currents
+T110	Process 2970 2987	downward currents
+T111	Data 2899 2912	Distributions
+T112	Process 2991 3005	Heavy-ion flow
+T113	Material 3009 3013	Mars
+T114	Process 3035 3057	electron precipitation
+T115	Data 3065 3083	finite gyro-radius
+T116	Process 3087 3099	Acceleration
+T117	Material 3103 3113	heavy-ions
+T118	Process 3140 3162	electron precipitation
+T10	Method 231 263	the space plasma instrumentation
+T119	Material 267 279	MEX ASPERA-3
+T120	Process 1309 1319	concurrent
+T121	Material 1326 1339	the periphery
+T122	Data 2629 2649	the upward direction
+T124	Process 744 755	transported
+T131	Process 1941 1954	distributions
+T132	Material 1958 1967	electrons
+T4	Data 285 315	peri-centre altitude to 2200km
+T12	Data 501 533	electron precipitation signature
+T18	Data 621 668	unaccelerated electron precipitation signatures
+T19	Material 761 809	another region of ionosphere, solar wind or tail
+T20	Data 962 998	accelerated precipitation signatures
+T26	Material 1185 1231	the heavy-ions on crustal magnetic field lines
+T27	Data 1343 1378	an electron precipitation signature
+T33	Data 2277 2310	electron precipitation signatures
+T34	Process 2487 2513	Wave particle interactions
+T3	Material 73 82	electrons
+T45	Material 87 97	heavy-ions
+T11	Process 439 472	sudden electron flux enhancements
+T32	Material 814 862	a combination of local and transported electrons
+T31	Data 1411 1454	electron and heavy-ion energy distributions
+T50	Data 1845 1888	electron and heavy-ion energy distributions
+T44	Material 2854 2873	isotropic electrons
+T51	Material 2878 2895	upward heavy-ions
+T56	Data 2949 2959	four times

@@ -1,0 +1,30 @@
+T1	Data 15 28	excess volume
+T2	Process 34 51	recrystallization
+T3	Material 55 75	ultrafine-grained Cu
+T4	Process 88 115	high-pressure torsion (HPT)
+T5	Method 140 201	the direct technique of high-precision difference dilatometry
+T6	Method 222 261	differential scanning calorimetry (DSC)
+T7	Method 266 294	scanning electron microscopy
+T8	Process 301 318	the length change
+T9	Material 350 366	grain boundaries
+T10	Process 335 346	the removal
+T11	Material 370 400	the wake of crystallite growth
+T12	Material 431 447	grain boundaries
+T13	Data 449 518	the grain boundary excess volume or expansion eGB=(0.46±0.11)×10-10 m
+T14	Material 607 642	grain boundaries in HPT-deformed Ni
+T15	Process 591 602	dilatometry
+T16	Process 644 663	Activation energies
+T17	Material 668 686	crystallite growth
+T18	Data 690 715	0.99±0.11 and 0.96±0.06eV
+T19	Method 731 749	Kissinger analysis
+T22	Material 810 812	Ni
+T23	Process 814 839	substantial length change
+T24	Material 852 854	Cu
+T25	Data 858 879	elevated temperatures
+T26	Process 887 928	the regime of dominant crystallite growth
+T27	Process 967 1010	tracer diffusion and permeation experiments
+T28	Material 1053 1062	nanovoids
+T29	Data 1066 1083	high temperatures
+T30	Process 1036 1049	the shrinkage
+T31	Process 76 84	deformed
+T20	Data 755 779	dilatometry and DSC data

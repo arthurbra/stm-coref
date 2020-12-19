@@ -1,0 +1,40 @@
+T1	Data 4 5	O
+T3	Material 30 44	a global field
+T4	Data 45 46	K
+T5	Data 52 53	R
+T6	Data 54 81	a classical maximal O-order
+T7	Data 85 109	a central simple algebra
+T8	Data 115 116	K
+T9	Process 146 160	factorizations
+T11	Data 164 185	cancellative elements
+T12	Data 189 190	R
+T14	Process 260 283	a transfer homomorphism
+T15	Data 287 295	a monoid
+T17	Material 323 340	a ray class group
+T18	Data 344 345	O
+T19	Data 366 403	all the structural finiteness results
+T20	Data 503 504	R
+T21	Material 465 483	finite class group
+T22	Data 434 459	commutative Krull monoids
+T23	Data 509 510	O
+T24	Material 548 562	a number field
+T25	Data 563 564	K
+T27	Material 583 602	the remaining cases
+T28	Process 611 632	transfer homomorphism
+T30	Data 704 712	infinite
+T31	Material 652 670	several invariants
+T2	Data 9 21	a holomorphy
+T33	Material 22 26	ring
+T10	Material 127 131	sets
+T34	Data 135 142	lengths
+T13	Data 196 216	atoms (irreducibles)
+T16	Material 308 317	sequences
+T35	Data 299 307	zero-sum
+T32	Material 408 412	sets
+T36	Data 416 423	lengths
+T26	Material 514 522	the ring
+T37	Data 526 544	algebraic integers
+T29	Material 684 688	sets
+T38	Data 692 699	lengths
+T39	Object 127 216	sets of lengths of factorizations of cancellative elements of R into atoms (irreducibles)
+T40	Result 506 712	If O is the ring of algebraic integers of a number field K, we prove that in the remaining cases no such transfer homomorphism can exist and that several invariants dealing with sets of lengths are infinite

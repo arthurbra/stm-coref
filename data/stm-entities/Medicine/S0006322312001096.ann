@@ -1,0 +1,54 @@
+T1	Data 143 174	standard clinical risk profiles
+T2	Process 31 48	vascular diseases
+T3	Process 53 74	later-life depression
+T4	Process 189 206	vascular diseases
+T5	Material 243 255	older adults
+T6	Data 220 239	depressive symptoms
+T7	Process 212 219	predict
+T8	Method 287 309	the Whitehall II study
+T9	Process 345 365	follow-up screenings
+T10	Process 315 335	baseline examination
+T11	Data 369 389	1997, 2003, and 2008
+T12	Data 339 343	1991
+T13	Data 530 549	depressive symptoms
+T16	Material 433 446	hospital data
+T17	Material 451 467	registry linkage
+T18	Data 553 561	baseline
+T22	Data 563 576	Vascular risk
+T24	Process 701 725	each follow-up screening
+T25	Method 745 782	General Health Questionnaire caseness
+T26	Material 858 883	antidepressant medication
+T27	Process 894 920	Diagnosed vascular disease
+T30	Process 1007 1026	depressive symptoms
+T31	Data 1028 1121	age- and sex-adjusted odds ratios from 1.5 (95% confidence interval 1.0-2.2) to 2.0 (1.4-3.0)
+T32	Data 1153 1172	depressive symptoms
+T33	Data 1136 1149	the indicator
+T34	Process 1201 1226	manifest vascular disease
+T37	Method 1270 1319	Center for Epidemiologic Studies Depression Scale
+T38	Method 784 835	a Center for Epidemiologic Studies Depression Scale
+T39	Data 836 845	score ≥16
+T41	Data 1455 1470	the risk scores
+T42	Data 1530 1556	odds ratios from .8 to 1.2
+T43	Material 1514 1528	those aged ≥65
+T45	Data 1320 1353	depressive symptoms before age 65
+T46	Process 1596 1618	public health measures
+T47	Data 1683 1713	later-life depressive symptoms
+T48	Data 1718 1731	reduced rates
+T49	Process 1735 1760	manifest vascular disease
+T50	Data 1630 1650	vascular risk status
+T52	Process 12 27	Common etiology
+T53	Material 1180 1192	participants
+T54	Data 985 1002	an increased risk
+T55	Data 1355 1440	age- and sex-adjusted odds ratio per 10% absolute change in the score = 3.1 [1.5-6.5]
+T51	Data 87 106	important synergies
+T15	Process 395 427	additional disease ascertainment
+T14	Material 471 488	5318 participants
+T56	Data 490 520	mean age 54.8 years, 31% women
+T19	Data 595 672	the Framingham Cardiovascular, Coronary Heart Disease, and Stroke Risk Scores
+T20	Process 931 963	coronary heart disease or stroke
+T21	Data 674 697	New depressive symptoms
+T23	Data 1228 1249	the Stroke Risk Score
+T28	Data 1481 1510	new-onset depressive symptoms
+T29	Process 111 121	prevention
+T35	Process 581 589	assessed
+T36	Process 1622 1629	improve

@@ -1,0 +1,51 @@
+T1	Process 0 14	The disruption
+T2	Material 18 44	large-scale brain networks
+T3	Process 92 119	neurodegenerative dementias
+T4	Material 133 139	adults
+T5	Process 145 188	behavioural variant frontotemporal dementia
+T6	Process 193 223	progressive supranuclear palsy
+T7	Method 230 252	magnetoencephalography
+T8	Process 260 288	an auditory oddball paradigm
+T9	Process 290 310	Network connectivity
+T10	Material 317 365	bilateral temporal, frontal and parietal sources
+T11	Process 385 409	dynamic causal modelling
+T12	Process 482 495	both diseases
+T13	Process 433 452	a systematic change
+T14	Process 456 478	effective connectivity
+T15	Material 511 527	healthy subjects
+T16	Process 537 553	focal modulation
+T17	Material 557 602	intrahemispheric frontal-temporal connections
+T18	Material 604 622	the patient groups
+T19	Material 630 675	abnormally extensive and inefficient networks
+T20	Process 725 743	impaired responses
+T21	Material 747 766	the auditory cortex
+T22	Process 677 704	The changes in connectivity
+T23	Process 770 801	unexpected deviant tones (MMNm)
+T24	Process 811 827	normal responses
+T25	Material 831 847	standard stimuli
+T26	Process 886 903	neurodegeneration
+T27	Data 907 910	two
+T28	Process 911 938	distinct clinical syndromes
+T29	Process 968 986	prefrontal atrophy
+T30	Data 944 964	overlapping profiles
+T31	Data 995 1012	a similar pattern
+T33	Process 1067 1094	this network reorganisation
+T34	Process 1119 1140	focal brain disorders
+T35	Process 1204 1229	neurodegenerative disease
+T36	Material 1175 1200	functional brain networks
+T37	Data 1145 1171	the specific vulnerability
+T38	Data 1255 1258	two
+T39	Process 1247 1254	compare
+T40	Process 1259 1295	distinct neurodegenerative syndromes
+T41	Process 1301 1319	prefrontal atrophy
+T42	Process 1345 1351	impair
+T44	Process 1352 1392	the automatic detection of change (MMNm)
+T45	Method 1402 1405	DCM
+T46	Process 1428 1436	diseases
+T47	Process 1445 1475	similar network reorganisation
+T48	Process 1490 1523	principled network reorganisation
+T49	Process 1539 1562	prefrontal degeneration
+T50	Process 124 132	assessed
+T32	Process 1016 1030	reorganisation
+T51	Material 1034 1054	large-scale networks
+T43	Process 1331 1344	both diseases

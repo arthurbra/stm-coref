@@ -1,0 +1,28 @@
+Background
+Although magnetoencephalography (MEG) studies show superior temporal gyrus (STG) auditory processing abnormalities in schizophrenia at 50 and 100ms, EEG and corticography studies suggest involvement of additional brain areas (e.g., frontal areas) during this interval.
+Study goals were to identify 30 to 130ms auditory encoding processes in schizophrenia (SZ) and healthy controls (HC) and group differences throughout the cortex.
+Methods
+The standard paired-click task was administered to 19 SZ and 21 HC subjects during MEG recording.
+Vector-based Spatial-temporal Analysis using L1-minimum-norm (VESTAL) provided 4D maps of activity from 30 to 130ms.
+Within-group t-tests compared post-stimulus 50ms and 100ms activity to baseline.
+Between-group t-tests examined 50 and 100ms group differences.
+Results
+Bilateral 50 and 100ms STG activity was observed in both groups.
+HC had stronger bilateral 50 and 100ms STG activity than SZ.
+In addition to the STG group difference, non-STG activity was also observed in both groups.
+For example, whereas HC had stronger left and right inferior frontal gyrus activity than SZ, SZ had stronger right superior frontal gyrus and left supramarginal gyrus activity than HC.
+Conclusions
+Less STG activity was observed in SZ than HC, indicating encoding problems in SZ.
+Yet auditory encoding abnormalities are not specific to STG, as group differences were observed in frontal and SMG areas.
+Thus, present findings indicate that individuals with SZ show abnormalities in multiple nodes of a concurrently activated auditory network.
+Highlights
+•
+Auditory encoding in schizophrenia (SZ) and healthy controls (HC) was examined.
+•
+Distributed source localization provided whole-brain measures from 30 to 130ms.
+•
+Abnormalities were observed in superior temporal gyrus (STG) auditory areas in SZ.
+•
+Encoding abnormalities were also observed in frontal and supramarginal gyrus areas.
+•
+SZ shows abnormalities in multiple nodes of a distributed auditory network.

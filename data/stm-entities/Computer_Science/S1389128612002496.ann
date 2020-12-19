@@ -1,0 +1,53 @@
+T5	Material 101 108	packets
+T6	Data 95 100	fewer
+T7	Process 119 135	legitimate flows
+T11	Data 150 167	the vulnerability
+T13	Data 250 263	severe damage
+T21	Process 557 564	congest
+T22	Material 565 576	the network
+T30	Process 664 670	A flow
+T31	Data 676 681	a CPR
+T35	Material 773 784	its packets
+T36	Process 793 800	dropped
+T37	Data 834 837	CPR
+T48	Data 952 955	CPR
+T49	Process 805 812	analyze
+T50	Process 983 990	conduct
+T53	Data 1079 1101	our analytical results
+T54	Data 1115 1130	the performance
+T55	Process 1106 1114	evaluate
+T56	Method 1134 1155	the proposed approach
+T32	Data 694 716	a predefined threshold
+T41	Process 720 730	classified
+T64	Process 855 866	quantifying
+T67	Process 320 326	detect
+T68	Process 229 235	detect
+T70	Process 1070 1078	validate
+T1	Process 22 89	TCP-targeted Low-rate Distributed Denial-of-Service (LDDoS) attacks
+T2	Method 171 205	TCP's congestion control mechanism
+T3	Material 267 289	TCP-based applications
+T4	Process 343 358	an LDDoS attack
+T8	Process 381 392	LDDoS flows
+T9	Data 437 472	Congestion Participation Rate (CPR)
+T12	Method 479 499	a CPR-based approach
+T15	Process 521 534	LDDoS attacks
+T16	Method 602 623	the CPR-base approach
+T17	Process 651 662	LDDoS flows
+T18	Process 734 747	an LDDoS flow
+T19	Data 867 893	the average CPR difference
+T10	Process 991 1007	ns-2 simulations
+T24	Process 1009 1029	test-bed experiments
+T25	Process 1035 1066	Internet traffic trace analysis
+T26	Method 1195 1226	the proposed CPR-based approach
+T27	Method 1271 1330	an existing Discrete Fourier Transform (DFT)-based approach
+T28	Process 1383 1396	LDDoS attacks
+T29	Data 1446 1463	the CPR threshold
+T33	Process 112 118	attack
+T14	Process 503 509	detect
+T34	Process 514 520	filter
+T38	Data 420 434	a novel metric
+T39	Process 642 650	identify
+T20	Process 960 973	differentiate
+T23	Process 902 918	normal TCP flows
+T40	Process 923 934	LDDoS flows
+T42	Process 1373 1382	detecting

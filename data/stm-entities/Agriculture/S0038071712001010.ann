@@ -1,0 +1,71 @@
+T4	Process 0 31	The spatial and temporal nature
+T6	Material 337 356	Plantago lanceolata
+T7	Process 361 371	inoculated
+T11	Material 446 485	every combination of the fungal species
+T14	Material 515 538	each individual species
+T15	Process 487 498	Infectivity
+T16	Process 628 637	colonised
+T19	Process 699 706	induced
+T20	Material 820 823	AMF
+T21	Data 749 768	Aggregate stability
+T22	Data 773 800	aggregate size distribution
+T24	Material 869 888	Microbial biomass-C
+T25	Material 910 915	roots
+T29	Material 1002 1012	G. mosseae
+T30	Material 1030 1045	G. intraradices
+T31	Process 991 998	reduced
+T32	Process 1017 1026	increased
+T33	Material 1074 1089	G. intraradices
+T35	Data 1165 1177	Porosity (%)
+T36	Material 1195 1205	G. mosseae
+T37	Material 1356 1367	plant roots
+T38	Material 1409 1437	arbuscular mycorrhizal fungi
+T39	Material 1466 1480	Glomus mosseae
+T40	Material 1498 1517	Glomus intraradices
+T43	Material 1521 1531	G. mosseae
+T44	Material 1584 1599	G. intraradices
+T45	Material 1557 1580	neighbouring soil pores
+T46	Material 1627 1650	neighbouring soil pores
+T47	Data 1540 1548	distance
+T48	Data 1610 1618	distance
+T50	Data 1371 1390	Aggregate stability
+T53	Material 1128 1133	pores
+T54	Material 1141 1163	the experimental soils
+T55	Data 1102 1119	greater distances
+T57	Data 1247 1260	less distance
+T58	Process 1283 1299	overall porosity
+T61	Process 806 816	unaffected
+T62	Process 833 842	increased
+T63	Process 898 906	enhanced
+T64	Process 1182 1191	increased
+T68	Process 35 59	the precise interactions
+T69	Process 222 238	the relationship
+T23	Material 862 867	roots
+T1	Material 68 88	soil fungi and roots
+T3	Material 247 299	three species of arbuscular mycorrhizal fungus (AMF)
+T5	Data 304 335	soil structural characteristics
+T18	Process 647 680	the lower percentage colonisation
+T60	Process 707 747	the greatest mycorrhizal growth response
+T26	Data 917 926	Pore size
+T27	Data 928 950	pore size distribution
+T28	Data 955 981	nearest neighbour distance
+T34	Material 1047 1062	All AMF inocula
+T56	Material 1222 1241	more, smaller pores
+T49	Data 1314 1338	Soil aggregate stability
+T65	Data 1441 1450	Pore size
+T17	Data 596 627	the lowest per cent root length
+T41	Material 682 698	this combination
+T42	Process 1274 1282	enhanced
+T51	Process 1343 1352	increased
+T52	Process 1395 1405	unaffected
+T59	Process 1455 1462	reduced
+T66	Process 1485 1494	increased
+T67	Process 1532 1539	reduced
+T70	Process 1600 1609	increased
+T2	Process 118 128	developing
+T10	Data 129 143	soil structure
+T8	Material 385 401	Glomus geosporum
+T12	Material 403 417	Glomus mosseae
+T13	Material 421 440	Glomus intraradices
+T9	Material 544 554	G. mosseae
+T71	Material 559 574	G. intraradices

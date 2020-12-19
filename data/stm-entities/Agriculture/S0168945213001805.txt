@@ -1,0 +1,9 @@
+Biomass is a prime target for genetic engineering in forestry because increased biomass yield will benefit most downstream applications such as timber, fiber, pulp, paper, and bioenergy production.
+Transgenesis can increase biomass by improving resource acquisition and product utilization and by enhancing competitive ability for solar energy, water, and mineral nutrients.
+Transgenes that affect juvenility, winter dormancy, and flowering have been shown to influence biomass as well.
+Transgenic approaches have increased yield potential by mitigating the adverse effects of prevailing stress factors in the environment.
+Simultaneous introduction of multiple genes for resistance to various stress factors into trees may help forest trees cope with multiple or changing environments.
+We propose multi-trait engineering for tree crops, simultaneously deploying multiple independent genes to address a set of genetically uncorrelated traits that are important for crop improvement.
+This strategy increases the probability of unpredictable (synergistic or detrimental) interactions that may substantially affect the overall phenotype and its long-term performance.
+The very limited ability to predict the physiological processes that may be impacted by such a strategy requires vigilance and care during implementation.
+Hence, we recommend close monitoring of the resultant transgenic genotypes in multi-year, multi-location field trials.

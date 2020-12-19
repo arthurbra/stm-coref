@@ -1,0 +1,67 @@
+T1	Method 31 60	a robust two-layer classifier
+T2	Material 90 195	normal hearing (NH) from hearing impaired (HI) infants with congenital sensori-neural hearing loss (SNHL)
+T3	Process 70 89	accurately classify
+T4	Data 205 241	their Magnetic Resonance (MR) images
+T5	Data 283 317	the intensity of each single voxel
+T6	Data 332 351	high-level features
+T7	Data 368 431	the structural MR images (sMRI) and functional MR images (fMRI)
+T8	Method 433 487	The Scale Invariant Feature Transform (SIFT) algorithm
+T9	Data 524 542	the local features
+T10	Material 546 550	sMRI
+T12	Material 556 560	fMRI
+T13	Material 577 590	contrast maps
+T14	Process 565 576	constructed
+T15	Process 595 603	detected
+T16	Material 604 643	the most activated/de-activated regions
+T17	Material 647 662	each individual
+T18	Material 673 694	those salient regions
+T19	Material 712 723	individuals
+T20	Method 725 750	the bag-of-words strategy
+T21	Process 769 778	vectorize
+T22	Material 779 796	the contrast maps
+T23	Method 811 828	a two-layer model
+T24	Process 832 841	integrate
+T25	Data 842 869	these two types of features
+T26	Method 885 928	the leave-one-out cross-validation approach
+T27	Method 930 951	this integrated model
+T28	Data 961 981	an AUC score of 0.90
+T29	Material 1023 1054	several important brain regions
+T30	Material 1075 1101	between NH and HI children
+T31	Process 1060 1074	differentiated
+T32	Material 1111 1124	these regions
+T34	Material 1172 1231	well known auditory and visual language association regions
+T35	Material 1246 1281	the anterior cingulate cortex (ACC)
+T36	Material 1347 1366	HI from NH children
+T37	Process 1331 1346	differentiating
+T38	Process 1403 1417	brain function
+T39	Process 1425 1437	the disorder
+T40	Material 1446 1475	These important brain regions
+T41	Data 1485 1490	clues
+T42	Process 1497 1509	neuroimaging
+T43	Data 1510 1517	markers
+T44	Process 1560 1583	functional neuroimaging
+T45	Process 1611 1639	speech and language outcomes
+T46	Material 1643 1684	HI infants who receive a cochlear implant
+T47	Data 1699 1721	prognostic information
+T48	Process 1829 1834	probe
+T49	Material 1878 1907	hearing impaired (HI) infants
+T50	Process 1835 1874	brain structural and functional changes
+T51	Method 1920 1949	a robust two-layer classifier
+T52	Process 1955 1965	integrates
+T53	Material 1966 1984	sMRI and fMRI data
+T54	Method 1988 2009	This integrated model
+T55	Material 2031 2053	HI from normal infants
+T56	Data 2055 2062	AUC 0.9
+T57	Process 2010 2030	accurately separates
+T58	Material 2086 2109	important brain regions
+T59	Material 2128 2149	HI and normal infants
+T60	Material 2176 2197	diverse types of data
+T61	Process 2222 2230	diseases
+T62	Method 2067 2077	Our method
+T63	Method 2153 2163	Our method
+T11	Process 504 510	detect
+T64	Process 515 523	describe
+T65	Method 997 1010	our algorithm
+T33	Material 1131 1147	planum temporale
+T66	Material 1152 1165	angular gyrus
+T67	Data 1593 1604	predictions

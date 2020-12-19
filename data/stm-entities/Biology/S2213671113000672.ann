@@ -1,0 +1,57 @@
+T1	Process 0 11	Tauopathies
+T3	Process 78 94	the accumulation
+T7	Material 126 132	brains
+T8	Process 170 179	tauopathy
+T23	Process 360 372	the mutation
+T24	Process 373 382	corrected
+T25	Process 401 424	the homozygous mutation
+T26	Process 425 435	engineered
+T32	Process 516 533	neurodegeneration
+T37	Material 635 644	a patient
+T38	Material 650 659	TAU-A152T
+T42	Process 732 740	restored
+T43	Process 757 766	decreases
+T47	Material 862 869	neurons
+T48	Process 875 898	the homozygous mutation
+T49	Process 833 842	tauopathy
+T4	Material 98 122	pathological TAU protein
+T5	Material 326 349	two isogenic iPSC lines
+T50	Material 900 929	These isogenic TAU-iPSC lines
+T51	Process 1017 1028	tauopathies
+T59	Process 1168 1177	tauopathy
+T60	Material 1184 1199	TAU-A152T-iPSCs
+T63	Process 1246 1255	tauopathy
+T64	Process 1202 1212	Correction
+T65	Process 1258 1268	Engineered
+T67	Process 1311 1320	tauopathy
+T73	Process 1376 1385	tauopathy
+T74	Process 847 858	intensified
+T75	Process 1299 1310	intensifies
+T76	Process 1235 1245	eliminates
+T77	Process 996 1013	mechanistic study
+T80	Process 970 991	the accurate modeling
+T2	Process 22 60	a group of neurodegenerative disorders
+T14	Material 144 166	a human neuronal model
+T9	Material 193 231	induced pluripotent stem cells (iPSCs)
+T6	Process 241 261	a TAU-A152T mutation
+T10	Process 269 311	zinc-finger nuclease-mediated gene editing
+T11	Process 437 455	The A152T mutation
+T12	Process 466 503	TAU fragmentation and phosphorylation
+T13	Process 549 568	axonal degeneration
+T15	Data 570 595	These cellular phenotypes
+T16	Process 666 685	mutation correction
+T17	Data 687 726	normal neuronal and axonal morphologies
+T18	Process 770 807	TAU fragmentation and phosphorylation
+T19	Data 817 829	the severity
+T20	Material 1034 1047	human neurons
+T21	Process 1075 1097	drug-screening efforts
+T22	Process 1109 1129	cell-based therapies
+T27	Material 1144 1164	A human neuron model
+T28	Process 1216 1234	TAU-A152T mutation
+T29	Process 1269 1298	homozygous TAU-A152T mutation
+T30	Process 1323 1337	A152T mutation
+T31	Process 1348 1363	TAU proteolysis
+T33	Process 180 187	derived
+T34	Process 316 325	generated
+T35	Process 456 465	increased
+T36	Process 1338 1347	increases

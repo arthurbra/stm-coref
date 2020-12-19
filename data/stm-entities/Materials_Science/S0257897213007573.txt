@@ -1,0 +1,18 @@
+It is reported that a dual-layer carbon film on SiC wafer is prepared using carbide-derived carbon (CDC) process with subsequent chemical vapor deposition (CVD).
+The dual-layer film includes a sub-layer of CDC and a top layer of CVD, which are prepared by chlorination of SiC and pyrolysis of CCl4 at high temperature respectively.
+The CDC and CVD layers are mainly amorphous.
+And similar dispersion effects are observed in the Raman spectra, although the D-band position of the CVD layer shifts to higher wavenumber (~1354cm-1) than that of the CDC layer (~1337cm-1).
+Surface chemistry analysis suggests that the unstable chemical bonds, mainly C-Cl, as well as dangling bonds in the CDC layer play an important role in promoting the nucleation of CVD carbon.
+The surface morphology evolvement from SiC wafer to CDC layer and to dual-layer film is investigated by atomic force microscopy [AFM] and field emission scanning electronic microscopy [FESEM].
+The nanoporous surface formed in the CDC process is favorable for capturing carbon species from the gas phase and can act as a "seedbed" for the nucleation and growth of CVD layer.
+The primary tribological study indicates that the dual-layer film shows great advantages in friction reduction and wear resistance with comparison to SiC and CDC layer, suggesting its potential in lubrication for SiC-based moving components.
+Graphical abstract
+Highlights
+•
+The dual-layer carbon film is prepared using CDC process with subsequent CVD method.
+•
+The surface of the CDC layer is highly porous in structure and chemically active.
+•
+The CDC layer acts as a seedbed layer for the nucleation and growth of the CVD layer.
+•
+The dual-layer film is tested as an effective lubricating coating for SiC components.

@@ -1,0 +1,74 @@
+T1	Material 122 147	the Kronian magnetosphere
+T2	Material 0 18	The moon Enceladus
+T3	Material 89 118	neutral and charged particles
+T5	Material 206 239	geysers on the south polar region
+T6	Process 268 272	feed
+T7	Material 273 283	the E-ring
+T10	Material 380 402	the Cassini spacecraft
+T11	Process 403 407	flew
+T12	Material 417 425	the moon
+T13	Data 426 434	14 times
+T14	Data 446 460	as low as 25km
+T15	Material 467 478	the surface
+T16	Material 500 509	the plume
+T17	Material 551 581	plasma and energetic particles
+T18	Data 535 547	measurements
+T19	Material 589 598	the plume
+T20	Material 603 625	its immediate vicinity
+T24	Method 762 818	the Low Energy Magnetospheric Measurement System (LEMMS)
+T25	Material 828 872	the Magnetospheric Imaging Instrument (MIMI)
+T26	Material 881 888	Cassini
+T27	Material 953 984	the magnetometer instrument MAG
+T28	Data 937 949	measurements
+T30	Material 1057 1071	the spacecraft
+T31	Material 1121 1135	the spacecraft
+T32	Data 1073 1093	Features in the data
+T34	Material 1153 1171	the plume material
+T35	Data 1178 1189	field lines
+T36	Process 1202 1210	entering
+T37	Data 1339 1356	those field lines
+T38	Process 1324 1332	bouncing
+T40	Data 1417 1431	flyby geometry
+T43	Material 1485 1499	the instrument
+T45	Material 1802 1810	the moon
+T46	Material 1816 1823	Cassini
+T47	Material 1997 2004	Cassini
+T48	Material 2027 2048	the south polar plume
+T49	Data 2071 2080	gradients
+T50	Material 2084 2113	the magnetic field components
+T53	Process 2232 2255	complex electron drifts
+T54	Material 2275 2284	Enceladus
+T56	Data 1968 1991	energetic electron data
+T57	Material 1944 1964	the presence of dust
+T58	Data 1908 1923	MIMI/LEMMS data
+T60	Process 1547 1565	some of the flybys
+T61	Data 1571 1591	"ramp-like" features
+T62	Material 1659 1667	the moon
+T63	Process 1680 1702	nearly full absorption
+T64	Material 1706 1715	electrons
+T67	Process 2005 2018	flew directly
+T71	Data 1294 1300	losses
+T72	Material 1304 1323	energetic electrons
+T73	Data 2348 2367	intensity drop-outs
+T74	Material 32 56	Saturn's radiation belts
+T79	Material 908 916	the moon
+T29	Material 989 1018	the Electron Spectrometer ELS
+T80	Material 1022 1048	the plasma instrument CAPS
+T33	Material 1211 1234	the high density region
+T81	Material 1238 1247	the plume
+T44	Process 1748 1773	partially/fully connected
+T86	Material 1777 1790	the flux tube
+T66	Data 1832 1844	at least two
+T87	Process 1848 1858	the flybys
+T55	Material 2296 2313	forbidden regions
+T88	Material 2318 2327	electrons
+T4	Material 149 188	A plume of water ice molecules and dust
+T8	Material 293 349	the neutral torus of Saturn and the entire magnetosphere
+T9	Process 686 717	energetic electron measurements
+T21	Data 721 752	the energy range 27keV to 21MeV
+T22	Data 1249 1276	Sharp absorption signatures
+T23	Material 1366 1397	the emitted gas and dust clouds
+T41	Data 1515 1539	the depletion signatures
+T42	Data 2174 2210	the MIMI/LEMMS particles intensities
+T39	Data 1446 1481	measured pitch angle/look direction
+T51	Process 1603 1622	a partial depletion

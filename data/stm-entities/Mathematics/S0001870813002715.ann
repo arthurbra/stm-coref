@@ -1,0 +1,20 @@
+T1	Data 4 5	G
+T3	Data 33 34	X
+T4	Data 35 67	a compact manifold with boundary
+T5	Data 73 74	M
+T9	Data 127 128	M
+T10	Data 137 177	a strongly pseudoconvex complex manifold
+T14	Data 245 248	TpG
+T16	Data 306 307	p
+T17	Data 314 331	the Bergman space
+T18	Data 335 336	M
+T19	Data 340 345	large
+T20	Process 372 402	the gauged G-complexifications
+T21	Material 347 363	Natural examples
+T2	Data 9 31	a unimodular Lie group
+T6	Data 75 118	the total space of a principal bundle G→M→X
+T7	Data 222 234	a point p∈bM
+T8	Data 265 296	the complex tangent space TpcbM
+T11	Data 300 302	bM
+T12	Result 206 345	if there exists a point p∈bM such that TpG is contained in the complex tangent space TpcbM of bM at p, then the Bergman space of M is large
+T13	Object 73 177	M the total space of a principal bundle G→M→X so that M is also a strongly pseudoconvex complex manifold

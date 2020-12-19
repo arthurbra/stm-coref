@@ -1,0 +1,35 @@
+T3	Data 86 104	positive powers Ak
+T5	Process 141 149	periodic
+T6	Data 158 169	max algebra
+T7	Data 177 203	nonnegative linear algebra
+T10	Data 253 270	the Minkowski sum
+T12	Data 316 329	the core of A
+T13	Process 307 312	equal
+T15	Process 341 357	the intersection
+T16	Data 412 423	max algebra
+T17	Data 480 488	the core
+T19	Method 490 509	The spectral theory
+T21	Data 573 584	max algebra
+T22	Method 531 541	the theory
+T24	Data 592 618	nonnegative linear algebra
+T25	Process 665 682	unify and compare
+T26	Method 700 715	the same theory
+T1	Material 14 26	the sequence
+T27	Data 30 40	eigencones
+T2	Data 48 81	cones of nonnegative eigenvectors
+T4	Process 108 137	a nonnegative square matrix A
+T8	Data 211 233	an argument of Pullman
+T9	Data 274 303	the eigencones of powers of A
+T11	Data 361 385	nonnegative column spans
+T14	Process 389 395	matrix
+T28	Data 396 402	powers
+T18	Material 452 459	the set
+T29	Data 463 476	extremal rays
+T20	Process 513 519	matrix
+T30	Data 520 526	powers
+T23	Process 545 551	matrix
+T31	Data 552 556	core
+T32	Result 14 203	the sequence of eigencones (i.e., cones of nonnegative eigenvectors) of positive powers Ak of a nonnegative square matrix A is periodic both in max algebra and in nonnegative linear algebra
+T33	Result 253 423	the Minkowski sum of the eigencones of powers of A is equal to the core of A defined as the intersection of nonnegative column spans of matrix powers, also in max algebra
+T34	Object 14 137	the sequence of eigencones (i.e., cones of nonnegative eigenvectors) of positive powers Ak of a nonnegative square matrix A
+T35	Object 274 303	the eigencones of powers of A

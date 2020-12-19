@@ -1,0 +1,61 @@
+T3	Process 57 73	energy transport
+T4	Material 79 96	the magnetosphere
+T6	Material 172 193	Saturn's magnetopause
+T7	Process 230 268	the Kelvin-Helmholtz (K-H) instability
+T8	Process 220 226	growth
+T9	Process 278 299	greater wave activity
+T10	Material 303 316	the dawn side
+T11	Material 320 331	the surface
+T12	Material 340 353	the dusk side
+T13	Material 399 421	the Cassini spacecraft
+T14	Process 429 438	crossings
+T15	Material 442 463	Saturn's magnetopause
+T16	Process 465 498	Surface orientation perturbations
+T19	Data 609 613	dusk
+T20	Data 622 626	dawn
+T21	Data 628 631	53%
+T22	Process 635 648	all crossings
+T25	Data 708 735	consecutive surface normals
+T26	Data 819 839	local time asymmetry
+T27	Process 843 858	this phenomenon
+T33	Material 951 984	the magnetospheric magnetic field
+T34	Process 986 1011	tailward wave propagation
+T35	Data 1017 1041	the dawn-dusk difference
+T36	Data 1045 1056	wave period
+T37	Process 1071 1086	K-H instability
+T38	Process 1090 1120	a major wave driving mechanism
+T39	Method 1128 1145	linear K-H theory
+T40	Data 1158 1181	the dominant wavelength
+T41	Data 1188 1209	∼10 Saturn radii (RS)
+T42	Data 1214 1223	amplitude
+T47	Process 1389 1402	wave activity
+T48	Process 1474 1493	the K-H instability
+T49	Material 1497 1518	Saturn's magnetopause
+T50	Process 1460 1470	the growth
+T55	Material 1675 1692	the magnetosphere
+T56	Material 1745 1766	Saturn's magnetopause
+T57	Material 1789 1811	Kelvin-Helmholtz waves
+T58	Material 1826 1855	Saturn's magnetopause surface
+T59	Data 1884 1908	the predicted difference
+T60	Material 1916 1927	the surface
+T1	Material 0 48	Waves on the surface of a planetary magnetopause
+T2	Data 527 578	the local magnetospheric magnetic field orientation
+T17	Process 662 696	a sequence of regular oscillations
+T18	Process 764 798	tailward propagating surface waves
+T23	Data 872 896	the dominant wave period
+T24	Data 903 930	∼5h at dawn and ∼3h at dusk
+T28	Data 1230 1257	∼1 RS at both dawn and dusk
+T31	Data 1349 1385	the hypothesized dawn-dusk asymmetry
+T32	Material 1566 1596	other planetary magnetospheres
+T43	Process 1653 1662	transport
+T44	Material 1663 1669	energy
+T45	Data 1696 1707	Differences
+T51	Material 1970 2008	surface waves on Saturn's magnetopause
+T52	Material 1611 1652	Surface waves on a planetary magnetopause
+T5	Process 134 167	solar wind-magnetosphere coupling
+T53	Process 863 871	estimate
+T29	Data 1266 1321	propagation speeds of ∼30 and ∼50kms-1 at dawn and dusk
+T30	Data 1711 1720	the level
+T46	Process 1724 1737	wave activity
+T54	Process 1818 1822	form
+T61	Process 1776 1785	predicted

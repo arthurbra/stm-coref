@@ -1,0 +1,9 @@
+The northern mid-latitudes of Uranus produce greater episodes of bright cloud formation than any other region on the planet.
+Near 30°N, very bright cloud features were observed in 1999, 2004, and 2005, with lifetimes of the order of months.
+In October 2011, Gemini and HST observations revealed another unusually bright cloud feature near 23°N, which was subsequently identified in July 2011 observations and found to be increasing in brightness.
+Observations obtained at Keck in November 2011 revealed a second bright spot only 2°N of the first, but with a substantially different drift rate (-9.2°E/day vs -1.4°E/day), which we later determined would lead to a close approach on 25 December 2011.
+A Hubble Target of Opportunity proposal was activated to image the results of the interaction.
+We found that the original bright spot had faded dramatically before the HST observations had begun and the second bright spot was found to be a companion of a new dark spot on Uranus, only the second ever observed.
+Both spots exhibited variable drift rates during the nearly 5months of tracking, and both varied in brightness, with BS1 reaching its observed peak on 26 October 2011, and BS2 on 11 November 2011.
+Altitude measurements based on near-IR imaging in H and Hcont filters showed that the deeper BS2 clouds were located near the methane condensation level (≈1.2bars), while BS1 was generally ∼500mb above that level (at lower pressures).
+Large morphological changes in the bright cloud features suggest that they are companion clouds of possibly orographic nature associated with vortex circulations, perhaps similar to companion clouds associated with the Great Dark Spot on Neptune, but in this case at a much smaller size scale, spanning only a few degrees of longitude at their greatest extents.

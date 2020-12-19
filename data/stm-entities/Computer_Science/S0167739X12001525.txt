@@ -1,0 +1,15 @@
+To guarantee the vision of Cloud Computing QoS goals between the Cloud provider and the customer have to be dynamically met.
+This so-called Service Level Agreement (SLA) enactment should involve little human-based interaction in order to guarantee the scalability and efficient resource utilization of the system.
+To achieve this we start from Autonomic Computing, examine the autonomic control loop and adapt it to govern Cloud Computing infrastructures.
+We first hierarchically structure all possible adaptation actions into so-called escalation levels.
+We then focus on one of these levels by analyzing monitored data from virtual machines and making decisions on their resource configuration with the help of knowledge management (KM).
+The monitored data stems both from synthetically generated workload categorized in different workload volatility classes and from a real-world scenario: scientific workflow applications in bioinformatics.
+As KM techniques, we investigate two methods, Case-Based Reasoning and a rule-based approach.
+We design and implement both of them and evaluate them with the help of a simulation engine.
+Simulation reveals the feasibility of the CBR approach and major improvements by the rule-based approach considering SLA violations, resource utilization, the number of necessary reconfigurations and time performance for both, synthetically generated and real-world data.
+Highlights
+► We apply knowledge management to guarantee SLAs and low resource wastage in Clouds.
+► Escalation levels provide a hierarchical model to structure possible reconfiguration actions.
+► Case-Based Reasoning and rule-based approach prove feasibility as KM techniques.
+► In-depth evaluation of rule-based approach shows major improvements towards CBR.
+► KM is applied to real-world data gathered from scientific bioinformatic workflows.

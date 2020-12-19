@@ -1,0 +1,29 @@
+T1	Data 12 41	the polynomial representation
+T2	Data 45 81	Double Affine Hecke Algebras (DAHAs)
+T4	Process 86 95	construct
+T5	Data 100 110	submodules
+T8	Data 237 255	types An, (Cn∨,Cn)
+T9	Data 267 287	commutative algebras
+T10	Data 291 311	difference operators
+T11	Process 335 357	invariant combinations
+T12	Data 361 386	Cherednik-Dunkl operators
+T13	Data 390 424	the corresponding quotient modules
+T14	Data 428 457	the polynomial representation
+T16	Data 548 553	DAHAs
+T17	Data 589 622	Chalykh-Sergeev-Veselov operators
+T18	Data 557 578	types An and (Cn∨,Cn)
+T19	Data 647 671	the Koornwinder operator
+T20	Process 627 643	a generalization
+T21	Material 700 713	complete sets
+T22	Data 717 734	quantum integrals
+T23	Data 738 755	the explicit form
+T3	Material 147 170	the special collections
+T24	Data 174 187	affine planes
+T6	Data 114 133	ideals of functions
+T7	Process 134 143	vanishing
+T25	Data 206 233	certain results of Kasatani
+T15	Material 484 525	generalized Macdonald-Ruijsenaars systems
+T26	Result 267 457	commutative algebras of difference operators given by the action of invariant combinations of Cherednik-Dunkl operators in the corresponding quotient modules of the polynomial representation
+T27	Result 470 525	known and new generalized Macdonald-Ruijsenaars systems
+T28	Result 589 755	Chalykh-Sergeev-Veselov operators and a generalization of the Koornwinder operator respectively, together with complete sets of quantum integrals in the explicit form
+T29	Object 12 81	the polynomial representation of Double Affine Hecke Algebras (DAHAs)

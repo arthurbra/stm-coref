@@ -1,0 +1,15 @@
+We studied the paleomagnetic properties of relatively organic rich, annually laminated (varved) sediments of Holocene age in Gyltigesjön, which is a lake in southern Sweden.
+An age-depth model was based on a regional lead pollution isochron and Bayesian modelling of radiocarbon ages of bulk sediments and terrestrial macrofossils, which included a radiocarbon wiggle-matched series of 873 varves that accumulated between 3000 and 2000 Cal a BP (Mellström et al., 2013).
+Mineral magnetic data and first order reversal curves suggest that the natural remanent magnetization is carried by stable single-domain grains of magnetite, probably of magnetosomal origin.
+Discrete samples taken from overlapping piston cores were used to produce smoothed paleomagnetic secular variation (inclination and declination) and relative paleointensity data sets.
+Alternative temporal trends in the paleomagnetic data were obtained by correcting for paleomagnetic lock-in depths between 0 and 70cm and taking into account changes in sediment accumulation rate.
+These temporal trends were regressed against reference curves for the same region (FENNOSTACK and FENNORPIS; Snowball et al., 2007).
+The best statistical matches to the reference curves are obtained when we apply lock-in depths of 21-34cm to the Gyltigesjön paleomagnetic data, although these are most likely minimum estimates.
+Our study suggests that a significant paleomagnetic lock-in depth can affect the acquisition of post-depositional remanent magnetization even where bioturbation is absent and no mixed sediment surface layer exists.
+Highlights
+•
+Paleomagnetic data obtained from organic rich varved lake sediments.
+•
+Chronology based on 14C wiggle-matching and 14C ages of terrestrial macrofossils.
+•
+Paleomagnetic lock-in delay quantified to at least 21cm.

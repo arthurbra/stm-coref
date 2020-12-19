@@ -1,0 +1,72 @@
+T1	Material 25 34	a turbine
+T4	Data 58 73	the predictions
+T6	Material 101 106	sites
+T9	Process 35 44	increases
+T12	Process 180 189	free flow
+T13	Process 166 175	optimized
+T17	Process 200 209	simulated
+T18	Material 254 263	a channel
+T19	Process 271 280	free flow
+T24	Process 389 398	free flow
+T27	Process 436 447	revolutions
+T28	Process 464 475	convergence
+T29	Data 477 487	around 100
+T37	Process 523 533	increasing
+T40	Process 615 626	revolutions
+T41	Process 627 636	decreases
+T48	Process 745 754	increases
+T51	Process 781 790	decreased
+T53	Data 823 838	the predictions
+T54	Material 844 861	streamtube theory
+T55	Data 867 882	this difference
+T56	Process 883 892	increases
+T64	Process 977 986	increases
+T67	Process 992 1002	decreasing
+T68	Material 1032 1041	the chord
+T69	Process 1021 1031	increasing
+T76	Process 1117 1126	increased
+T78	Material 1189 1198	a channel
+T79	Process 1161 1170	extending
+T81	Material 1235 1244	a turbine
+T82	Process 1245 1254	increases
+T83	Process 1260 1270	decreasing
+T90	Material 1320 1329	a turbine
+T91	Process 1330 1339	increases
+T94	Process 1345 1355	decreasing
+T95	Material 1373 1381	Turbines
+T96	Material 1385 1394	a channel
+T99	Process 1429 1438	free flow
+T102	Process 1494 1505	convergence
+T2	Data 0 21	The power coefficient
+T3	Process 112 133	a confined fluid flow
+T7	Material 141 164	a vertical axis turbine
+T8	Method 213 244	a two-dimensional vortex method
+T10	Data 319 343	the numerical parameters
+T11	Material 347 366	channel simulations
+T14	Material 403 416	wide channels
+T15	Data 491 518	the optimal tip speed ratio
+T16	Data 539 561	higher tip speed ratio
+T20	Material 574 590	smaller channels
+T21	Data 674 693	turbine performance
+T22	Data 697 719	the channel boundaries
+T23	Data 721 744	The turbine performance
+T25	Data 760 777	the channel width
+T30	Data 949 976	the optimal tip speed ratio
+T31	Data 1003 1016	channel width
+T32	Process 1049 1058	decreases
+T33	Data 1059 1086	the optimal tip speed ratio
+T34	Data 1088 1109	the power coefficient
+T35	Material 1171 1185	a vortex model
+T36	Data 1271 1284	channel width
+T38	Data 1211 1230	The extracted power
+T39	Data 1288 1315	The optimal tip speed ratio
+T42	Data 1356 1369	channel width
+T43	Material 1407 1420	larger blades
+T44	Material 1442 1455	Wide channels
+T45	Process 1464 1489	many simulated revolution
+T46	Data 418 432	a large number
+T47	Data 592 611	the required number
+T26	Process 898 908	decreasing
+T49	Data 909 922	channel width
+T5	Material 79 96	streamtube theory
+T50	Material 1150 1156	Theory

@@ -1,0 +1,56 @@
+T6	Data 259 264	1.3mm
+T7	Material 265 269	sand
+T8	Data 271 276	5.4mm
+T9	Material 277 283	gravel
+T10	Data 288 293	8.4mm
+T11	Material 294 300	gravel
+T21	Material 400 409	the beach
+T22	Process 355 367	the collapse
+T29	Method 466 469	LIF
+T30	Method 503 506	PIV
+T33	Process 580 597	the hydrodynamics
+T43	Material 898 907	the swash
+T44	Data 856 860	five
+T50	Data 1001 1007	depths
+T51	Data 1012 1019	shallow
+T52	Data 1024 1034	velocities
+T53	Data 1039 1043	high
+T60	Material 1095 1120	advanced numerical models
+T1	Material 96 127	impermeable, rough beach slopes
+T2	Material 62 92	large-scale, bore-driven swash
+T3	Process 41 58	the hydrodynamics
+T12	Data 178 182	1:10
+T13	Material 183 208	impermeable, rough slopes
+T4	Data 214 249	three different surface roughnesses
+T5	Process 302 338	The large-scale discrete swash event
+T14	Material 371 396	a dambreak-generated bore
+T16	Method 471 497	Laser-induced fluorescence
+T17	Method 508 534	particle image velocimetry
+T18	Data 559 576	better resolution
+T19	Data 621 638	Depth time-series
+T20	Data 640 671	instantaneous velocity profiles
+T23	Data 673 698	depth-averaged velocities
+T24	Data 700 747	instantaneous turbulent kinetic energy profiles
+T25	Data 790 814	Reynolds stress profiles
+T26	Data 819 837	bed shear stresses
+T27	Data 749 788	depth-averaged turbulent kinetic energy
+T28	Material 861 894	cross-shore measurement locations
+T31	Data 909 925	The measurements
+T32	Data 934 965	the backwash shoreline position
+T34	Material 1125 1158	bore-driven waves on rough slopes
+T35	Material 1198 1215	bore-driven swash
+T36	Material 1219 1244	impermeable, rough slopes
+T37	Data 1292 1326	simultaneous depths and velocities
+T38	Data 1365 1400	bulk flow and turbulence properties
+T39	Data 1346 1361	slope roughness
+T40	Data 1410 1418	measures
+T41	Process 1422 1451	time-varying bed shear stress
+T15	Data 411 445	Simultaneous depths and velocities
+T45	Data 971 995	the late backwash period
+T46	Process 1172 1194	Detailed hydrodynamics
+T42	Process 1247 1281	Large-scale laboratory experiments
+T47	Material 1459 1473	the swash zone
+T48	Method 142 157	The experiments
+T49	Process 451 459	measured
+T54	Process 1282 1291	measuring
+T55	Process 1335 1342	effects

@@ -1,0 +1,29 @@
+T2	Data 30 52	lower and upper bounds
+T3	Data 128 147	Gα,β(t)=t/(α+t2+β2)
+T4	Data 215 238	ν is a negative integer
+T5	Data 207 211	ν≥-1
+T6	Data 156 182	Rν is positive for all t>0
+T7	Data 244 248	ν≥-1
+T8	Data 285 308	the set of lower bounds
+T9	Data 330 348	a greatest element
+T12	Data 424 430	ν≥-1/2
+T13	Data 432 452	the minimal elements
+T14	Process 457 464	tangent
+T15	Data 468 470	Rν
+T16	Data 474 497	exactly one point 0≤t≤∞
+T17	Data 508 510	Rν
+T18	Data 514 534	their lower envelope
+T19	Data 616 639	ν is a negative integer
+T20	Data 664 698	the sets of lower and upper bounds
+T21	Data 709 742	their greatest and least elements
+T22	Data 568 602	explicitly computable upper bounds
+T1	Method 57 102	the modified Bessel function ratio Rν=Iν+1/Iν
+T23	Result 326 348	has a greatest element
+T24	Result 421 533	If ν≥-1/2, the minimal elements are tangent to Rν in exactly one point 0≤t≤∞, and have Rν as their lower envelop
+T26	Result 371 419	the set of upper bounds and its minimal elements
+T27	Result 552 602	a new family of explicitly computable upper bounds
+T28	Result 664 698	the sets of lower and upper bounds
+T29	Result 709 742	their greatest and least elements
+T25	Result 285 308	the set of lower bounds
+T30	Object 30 182	lower and upper bounds for the modified Bessel function ratio Rν=Iν+1/Iν by functions of the form Gα,β(t)=t/(α+t2+β2) in case Rν is positive for all t>0
+T10	Data 371 419	the set of upper bounds and its minimal elements

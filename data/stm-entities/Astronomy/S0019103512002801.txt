@@ -1,0 +1,18 @@
+Saturn's moon Rhea is thought to be a simple plasma absorber, however, energetic particle observations in its vicinity show a variety of unexpected and complex interaction features that do not conform with our current understanding about plasma absorbing interactions.
+Energetic electron data are especially interesting, as they contain a series of broad and narrow flux depletions on either side of the moon's wake.
+The association of these dropouts with absorption by dust and boulders orbiting within Rhea's Hill sphere was suggested but subsequently not confirmed, so in this study we review data from all four Cassini flybys of Rhea to date seeking evidence for alternative processes operating within the moon's interaction region.
+We focus on energetic electron observations, which we put in context with magnetometer, cold plasma density and energetic ion data.
+All flybys have unique features, but here we only focus on several structures that are consistently observed.
+The most interesting common feature is that of narrow dropouts in energetic electron fluxes, visible near the wake flanks.
+These are typically seen together with narrow flux enhancements inside the wake.
+A phase-space-density analysis for these structures from the first Rhea flyby (R1) shows that Liouville's theorem holds, suggesting that they may be forming due to rapid transport of energetic electrons from the magnetosphere to the wake, through narrow channels.
+A series of possibilities are considered to explain this transport process.
+We examined whether complex energetic electron drifts in the interaction region of a plasma absorbing moon (modeled through a hybrid simulation code) may allow such a transport.
+With the exception of several features (e.g. broadening of the central wake with increasing electron energy), most of the commonly observed interaction signatures in energetic electrons (including the narrow structures) were not reproduced.
+Additional dynamical processes, not simulated by the hybrid code, should be considered in order to explain the data.
+For the small scale features, the possibility that a flute (interchange) instability acts on the electrons is discussed.
+This instability is probably driven by strong gradients in the plasma pressure and the magnetic field magnitude: magnetometer observations show clearly signatures consistent with the (expected) plasma pressure loss due to ion absorption at Rhea.
+Another potential driver of the instability could have been gradients in the cold plasma density, which are, however, surprisingly absent from most crossings of Rhea's plasma wake.
+The lack of a density depletion in Rhea's wake suggests the presence of a local cold plasma source region.
+Hybrid plasma simulations show that this source cannot be the ionized component of Rhea's weak exosphere.
+It is probably related to accelerated photoelectrons from the moon's negatively charged surface, indicating that surface charging may play a very important role in shaping Rhea's magnetospheric interaction region.

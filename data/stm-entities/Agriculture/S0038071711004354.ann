@@ -1,0 +1,81 @@
+T2	Material 20 36	old soil C (SOM)
+T3	Material 71 77	forest
+T4	Process 106 128	global change research
+T5	Process 153 169	Isotopic methods
+T6	Process 369 371	RS
+T7	Process 238 254	soil respiration
+T8	Data 201 234	carbon isotope composition (δ13C)
+T9	Process 179 197	natural variations
+T11	Process 382 417	natural and artificial modification
+T12	Data 421 427	δ13CRs
+T13	Process 438 460	isotopic disequilibria
+T15	Process 555 575	process-based models
+T17	Material 464 490	the soil-atmosphere system
+T21	Method 753 789	a new, three end-member mixing model
+T23	Material 654 681	a warm Mediterranean forest
+T25	Method 890 923	The three end-member mixing model
+T26	Method 1140 1170	a novel dual-chamber technique
+T27	Data 1186 1192	δ13CRs
+T33	Method 1747 1766	the three-way model
+T34	Process 1722 1724	RS
+T35	Process 1729 1740	partitioned
+T39	Process 2134 2150	soil respiration
+T40	Data 2097 2130	carbon isotope composition (δ13C)
+T41	Method 2154 2176	Dual-chamber technique
+T42	Data 2192 2198	δ13CRs
+T43	Process 2240 2251	measurement
+T44	Data 2215 2232	minimal artefacts
+T45	Method 2255 2284	Three end-member mixing model
+T46	Process 2289 2301	partitioning
+T48	Material 2394 2425	younger and more labile sources
+T49	Process 2358 2388	the long-term SOM-derived flux
+T50	Data 2331 2354	Fractional contribution
+T51	Process 1993 2023	the long-term SOM-derived flux
+T52	Material 2029 2060	younger and more labile sources
+T53	Data 1962 1989	the fractional contribution
+T54	Data 1889 1902	the estimates
+T55	Method 1906 1929	the partitioning method
+T57	Data 1318 1334	a baseline level
+T58	Method 1339 1365	the dual-chamber operation
+T59	Material 1522 1539	permanent collars
+T60	Material 1561 1569	the soil
+T61	Process 1490 1506	the measurements
+T63	Process 1420 1432	conservation
+T66	Process 1235 1246	measurement
+T68	Process 1074 1084	integrated
+T70	Process 974 1003	CO2 respiration/decomposition
+T71	Material 1007 1027	the three components
+T16	Process 581 588	predict
+T22	Process 605 621	the partitioning
+T24	Process 813 842	the conventional partitioning
+T74	Material 848 888	autotrophic and heterotrophic components
+T75	Process 948 966	the discrimination
+T69	Data 1040 1053	the fractions
+T76	Process 1057 1073	their CO2 fluxes
+T10	Process 311 321	separating
+T77	Material 322 365	heterotrophic and autotrophic contributions
+T72	Process 491 501	generating
+T80	Data 502 512	a mismatch
+T14	Data 521 525	what
+T81	Process 537 545	measured
+T86	Data 550 554	what
+T98	Process 1540 1555	inserted deeply
+T73	Process 625 650	the soil surface CO2 flux
+T18	Material 687 746	components derived from root, litter/humus, and SOM sources
+T19	Data 1090 1117	the total soil profile mass
+T20	Data 1274 1314	measured soil surface CO2 concentrations
+T56	Process 1386 1405	achieve and monitor
+T62	Data 1436 1482	the soil CO2 steady-state diffusion conditions
+T30	Data 1691 1701	56 and 44%
+T31	Data 1818 1833	30, 33, and 37%
+T32	Process 1837 1851	the total flux
+T47	Process 2302 2327	the soil surface CO2 flux
+T28	Process 1576 1578	RS
+T67	Data 1580 1597	8.64 g CO2 m2 d-1
+T36	Material 1777 1805	roots, litter/humus, and SOM
+T37	Process 2075 2093	Natural variations
+T1	Process 40 67	total soil respiration (RS)
+T38	Process 0 16	The contribution
+T78	Data 1210 1227	minimal artefacts
+T29	Data 1636 1686	the mean autotrophic and heterotrophic respiration
+T64	Process 1603 1614	partitioned

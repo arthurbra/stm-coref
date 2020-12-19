@@ -1,0 +1,74 @@
+T16	Material 302 313	the diatoms
+T20	Process 380 398	primary production
+T30	Material 596 611	marine sediment
+T51	Data 928 943	the late Eocene
+T56	Data 1039 1061	the earliest Oligocene
+T63	Process 1161 1169	doubling
+T67	Data 1307 1314	∼31.5Ma
+T74	Material 1387 1405	the Tasman Gateway
+T75	Material 1410 1423	Drake Passage
+T84	Process 1742 1762	Antarctic glaciation
+T113	Process 2116 2125	Upwelling
+T122	Process 2258 2278	Antarctic glaciation
+T41	Process 830 850	Antarctic glaciation
+T129	Data 1002 1026	high, near modern values
+T133	Material 1222 1249	the high southern latitudes
+T134	Process 1297 1303	peaked
+T137	Process 1647 1653	export
+T3	Process 48 79	the Eocene-Oligocene Transition
+T4	Data 81 93	∼33.7Ma, Oi1
+T1	Process 20 40	Antarctic glaciation
+T2	Data 118 141	atmospheric pCO2 levels
+T5	Process 174 186	pCO2 decline
+T6	Process 203 227	Biogenic silicon cycling
+T7	Process 259 293	long and short term carbon cycling
+T8	Material 315 342	siliceous walled autotrophs
+T9	Data 367 376	up to 40%
+T10	Material 463 479	diatom abundance
+T11	Process 447 459	a sharp rise
+T12	Process 506 519	pCO2 drawdown
+T13	Process 524 538	global cooling
+T15	Data 613 661	Diatom and sponge silicon isotope ratios (δ30Si)
+T17	Process 714 765	the late Eocene-early Oligocene ocean silicon cycle
+T18	Process 795 826	the role of diatom productivity
+T19	Material 855 868	ODP site 1090
+T21	Data 892 903	a 0.6‰ rise
+T23	Material 907 919	diatom δ30Si
+T24	Process 954 996	increasing diatom silicic acid utilisation
+T25	Material 1093 1105	sponge δ30Si
+T26	Material 1109 1121	ODP site 689
+T29	Data 1173 1218	intermediate depth silicic acid concentration
+T31	Data 1251 1296	Intermediate depth silicic acid concentration
+T32	Material 1359 1378	a deepwater pathway
+T33	Process 1452 1477	upwelling intensification
+T35	Process 1547 1579	late Eocene diatom proliferation
+T36	Process 1696 1709	pCO2 drawdown
+T37	Material 1619 1642	higher diatom abundance
+T38	Process 1778 1806	a pCO2 'threshold' mechanism
+T39	Process 1811 1827	ice sheet growth
+T40	Material 1861 1884	Diatom and sponge δ30Si
+T42	Process 1905 1939	the Eocene-Oligocene silicon cycle
+T43	Material 1968 1980	diatom δ30Si
+T45	Process 1993 2017	silicic acid utilisation
+T48	Data 2085 2111	silicic acid concentration
+T49	Process 2137 2146	proto-ACC
+T50	Process 2159 2191	late Eocene diatom proliferation
+T52	Process 2238 2250	pCO2 decline
+T53	Process 2195 2222	Diatom driven carbon burial
+T54	Process 147 161	the mechanisms
+T22	Data 424 446	during the Late Eocene
+T27	Data 1063 1089	A concomitant 1.5‰ decline
+T28	Material 1125 1138	the Maud Rise
+T34	Process 1489 1530	the spin-up of a circum-Antarctic current
+T44	Data 1943 1964	0.6‰ late Eocene rise
+T47	Data 2022 2072	1.5‰ late Eocene/early Oligocene sponge δ30Si fall
+T55	Process 108 117	declining
+T57	Process 542 552	increasing
+T14	Data 553 567	the proportion
+T58	Material 571 585	organic carbon
+T59	Process 586 592	buried
+T60	Process 671 679	combined
+T61	Process 702 713	reconstruct
+T46	Process 1139 1145	tracks
+T62	Process 1581 1602	Organic carbon burial
+T64	Process 1893 1904	reconstruct

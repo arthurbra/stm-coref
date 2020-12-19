@@ -1,0 +1,10 @@
+Precomputation of the supported QoS is very important for internet routing.
+By constructing routing tables before a request arrives, a packet can be forwarded with a simple table lookup.
+When the QoS information is provided, a node can immediately know whether a certain request can be supported without launching the path finding process.
+Unfortunately, as the problem of finding a route satisfying two additive constraints is NP-complete, the supported QoS information can only be approximated using a polynomial time mechanism.
+A good approximation scheme should reduce the error in estimating the actual supported QoS.
+Nevertheless, existing approaches which determine this error may not truly reflect the performance on admission control, meaning whether a request can be correctly classified as feasible or infeasible.
+In this paper, we propose using a novel metric, known as distortion area, to evaluate the performance of precomputing the supported QoS.
+We then analyze the performance of the class of algorithms that approximate the supported QoS through discretizing link metrics.
+We demonstrate how the performance of these schemes can be enhanced without increasing complexity.
+Our results serve as a guideline on developing discretization-based approximation algorithms.

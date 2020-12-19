@@ -1,0 +1,15 @@
+T1	Process 0 22	Phialemonium infection
+T2	Material 26 32	humans
+T3	Material 52 76	a 7-year-old healthy boy
+T4	Process 96 112	chronic otorrhea
+T5	Process 138 165	adequate antibiotic therapy
+T6	Process 175 219	preservative tympanomastoidectomy operations
+T7	Data 170 174	four
+T8	Process 242 281	intermittent topical antibiotic therapy
+T9	Material 283 291	cultures
+T10	Material 308 320	Phialemonium
+T11	Process 303 307	grew
+T12	Method 341 367	a more extensive operation
+T13	Material 383 417	systemic/topical anti-fungal agent
+T14	Process 429 442	clinical cure
+T15	Data 36 40	rare

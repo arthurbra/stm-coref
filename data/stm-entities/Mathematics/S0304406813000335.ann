@@ -1,0 +1,40 @@
+T1	Material 13 27	efficient sets
+T2	Data 48 50	Rp
+T3	Material 29 44	a class of sets
+T4	Material 64 72	each set
+T5	Data 77 84	element
+T6	Data 99 113	all dimensions
+T7	Process 88 95	greater
+T8	Process 138 155	differentiability
+T9	Process 160 170	continuity
+T10	Material 186 195	such sets
+T12	Data 245 271	quasi-indifference classes
+T13	Data 288 309	a preference relation
+T14	Data 323 341	a utility function
+T15	Data 343 366	mean-variance frontiers
+T16	Data 368 400	production possibility frontiers
+T17	Data 406 427	Pareto efficient sets
+T18	Method 432 458	Lebesgue's density theorem
+T19	Material 460 474	efficient sets
+T22	Data 511 527	Lebesgue measure
+T23	Material 565 575	small sets
+T24	Data 638 640	Rp
+T25	Material 616 634	each efficient set
+T26	Data 591 610	the stronger result
+T27	Data 645 676	Hausdorff dimension at most p-1
+T28	Data 698 719	topological dimension
+T29	Material 766 777	smooth sets
+T31	Material 872 883	stable sets
+T32	Data 889 915	dimension at most m(n-1)-1
+T33	Data 850 858	n agents
+T34	Data 863 870	m goods
+T35	Material 974 985	stable sets
+T11	Material 212 222	level sets
+T38	Data 226 243	utility functions
+T20	Data 480 506	p-dimensional measure zero
+T21	Material 805 816	stable sets
+T30	Process 820 844	multi-good pillage games
+T36	Data 991 1022	m(n-1)-dimensional measure zero
+T37	Object 13 50	efficient sets, a class of sets in Rp
+T39	Result 591 676	the stronger result that each efficient set in Rp has Hausdorff dimension at most p-1
+T40	Result 846 915	for n agents and m goods, stable sets have dimension at most m(n-1)-1

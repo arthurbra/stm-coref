@@ -1,0 +1,25 @@
+In this research, we developed a robust two-layer classifier that can accurately classify normal hearing (NH) from hearing impaired (HI) infants with congenital sensori-neural hearing loss (SNHL) based on their Magnetic Resonance (MR) images.
+Unlike traditional methods that examine the intensity of each single voxel, we extracted high-level features to characterize the structural MR images (sMRI) and functional MR images (fMRI).
+The Scale Invariant Feature Transform (SIFT) algorithm was employed to detect and describe the local features in sMRI.
+For fMRI, we constructed contrast maps and detected the most activated/de-activated regions in each individual.
+Based on those salient regions occurring across individuals, the bag-of-words strategy was introduced to vectorize the contrast maps.
+We then used a two-layer model to integrate these two types of features together.
+With the leave-one-out cross-validation approach, this integrated model achieved an AUC score of 0.90.
+Additionally, our algorithm highlighted several important brain regions that differentiated between NH and HI children.
+Some of these regions, e.g.
+planum temporale and angular gyrus, were well known auditory and visual language association regions.
+Others, e.g.
+the anterior cingulate cortex (ACC), were not necessarily expected to play a role in differentiating HI from NH children and provided a new understanding of brain function and of the disorder itself.
+These important brain regions provided clues about neuroimaging markers that may be relevant to the future use of functional neuroimaging to guide predictions about speech and language outcomes in HI infants who receive a cochlear implant.
+This type of prognostic information could be extremely useful and is currently not available to clinicians by any other means.
+Highlights
+•
+We probe brain structural and functional changes in hearing impaired (HI) infants.
+•
+We build a robust two-layer classifier that integrates sMRI and fMRI data.
+•
+This integrated model accurately separates HI from normal infants (AUC 0.9).
+•
+Our method detects important brain regions different between HI and normal infants.
+•
+Our method can include diverse types of data and be applied to other diseases.

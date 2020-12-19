@@ -1,0 +1,45 @@
+T4	Process 29 36	compare
+T14	Material 233 244	a portfolio
+T15	Process 311 318	default
+T37	Method 694 709	our experiments
+T40	Material 764 779	these data sets
+T42	Process 983 990	measure
+T55	Material 1419 1434	these data sets
+T77	Method 1181 1191	techniques
+T1	Material 92 127	imbalanced credit scoring data sets
+T2	Process 37 55	several techniques
+T3	Process 132 148	a credit scoring
+T5	Material 158 178	imbalanced data sets
+T6	Data 199 229	the number of defaulting loans
+T7	Data 272 298	the number of observations
+T8	Process 337 374	traditional classification techniques
+T9	Process 567 590	loan default prediction
+T10	Material 592 632	Five real-world credit scoring data sets
+T11	Data 672 689	their performance
+T12	Process 651 662	classifiers
+T13	Data 737 752	class imbalance
+T16	Process 783 806	randomly under-sampling
+T17	Material 807 839	the minority class of defaulters
+T24	Data 874 894	the predictive power
+T25	Data 1006 1070	the area under the receiver operating characteristic curve (AUC)
+T27	Method 1245 1296	the random forest and gradient boosting classifiers
+T30	Data 1472 1495	a large class imbalance
+T32	Data 1596 1615	significantly worse
+T33	Process 1621 1652	the best performing classifiers
+T20	Method 898 923	the respective techniques
+T21	Method 1072 1119	Friedman's statistic and Nemenyi post hoc tests
+T22	Data 1141 1172	significance of AUC differences
+T23	Process 1210 1230	this empirical study
+T26	Data 1388 1415	pronounced class imbalances
+T31	Process 76 88	the analysis
+T18	Method 383 402	logistic regression
+T34	Method 404 419	neural networks
+T35	Method 424 438	decision trees
+T19	Process 488 505	gradient boosting
+T36	Process 507 543	least square support vector machines
+T38	Process 548 562	random forests
+T39	Data 947 972	The performance criterion
+T28	Process 1318 1334	a credit scoring
+T29	Method 1497 1529	the C4.5 decision tree algorithm
+T41	Method 1531 1562	quadratic discriminant analysis
+T43	Method 1567 1587	k-nearest neighbours

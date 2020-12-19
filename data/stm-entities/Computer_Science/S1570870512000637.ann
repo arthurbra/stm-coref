@@ -1,0 +1,62 @@
+T1	Process 27 37	congestion
+T8	Process 157 163	direct
+T9	Data 164 171	traffic
+T11	Process 211 219	maximise
+T14	Process 240 248	minimise
+T15	Data 249 255	delays
+T17	Material 289 300	these nodes
+T20	Method 347 353	CafRep
+T31	Method 541 547	CafRep
+T33	Process 602 609	offload
+T34	Material 610 621	the traffic
+T39	Process 679 688	replicate
+T46	Process 799 807	evaluate
+T57	Method 1011 1017	CafRep
+T67	Method 1215 1221	CafRep
+T77	Method 1342 1348	CafRep
+T83	Method 1524 1530	CafRep
+T84	Data 1559 1569	congestion
+T89	Data 1232 1238	higher
+T95	Process 280 288	increase
+T100	Process 1183 1193	increasing
+T2	Material 41 71	delay-tolerant networks (DTNs)
+T4	Method 121 146	DTN forwarding algorithms
+T5	Material 180 198	more central nodes
+T6	Data 220 235	delivery ratios
+T10	Data 264 279	traffic demands
+T12	Method 355 392	an adaptive congestion aware protocol
+T18	Data 480 539	implicit hybrid contact and resources congestion heuristics
+T19	Process 557 598	localised relative utility based approach
+T21	Data 627 649	more to less congested
+T22	Material 650 670	parts of the network
+T23	Data 692 713	adaptively lower rate
+T24	Material 717 747	different parts of the network
+T25	Data 753 782	non-uniform congestion levels
+T26	Method 825 860	benchmark and competitive protocols
+T27	Data 868 886	a range of metrics
+T28	Data 892 930	three real connectivity and GPS traces
+T29	Material 939 996	Sassy [44], San Francisco Cabs [45] and Infocom 2006 [33]
+T30	Data 1048 1068	network connectivity
+T32	Data 1073 1090	mobility patterns
+T35	Method 1121 1167	the state-of-the-art DTN forwarding algorithms
+T36	Data 1194 1213	rates of congestion
+T37	Data 1239 1270	availability and success ratios
+T40	Data 1428 1475	real world Facebook application traffic demands
+T41	Data 1400 1418	fixed rate traffic
+T42	Data 1583 1605	forwarding performance
+T43	Data 1504 1523	the type of traffic
+T3	Process 0 9	Detecting
+T44	Process 14 21	dealing
+T7	Data 312 321	saturated
+T45	Data 326 334	unusable
+T16	Process 398 405	detects
+T47	Process 410 416	reacts
+T13	Data 420 435	congested nodes
+T48	Data 440 455	congested parts
+T49	Material 459 470	the network
+T38	Data 1285 1288	low
+T50	Data 1289 1295	delays
+T51	Data 1297 1314	packet loss rates
+T52	Data 1319 1332	delivery cost
+T53	Process 1551 1558	reduces
+T54	Process 1574 1582	improves

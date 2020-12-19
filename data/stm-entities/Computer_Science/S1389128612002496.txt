@@ -1,0 +1,10 @@
+The recently proposed TCP-targeted Low-rate Distributed Denial-of-Service (LDDoS) attacks send fewer packets to attack legitimate flows by exploiting the vulnerability in TCP's congestion control mechanism.
+They are difficult to detect while causing severe damage to TCP-based applications.
+Existing approaches can only detect the presence of an LDDoS attack, but fail to identify LDDoS flows.
+In this paper, we propose a novel metric - Congestion Participation Rate (CPR) - and a CPR-based approach to detect and filter LDDoS attacks by their intention to congest the network.
+The major innovation of the CPR-base approach is its ability to identify LDDoS flows.
+A flow with a CPR higher than a predefined threshold is classified as an LDDoS flow, and consequently all of its packets will be dropped.
+We analyze the effectiveness of CPR theoretically by quantifying the average CPR difference between normal TCP flows and LDDoS flows and showing that CPR can differentiate them.
+We conduct ns-2 simulations, test-bed experiments, and Internet traffic trace analysis to validate our analytical results and evaluate the performance of the proposed approach.
+Experimental results demonstrate that the proposed CPR-based approach is substantially more effective compared to an existing Discrete Fourier Transform (DFT)-based approach - one of the most efficient approaches in detecting LDDoS attacks.
+We also provide experimental guidance to choose the CPR threshold in practice.

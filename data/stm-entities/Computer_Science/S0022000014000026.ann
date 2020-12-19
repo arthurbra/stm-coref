@@ -1,0 +1,39 @@
+T1	Material 81 96	Systems-on-Chip
+T17	Data 116 135	an unbounded number
+T18	Data 174 188	a large number
+T20	Data 465 476	correctness
+T23	Method 402 435	a comprehensive modeling approach
+T26	Data 523 548	the high-level properties
+T27	Process 747 768	mathematically verify
+T28	Data 796 817	high-level properties
+T31	Data 773 794	manageable complexity
+T32	Process 936 944	designed
+T33	Material 948 952	VHDL
+T34	Material 960 976	the Petrify tool
+T35	Process 1018 1029	synthesized
+T36	Material 1034 1056	an Altera Cyclone FPGA
+T43	Process 1381 1387	faults
+T44	Process 1355 1372	metastable upsets
+T45	Process 1327 1339	the measures
+T46	Data 1402 1419	experimental data
+T47	Method 1460 1473	the algorithm
+T6	Method 1084 1110	a novel modeling framework
+T4	Process 39 76	a distributed clock generation scheme
+T3	Process 139 165	arbitrary transient faults
+T2	Process 192 218	arbitrary permanent faults
+T8	Process 333 363	metastability-free transitions
+T9	Material 276 323	a hybrid synchronous/asynchronous state machine
+T12	Material 480 521	the constructed low-level building blocks
+T13	Method 552 581	the synchronization algorithm
+T14	Material 821 841	a fault-prone system
+T15	Material 1115 1143	fault-tolerant VLSI circuits
+T16	Process 1155 1189	a self-stabilizing clocking scheme
+T5	Material 230 271	self-stabilizing hardware building blocks
+T7	Data 367 389	the algorithm's states
+T10	Material 854 879	its very basic components
+T11	Material 893 919	a prototype implementation
+T19	Data 1243 1269	the implications of theory
+T21	Material 1425 1456	a prototype FPGA implementation
+T22	Material 614 635	a more abstract model
+T24	Process 884 892	evaluate
+T25	Material 11 35	the first implementation

@@ -1,0 +1,79 @@
+T1	Material 18 41	the Jovian thermosphere
+T4	Process 113 135	magnetospheric physics
+T5	Process 179 191	the response
+T6	Material 195 218	the Jovian thermosphere
+T7	Data 222 242	transient variations
+T10	Material 281 330	an azimuthally symmetric global circulation model
+T11	Material 342 364	a simple magnetosphere
+T13	Process 331 338	coupled
+T14	Material 423 447	the Jovian magnetosphere
+T18	Material 481 499	rarefaction region
+T19	Process 555 575	the ensuing response
+T20	Process 579 600	the coupling currents
+T21	Process 602 621	thermospheric flows
+T22	Data 623 648	heating and cooling terms
+T23	Material 654 664	the aurora
+T24	Process 668 690	these transient events
+T25	Process 692 714	Transient compressions
+T26	Process 721 733	the reversal
+T29	Process 815 832	momentum transfer
+T30	Data 751 763	steady state
+T31	Material 841 875	the thermosphere and magnetosphere
+T32	Data 930 952	the Joule heating rate
+T34	Material 1055 1072	the magnetosphere
+T36	Data 985 1003	the kinetic energy
+T39	Data 1007 1033	the thermospheric neutrals
+T41	Data 1100 1128	Local temperature variations
+T42	Process 1160 1184	the compression scenario
+T43	Data 1189 1199	~-20and50K
+T44	Process 1204 1222	the expansion case
+T45	Process 1355 1378	global energy transport
+T46	Process 1244 1260	equatorward flow
+T47	Process 1284 1302	compression events
+T49	Data 1421 1439	a ~2000TW increase
+T51	Material 1486 1502	the thermosphere
+T53	Process 1516 1533	auroral processes
+T54	Data 1592 1608	a factor of ~4.5
+T57	Process 1535 1557	transient compressions
+T58	Process 1616 1636	transient expansions
+T59	Process 1646 1664	this main emission
+T60	Data 1668 1685	a more modest 37%
+T61	Process 1701 1716	transient event
+T63	Process 1723 1729	shifts
+T64	Material 1749 1762	the main oval
+T65	Data 1733 1745	the position
+T66	Material 1860 1914	Jupiter's magnetosphere-ionosphere-thermosphere system
+T73	Process 1973 1998	angular momentum transfer
+T74	Material 2004 2020	the thermosphere
+T75	Material 2024 2037	magnetosphere
+T78	Process 2084 2100	equatorward flow
+T79	Material 2104 2120	the thermosphere
+T80	Process 2128 2140	the reversal
+T8	Process 246 273	solar wind dynamic pressure
+T9	Process 459 477	a solar wind shock
+T16	Process 768 810	magnetosphere-ionosphere coupling currents
+T17	Process 954 962	Ion drag
+T27	Data 1136 1155	between ~-45and175K
+T28	Material 1224 1240	Extended regions
+T37	Process 1567 1588	main oval UV emission
+T38	Data 1767 1784	up to 1° latitude
+T40	Process 1824 1851	rapid solar wind variations
+T55	Process 1918 1936	A solar wind shock
+T56	Process 2041 2058	Solar wind shocks
+T62	Material 2067 2080	large regions
+T67	Process 2144 2165	ion drag acceleration
+T68	Data 2223 2269	local thermospheric temperature increases >25K
+T69	Process 2175 2212	rapid magnetospheric reconfigurations
+T2	Process 57 90	magnetosphere-ionosphere coupling
+T3	Material 375 401	auroral conductivity model
+T12	Process 520 530	compressed
+T15	Process 534 542	expanded
+T33	Data 893 917	at least a factor of two
+T70	Process 918 926	increase
+T35	Process 1076 1086	compressed
+T76	Process 1090 1098	expanded
+T48	Process 1380 1412	Both compressions and expansions
+T50	Process 1443 1482	the total power dissipated or deposited
+T52	Process 1558 1566	increase
+T77	Process 1637 1645	increase
+T71	Process 1944 1968	the reversal of currents

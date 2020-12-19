@@ -1,0 +1,79 @@
+T1	Process 0 6	Ageing
+T2	Data 10 16	a fact
+T3	Process 20 24	life
+T6	Material 79 89	the energy
+T9	Process 124 133	decreases
+T10	Data 139 151	its lifetime
+T11	Process 168 175	falling
+T16	Data 254 267	these factors
+T20	Data 359 367	the rate
+T21	Process 371 377	ageing
+T27	Data 502 505	282
+T31	Process 542 550	recorded
+T39	Process 616 625	operation
+T44	Data 717 726	NASA data
+T54	Data 931 943	load factors
+T55	Process 947 954	decline
+T56	Data 960 963	age
+T57	Data 968 982	a similar rate
+T66	Process 1107 1116	declining
+T67	Data 1122 1127	28.5%
+T68	Data 1140 1143	21%
+T69	Process 1155 1165	This trend
+T73	Data 1194 1205	generations
+T75	Process 1265 1276	degradation
+T76	Data 1251 1261	This level
+T77	Process 1277 1284	reduces
+T83	Process 1342 1352	increasing
+T85	Material 1375 1386	electricity
+T86	Data 1390 1392	9%
+T88	Data 1441 1444	282
+T94	Process 1527 1538	variability
+T95	Material 1542 1553	the weather
+T99	Process 1512 1522	Correcting
+T103	Process 1623 1628	falls
+T110	Data 1709 1712	age
+T113	Process 1806 1815	increases
+T4	Process 61 77	power generation
+T5	Material 102 113	a wind farm
+T7	Data 190 213	aerodynamic performance
+T8	Data 217 238	conversion efficiency
+T14	Material 381 414	a national fleet of wind turbines
+T15	Material 506 516	wind farms
+T17	Data 442 487	the actual and theoretical ideal load factors
+T18	Data 518 537	Actual load factors
+T19	Data 551 586	monthly for the period of 2002-2012
+T22	Data 597 612	1686 farm-years
+T23	Process 663 705	a high resolution wind resource assessment
+T24	Data 739 760	the hourly wind speed
+T26	Data 781 791	hub height
+T28	Material 795 809	each wind farm
+T29	Material 826 858	the particular models of turbine
+T30	Data 888 914	individual site conditions
+T32	Material 986 1010	other rotating machinery
+T33	Material 1012 1025	Wind turbines
+T34	Data 1044 1079	1.6 ± 0.2% of their output per year
+T35	Process 1209 1223	turbine design
+T36	Material 1228 1249	individual wind farms
+T37	Data 1309 1340	12% over a twenty year lifetime
+T38	Material 1285 1305	a wind farm's output
+T41	Material 1445 1455	wind farms
+T42	Data 1486 1508	public wind speed data
+T43	Process 1561 1580	wind turbine ageing
+T45	Material 1598 1622	Onshore wind farm output
+T47	Material 1724 1765	all farms and all generations of turbines
+T48	Process 1684 1703	Performance decline
+T49	Data 1816 1849	the levelised cost of electricity
+T50	Data 1792 1805	a farm's life
+T51	Process 1769 1786	Decreasing output
+T12	Process 294 338	the highly variable availability of the wind
+T13	Data 421 437	free public data
+T25	Process 650 657	derived
+T40	Data 627 645	Ideal load factors
+T52	Process 859 868	installed
+T53	Data 1086 1106	average load factors
+T58	Process 1459 1479	accurately estimated
+T59	Data 1353 1371	the levelised cost
+T46	Process 1659 1671	availability
+T60	Process 1676 1680	wear
+T61	Data 1629 1641	16% a decade

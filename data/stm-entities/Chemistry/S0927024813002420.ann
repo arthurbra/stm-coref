@@ -1,0 +1,57 @@
+T6	Data 0 4	Bulk
+T12	Material 159 185	donor-acceptor composition
+T14	Data 281 291	60% higher
+T15	Process 292 305	photocurrents
+T16	Process 224 252	Co-deposited heterojunctions
+T17	Process 266 274	generate
+T20	Process 397 406	annealing
+T21	Material 407 418	the devices
+T22	Method 419 428	post-situ
+T28	Process 622 631	annealing
+T31	Material 666 692	the donor-acceptor network
+T32	Data 716 744	a wide range of compositions
+T33	Data 746 752	20-80%
+T34	Material 753 756	PTh
+T37	Data 781 785	good
+T43	Process 891 905	differentiates
+T44	Material 906 937	this donor-acceptor combination
+T45	Data 867 886	multiple parameters
+T46	Process 943 978	the standard small-molecule systems
+T56	Process 1170 1187	thermal annealing
+T57	Data 1098 1115	Their performance
+T58	Process 1119 1128	optimized
+T59	Process 1137 1148	composition
+T60	Process 1191 1200	Annealing
+T61	Data 1210 1220	efficiency
+T62	Process 464 472	improved
+T63	Data 476 490	as much as 80%
+T66	Data 1226 1238	a wide range
+T67	Material 1242 1264	D:A blend compositions
+T68	Data 1266 1273	1:4-4:1
+T71	Material 1347 1358	the polymer
+T80	Data 1405 1413	superior
+T1	Material 5 31	heterojunction solar cells
+T2	Process 40 61	vacuum co-evaporation
+T3	Process 122 150	the blend morphology control
+T5	Method 190 199	post-situ
+T7	Process 200 209	annealing
+T8	Material 311 379	their thickness-optimized PTh/C60 planar heterojunction counterparts
+T9	Data 429 460	the power conversion efficiency
+T10	Method 492 520	UV-vis, XRD and AFM analysis
+T11	Process 584 609	morphological development
+T13	Material 613 616	PTh
+T18	Process 633 662	Annealing-induced improvement
+T19	Process 786 804	morphology control
+T23	Material 820 858	co-evaporated polymer-fullerene blends
+T24	Process 1012 1029	Vacuum deposition
+T25	Material 1033 1082	polymer/fullerene bulk heterojunction solar cells
+T27	Method 1160 1169	post-situ
+T29	Process 1317 1343	favorable phase separation
+T38	Process 1362 1380	Morphology control
+T39	Material 1384 1401	the polymer blend
+T40	Material 1417 1447	the equivalent oligomer blends
+T4	Material 65 84	polythiophene (PTh)
+T41	Material 89 104	fullerene (C60)
+T26	Process 532 558	the enhanced photoresponse
+T30	Process 1201 1209	enhances
+T35	Data 1278 1303	Improved blend morphology

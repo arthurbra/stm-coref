@@ -1,0 +1,71 @@
+T1	Process 0 8	Transits
+T2	Material 12 84	the H I 1216Å (Lyman α), O I 1334Å, C II 1335Å, and Si III 1206.5Å lines
+T4	Material 211 227	the thermosphere
+T5	Material 274 294	the lower atmosphere
+T6	Data 171 207	the temperature and density profiles
+T7	Material 326 350	a simple empirical model
+T8	Material 380 413	a more complex hydrodynamic model
+T9	Material 469 483	the atmosphere
+T10	Data 424 444	the mean temperature
+T12	Material 564 590	the atomic resonance lines
+T14	Data 500 517	the optical depth
+T15	Data 650 677	the observed transit depths
+T16	Material 681 699	the H I 1216Å line
+T17	Data 751 777	the minimum mass loss rate
+T18	Material 783 793	the planet
+T21	Data 823 841	The mass loss rate
+T22	Material 851 873	our hydrodynamic model
+T25	Process 911 931	diffusive separation
+T26	Material 949 964	neutral species
+T28	Material 1021 1031	Heavy ions
+T29	Material 1051 1071	the upper atmosphere
+T30	Process 1075 1093	Coulomb collisions
+T31	Material 1099 1101	H+
+T32	Data 1163 1181	the mass loss rate
+T33	Material 1202 1221	heavy neutral atoms
+T34	Material 1106 1120	their presence
+T35	Process 1259 1288	solar composition and heating
+T38	Data 1397 1415	the transit depths
+T39	Material 1419 1450	the O I, C II, and Si III lines
+T36	Process 1298 1334	the average solar X-ray and EUV flux
+T37	Material 1518 1534	the thermosphere
+T41	Data 1471 1486	the temperature
+T42	Data 1494 1514	elemental abundances
+T43	Material 1568 1579	such models
+T44	Process 1597 1620	the escaping atmosphere
+T48	Data 1754 1756	mJ
+T49	Process 1760 1786	the jovian magnetic moment
+T50	Material 1795 1803	the ions
+T51	Material 1846 1862	open field lines
+T52	Material 1881 1885	Si2+
+T53	Material 1889 1905	the thermosphere
+T55	Material 1971 1991	the lower atmosphere
+T56	Material 2051 2065	the atmosphere
+T57	Process 2105 2134	transit and secondary eclipse
+T58	Data 2151 2187	the visible and infrared wavelengths
+T60	Data 95 109	the properties
+T3	Material 113 133	the upper atmosphere
+T61	Material 137 146	HD209458b
+T62	Data 256 270	the properties
+T13	Material 521 546	the extended thermosphere
+T64	Material 550 560	the planet
+T20	Material 718 719	O
+T65	Data 723 737	high altitudes
+T19	Data 797 821	approximately 6×106kgs-1
+T66	Process 1036 1047	transported
+T40	Material 1233 1253	the upper atmosphere
+T45	Data 1658 1670	the strength
+T67	Material 1674 1702	the planetary magnetic field
+T59	Data 2019 2034	the temperature
+T69	Process 2039 2047	dynamics
+T11	Data 449 465	ionization state
+T63	Process 1185 1198	the detection
+T46	Data 1717 1746	a magnetic moment of m≲0.04mJ
+T47	Material 1921 1955	clouds of forsterite and enstatite
+T27	Process 1004 1014	the escape
+T54	Material 1018 1019	H
+T23	Data 970 1000	a mass lower than about 130amu
+T24	Process 701 714	The detection
+T68	Material 1223 1229	Models
+T70	Process 1807 1822	escape globally
+T71	Process 1864 1877	The detection

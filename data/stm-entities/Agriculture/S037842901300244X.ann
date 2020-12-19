@@ -1,0 +1,61 @@
+T1	Material 0 32	Striga hermonthica (Del.) Benth.
+T4	Process 178 188	evaluating
+T5	Process 189 201	the response
+T7	Process 311 324	panicle yield
+T10	Material 420 454	Two-hundred full-sib families (FS)
+T11	Process 468 490	the C5 selection cycle
+T12	Material 520 551	the genepool parental landraces
+T13	Material 553 575	experimental varieties
+T14	Process 589 604	previous cycles
+T15	Material 625 647	Striga-infested fields
+T16	Process 609 621	local checks
+T25	Data 1010 1018	the mean
+T26	Material 1022 1042	the genepool parents
+T28	Material 1191 1207	genepool parents
+T29	Material 1076 1098	Experimental varieties
+T30	Process 1113 1128	previous cycles
+T31	Data 1166 1178	higher yield
+T32	Data 1380 1385	ASNPC
+T34	Material 1270 1279	the C5-FS
+T35	Process 1398 1422	continued selection gain
+T37	Process 1284 1308	operative heritabilities
+T39	Data 1498 1515	all target traits
+T41	Process 1573 1582	extracted
+T42	Material 1588 1600	the genepool
+T43	Material 1622 1652	The genepool-derived varieties
+T45	Process 721 739	selection progress
+T46	Data 761 792	The accumulated percentage gain
+T47	Material 798 807	selection
+T48	Material 1211 1232	their selection sites
+T49	Process 496 505	evaluated
+T50	Process 576 583	derived
+T51	Process 749 759	documented
+T52	Material 1750 1762	pearl millet
+T54	Material 988 997	the C5-FS
+T55	Process 36 55	a persistent threat
+T56	Process 119 129	production
+T60	Process 279 288	targeting
+T61	Data 333 348	a lesser extent
+T64	Process 408 418	resistance
+T17	Data 820 832	51%/1% lower
+T18	Data 914 927	46%/62% lower
+T19	Data 956 970	49%/31% higher
+T53	Process 1669 1678	validated
+T76	Material 1679 1686	on-farm
+T3	Material 205 240	a diversified pearl millet genepool
+T6	Process 289 306	Striga resistance
+T9	Process 833 851	Striga infestation
+T20	Process 928 950	downy mildew incidence
+T23	Process 971 984	panicle yield
+T36	Process 1427 1444	Striga resistance
+T44	Process 1721 1746	integrated Striga control
+T8	Process 244 278	five cycles of recurrent selection
+T21	Data 865 911	area under Striga number progress curve, ASNPC
+T22	Data 1143 1154	lower ASNPC
+T24	Process 1234 1263	Significant genetic variation
+T27	Data 1312 1375	76% (Cinzana), 84% (Sadoré) and 34% (combined across locations)
+T33	Data 1446 1493	High genotype×environment interaction variances
+T38	Material 1529 1561	different experimental varieties
+T40	Material 1605 1620	different sites
+T57	Material 113 118;59 112	nov.] pearl millet [Cenchrus americanus (L.) Morrone, comb.
+T2	Material 349 397;398 407	downy mildew [Sclerospora graminicola (Sacc.) J. Schroet.]

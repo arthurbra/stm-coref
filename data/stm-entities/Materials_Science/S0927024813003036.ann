@@ -1,0 +1,54 @@
+T1	Material 0 34	Single-crystal Czochralski silicon
+T2	Process 44 57	photovoltaics
+T3	Process 71 85	supersaturated
+T4	Material 91 110	interstitial oxygen
+T5	Data 114 155	temperatures just below the melting point
+T6	Material 157 175	Oxide precipitates
+T8	Material 241 257	nucleation sites
+T9	Material 272 292	vacancy-rich regions
+T10	Process 294 314	Oxygen precipitation
+T11	Material 329 350	recombination centres
+T12	Process 362 368	reduce
+T13	Data 369 414	cell efficiencies by as much as 4% (absolute)
+T14	Process 432 459	the recombination behaviour
+T15	Material 463 504	p-type and n-type monocrystalline silicon
+T16	Data 510 534	a range of doping levels
+T17	Material 570 588	oxide precipitates
+T18	Data 594 638	a range of densities, sizes and morphologies
+T19	Data 651 709	injection-dependent minority carrier lifetime measurements
+T20	Method 784 813	Shockley-Read-Hall statistics
+T21	Data 718 741	a full parameterisation
+T22	Process 745 771	the recombination activity
+T23	Process 832 843	contaminate
+T24	Material 844 853	specimens
+T25	Material 859 863	iron
+T26	Process 874 896	recombination activity
+T27	Material 909 913	iron
+T28	Process 914 924	segregated
+T29	Material 928 970	oxide precipitates and surrounding defects
+T30	Method 985 1015	phosphorus diffusion gettering
+T31	Process 1024 1050	the recombination activity
+T32	Material 1054 1070	the precipitates
+T33	Material 1105 1114	bulk iron
+T34	Process 1133 1141	gettered
+T35	Material 1145 1174	the phosphorus diffused layer
+T36	Material 1190 1208	oxide precipitates
+T37	Process 1223 1243	Oxygen precipitation
+T38	Data 1252 1271	absolute efficiency
+T39	Material 1275 1294	silicon solar cells
+T40	Data 1298 1306	up to 4%
+T41	Material 1368 1386	oxide precipitates
+T42	Data 1335 1360	minority carrier lifetime
+T43	Data 1310 1331	Full parameterisation
+T44	Material 1412 1430	oxide precipitates
+T45	Process 1441 1463	recombination activity
+T46	Process 1390 1408	Iron contamination
+T47	Process 1467 1489	Recombination activity
+T48	Method 1501 1531	phosphorus diffusion gettering
+T49	Material 1535 1544	Bulk iron
+T50	Process 1545 1553	gettered
+T51	Material 1557 1582	phosphorus diffused layer
+T52	Material 1588 1606	oxide precipitates
+T7	Process 202 215	ingot cooling
+T53	Process 220 235	cell processing
+T54	Process 1431 1440	increases

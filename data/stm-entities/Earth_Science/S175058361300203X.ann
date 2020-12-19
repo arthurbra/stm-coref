@@ -1,0 +1,43 @@
+T1	Data 0 11	Temperature
+T9	Material 218 225	the CO2
+T10	Material 235 240	brine
+T11	Material 244 254	a free gas
+T14	Material 308 320	porous media
+T17	Data 414 440	3D time-lapse seismic data
+T22	Data 578 593	the temperature
+T24	Data 693 709	This temperature
+T25	Process 710 718	increase
+T26	Data 765 776	temperature
+T32	Data 891 894	Two
+T35	Material 920 933	the reservoir
+T37	Data 1041 1052	temperature
+T38	Data 1110 1125	the temperature
+T40	Material 1286 1293	the CO2
+T41	Data 1271 1282	the density
+T42	Data 895 906	temperature
+T53	Data 1080 1085	minor
+T2	Data 54 68	the properties
+T3	Material 72 75	CO2
+T4	Material 190 211	the CO2/brine mixture
+T5	Process 83 90	storage
+T6	Material 94 109	saline aquifers
+T7	Process 130 138	pressure
+T8	Material 143 158	co-constituents
+T49	Process 168 186	the phase behavior
+T12	Data 282 304	the elastic properties
+T15	Process 353 366	the migration
+T13	Material 370 412	geologically stored CO2 at the Ketzin site
+T16	Method 467 500	a baseline (pre-injection) survey
+T18	Method 520 542	a first monitor survey
+T19	Material 597 642	the storage reservoir near the injection well
+T20	Process 664 673	increased
+T21	Data 674 691	from 34°C to 38°C
+T23	Process 780 800	the seismic response
+T27	Process 804 821	the CO2 injection
+T28	Data 829 853	the CO2 mass estimations
+T29	Data 863 889	the Ketzin 4D seismic data
+T30	Material 969 999	multiphase fluid flow modeling
+T31	Data 935 948	34°C and 38°C
+T33	Process 1056 1076	the seismic response
+T34	Data 1129 1153	the CO2 mass estimations
+T36	Material 1195 1232	the multiphase fluid flow simulations

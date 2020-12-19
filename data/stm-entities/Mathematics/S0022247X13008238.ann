@@ -1,0 +1,10 @@
+T1	Process 89 116	weakly hyperbolic equations
+T2	Data 36 51	low order terms
+T5	Data 122 158	analytic time-dependent coefficients
+T6	Data 258 277	the Levi conditions
+T7	Data 288 309	the C∞ well-posedness
+T3	Data 55 84	the C∞ well-posedness results
+T4	Process 198 207	reduction
+T8	Result 258 327	the Levi conditions such that the C∞ well-posedness continues to hold
+T9	Result 21 158	how to include low order terms in the C∞ well-posedness results for weakly hyperbolic equations with analytic time-dependent coefficients
+T10	Object 36 51	low order terms

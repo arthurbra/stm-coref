@@ -1,0 +1,64 @@
+T1	Process 0 28	Laboratory and field studies
+T5	Material 225 235	Glyphosate
+T6	Process 236 245	inhibited
+T8	Material 306 346	technical grade glyphosate acid (GlyCry)
+T9	Process 390 426	an exponential dose dependent manner
+T10	Process 366 372	growth
+T12	Process 270 300	a linear dose dependent manner
+T15	Material 600 621	culture radial growth
+T18	Data 582 585	50%
+T23	Data 789 818	the three temperature regimes
+T24	Material 716 734	The three isolates
+T25	Material 826 844	the three isolates
+T26	Material 846 852	TN 410
+T27	Data 944 949	30 °C
+T30	Material 980 990	glyphosate
+T33	Material 1126 1136	glyphosate
+T39	Process 1196 1208	the severity
+T41	Process 1457 1465	severity
+T42	Process 1470 1478	assessed
+T45	Process 1408 1414	growth
+T46	Material 1482 1492	Glyphosate
+T48	Process 1493 1502	inhibited
+T49	Material 1587 1595	isolates
+T51	Process 1599 1615	Disease severity
+T53	Material 1679 1689	Glyphosate
+T54	Material 1716 1728	tilled field
+T4	Process 1258 1281	some suppressing effect
+T22	Process 1694 1712	suppressing effect
+T57	Process 377 386	inhibited
+T16	Material 509 528	The glyphosate GR50
+T58	Data 529 535	values
+T60	Process 586 595	reduction
+T61	Data 759 781	various concentrations
+T64	Process 1010 1017	inhibit
+T37	Material 1285 1305	a tilled environment
+T69	Material 1317 1336	single applications
+T43	Material 1387 1397	Glyphosate
+T71	Process 1398 1404	effect
+T47	Material 1503 1516	M. phaseolina
+T52	Material 1662 1675	no-till field
+T2	Process 54 65	the effects
+T79	Material 69 79	glyphosate
+T80	Material 83 121	Macrophomina phaseolina culture growth
+T81	Method 122 130	in vitro
+T3	Process 135 155	the disease severity
+T82	Material 159 189	charcoal rot in soybean fields
+T7	Material 246 266	M. phaseolina growth
+T11	Material 432 498	a commercial formulation of glyphosate-potassium salt (Gly-K salt)
+T17	Data 537 561	glyphosate concentration
+T13	Data 629 649	from 0.25 to 9.94 mM
+T14	Material 656 714	the M. Phaseolina isolates, temperatures, and formulations
+T19	Material 880 940	both GlyCry (GR50 = 7.74 mM) and Gly-K salt (GR50 = 0.25 mM)
+T20	Process 1018 1024	growth
+T21	Material 1028 1052	M. phaseolina in culture
+T28	Method 1053 1061	in vitro
+T29	Material 1140 1169	glyphosate-resistant soybeans
+T31	Process 1178 1195	enhance or reduce
+T32	Material 1212 1243	charcoal rot in a no-till field
+T34	Data 1350 1372	growth stage V3 and V6
+T35	Material 1418 1452	Macrophomina phaseolina in culture
+T36	Method 1517 1525	in vitro
+T38	Data 1544 1569	glyphosate concentrations
+T40	Process 1636 1658	Glyphosate application
+T44	Data 1735 1757	hot and dry conditions

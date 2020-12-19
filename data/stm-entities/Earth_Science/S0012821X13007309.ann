@@ -1,0 +1,66 @@
+T48	Process 730 741	synchronous
+T49	Process 787 795	activity
+T57	Process 923 929	anoxia
+T58	Material 933 943	the oceans
+T59	Process 906 919	an instigator
+T60	Material 1020 1030	other LIPs
+T61	Material 1040 1059	the High Arctic LIP
+T62	Process 953 959	assess
+T67	Material 1125 1152	the Western Interior Seaway
+T72	Material 1330 1339	nutrients
+T76	Process 1383 1390	coupled
+T77	Process 1406 1423	palaeocirculation
+T84	Process 1537 1566	penecontemporaneous transport
+T90	Process 1183 1191	evaluate
+T91	Data 1192 1202	this trend
+T107	Material 1905 1913	the GSSP
+T112	Process 1917 1923	Anoxia
+T113	Data 1941 1949	feedback
+T116	Data 2016 2028	the duration
+T117	Process 2032 2041	volcanism
+T122	Material 745 757	all sections
+T1	Method 0 48	High-resolution osmium (Os) isotope stratigraphy
+T2	Data 56 97	the Cenomanian-Turonian Boundary Interval
+T4	Data 103 113	6 sections
+T5	Data 118 148	four transcontinental settings
+T6	Process 211 231	regional variability
+T7	Material 249 284	terrestrial and hydrothermal inputs
+T10	Data 408 425	radiogenic values
+T11	Process 444 474	Oceanic Anoxic Event 2 (OAE 2)
+T14	Process 528 552	an unradiogenic interval
+T15	Process 560 583	the first part of OAE 2
+T16	Data 601 618	radiogenic values
+T17	Data 655 687	the Cenomanian-Turonian boundary
+T18	Data 715 726	187Os/188Os
+T19	Process 689 711	The unradiogenic trend
+T20	Material 799 841	the Caribbean LIP (Large Igneous Province)
+T21	Material 860 875	unradiogenic Os
+T22	Process 883 892	the OAE 2
+T23	Data 1078 1112	high radiogenic 187Os/188Os values
+T25	Process 1283 1306	the initiation of OAE 2
+T24	Process 1160 1178	the onset of OAE 2
+T26	Material 1345 1381	continental and volcanogenic sources
+T27	Material 1427 1460	the global ocean and epeiric seas
+T28	Data 1491 1519	higher nutrient availability
+T29	Material 1570 1607	continental and LIP-derived nutrients
+T30	Material 1611 1634	trans-equatorial basins
+T31	Method 1653 1677	Osi isotope stratigraphy
+T32	Process 1711 1733	Oceanic Anoxic Event 2
+T33	Data 1737 1749	Osi profiles
+T34	Material 1755 1762	6 sites
+T35	Data 1802 1820	seawater chemistry
+T36	Process 1774 1798	the regional variability
+T37	Data 1824 1847	δ13Corg and Osi records
+T38	Material 1866 1895	an integrated timescale model
+T39	Material 2047 2060	Caribbean LIP
+T3	Data 162 192	a record of seawater chemistry
+T8	Process 296 339	the impact of palaeoenvironmental processes
+T9	Data 358 382	the 187Os/188Os profiles
+T13	Process 476 504	an abrupt unradiogenic trend
+T40	Data 1220 1244	a combination of factors
+T41	Process 1687 1707	driving mechanism(s)
+T12	Process 508 526	the onset of OAE 2
+T43	Process 589 597	a return
+T44	Process 1462 1483	enhanced productivity
+T42	Process 1959 1973	climate change
+T45	Process 1978 1987	volcanism

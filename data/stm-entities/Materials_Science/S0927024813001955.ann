@@ -1,0 +1,34 @@
+T1	Material 0 24	A thin ZnO (<200nm) film
+T2	Method 34 76	Atmospheric Atomic Layer Deposition (AALD)
+T3	Material 115 136	a hole-blocking layer
+T4	Material 140 252	poly(3-hexylthiophene-2,5-diyl):[6,6]-phenyl-C61-buyric acid methyl ester (P3HT:PCBM) based inverted solar cells
+T5	Material 254 275	These AALD ZnO layers
+T6	Data 294 318	a high electron mobility
+T7	Data 322 335	3.4+0.1cm2/Vs
+T8	Material 369 382	visible light
+T9	Data 341 351	up to 100%
+T10	Process 352 365	transmittance
+T11	Process 388 406	a good wettability
+T12	Material 411 420	the blend
+T13	Data 477 497	the cell performance
+T14	Process 430 475	the very rapid, open atmosphere growth method
+T15	Material 518 579	some of the best inverted bulk heterojunction P3HT:PCBM cells
+T16	Data 599 614	The performance
+T17	Data 641 649	200 days
+T18	Process 653 660	storage
+T19	Material 664 679	air in the dark
+T20	Material 713 716	ZnO
+T21	Data 734 744	under 5min
+T22	Method 751 793	Atmospheric Atomic Layer Deposition (AALD)
+T23	Method 797 801	AALD
+T24	Process 852 875	roll-to-roll processing
+T25	Material 879 891	The AALD ZnO
+T26	Material 931 950	organic solar cells
+T27	Material 904 927	the hole blocking layer
+T28	Material 954 965	The devices
+T29	Data 970 982	performances
+T30	Material 1037 1075	The low-temperature deposited AALD ZnO
+T31	Material 1091 1120	plastic substrate solar cells
+T32	Data 999 1033	the highest reported in literature
+T33	Data 281 288	compact
+T34	Process 721 730	deposited

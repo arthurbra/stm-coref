@@ -1,0 +1,58 @@
+T1	Material 0 4	SOX2
+T5	Process 157 167	patterning
+T10	Process 72 83	maintenance
+T11	Process 109 124	differentiation
+T17	Process 225 234	generated
+T19	Process 275 284	harboring
+T22	Material 317 331	the SOX2 locus
+T41	Material 594 605	those cells
+T43	Data 665 686	the pluripotent state
+T46	Material 691 695	NPCs
+T49	Process 734 741	isolate
+T54	Material 804 807	AFE
+T62	Process 894 913	elevated expression
+T63	Material 917 932	this population
+T24	Material 333 356	This SOX2 reporter line
+T65	Process 382 392	expression
+T67	Material 1088 1107	multiple cell types
+T75	Process 1151 1167	the purification
+T82	Material 1268 1272	SOX2
+T83	Process 1293 1322	multiple developmental stages
+T87	Material 1398 1413	a SOX2 reporter
+T88	Process 1430 1444	its expression
+T97	Process 1583 1590	isolate
+T102	Data 611 625	highest levels
+T103	Material 206 220	a human system
+T105	Process 1533 1551	the identification
+T12	Process 20 60	several cell and developmental processes
+T8	Material 87 107	embryonic stem cells
+T2	Material 128 151	neural progenitor cells
+T3	Material 171 183	gut endoderm
+T4	Material 235 274	a human embryonic stem cell (hESC) line
+T6	Material 396 409	the SOX2 gene
+T14	Material 540 562	undifferentiated hESCs
+T15	Process 564 578	GFP expression
+T16	Process 629 648	expression of genes
+T25	Data 742 766	cells expressing markers
+T26	Process 783 799	NPC multipotency
+T27	Process 817 855	transcriptome-wide expression analysis
+T28	Data 868 888	cell surface markers
+T30	Material 985 1018	this hPSC-derived cell population
+T31	Material 1031 1051	A SOX2-GFP hESC line
+T33	Data 1108 1139	A cell surface marker signature
+T34	Material 1171 1189	endodermal progeny
+T35	Material 1219 1247	adeno-associated virus (AAV)
+T36	Process 1190 1213	Targeted gene insertion
+T37	Material 1362 1388	human embryonic stem cells
+T38	Material 1448 1470	undifferentiated cells
+T39	Material 1478 1510	neural and lung progenitor cells
+T40	Data 1555 1579	a cell surface signature
+T42	Material 1603 1619	lung progenitors
+T20	Material 285 313	a reporter gene encoding GFP
+T18	Process 697 707	expression
+T21	Material 711 714	GFP
+T23	Process 955 964	isolation
+T29	Process 969 981	purification
+T32	Process 1063 1070	isolate
+T44	Process 1075 1087	characterize
+T7	Material 413 535	undifferentiated human pluripotent stem cells (hPSCs), neural progenitor cells (NPCs), and anterior foregut endoderm (AFE)

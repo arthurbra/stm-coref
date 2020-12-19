@@ -1,0 +1,8 @@
+Detecting and dealing with congestion in delay-tolerant networks (DTNs) is an important and challenging problem.
+Current DTN forwarding algorithms typically direct traffic towards more central nodes in order to maximise delivery ratios and minimise delays, but as traffic demands increase these nodes may become saturated and unusable.
+We propose CafRep, an adaptive congestion aware protocol that detects and reacts to congested nodes and congested parts of the network by using implicit hybrid contact and resources congestion heuristics.
+CafRep exploits localised relative utility based approach to offload the traffic from more to less congested parts of the network, and to replicate at adaptively lower rate in different parts of the network with non-uniform congestion levels.
+We extensively evaluate our work against benchmark and competitive protocols across a range of metrics over three real connectivity and GPS traces such as Sassy [44], San Francisco Cabs [45] and Infocom 2006 [33].
+We show that CafRep performs well, independent of network connectivity and mobility patterns, and consistently outperforms the state-of-the-art DTN forwarding algorithms in the face of increasing rates of congestion.
+CafRep maintains higher availability and success ratios while keeping low delays, packet loss rates and delivery cost.
+We test CafRep in the presence of two application scenarios, with fixed rate traffic and with real world Facebook application traffic demands, showing that regardless of the type of traffic CafRep aims to deliver, it reduces congestion and improves forwarding performance.

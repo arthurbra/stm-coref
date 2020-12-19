@@ -1,0 +1,7 @@
+We introduce efficient sets, a class of sets in Rp in which, in each set, no element is greater in all dimensions than any other.
+Neither differentiability nor continuity is required of such sets, which include: level sets of utility functions, quasi-indifference classes associated with a preference relation not given by a utility function, mean-variance frontiers, production possibility frontiers, and Pareto efficient sets.
+By Lebesgue's density theorem, efficient sets have p-dimensional measure zero.
+As Lebesgue measure provides an imprecise description of small sets, we then prove the stronger result that each efficient set in Rp has Hausdorff dimension at most p-1.
+This may exceed its topological dimension, with the two notions becoming equivalent for smooth sets.
+We apply these results to stable sets in multi-good pillage games: for n agents and m goods, stable sets have dimension at most m(n-1)-1.
+This implies, and is much stronger than, the result that stable sets have m(n-1)-dimensional measure zero, as conjectured by Jordan.

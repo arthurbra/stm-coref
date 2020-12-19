@@ -1,0 +1,62 @@
+T1	Process 0 15	Transplantation
+T10	Process 180 187	induced
+T19	Material 325 350	an alternative RPE source
+T24	Process 401 406	grown
+T25	Data 440 467	near-native characteristics
+T30	Material 507 510	PET
+T39	Material 631 642	the implant
+T40	Process 644 652	detected
+T49	Process 869 881	implantation
+T52	Material 938 941	PET
+T53	Process 836 845	Histology
+T61	Data 817 823	stable
+T62	Material 959 971	the xeno-RPE
+T63	Data 986 1010	retained characteristics
+T66	Method 1218 1226	in vitro
+T67	Material 1246 1256	fetal hRPE
+T79	Process 1410 1417	Atrophy
+T80	Material 1421 1431	the retina
+T85	Data 1227 1242	characteristics
+T86	Process 1432 1442	overlaying
+T95	Process 1586 1591	grown
+T104	Material 1691 1703	The xeno-RPE
+T56	Material 1014 1034	the subretinal space
+T108	Material 1768 1788	the subretinal space
+T115	Process 243 254	translating
+T116	Material 262 268	clinic
+T2	Material 19 55	the retinal pigment epithelium (RPE)
+T3	Process 78 104	a cell-replacement therapy
+T4	Process 109 141	age-related macular degeneration
+T5	Material 143 175	Human embryonic stem cell (hESC)
+T6	Material 188 228	pluripotent stem cell (iPSC)-derived RPE
+T7	Material 283 321	the adult human RPE stem cell (hRPESC)
+T8	Material 352 372	Polarized monolayers
+T9	Material 410 435	polyester (PET) membranes
+T11	Material 376 400	adult hRPESC-derived RPE
+T12	Material 469 503	Trephined pieces of RPE monolayers
+T13	Process 516 541	transplanted subretinally
+T14	Material 545 582	the rabbit, a large-eyed animal model
+T15	Material 598 611	retinal edema
+T16	Method 656 724	spectral domain optical coherence tomography (SD-OCT) and fundoscopy
+T17	Process 737 752	retinal atrophy
+T18	Material 763 792	the fetal or adult transplant
+T20	Material 892 934	a continuous polarized human RPE monolayer
+T21	Material 1067 1091	adult hRPESC-derived RPE
+T22	Process 1119 1144	transplantation therapies
+T23	Material 1178 1202	Adult hRPESC-derived RPE
+T26	Material 1259 1274	hRPE monolayers
+T27	Material 1295 1307	PET carriers
+T28	Material 1314 1331	the rabbit retina
+T29	Process 1341 1359	xenograft survival
+T31	Data 1374 1407	the maintained hRPE cell polarity
+T32	Material 1443 1461	the hRPE xenograft
+T33	Material 1595 1614	polyester membranes
+T34	Material 1628 1665	adult hRPE stem cells or fetal tissue
+T35	Material 1546 1585	human retinal pigment epithelium (hRPE)
+T37	Material 1672 1689	the rabbit retina
+T38	Data 1735 1764	cell polarity characteristics
+T41	Material 1821 1845	adult hRPESC-derived RPE
+T42	Process 1873 1898	transplantation therapies
+T36	Process 1509 1521	transplanted
+T43	Material 1522 1542	polarized monolayers
+T44	Process 1615 1622	derived

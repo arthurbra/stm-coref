@@ -1,0 +1,83 @@
+T4	Data 42 55	a vast amount
+T12	Data 163 177	this potential
+T13	Process 191 198	extract
+T16	Data 239 247	hundreds
+T19	Material 296 304	an array
+T20	Process 284 292	deployed
+T21	Material 350 364	these turbines
+T22	Process 375 385	configured
+T23	Process 389 396	extract
+T28	Material 470 482	the turbines
+T36	Data 648 670	nonlinear interactions
+T39	Data 721 730	the power
+T45	Material 864 880	a physical model
+T53	Process 1055 1063	the flow
+T54	Data 1068 1083	the performance
+T55	Data 1120 1132	The gradient
+T56	Data 1136 1145	the power
+T57	Process 1146 1155	extracted
+T64	Process 1294 1301	solving
+T67	Process 1336 1351	These equations
+T68	Data 1390 1405	the computation
+T69	Data 1362 1371	causality
+T70	Data 1412 1421	the power
+T71	Process 1422 1431	extracted
+T76	Data 1372 1381	backwards
+T78	Data 1501 1513	the gradient
+T79	Data 1517 1523	a cost
+T80	Data 1546 1556	the number
+T81	Material 1560 1568	turbines
+T82	Process 1665 1675	optimising
+T85	Data 1756 1759	256
+T86	Material 1760 1768	turbines
+T97	Process 1992 2008	the optimisation
+T98	Material 2012 2025	many turbines
+T105	Process 2206 2216	optimising
+T106	Data 2217 2220	256
+T111	Data 2320 2331	open-source
+T112	Data 2349 2373	http://opentidalfarm.org
+T114	Process 1877 1887	formulated
+T116	Process 1230 1238	computed
+T1	Material 0 13	Oceanic tides
+T2	Material 59 75	renewable energy
+T3	Material 77 100	Tidal stream generators
+T6	Material 251 265	tidal turbines
+T7	Data 199 237	an economically useful amount of power
+T8	Data 397 423	the maximum possible power
+T10	Data 513 532	the extracted power
+T11	Data 556 573	economic interest
+T14	Process 584 603	manual optimisation
+T15	Data 624 646	legal site constraints
+T17	Material 674 691	the turbine wakes
+T18	Data 734 748	the flow speed
+T24	Process 697 717	the cubic dependence
+T25	Process 825 848	an optimisation problem
+T26	Method 909 959	an efficient gradient-based optimisation algorithm
+T27	Process 969 991	optimisation iteration
+T29	Material 993 1045	a two-dimensional finite element shallow water model
+T30	Material 1087 1118	the current array configuration
+T31	Data 1172 1193	the turbine positions
+T32	Data 1198 1221	their tuning parameters
+T33	Process 1275 1290	a flow solution
+T34	Process 1302 1334	the associated adjoint equations
+T35	Data 1242 1264	a fraction of the time
+T37	Data 1440 1461	the turbine positions
+T38	Data 1466 1487	the tuning parameters
+T40	Material 1676 1690	turbine arrays
+T41	Process 1834 1857	The layout optimisation
+T42	Material 1861 1872	tidal farms
+T44	Material 1891 1929	a PDE-constrained optimisation problem
+T46	Method 1933 1960	Gradient-based optimisation
+T47	Material 2031 2052	realistic flow models
+T48	Method 1965 1985	the adjoint approach
+T49	Material 2056 2077	A shallow water model
+T50	Data 2087 2120	the flow and the farm performance
+T51	Data 2124 2151	each optimisation iteration
+T52	Material 2221 2239	turbines in a farm
+T58	Method 2294 2316	The software framework
+T5	Process 137 147	extracting
+T59	Process 152 162	harnessing
+T9	Process 425 440	the positioning
+T60	Process 445 466	the individual tuning
+T43	Process 790 805	the formulation
+T61	Process 2078 2086	predicts

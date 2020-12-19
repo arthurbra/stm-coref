@@ -1,0 +1,19 @@
+A coupled Computational Fluid Dynamics-Rigid Body Dynamics (CFD-RBD) model is presented, which is capable of modelling the 3D flight of plate-type windborne debris.
+The RBD model is based on rotational quaternions, which means that complex spinning modes of flight can be modelled accurately and robustly.
+For debris that is free to fly in the absence of obstructions, it is shown that, depending on the initial plate orientation, a number of distinct flight modes are observed.
+When the plate is aligned at right angles to the flow, the flight mode depends critically on the initial angle of attack.
+The plate may wobble or flutter as it flies, never completing a full rotation, or it may enter an autorotational flight mode.
+Depending on the direction of rotation, the plate is capable of flying faster than the wind.
+It does this by converting some of its potential energy into rotational energy.
+The rotation of the plate causes the forces acting on the plate to further accelerate or decelerate it, depending on the rotation direction.
+When the plate is not aligned at right angles to the flow, the plate always enters a complex 3D spinning mode, with significant crosswind motion, which is absent when the plate is aligned at right angles to the flow.
+This spinning mode is more typical of plates flying in real wind storms.
+In addition, using a porous region to represent a simple double-eaved building, plates are launched from the roof and their trajectory is simulated.
+The complex flow fields around the building result in more realistic plate trajectories.
+For this particular scenario, large suctions on the windward slope of the roof produce large amounts of lift in the plates released from that position, causing them to fly well above the building, never entering the wake of the building.
+Highlights
+► We use CFD coupled to Rigid Body Dynamics to study the flight of windborne debris.
+► Different modes of flight are identifiable, dependent on the initial orientation.
+► Some debris flies faster than the wind as potential energy is converted to kinetic.
+► Plates are shown launched from the roof of a typical building.
+► The predicted flights compare well with limited experimental observations.

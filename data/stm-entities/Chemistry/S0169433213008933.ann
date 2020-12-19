@@ -1,0 +1,51 @@
+T7	Data 115 124	Roughness
+T19	Material 304 339	"optically smooth" plastic surfaces
+T21	Process 451 460	fabricate
+T27	Process 572 576	coat
+T30	Process 636 642	reduce
+T35	Process 681 692	the testing
+T36	Material 696 704	surfaces
+T39	Process 759 767	polished
+T48	Process 933 940	coating
+T49	Material 860 876	the two surfaces
+T50	Method 882 885	AFM
+T56	Process 982 988	reduce
+T62	Data 989 1013	peak-to-valley roughness
+T74	Process 1215 1222	reduced
+T81	Process 1398 1405	molding
+T9	Material 262 292	all manufactured plastic parts
+T10	Material 379 392	a tool cavity
+T11	Material 577 597	machined metal parts
+T12	Material 407 425	Such tool surfaces
+T33	Method 887 890	SEM
+T34	Method 895 915	optical profilometry
+T40	Material 955 970	the HSQ coating
+T41	Material 1036 1065	the sandpaper polished sample
+T42	Material 1127 1152	the paste polished sample
+T51	Process 1282 1306	injection molding cycles
+T52	Material 1341 1356	the HSQ coating
+T57	Material 1447 1461	surface finish
+T58	Material 61 71	any object
+T24	Material 603 632	hydrogen silsesquioxane (HSQ)
+T25	Data 1014 1032	more than 20 times
+T26	Data 1104 1122	more than 10 times
+T28	Data 1223 1237	10 and 3 times
+T29	Data 1265 1281	more than 10,000
+T45	Process 1315 1337	detectable degradation
+T46	Material 1409 1433	affordable plastic parts
+T1	Data 0 28	Surface roughness or texture
+T2	Material 83 113	injection molded plastic parts
+T3	Material 128 166	the injection molding (IM) tool cavity
+T4	Data 362 375	low roughness
+T5	Data 643 666	their surface roughness
+T13	Data 1153 1185	from 1.85(±0.63)μm to 162(±28)nm
+T14	Data 1067 1099	from 2.44(±0.99)μm to 104(±22)nm
+T8	Data 807 818	grit 11.000
+T15	Material 819 842	diamond polishing paste
+T6	Data 773 782	grit 2500
+T16	Material 783 792	sandpaper
+T17	Data 193 229	appearance and perception of quality
+T18	Data 715 739	two starting roughnesses
+T20	Data 1192 1210	roughness averages
+T31	Process 176 183	affects
+T22	Process 495 540	abrasive diamond polishing or diamond turning

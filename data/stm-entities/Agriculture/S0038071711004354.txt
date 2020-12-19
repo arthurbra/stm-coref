@@ -1,0 +1,15 @@
+The contribution of old soil C (SOM) to total soil respiration (RS) in forest has been a crucial topic in global change research, but remains uncertain.
+Isotopic methods, such as natural variations in carbon isotope composition (δ13C) of soil respiration, are more frequently being applied, and show promise in separating heterotrophic and autotrophic contributions to RS.
+However, natural and artificial modification of δ13CRs can cause isotopic disequilibria in the soil-atmosphere system generating a mismatch between what is usually measured and what process-based models will predict.
+Here we report the partitioning of the soil surface CO2 flux in a warm Mediterranean forest into components derived from root, litter/humus, and SOM sources using a new, three end-member mixing model, and compare this with the conventional partitioning into autotrophic and heterotrophic components.
+The three end-member mixing model takes into account both the discrimination during CO2 respiration/decomposition of the three components, as well as the fractions of their CO2 fluxes integrated over the total soil profile mass.
+In addition, we used a novel dual-chamber technique to ensure that δ13CRs was subjected to minimal artefacts during measurement.
+We observed that by using measured soil surface CO2 concentrations as a baseline level for the dual-chamber operation, it was possible to achieve and monitor the necessary conservation of the soil CO2 steady-state diffusion conditions during the measurements, without using permanent collars inserted deeply into the soil.
+When RS (8.64 g CO2 m2 d-1) was partitioned into two components, the mean autotrophic and heterotrophic respiration was 56 and 44%, respectively.
+When RS was partitioned using the three-way model, however, roots, litter/humus, and SOM contributed 30, 33, and 37% of the total flux.
+Our results confirm that to improve the estimates of the partitioning method, it is important to distinguish the fractional contribution of the long-term SOM-derived flux from younger and more labile sources.
+Highlights
+► Natural variations in carbon isotope composition (δ13C) of soil respiration.
+► Dual-chamber technique to ensure that δ13CRs is subjected to minimal artefacts during measurement.
+► Three end-member mixing model for partitioning the soil surface CO2 flux.
+► Fractional contribution of the long-term SOM-derived flux from younger and more labile sources.

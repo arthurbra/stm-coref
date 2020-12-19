@@ -1,0 +1,22 @@
+Currently there are few observations of the urban wind field at heights other than rooftop level.
+Remote sensing instruments such as Doppler lidars provide wind speed data at many heights, which would be useful in determining wind loadings of tall buildings, and predicting local air quality.
+Studies comparing remote sensing with traditional anemometers carried out in flat, homogeneous terrain often use scan patterns which take several minutes.
+In an urban context the flow changes quickly in space and time, so faster scans are required to ensure little change in the flow over the scan period.
+We compare 3993h of wind speed data collected using a three-beam Doppler lidar wind profiling method with data from a sonic anemometer (190m).
+Both instruments are located in central London, UK; a highly built-up area.
+Based on wind profile measurements every 2min, the uncertainty in the hourly mean wind speed due to the sampling frequency is 0.05-0.11ms-1.
+The lidar tended to overestimate the wind speed by ≈0.5ms-1 for wind speeds below 20ms-1.
+Accuracy may be improved by increasing the scanning frequency of the lidar.
+This method is considered suitable for use in urban areas.
+Graphical abstract
+Highlights
+•
+There is a need for more wind speed data collected above rooftop level in cities.
+•
+Remote sensing instruments can measure throughout the boundary layer.
+•
+Rapid evolution of the flow above cities means a short scan time is needed.
+•
+Data using a 3-beam Doppler lidar profiling method was compared with an anemometer.
+•
+The 3-beam method was found to be suitable for use in urban areas.

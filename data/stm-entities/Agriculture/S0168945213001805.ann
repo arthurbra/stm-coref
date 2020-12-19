@@ -1,0 +1,51 @@
+T1	Material 0 7	Biomass
+T2	Process 30 61	genetic engineering in forestry
+T8	Process 186 196	production
+T9	Process 198 210	Transgenesis
+T10	Material 224 231	biomass
+T16	Material 375 385	Transgenes
+T17	Process 398 408	juvenility
+T18	Process 410 425	winter dormancy
+T19	Process 431 440	flowering
+T20	Material 470 477	biomass
+T21	Process 487 508	Transgenic approaches
+T22	Material 825 835	tree crops
+T23	Method 797 820	multi-trait engineering
+T24	Material 862 888	multiple independent genes
+T26	Process 964 980	crop improvement
+T27	Process 1025 1080	unpredictable (synergistic or detrimental) interactions
+T28	Data 1111 1132	the overall phenotype
+T29	Process 1200 1227	the physiological processes
+T30	Process 1339 1355	close monitoring
+T31	Material 1359 1393	the resultant transgenic genotypes
+T32	Process 524 539	yield potential
+T33	Process 543 553	mitigating
+T34	Material 652 666	multiple genes
+T35	Material 713 718	trees
+T36	Material 728 740	forest trees
+T38	Process 852 861	deploying
+T39	Data 1006 1021	the probability
+T40	Data 1137 1162	its long-term performance
+T42	Method 982 995	This strategy
+T43	Method 1252 1267	such a strategy
+T44	Data 685 707	various stress factors
+T46	Process 1192 1199	predict
+T47	Material 606 621	the environment
+T52	Process 70 79	increased
+T50	Process 554 573	the adverse effects
+T45	Data 588 602	stress factors
+T51	Process 636 648	introduction
+T54	Process 671 681	resistance
+T55	Process 741 745	cope
+T41	Material 80 93	biomass yield
+T49	Process 107 135	most downstream applications
+T4	Material 331 373	solar energy, water, and mineral nutrients
+T5	Process 307 326	competitive ability
+T6	Process 245 289	resource acquisition and product utilization
+T7	Material 751 784	multiple or changing environments
+T11	Data 900 940	a set of genetically uncorrelated traits
+T12	Process 1277 1295	vigilance and care
+T13	Process 1397 1436	multi-year, multi-location field trials
+T3	Material 144 185	timber, fiber, pulp, paper, and bioenergy
+T14	Process 215 223	increase
+T15	Process 514 523	increased

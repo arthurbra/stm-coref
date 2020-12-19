@@ -1,0 +1,8 @@
+BACKGROUND:
+Common etiology of vascular diseases and later-life depression may provide important synergies for prevention. We examined whether standard clinical risk profiles developed for vascular diseases also predict depressive symptoms in older adults.
+METHODS:
+Data were drawn from the Whitehall II study with baseline examination in 1991; follow-up screenings in 1997, 2003, and 2008; and additional disease ascertainment from hospital data and registry linkage on 5318 participants (mean age 54.8 years, 31% women) without depressive symptoms at baseline. Vascular risk was assessed with the Framingham Cardiovascular, Coronary Heart Disease, and Stroke Risk Scores. New depressive symptoms at each follow-up screening were identified by General Health Questionnaire caseness, a Center for Epidemiologic Studies Depression Scale score ≥16, and use of antidepressant medication.
+RESULTS:
+Diagnosed vascular disease (that is, coronary heart disease or stroke) was associated with an increased risk for depressive symptoms, age- and sex-adjusted odds ratios from 1.5 (95% confidence interval 1.0-2.2) to 2.0 (1.4-3.0), depending on the indicator of depressive symptoms. Among participants without manifest vascular disease, the Stroke Risk Score was associated with Center for Epidemiologic Studies Depression Scale depressive symptoms before age 65 (age- and sex-adjusted odds ratio per 10% absolute change in the score = 3.1 [1.5-6.5]), but none of the risk scores predicted new-onset depressive symptoms in those aged ≥65 (odds ratios from .8 to 1.2).
+CONCLUSIONS:
+These data suggest that public health measures to improve vascular risk status will influence the incidence of later-life depressive symptoms via reduced rates of manifest vascular disease.

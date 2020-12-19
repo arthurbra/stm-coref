@@ -1,0 +1,64 @@
+T1	Process 0 10	Dispersion
+T3	Material 61 72	urban areas
+T4	Material 14 35	the near-field region
+T7	Process 154 161	Effects
+T8	Process 170 189	upstream dispersion
+T9	Material 217 231	building wakes
+T10	Process 191 199	trapping
+T15	Material 358 372	the near field
+T16	Process 313 328	highly variable
+T19	Data 286 308	concentration patterns
+T22	Process 457 466	analysing
+T25	Material 477 505	direct numerical simulations
+T27	Material 624 637	the buildings
+T32	Material 755 764	buildings
+T36	Process 793 804	Entrainment
+T37	Material 822 836	building wakes
+T39	Material 840 859	the very near field
+T43	Material 1006 1026	this very near field
+T46	Data 1060 1072	order 2 to 5
+T49	Process 961 987	concentration fluctuations
+T52	Method 1157 1160	DNS
+T60	Material 1292 1307	source location
+T61	Material 1324 1341	Secondary sources
+T62	Material 1345 1359	the near field
+T66	Process 1428 1440	fluctuations
+T67	Data 1456 1472	their magnitudes
+T68	Process 1473 1483	quantified
+T69	Data 1099 1110	key aspects
+T70	Material 1139 1150	urban areas
+T71	Process 1445 1451	mapped
+T5	Material 39 57	localised releases
+T12	Material 203 211	material
+T13	Data 332 354	time and mean profiles
+T14	Data 377 398	strongly non-Gaussian
+T17	Material 509 542	arrays of building-like obstacles
+T18	Data 562 591	the underlying flow structure
+T20	Process 417 438	near-field dispersion
+T21	Data 593 616	The mean flow structure
+T24	Process 773 791	lateral dispersion
+T26	Process 726 747	Diverging streamlines
+T28	Material 874 891	secondary sources
+T30	Data 911 944	the subsequent dispersion pattern
+T31	Data 946 957	High levels
+T33	Data 1028 1053	the fluctuation intensity
+T34	Process 1114 1135	near-field dispersion
+T35	Data 1179 1204	these dispersion features
+T38	Data 1208 1237	the underlying flow structure
+T40	Process 1256 1270	wind direction
+T41	Material 1272 1287	building layout
+T42	Material 1384 1400	the plume spread
+T44	Data 1404 1423	Concentration means
+T6	Process 236 271	enhanced concentration fluctuations
+T11	Data 400 413	These aspects
+T23	Process 680 694	the dispersion
+T29	Material 698 724	material in the near field
+T45	Process 1241 1252	The effects
+T47	Process 89 96	predict
+T2	Process 108 128	the strong influence
+T48	Material 132 152	individual buildings
+T50	Process 443 453	documented
+T51	Process 656 674	a strong influence
+T53	Process 765 772	enhance
+T54	Process 1090 1098	document
+T55	Process 1312 1320	examined

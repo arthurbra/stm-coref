@@ -1,0 +1,5 @@
+SpiNNaker is a biologically-inspired massively-parallel computer designed to model up to a billion spiking neurons in real-time.
+A full-fledged implementation of a SpiNNaker system will comprise more than 105 integrated circuits (half of which are SDRAMs and half multi-core systems-on-chip).
+Given this scale, it is unavoidable that some components fail and, in consequence, fault-tolerance is a foundation of the system design.
+Although the target application can tolerate a certain, low level of failures, important efforts have been devoted to incorporate different techniques for fault tolerance.
+This paper is devoted to discussing how hardware and software mechanisms collaborate to make SpiNNaker operate properly even in the very likely scenario of component failures and how it can tolerate system-degradation levels well above those expected.

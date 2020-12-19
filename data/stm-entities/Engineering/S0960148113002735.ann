@@ -1,0 +1,66 @@
+T15	Material 232 244	the turbines
+T20	Data 336 350	control signal
+T26	Data 358 361	two
+T33	Process 562 578	the aerodynamics
+T35	Method 634 645	Simulations
+T40	Material 781 793	the turbines
+T41	Process 646 653	predict
+T42	Data 798 813	the differences
+T45	Material 842 853	one turbine
+T46	Process 854 863	operating
+T48	Material 927 941	the topologies
+T49	Data 888 902	the deviations
+T51	Material 867 875	the wake
+T53	Process 991 998	deliver
+T54	Data 1004 1009	power
+T56	Data 1042 1045	one
+T57	Material 1046 1053	turbine
+T58	Material 1060 1068	the wake
+T62	Process 1114 1121	rapidly
+T65	Process 1151 1160	simulated
+T66	Process 1179 1186	coupled
+T73	Process 1282 1291	evaluated
+T75	Data 1338 1353	a vertical axis
+T79	Process 1375 1390	The aerodynamic
+T80	Material 1412 1424	the turbines
+T81	Process 1442 1456	the evaluation
+T87	Process 580 587	coupled
+T88	Process 515 529	The evaluation
+T1	Material 0 11	A wind farm
+T2	Data 17 45	a simple electrical topology
+T4	Data 97 112	mutual topology
+T5	Data 129 152	a more complex topology
+T6	Material 159 171	each turbine
+T7	Material 176 195	a separate inverter
+T8	Data 197 214	separate topology
+T9	Process 260 272	electrically
+T10	Material 284 303	the extracted power
+T11	Data 309 332	the rotational velocity
+T12	Data 362 383	electrical topologies
+T13	Data 414 432	the absorbed power
+T14	Material 437 460	a farm of four turbines
+T16	Data 478 513	a line or in a square configuration
+T17	Material 543 557	a vortex model
+T18	Material 604 632	the electromechanical system
+T19	Data 736 751	the wind speeds
+T21	Material 696 732	aerodynamically independent turbines
+T22	Data 817 827	wind speed
+T23	Data 906 918	power output
+T24	Data 962 981	The mutual topology
+T25	Data 1015 1036	the separate topology
+T27	Material 1136 1147	A VAWT farm
+T28	Material 1166 1178	vortex model
+T29	Material 1192 1206	electric model
+T32	Material 1210 1228	An electric system
+T31	Material 1295 1323	The proposed electric system
+T34	Material 1354 1371	wind turbine farm
+T36	Data 1460 1486	The inter turbine distance
+T37	Data 1514 1537	the electrical topology
+T38	Material 78 95	a single inverter
+T39	Material 55 73	passive rectifiers
+T3	Process 388 397	evaluated
+T43	Process 249 259	controlled
+T44	Material 1072 1087	another turbine
+T47	Data 1091 1105	the wind speed
+T30	Material 1234 1252	passive rectifiers
+T50	Material 1257 1272	a mutual DC-bus

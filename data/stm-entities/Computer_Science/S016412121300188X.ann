@@ -1,0 +1,55 @@
+T8	Material 158 170	the same set
+T9	Process 174 184	statements
+T10	Material 196 208	the same set
+T11	Process 212 222	statements
+T15	Process 98 112	All statements
+T22	Method 325 341	an approximation
+T29	Process 574 582	programs
+T31	Data 627 639	at least 10%
+T32	Process 643 660	the whole program
+T33	Process 683 693	clustering
+T34	Process 697 711	these programs
+T35	Data 671 679	patterns
+T36	Process 725 738	most programs
+T37	Data 747 755	multiple
+T39	Material 836 848	all clusters
+T40	Method 876 899	a logical functionality
+T42	Process 810 822	case studies
+T49	Process 1022 1025	map
+T53	Data 1119 1138	subtle deficiencies
+T57	Data 1220 1244	inter-cluster dependence
+T59	Process 1373 1392	reverse engineering
+T60	Material 1443 1451	clusters
+T63	Data 1506 1512	stable
+T66	Data 1460 1470	correlated
+T67	Process 1292 1301	connected
+T71	Process 1164 1174	identifies
+T78	Process 434 453	Our empirical study
+T2	Process 35 64	a large scale empirical study
+T3	Material 68 96	coherent dependence clusters
+T4	Material 116 145	a coherent dependence cluster
+T5	Process 224 255	a coherent cluster's statements
+T12	Material 364 381	coherent clusters
+T13	Data 403 432	a minimum precision of 97.76%
+T14	Data 479 512	their tight coherence constraints
+T16	Material 514 542	coherent dependence clusters
+T17	Material 596 613	coherent clusters
+T18	Data 561 573	23 of the 30
+T20	Material 756 785	substantial coherent clusters
+T23	Material 987 1017	the top five coherent clusters
+T24	Process 1081 1102	Cluster visualization
+T27	Material 1270 1287	coherent clusters
+T28	Data 1327 1350	higher-level structures
+T30	Process 1476 1490	program faults
+T38	Process 1525 1541	system evolution
+T1	Data 261 310	'coherent' shared backward and forward dependence
+T6	Process 969 985	the program acct
+T7	Method 1053 1079	non-obvious, functionality
+T25	Process 1142 1149	program
+T26	Material 1175 1207	potential refactoring candidates
+T19	Process 345 363	efficiently locate
+T21	Data 852 868	significant size
+T43	Process 869 872	map
+T41	Process 918 927	a program
+T44	Data 928 937	structure
+T45	Data 1150 1159	structure

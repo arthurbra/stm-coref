@@ -1,0 +1,56 @@
+T14	Material 262 273	hybrid gels
+T15	Process 281 286	dried
+T16	Process 290 297	produce
+T23	Data 399 403	high
+T26	Material 447 474	aqueous alcoholic solutions
+T31	Material 631 645	the starch gel
+T52	Data 792 797	large
+T53	Material 798 814	mesopore domains
+T54	Process 592 600	prepared
+T56	Process 230 235	limit
+T57	Process 417 430	The synthesis
+T55	Process 506 528	preparation techniques
+T58	Process 686 694	directed
+T59	Material 774 781	powders
+T62	Process 933 943	increasing
+T66	Data 1038 1067	a cubic crystalline structure
+T67	Data 1018 1034	the 5-40nm range
+T68	Data 1083 1087	size
+T69	Process 1093 1100	loading
+T70	Process 1069 1079	increasing
+T71	Data 1133 1157	the starch gel structure
+T78	Process 1205 1218	the synthesis
+T86	Process 1489 1499	the growth
+T91	Material 1562 1581	polysaccharide form
+T1	Material 23 40	CdS nanoparticles
+T2	Material 48 94	the porous confines of a mesoporous starch gel
+T3	Material 185 226	a porous polysaccharide (i.e. starch) gel
+T4	Material 130 181	the combined colloidal and flexible chemical nature
+T5	Process 236 246	CdS growth
+T6	Material 298 318	CdS/starch materials
+T7	Data 324 342	high surface areas
+T8	Data 358 384	mesoporous characteristics
+T9	Process 404 415	CdS loading
+T10	Process 532 575	additional protection/templating strategies
+T11	Data 496 505	expensive
+T12	Process 615 627	CdS loadings
+T13	Process 653 661	confined
+T17	Material 662 681	nanoparticle growth
+T18	Data 695 758	size/surface coverage, dispersion and UV-vis absorption profile
+T19	Data 834 853	pore diameters>10nm
+T20	Data 855 870	Vmeso>0.5cm3g-1
+T21	Data 820 832	high volumes
+T22	Data 876 889	surface areas
+T24	Data 891 904	SBET>170m2g-1
+T25	Process 949 960	CdS loading
+T27	Material 962 995	The synthesised CdS nanoparticles
+T28	Data 1168 1194	a CdS/starch ratio=1 (w/w)
+T29	Data 1102 1129	A complete surface coverage
+T30	Material 1222 1267	a unique mesoporous CdS/polysaccharide hybrid
+T33	Material 1390 1419	the porous polysaccharide gel
+T34	Material 1428 1456	the deposition point of Cd2+
+T36	Data 1544 1561	high surface area
+T37	Data 1503 1526	the inorganic CdS phase
+T32	Material 1337 1380	a wide range of QDs and polysaccharide gels
+T35	Process 1458 1467	directing
+T38	Process 1472 1483	stabilising

@@ -1,0 +1,11 @@
+T2	Data 26 44	the Sylow p-groups
+T4	Data 124 144	the pro-finite group
+T5	Data 154 174	the projective limit
+T6	Process 62 85	polynomial permutations
+T7	Data 48 58	the groups
+T8	Data 178 190	these groups
+T11	Object 26 190	the Sylow p-groups of the groups of polynomial permutations of the integers mod pn for n⩾1 and of the pro-finite group which is the projective limit of these groups
+T1	Result 3 190	enumerate and describe the Sylow p-groups of the groups of polynomial permutations of the integers mod pn for n⩾1 and of the pro-finite group which is the projective limit of these groups
+T3	Process 102 108	mod pn
+T9	Data 113 116	n⩾1
+T10	Data 89 101	the integers
