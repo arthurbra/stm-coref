@@ -1,0 +1,63 @@
+T1	Cluster1 10 42	Otitis media with effusion (OME)
+T2	Entity 129 148	bacterial infection
+T3	Cluster3 155 163	biofilms
+T4	Entity 44 98	a common chronic childhood condition affecting hearing
+T5	Entity 194 207	bacterial DNA
+T6	Entity 227 252	polymerase chain reaction
+T7	Entity 256 259	80%
+T8	Entity 263 271	patients
+T9	Entity 331 358	standard culture techniques
+T10	Entity 316 324	positive
+T11	Entity 283 298	fewer than half
+T12	Entity 302 311	effusions
+T13	Cluster4 412 420	bacteria
+T14	Cluster1 424 427	OME
+T15	Cluster6 510 518	staining
+T16	Cluster7 539 552	live bacteria
+T17	Entity 571 588	growth on culture
+T18	Cluster2 596 600	CLSM
+T19	Cluster3 668 676	biofilms
+T20	Entity 625 656	the three-dimensional structure
+T21	Entity 733 759	ventilation tube insertion
+T22	Cluster8 686 702	Effusion samples
+T23	Entity 1004 1014	51 (82.3%)
+T24	Entity 1020 1033	CLSM-positive
+T25	Entity 966 976	28 (45.2%)
+T26	Entity 982 998	culture-positive
+T27	Cluster7 1077 1090	live bacteria
+T28	Cluster2 1120 1124	CLSM
+T29	Cluster4 1126 1134	bacteria
+T30	Entity 1189 1199	planktonic
+T31	Cluster5 1145 1163	biofilm morphology
+T32	Entity 1203 1205	26
+T33	Cluster5 1244 1262	biofilm morphology
+T34	Entity 1278 1326	the culture-positive and culture-negative groups
+T35	Entity 1328 1343	50.0% and 48.3%
+T36	Cluster9 1360 1375	Biofilm samples
+T37	Entity 885 907	all possible organisms
+T38	Entity 815 842	extended culture techniques
+T39	Entity 1094 1104	57 (91.8%)
+T40	Entity 1207 1221	the proportion
+T41	Entity 1225 1232	samples
+T42	Entity 1404 1432	different bacterial isolates
+T43	Entity 1386 1403	an average of 1.7
+T44	Entity 1437 1459	planktonic samples 2.0
+T45	Entity 1466 1488	the commonest bacteria
+T46	Entity 1506 1538	coagulase-negative staphylococci
+T47	Cluster7 1551 1564	Live bacteria
+T48	Entity 1580 1594	most effusions
+T49	Entity 1660 1688	the aetiopathogenesis of OME
+T50	Entity 526 535	detection
+T51	Entity 215 223	detected
+T52	Cluster6 435 462	a bacterial viability stain
+T53	Cluster2 467 508	confocal laser scanning microscopy (CLSM)
+T54	Entity 708 717	collected
+T55	Cluster2 775 779	CLSM
+T56	Cluster6 784 809	bacterial viability stain
+T57	Cluster8 917 936	Sixty-two effusions
+T58	Entity 938 949	42 patients
+T59	Entity 1167 1179	25 effusions
+T60	Cluster4 1621 1629	bacteria
+T61	Cluster3 1634 1642	biofilms
+#1	AnnotatorNotes T4	c, APPOS
+T62	Cluster9 1225 1262	samples exhibiting biofilm morphology

@@ -1,0 +1,73 @@
+T1	Cluster3 20 57	a dual-layer carbon film on SiC wafer
+T2	Cluster4 76 112	carbide-derived carbon (CDC) process
+T3	Entity 129 160	chemical vapor deposition (CVD)
+T4	Cluster3 162 181	The dual-layer film
+T5	Entity 256 268	chlorination
+T6	Entity 272 275	SiC
+T7	Entity 280 289	pyrolysis
+T8	Entity 293 297	CCl4
+T9	Entity 301 317	high temperature
+T10	Cluster1 332 354	The CDC and CVD layers
+T11	Entity 359 375	mainly amorphous
+T12	Entity 424 441	the Raman spectra
+T13	Entity 389 407	dispersion effects
+T14	Entity 452 488	the D-band position of the CVD layer
+T15	Entity 489 495	shifts
+T16	Entity 499 528	higher wavenumber (~1354cm-1)
+T17	Cluster2 542 555	the CDC layer
+T18	Entity 557 566	~1337cm-1
+T19	Entity 569 595	Surface chemistry analysis
+T20	Entity 610 637	the unstable chemical bonds
+T21	Entity 646 650	C-Cl
+T22	Entity 663 677	dangling bonds
+T23	Cluster2 681 694	the CDC layer
+T24	Entity 800 809	SiC wafer
+T25	Cluster2 813 822	CDC layer
+T26	Cluster3 830 845	dual-layer film
+T27	Entity 865 894	atomic force microscopy [AFM]
+T28	Entity 899 952	field emission scanning electronic microscopy [FESEM]
+T29	Entity 954 976	The nanoporous surface
+T30	Cluster4 987 1002	the CDC process
+T31	Entity 1050 1063	the gas phase
+T32	Cluster8 1082 1089	seedbed
+T33	Entity 1095 1120	the nucleation and growth
+T34	Cluster2 1124 1133	CVD layer
+T35	Entity 1020 1029	capturing
+T36	Entity 1030 1044	carbon species
+T37	Cluster3 1181 1200	the dual-layer film
+T38	Entity 1135 1165	The primary tribological study
+T39	Entity 1207 1223	great advantages
+T40	Entity 1285 1302	SiC and CDC layer
+T41	Cluster9 1348 1375	SiC-based moving components
+T42	Entity 1332 1343	lubrication
+T43	Cluster3 1409 1435	The dual-layer carbon film
+T44	Cluster4 1454 1465	CDC process
+T45	Cluster5 1471 1492	subsequent CVD method
+T46	Cluster10 1496 1524	The surface of the CDC layer
+T47	Entity 1528 1541	highly porous
+T48	Entity 1545 1554	structure
+T49	Entity 1559 1576	chemically active
+T50	Cluster2 1580 1593	The CDC layer
+T51	Cluster8 1602 1617	a seedbed layer
+T52	Entity 1622 1647	the nucleation and growth
+T53	Cluster2 1651 1664	the CVD layer
+T54	Cluster3 1668 1687	The dual-layer film
+T55	Entity 1701 1733	an effective lubricating coating
+T56	Cluster9 1738 1752	SiC components
+T57	Cluster2 191 209	a sub-layer of CDC
+T58	Entity 214 232	a top layer of CVD
+T59	Entity 731 745	the nucleation
+T60	Entity 749 759	CVD carbon
+T61	Entity 761 783	The surface morphology
+T62	Entity 784 794	evolvement
+T63	Entity 1227 1245	friction reduction
+T64	Entity 1250 1265	wear resistance
+T65	Entity 1439 1447	prepared
+T66	Entity 1691 1697	tested
+T67	Cluster1 191 232	a sub-layer of CDC and a top layer of CVD
+T68	Cluster1 234 239	which
+T69	Cluster3 1315 1318	its
+T70	Cluster5 118 160	subsequent chemical vapor deposition (CVD)
+T71	Cluster6 1622 1664	the nucleation and growth of the CVD layer
+T72	Cluster6 1095 1133	the nucleation and growth of CVD layer
+T73	Cluster10 954 1002	The nanoporous surface formed in the CDC process

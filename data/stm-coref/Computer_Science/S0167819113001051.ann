@@ -1,0 +1,36 @@
+T1	Cluster1 0 9	SpiNNaker
+T2	Entity 13 64	a biologically-inspired massively-parallel computer
+T3	Cluster1 162 180	a SpiNNaker system
+T4	Cluster1 695 704	SpiNNaker
+T5	Cluster2 376 391	fault-tolerance
+T6	Cluster2 585 600	fault tolerance
+T7	Cluster2 792 800	tolerate
+T8	Cluster2 466 474	tolerate
+T9	Entity 350 354	fail
+T10	Entity 499 507	failures
+T11	Entity 758 776	component failures
+T12	Entity 334 349	some components
+T13	Entity 65 73	designed
+T14	Entity 83 98	up to a billion
+T15	Entity 77 82	model
+T16	Entity 209 228	integrated circuits
+T17	Entity 248 254	SDRAMs
+T18	Cluster5 299 309	this scale
+T19	Entity 705 712	operate
+T20	Entity 675 686	collaborate
+T21	Entity 439 461	the target application
+T22	Entity 259 263	half
+T23	Entity 118 127	real-time
+T24	Entity 264 290	multi-core systems-on-chip
+T25	Entity 411 428	the system design
+T26	Entity 486 495	low level
+T27	Entity 642 674	hardware and software mechanisms
+T28	Cluster4 801 826	system-degradation levels
+T29	Entity 99 114	spiking neurons
+T30	Entity 195 208	more than 105
+T31	Entity 230 243	half of which
+#1	AnnotatorNotes T2	c, corpular structure
+T32	Cluster4 838 843	those
+T33	Cluster5 238 243	which
+T34	Cluster1 785 787	it
+T35	Cluster5 195 228	more than 105 integrated circuits

@@ -1,0 +1,90 @@
+T1	Cluster1 40 67	total soil respiration (RS)
+T2	Cluster1 369 371	RS
+T3	Cluster1 1576 1578	RS
+T4	Cluster1 1722 1724	RS
+T5	Cluster2 753 789	a new, three end-member mixing model
+T6	Cluster2 890 923	The three end-member mixing model
+T7	Cluster2 1747 1766	the three-way model
+T8	Cluster2 1906 1929	the partitioning method
+T9	Cluster2 2255 2284	Three end-member mixing model
+T10	Cluster3 687 746	components derived from root, litter/humus, and SOM sources
+T11	Cluster3 1007 1027	the three components
+T12	Cluster3 1777 1805	roots, litter/humus, and SOM
+T13	Cluster4 421 427	δ13CRs
+T14	Cluster4 1186 1192	δ13CRs
+T15	Cluster5 625 650	the soil surface CO2 flux
+T16	Entity 1057 1073	their CO2 fluxes
+T17	Entity 1837 1851	the total flux
+T18	Cluster5 2302 2327	the soil surface CO2 flux
+T19	Cluster6 1140 1170	a novel dual-chamber technique
+T20	Cluster6 1339 1365	the dual-chamber operation
+T21	Cluster6 2154 2176	Dual-chamber technique
+T22	Cluster7 201 234	carbon isotope composition (δ13C)
+T23	Cluster7 2097 2130	carbon isotope composition (δ13C)
+T24	Entity 1962 1989	the fractional contribution
+T25	Entity 2331 2354	Fractional contribution
+T26	Cluster9 1993 2023	the long-term SOM-derived flux
+T27	Cluster9 2358 2388	the long-term SOM-derived flux
+T28	Cluster10 2029 2060	younger and more labile sources
+T29	Cluster10 2394 2425	younger and more labile sources
+T30	Entity 20 36	old soil C (SOM)
+T31	Entity 71 77	forest
+T32	Entity 106 128	global change research
+T33	Entity 153 169	Isotopic methods
+T34	Cluster13 238 254	soil respiration
+T35	Cluster18 179 197	natural variations
+T36	Entity 382 417	natural and artificial modification
+T37	Entity 438 460	isotopic disequilibria
+T38	Entity 555 575	process-based models
+T39	Entity 464 490	the soil-atmosphere system
+T40	Entity 654 681	a warm Mediterranean forest
+T41	Cluster17 1729 1740	partitioned
+T42	Cluster13 2134 2150	soil respiration
+T43	Cluster4 2192 2198	δ13CRs
+T44	Cluster14 2240 2251	measurement
+T45	Cluster15 2215 2232	minimal artefacts
+T46	Cluster17 2289 2301	partitioning
+T47	Entity 1889 1902	the estimates
+T48	Entity 1318 1334	a baseline level
+T49	Entity 1522 1539	permanent collars
+T50	Entity 1561 1569	the soil
+T51	Entity 1490 1506	the measurements
+T52	Entity 1420 1432	conservation
+T53	Cluster14 1235 1246	measurement
+T54	Entity 1074 1084	integrated
+T55	Entity 974 1003	CO2 respiration/decomposition
+T56	Entity 581 588	predict
+T57	Entity 605 621	the partitioning
+T58	Entity 813 842	the conventional partitioning
+T59	Entity 848 888	autotrophic and heterotrophic components
+T60	Entity 948 966	the discrimination
+T61	Entity 1040 1053	the fractions
+T62	Entity 311 321	separating
+T63	Entity 322 365	heterotrophic and autotrophic contributions
+T64	Entity 491 501	generating
+T65	Entity 502 512	a mismatch
+T66	Entity 521 525	what
+T67	Entity 537 545	measured
+T68	Entity 550 554	what
+T69	Entity 1540 1555	inserted deeply
+T70	Entity 1090 1117	the total soil profile mass
+T71	Entity 1274 1314	measured soil surface CO2 concentrations
+T72	Entity 1386 1405	achieve and monitor
+T73	Entity 1436 1482	the soil CO2 steady-state diffusion conditions
+T74	Entity 1691 1701	56 and 44%
+T75	Entity 1818 1833	30, 33, and 37%
+T76	Entity 1580 1597	8.64 g CO2 m2 d-1
+T77	Cluster18 2075 2093	Natural variations
+T78	Entity 0 16	The contribution
+T79	Cluster15 1210 1227	minimal artefacts
+T80	Entity 1636 1686	the mean autotrophic and heterotrophic respiration
+T81	Cluster17 1603 1614	partitioned
+T82	Cluster11 595 597	we
+T83	Cluster11 1132 1134	we
+T84	Cluster11 1248 1250	We
+T85	Cluster11 1853 1856	Our
+T87	Cluster12 803 807	this
+T86	Cluster12 605 746	the partitioning of the soil surface CO2 flux in a warm Mediterranean forest into components derived from root, litter/humus, and SOM sources
+T88	Cluster3 1057 1062	their
+T89	Cluster16 1962 2023	the fractional contribution of the long-term SOM-derived flux
+T90	Cluster16 2331 2388	Fractional contribution of the long-term SOM-derived flux

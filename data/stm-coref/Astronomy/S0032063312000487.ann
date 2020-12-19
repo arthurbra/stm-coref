@@ -1,0 +1,71 @@
+T1	Cluster8 57 73	energy transport
+T2	Cluster5 79 96	the magnetosphere
+T3	Cluster7 172 193	Saturn's magnetopause
+T4	Cluster1 230 268	the Kelvin-Helmholtz (K-H) instability
+T5	Entity 220 226	growth
+T6	Entity 278 299	greater wave activity
+T7	Entity 303 316	the dawn side
+T8	Cluster10 320 331	the surface
+T9	Entity 340 353	the dusk side
+T10	Entity 399 421	the Cassini spacecraft
+T11	Entity 429 438	crossings
+T12	Cluster7 442 463	Saturn's magnetopause
+T13	Entity 465 498	Surface orientation perturbations
+T14	Entity 609 613	dusk
+T15	Entity 622 626	dawn
+T16	Entity 628 631	53%
+T17	Entity 635 648	all crossings
+T18	Entity 708 735	consecutive surface normals
+T19	Entity 819 839	local time asymmetry
+T20	Entity 843 858	this phenomenon
+T21	Entity 951 984	the magnetospheric magnetic field
+T22	Entity 986 1011	tailward wave propagation
+T23	Entity 1017 1041	the dawn-dusk difference
+T24	Entity 1045 1056	wave period
+T25	Cluster1 1071 1086	K-H instability
+T26	Entity 1090 1120	a major wave driving mechanism
+T27	Entity 1128 1145	linear K-H theory
+T28	Entity 1158 1181	the dominant wavelength
+T29	Entity 1188 1209	∼10 Saturn radii (RS)
+T30	Entity 1214 1223	amplitude
+T31	Cluster6 1389 1402	wave activity
+T32	Cluster1 1474 1493	the K-H instability
+T33	Cluster7 1497 1518	Saturn's magnetopause
+T34	Entity 1460 1470	the growth
+T35	Cluster5 1675 1692	the magnetosphere
+T36	Cluster7 1745 1766	Saturn's magnetopause
+T37	Entity 1789 1811	Kelvin-Helmholtz waves
+T38	Entity 1826 1855	Saturn's magnetopause surface
+T39	Entity 1884 1908	the predicted difference
+T40	Cluster10 1916 1927	the surface
+T41	Cluster4 0 48	Waves on the surface of a planetary magnetopause
+T42	Entity 527 578	the local magnetospheric magnetic field orientation
+T43	Entity 662 696	a sequence of regular oscillations
+T44	Entity 764 798	tailward propagating surface waves
+T45	Entity 872 896	the dominant wave period
+T46	Entity 903 930	∼5h at dawn and ∼3h at dusk
+T47	Entity 1230 1257	∼1 RS at both dawn and dusk
+T48	Entity 1349 1385	the hypothesized dawn-dusk asymmetry
+T49	Entity 1566 1596	other planetary magnetospheres
+T50	Cluster8 1653 1662	transport
+T51	Entity 1663 1669	energy
+T52	Entity 1696 1707	Differences
+T53	Entity 1970 2008	surface waves on Saturn's magnetopause
+T54	Cluster4 1611 1652	Surface waves on a planetary magnetopause
+T55	Entity 134 167	solar wind-magnetosphere coupling
+T56	Entity 863 871	estimate
+T57	Entity 1266 1321	propagation speeds of ∼30 and ∼50kms-1 at dawn and dusk
+T58	Entity 1711 1720	the level
+T59	Cluster6 1724 1737	wave activity
+T60	Entity 1818 1822	form
+T61	Entity 1776 1785	predicted
+T62	Cluster3 220 268	growth of the Kelvin-Helmholtz (K-H) instability
+T63	Cluster3 1460 1493	the growth of the K-H instability
+T64	Cluster9 355 357	We
+T65	Cluster9 860 862	We
+T66	Cluster9 1146 1148	we
+T67	Cluster9 1931 1933	We
+T68	Cluster9 1421 1423	we
+T69	Cluster9 1439 1442	our
+T70	Cluster11 1439 1518	our understanding of the growth of the K-H instability at Saturn's magnetopause
+T71	Cluster11 1520 1525	which

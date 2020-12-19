@@ -1,0 +1,70 @@
+T1	Cluster9 0 10	Dispersion
+T2	Cluster6 61 72	urban areas
+T3	Cluster11 14 35	the near-field region
+T4	Entity 154 161	Effects
+T5	Entity 170 189	upstream dispersion
+T6	Cluster7 217 231	building wakes
+T7	Entity 191 199	trapping
+T8	Cluster11 358 372	the near field
+T9	Entity 313 328	highly variable
+T10	Entity 286 308	concentration patterns
+T11	Entity 457 466	analysing
+T12	Entity 477 505	direct numerical simulations
+T13	Cluster3 624 637	the buildings
+T14	Cluster3 755 764	buildings
+T15	Entity 793 804	Entrainment
+T16	Cluster7 822 836	building wakes
+T17	Cluster10 840 859	the very near field
+T18	Cluster10 1006 1026	this very near field
+T19	Entity 1060 1072	order 2 to 5
+T20	Cluster14 961 987	concentration fluctuations
+T21	Entity 1157 1160	DNS
+T22	Entity 1292 1307	source location
+T23	Cluster12 1324 1341	Secondary sources
+T24	Cluster11 1345 1359	the near field
+T25	Cluster14 1428 1440	fluctuations
+T26	Entity 1456 1472	their magnitudes
+T27	Entity 1473 1483	quantified
+T28	Entity 1099 1110	key aspects
+T29	Cluster6 1139 1150	urban areas
+T30	Entity 1445 1451	mapped
+T31	Entity 39 57	localised releases
+T32	Entity 203 211	material
+T33	Entity 332 354	time and mean profiles
+T34	Entity 377 398	strongly non-Gaussian
+T35	Entity 509 542	arrays of building-like obstacles
+T36	Cluster5 562 591	the underlying flow structure
+T37	Cluster2 417 438	near-field dispersion
+T38	Entity 593 616	The mean flow structure
+T39	Entity 773 791	lateral dispersion
+T40	Entity 726 747	Diverging streamlines
+T41	Cluster12 874 891	secondary sources
+T42	Entity 911 944	the subsequent dispersion pattern
+T43	Entity 946 957	High levels
+T44	Entity 1028 1053	the fluctuation intensity
+T45	Cluster2 1114 1135	near-field dispersion
+T46	Cluster13 1179 1204	these dispersion features
+T47	Cluster5 1208 1237	the underlying flow structure
+T48	Entity 1256 1270	wind direction
+T49	Entity 1272 1287	building layout
+T50	Entity 1384 1400	the plume spread
+T51	Entity 1404 1423	Concentration means
+T52	Entity 236 271	enhanced concentration fluctuations
+T53	Entity 400 413	These aspects
+T54	Cluster9 680 694	the dispersion
+T55	Entity 698 724	material in the near field
+T56	Entity 1241 1252	The effects
+T57	Entity 89 96	predict
+T58	Entity 108 128	the strong influence
+T59	Entity 132 152	individual buildings
+T60	Entity 443 453	documented
+T61	Entity 656 674	a strong influence
+T62	Entity 765 772	enhance
+T63	Entity 1090 1098	document
+T64	Entity 1312 1320	examined
+T65	Cluster1 1087 1089	We
+T66	Cluster1 1169 1171	We
+T68	Cluster13 400 438	These aspects of near-field dispersion
+T67	Cluster13 1099 1150	key aspects of near-field dispersion in urban areas
+T69	Cluster15 1456 1461	their
+T70	Cluster15 1404 1440	Concentration means and fluctuations

@@ -1,0 +1,48 @@
+T1	Entity 144 152	new data
+T2	Entity 172 187	prior knowledge
+T3	Entity 118 138	additional knowledge
+T4	Entity 108 117	acquiring
+T5	Entity 161 171	forgetting
+T6	Entity 390 400	classified
+T7	Cluster7 572 578	varies
+T8	Entity 584 588	time
+T9	Cluster6 451 465	Approximations
+T10	Entity 682 691	computing
+T11	Cluster6 692 706	approximations
+T12	Cluster7 712 725	the variation
+T13	Entity 776 784	updating
+T14	Cluster6 785 803	the approximations
+T15	Entity 965 971	verify
+T16	Cluster8 972 987	the performance
+T17	Entity 913 924	experiments
+T18	Entity 745 748	Two
+T19	Cluster5 0 20	Incremental learning
+T20	Entity 51 70	knowledge discovery
+T21	Entity 74 92	a dynamic database
+T22	Cluster3 189 205	Rough set theory
+T23	Entity 236 255	information systems
+T24	Entity 260 283	classification analysis
+T25	Cluster1 285 315	Set-valued information systems
+T26	Entity 342 375	single-valued information systems
+T27	Entity 406 420	two categories
+T28	Entity 422 449	disjunctive and conjunctive
+T29	Cluster3 494 510	rough set theory
+T30	Cluster2 557 571	the object set
+T31	Cluster1 592 626	the set-valued information systems
+T32	Entity 654 677	the updating mechanisms
+T33	Cluster2 729 743	the object set
+T34	Entity 749 771	incremental algorithms
+T35	Entity 807 861	disjunctive/conjunctive set-valued information systems
+T36	Cluster4 991 1014	the proposed algorithms
+T37	Entity 1037 1063	the incremental approaches
+T38	Entity 1089 1115	non-incremental approaches
+T39	Entity 1121 1141	a dramatic reduction
+T40	Cluster8 1145 1168	the computational speed
+T41	Entity 529 550	updated incrementally
+T42	Entity 646 653	analyze
+T43	Entity 944 961	several data sets
+T44	Entity 1064 1088	significantly outperform
+T45	Cluster4 745 861	Two incremental algorithms for updating the approximations in disjunctive/conjunctive set-valued information systems
+T46	Cluster5 94 99	which
+T47	Cluster6 512 517	which
+T48	Cluster1 377 382	which

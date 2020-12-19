@@ -1,0 +1,65 @@
+T1	Entity 101 108	packets
+T2	Entity 95 100	fewer
+T3	Cluster9 119 135	legitimate flows
+T4	Entity 150 167	the vulnerability
+T5	Entity 250 263	severe damage
+T6	Entity 557 564	congest
+T7	Entity 565 576	the network
+T8	Cluster6 664 670	A flow
+T9	Cluster5 676 681	a CPR
+T10	Entity 773 784	its packets
+T11	Entity 793 800	dropped
+T12	Cluster5 834 837	CPR
+T13	Cluster5 952 955	CPR
+T14	Entity 805 812	analyze
+T15	Entity 983 990	conduct
+T16	Entity 1079 1101	our analytical results
+T17	Entity 1115 1130	the performance
+T18	Entity 1106 1114	evaluate
+T19	Cluster3 1134 1155	the proposed approach
+T20	Cluster7 694 716	a predefined threshold
+T21	Entity 720 730	classified
+T22	Entity 855 866	quantifying
+T23	Entity 320 326	detect
+T24	Entity 229 235	detect
+T25	Entity 1070 1078	validate
+T26	Cluster1 22 89	TCP-targeted Low-rate Distributed Denial-of-Service (LDDoS) attacks
+T27	Entity 171 205	TCP's congestion control mechanism
+T28	Entity 267 289	TCP-based applications
+T29	Entity 343 358	an LDDoS attack
+T30	Cluster4 381 392	LDDoS flows
+T31	Cluster5 437 472	Congestion Participation Rate (CPR)
+T32	Entity 479 499	a CPR-based approach
+T33	Cluster1 521 534	LDDoS attacks
+T34	Cluster3 602 623	the CPR-base approach
+T35	Cluster4 651 662	LDDoS flows
+T36	Entity 734 747	an LDDoS flow
+T37	Entity 867 893	the average CPR difference
+T38	Entity 991 1007	ns-2 simulations
+T39	Entity 1009 1029	test-bed experiments
+T40	Entity 1035 1066	Internet traffic trace analysis
+T41	Cluster3 1195 1226	the proposed CPR-based approach
+T42	Entity 1271 1330	an existing Discrete Fourier Transform (DFT)-based approach
+T43	Cluster1 1383 1396	LDDoS attacks
+T44	Cluster7 1446 1463	the CPR threshold
+T45	Entity 112 118	attack
+T46	Entity 503 509	detect
+T47	Entity 514 520	filter
+T48	Entity 420 434	a novel metric
+T49	Entity 642 650	identify
+T50	Entity 960 973	differentiate
+T51	Cluster9 902 918	normal TCP flows
+T52	Cluster4 923 934	LDDoS flows
+T53	Entity 1373 1382	detecting
+T54	Cluster1 207 211	They
+T55	Cluster2 409 411	we
+T56	Cluster2 1398 1400	We
+T57	Cluster2 980 982	We
+T58	Cluster2 802 804	We
+T59	Cluster1 538 543	their
+T60	Cluster6 773 776	its
+T61	Cluster2 1079 1082	our
+T62	Cluster3 627 630	its
+T63	Cluster8 902 934	normal TCP flows and LDDoS flows
+T64	Cluster8 974 978	them
+T65	Cluster3 479 576	a CPR-based approach to detect and filter LDDoS attacks by their intention to congest the network

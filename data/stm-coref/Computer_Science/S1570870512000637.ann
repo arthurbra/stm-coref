@@ -1,0 +1,71 @@
+T1	Cluster4 27 37	congestion
+T2	Entity 157 163	direct
+T3	Cluster6 164 171	traffic
+T4	Entity 211 219	maximise
+T5	Entity 240 248	minimise
+T6	Cluster5 249 255	delays
+T7	Cluster1 289 300	these nodes
+T8	Entity 347 353	CafRep
+T9	Cluster3 541 547	CafRep
+T10	Entity 602 609	offload
+T11	Cluster6 610 621	the traffic
+T12	Entity 679 688	replicate
+T13	Entity 799 807	evaluate
+T14	Cluster3 1011 1017	CafRep
+T15	Cluster3 1215 1221	CafRep
+T16	Cluster3 1342 1348	CafRep
+T17	Cluster3 1524 1530	CafRep
+T18	Cluster4 1559 1569	congestion
+T19	Entity 1232 1238	higher
+T20	Entity 280 288	increase
+T21	Entity 1183 1193	increasing
+T22	Entity 41 71	delay-tolerant networks (DTNs)
+T23	Entity 121 146	DTN forwarding algorithms
+T24	Cluster1 180 198	more central nodes
+T25	Entity 220 235	delivery ratios
+T26	Entity 264 279	traffic demands
+T27	Cluster7 355 392	an adaptive congestion aware protocol
+T28	Entity 480 539	implicit hybrid contact and resources congestion heuristics
+T29	Entity 557 598	localised relative utility based approach
+T30	Entity 627 649	more to less congested
+T31	Entity 650 670	parts of the network
+T32	Entity 692 713	adaptively lower rate
+T33	Entity 717 747	different parts of the network
+T34	Entity 753 782	non-uniform congestion levels
+T35	Entity 825 860	benchmark and competitive protocols
+T36	Entity 868 886	a range of metrics
+T37	Entity 892 930	three real connectivity and GPS traces
+T38	Entity 939 996	Sassy [44], San Francisco Cabs [45] and Infocom 2006 [33]
+T39	Entity 1048 1068	network connectivity
+T40	Entity 1073 1090	mobility patterns
+T41	Entity 1121 1167	the state-of-the-art DTN forwarding algorithms
+T42	Entity 1194 1213	rates of congestion
+T43	Entity 1239 1270	availability and success ratios
+T44	Entity 1428 1475	real world Facebook application traffic demands
+T45	Entity 1400 1418	fixed rate traffic
+T46	Entity 1583 1605	forwarding performance
+T47	Entity 1504 1523	the type of traffic
+T48	Entity 0 9	Detecting
+T49	Entity 14 21	dealing
+T50	Entity 312 321	saturated
+T51	Entity 326 334	unusable
+T52	Entity 398 405	detects
+T53	Entity 410 416	reacts
+T54	Entity 420 435	congested nodes
+T55	Entity 440 455	congested parts
+T56	Entity 459 470	the network
+T57	Entity 1285 1288	low
+T58	Cluster5 1289 1295	delays
+T59	Entity 1297 1314	packet loss rates
+T60	Entity 1319 1332	delivery cost
+T61	Entity 1551 1558	reduces
+T62	Entity 1574 1582	improves
+T63	Cluster2 784 786	We
+T64	Cluster2 998 1000	We
+T65	Cluster2 1334 1336	We
+T66	Cluster2 808 811	our
+T68	Cluster2 336 338	We
+T69	Cluster7 393 397	that
+T70	Cluster3 1548 1550	it
+T67	Cluster3 347 539	CafRep, an adaptive congestion aware protocol that detects and reacts to congested nodes and congested parts of the network by using implicit hybrid contact and resources congestion heuristics
+#1	AnnotatorNotes T67	c, APPOS

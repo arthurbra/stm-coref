@@ -1,0 +1,70 @@
+T1	Entity 35 64	a large scale empirical study
+T2	Cluster1 434 453	Our empirical study
+T3	Entity 158 170	the same set
+T4	Entity 196 208	the same set
+T5	Cluster3 174 184	statements
+T6	Cluster3 212 222	statements
+T7	Cluster10 224 255	a coherent cluster's statements
+T8	Cluster4 68 96	coherent dependence clusters
+T9	Entity 116 145	a coherent dependence cluster
+T10	Cluster16 364 381	coherent clusters
+T11	Cluster4 514 542	coherent dependence clusters
+T12	Cluster16 1270 1287	coherent clusters
+T13	Entity 574 582	programs
+T14	Cluster5 697 711	these programs
+T15	Entity 918 927	a program
+T16	Entity 1142 1149	program
+T17	Entity 98 112	All statements
+T18	Cluster11 325 341	an approximation
+T19	Entity 627 639	at least 10%
+T20	Entity 643 660	the whole program
+T21	Entity 683 693	clustering
+T22	Entity 671 679	patterns
+T23	Entity 725 738	most programs
+T24	Entity 747 755	multiple
+T25	Entity 836 848	all clusters
+T26	Entity 876 899	a logical functionality
+T27	Entity 810 822	case studies
+T28	Entity 1022 1025	map
+T29	Entity 1119 1138	subtle deficiencies
+T30	Entity 1220 1244	inter-cluster dependence
+T31	Entity 1373 1392	reverse engineering
+T32	Cluster8 1443 1451	clusters
+T33	Entity 1506 1512	stable
+T34	Entity 1460 1470	correlated
+T35	Entity 1292 1301	connected
+T36	Entity 1164 1174	identifies
+T37	Entity 403 432	a minimum precision of 97.76%
+T38	Entity 479 512	their tight coherence constraints
+T39	Cluster16 596 613	coherent clusters
+T40	Entity 561 573	23 of the 30
+T41	Entity 756 785	substantial coherent clusters
+T42	Entity 987 1017	the top five coherent clusters
+T43	Entity 1081 1102	Cluster visualization
+T44	Cluster12 1327 1350	higher-level structures
+T45	Entity 1476 1490	program faults
+T46	Entity 1525 1541	system evolution
+T47	Entity 261 310	'coherent' shared backward and forward dependence
+T48	Entity 969 985	the program acct
+T49	Entity 1053 1079	non-obvious, functionality
+T50	Entity 1175 1207	potential refactoring candidates
+T51	Entity 345 363	efficiently locate
+T52	Entity 852 868	significant size
+T53	Entity 869 872	map
+T54	Cluster15 928 937	structure
+T55	Cluster15 1150 1159	structure
+T56	Cluster7 312 314	We
+T57	Cluster7 434 437	Our
+T58	Cluster7 952 954	we
+T59	Cluster4 479 484	their
+T60	Cluster8 1494 1498	they
+T61	Cluster9 158 184	the same set of statements
+T62	Cluster9 196 222	the same set of statements
+T63	Cluster10 98 145	All statements in a coherent dependence cluster
+T64	Cluster11 396 398	it
+T65	Cluster12 1352 1357	which
+T66	Cluster16 614 618	that
+T67	Cluster5 561 582	23 of the 30 programs
+T68	Cluster13 918 937	a program structure
+T69	Cluster13 1142 1159	program structure
+T70	Cluster1 35 96	a large scale empirical study of coherent dependence clusters

@@ -1,0 +1,60 @@
+T1	Entity 136 155	the characteristics
+T2	Cluster3 159 170	the turbine
+T3	Entity 177 189	measurements
+T4	Entity 300 307	coupled
+T5	Entity 388 394	tested
+T6	Entity 409 428	different tradeoffs
+T7	Entity 546 555	the three
+T8	Entity 556 574	control strategies
+T9	Cluster5 520 535	The simulations
+T10	Entity 789 795	stable
+T11	Cluster5 807 822	the simulations
+T12	Cluster3 871 882	the turbine
+T13	Entity 956 965	a too low
+T14	Cluster2 983 1005	the control strategies
+T15	Cluster3 1029 1040	the turbine
+T16	Entity 1121 1139	A control strategy
+T17	Entity 1144 1148	VAWT
+T18	Entity 1192 1201	evaluated
+T19	Entity 1205 1213	Accuracy
+T20	Cluster7 1217 1233	control strategy
+T21	Entity 1274 1289	The sensitivity
+T22	Entity 21 49	a vertical axis wind turbine
+T23	Entity 108 131	the rotational velocity
+T24	Entity 64 81	The electric load
+T25	Entity 193 216	the incoming wind speed
+T26	Entity 272 299	an aerodynamic vortex model
+T27	Entity 313 332	an electrical model
+T28	Cluster2 334 383	Three different sets of control system parameters
+T29	Entity 643 659	known wind speed
+T30	Entity 665 684	dynamic simulations
+T31	Entity 706 716	wind speed
+T32	Cluster2 762 784	All control strategies
+T33	Entity 828 867	proper power absorption characteristics
+T34	Entity 918 939	peak power absorption
+T35	Entity 966 981	tip speed ratio
+T36	Cluster6 1055 1104	A coupled aerodynamic - electric simulation model
+T37	Cluster4 1171 1188	wind measurements
+T38	Entity 1241 1258	convergence speed
+T39	Entity 1293 1315	the control parameters
+T40	Entity 0 16	A control system
+T41	Cluster1 235 253	The control system
+T42	Entity 257 266	evaluated
+T43	Entity 504 518	high stability
+T44	Entity 475 481	a fast
+T45	Cluster7 482 498	control strategy
+T46	Entity 437 443	a high
+T47	Entity 444 460	power absorption
+T48	Entity 583 609	a similar power absorption
+T49	Entity 690 702	fast changes
+T50	Entity 718 726	the fast
+T51	Entity 727 745	control strategies
+T52	Entity 943 952	estimated
+T53	Entity 1262 1270	analysed
+T54	Entity 1319 1331	investigated
+T55	Cluster1 0 49	A control system for a vertical axis wind turbine
+T56	Cluster2 546 574	the three control strategies
+T57	Cluster4 177 216	measurements of the incoming wind speed
+T58	Cluster6 272 332	an aerodynamic vortex model coupled with an electrical model
+T59	Cluster1 1121 1148	A control strategy for VAWT
+T60	Cluster1 1149 1153	that

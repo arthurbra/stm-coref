@@ -1,0 +1,57 @@
+T1	Entity 262 273	hybrid gels
+T2	Entity 281 286	dried
+T3	Entity 290 297	produce
+T4	Entity 399 403	high
+T5	Entity 447 474	aqueous alcoholic solutions
+T6	Cluster2 631 645	the starch gel
+T7	Entity 792 797	large
+T8	Entity 798 814	mesopore domains
+T9	Entity 592 600	prepared
+T10	Entity 230 235	limit
+T11	Cluster3 417 430	The synthesis
+T12	Entity 506 528	preparation techniques
+T13	Entity 686 694	directed
+T14	Entity 774 781	powders
+T15	Entity 933 943	increasing
+T16	Entity 1038 1067	a cubic crystalline structure
+T17	Entity 1018 1034	the 5-40nm range
+T18	Entity 1083 1087	size
+T19	Cluster1 1093 1100	loading
+T20	Entity 1069 1079	increasing
+T21	Entity 1133 1157	the starch gel structure
+T22	Cluster3 1205 1218	the synthesis
+T23	Entity 1489 1499	the growth
+T24	Entity 1562 1581	polysaccharide form
+T25	Entity 23 40	CdS nanoparticles
+T26	Entity 48 94	the porous confines of a mesoporous starch gel
+T27	Cluster2 185 226	a porous polysaccharide (i.e. starch) gel
+T28	Entity 130 181	the combined colloidal and flexible chemical nature
+T29	Entity 236 246	CdS growth
+T30	Entity 298 318	CdS/starch materials
+T31	Entity 324 342	high surface areas
+T32	Entity 358 384	mesoporous characteristics
+T33	Cluster1 404 415	CdS loading
+T34	Entity 532 575	additional protection/templating strategies
+T35	Entity 496 505	expensive
+T36	Entity 615 627	CdS loadings
+T37	Entity 653 661	confined
+T38	Entity 662 681	nanoparticle growth
+T39	Entity 695 758	size/surface coverage, dispersion and UV-vis absorption profile
+T40	Entity 834 853	pore diameters>10nm
+T41	Entity 855 870	Vmeso>0.5cm3g-1
+T42	Entity 820 832	high volumes
+T43	Entity 876 889	surface areas
+T44	Entity 891 904	SBET>170m2g-1
+T45	Cluster1 949 960	CdS loading
+T46	Entity 962 995	The synthesised CdS nanoparticles
+T47	Entity 1168 1194	a CdS/starch ratio=1 (w/w)
+T48	Entity 1102 1129	A complete surface coverage
+T49	Entity 1222 1267	a unique mesoporous CdS/polysaccharide hybrid
+T50	Cluster2 1390 1419	the porous polysaccharide gel
+T51	Entity 1428 1456	the deposition point of Cd2+
+T52	Entity 1544 1561	high surface area
+T53	Entity 1503 1526	the inorganic CdS phase
+T54	Entity 1337 1380	a wide range of QDs and polysaccharide gels
+T55	Entity 1458 1467	directing
+T56	Entity 1472 1483	stabilising
+T57	Entity 647 652	which

@@ -1,0 +1,16 @@
+Whether human induced pluripotent stem cells (hiPSCs) are epigenetically identical to human embryonic stem cells (hESCs) has been debated in the stem cell field.
+In this study, we analyzed DNA methylation patterns in a large number of hiPSCs (n = 114) and hESCs (n = 155), and identified a panel of 82 CpG methylation sites that can distinguish hiPSCs from hESCs with high accuracy.
+We show that 12 out of the 82 CpG sites were subject to hypermethylation in part by DNMT3B.
+Notably, DNMT3B contributes directly to aberrant hypermethylation and silencing of the signature gene, TCERG1L.
+Overall, we conclude that DNMT3B is involved in a wave of de novo methylation during reprogramming, a portion of which contributes to the unique hiPSC methylation signature.
+These 82 CpG methylation sites may be useful as biomarkers to distinguish between hiPSCs and hESCs.
+Highlights
+•
+Eighty-two DNA methylation sites distinguish hiPSCs and hESCs with high accuracy
+•
+Twelve aberrantly hypermethylated signature CG sites are due in part to DNMT3B
+•
+DNMT3B also contributes to previously reported aberrant hypermethylation in hiPSCs
+Huang et al. identify a panel of 82 CpG methylation sites that can robustly distinguish hiPSCs from hESCs with high accuracy.
+Part of the signature consists of aberrantly hypermethylated CpG sites, which are partially abrogated in the absence of DNMT3B.
+In addition, DNMT3B-mutant hiPSCs do not exhibit other aberrant hypermethylation signatures as previously reported.

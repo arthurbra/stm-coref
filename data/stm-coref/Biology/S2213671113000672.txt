@@ -1,0 +1,16 @@
+Tauopathies represent a group of neurodegenerative disorders characterized by the accumulation of pathological TAU protein in brains.
+We report a human neuronal model of tauopathy derived from induced pluripotent stem cells (iPSCs) carrying a TAU-A152T mutation.
+Using zinc-finger nuclease-mediated gene editing, we generated two isogenic iPSC lines: one with the mutation corrected, and another with the homozygous mutation engineered.
+The A152T mutation increased TAU fragmentation and phosphorylation, leading to neurodegeneration and especially axonal degeneration.
+These cellular phenotypes were consistent with those observed in a patient with TAU-A152T.
+Upon mutation correction, normal neuronal and axonal morphologies were restored, accompanied by decreases in TAU fragmentation and phosphorylation, whereas the severity of tauopathy was intensified in neurons with the homozygous mutation.
+These isogenic TAU-iPSC lines represent a critical advancement toward the accurate modeling and mechanistic study of tauopathies with human neurons and will be invaluable for drug-screening efforts and future cell-based therapies.
+Highlights
+•
+A human neuron model of tauopathy using TAU-A152T-iPSCs
+•
+Correction of TAU-A152T mutation eliminates tauopathy
+•
+Engineered homozygous TAU-A152T mutation intensifies tauopathy
+•
+A152T mutation increases TAU proteolysis, leading to tauopathy

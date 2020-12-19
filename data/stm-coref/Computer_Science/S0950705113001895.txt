@@ -1,0 +1,8 @@
+Incremental learning is an efficient technique for knowledge discovery in a dynamic database, which enables acquiring additional knowledge from new data without forgetting prior knowledge.
+Rough set theory has been successfully used in information systems for classification analysis.
+Set-valued information systems are generalized models of single-valued information systems, which can be classified into two categories: disjunctive and conjunctive.
+Approximations are fundamental concepts of rough set theory, which need to be updated incrementally while the object set varies over time in the set-valued information systems.
+In this paper, we analyze the updating mechanisms for computing approximations with the variation of the object set.
+Two incremental algorithms for updating the approximations in disjunctive/conjunctive set-valued information systems are proposed, respectively.
+Furthermore, extensive experiments are carried out on several data sets to verify the performance of the proposed algorithms.
+The results indicate the incremental approaches significantly outperform non-incremental approaches with a dramatic reduction in the computational speed.

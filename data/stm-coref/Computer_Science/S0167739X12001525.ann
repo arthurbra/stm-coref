@@ -1,0 +1,63 @@
+T1	Entity 61 70	the Cloud
+T2	Entity 302 312	the system
+T3	Cluster10 626 642	virtual machines
+T4	Cluster1 740 758	The monitored data
+T5	Entity 808 819	categorized
+T6	Entity 929 943	bioinformatics
+T7	Entity 893 925	scientific workflow applications
+T8	Entity 1132 1142	Simulation
+T9	Entity 1493 1499	Clouds
+T10	Entity 1553 1562	structure
+T11	Cluster6 1758 1761	CBR
+T12	Cluster2 1765 1767	KM
+T13	Entity 1682 1701	In-depth evaluation
+T14	Entity 27 46	Cloud Computing QoS
+T15	Entity 140 179	Service Level Agreement (SLA) enactment
+T16	Entity 202 225	human-based interaction
+T17	Entity 248 298	the scalability and efficient resource utilization
+T18	Entity 344 363	Autonomic Computing
+T19	Cluster9 373 399	the autonomic control loop
+T20	Entity 423 454	Cloud Computing infrastructures
+T21	Entity 667 695	their resource configuration
+T22	Cluster2 713 738	knowledge management (KM)
+T23	Cluster1 606 620	monitored data
+T24	Entity 775 807	synthetically generated workload
+T25	Entity 823 860	different workload volatility classes
+T26	Entity 1111 1130	a simulation engine
+T27	Cluster6 1170 1186	the CBR approach
+T28	Cluster4 1213 1236	the rule-based approach
+T29	Entity 1249 1263	SLA violations
+T30	Entity 1265 1285	resource utilization
+T31	Entity 1359 1402	synthetically generated and real-world data
+T32	Cluster2 1426 1446	knowledge management
+T33	Entity 1460 1464	SLAs
+T34	Entity 1469 1489	low resource wastage
+T35	Cluster7 1503 1520	Escalation levels
+T36	Entity 1529 1549	a hierarchical model
+T37	Entity 1572 1595	reconfiguration actions
+T38	Cluster4 1705 1724	rule-based approach
+T39	Entity 1782 1797	real-world data
+T40	Cluster5 1812 1846	scientific bioinformatic workflows
+T41	Entity 465 489	hierarchically structure
+T42	Entity 490 521	all possible adaptation actions
+T43	Cluster7 527 554	so-called escalation levels
+T44	Entity 870 891	a real-world scenario
+T45	Cluster3 991 1037	Case-Based Reasoning and a rule-based approach
+T46	Cluster3 1063 1075	both of them
+T47	Entity 1287 1348	the number of necessary reconfigurations and time performance
+T48	Cluster3 1599 1643	Case-Based Reasoning and rule-based approach
+T49	Entity 573 592	one of these levels
+T50	Entity 596 605	analyzing
+T51	Cluster2 948 950	KM
+T52	Entity 1080 1088	evaluate
+T53	Cluster2 1665 1667	KM
+T54	Cluster5 893 943	scientific workflow applications in bioinformatics
+T55	Cluster8 456 458	We
+T56	Cluster8 556 558	We
+T57	Cluster8 1039 1041	We
+T58	Cluster8 1417 1419	We
+T60	Cluster9 410 412	it
+T61	Cluster3 1089 1093	them
+T62	Cluster10 667 672	their
+T63	Cluster8 330 332	we
+T64	Cluster8 963 965	we

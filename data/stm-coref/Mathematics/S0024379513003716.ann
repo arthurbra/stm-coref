@@ -1,0 +1,40 @@
+T1	Entity 86 104	positive powers Ak
+T2	Entity 141 149	periodic
+T3	Cluster3 158 169	max algebra
+T4	Cluster4 177 203	nonnegative linear algebra
+T5	Entity 253 270	the Minkowski sum
+T6	Cluster2 316 329	the core of A
+T7	Entity 307 312	equal
+T8	Entity 341 357	the intersection
+T9	Cluster3 412 423	max algebra
+T10	Cluster2 480 488	the core
+T11	Entity 490 509	The spectral theory
+T12	Cluster3 573 584	max algebra
+T13	Entity 531 541	the theory
+T14	Cluster4 592 618	nonnegative linear algebra
+T15	Entity 665 682	unify and compare
+T16	Entity 700 715	the same theory
+T17	Entity 14 26	the sequence
+T18	Entity 30 40	eigencones
+T19	Entity 48 81	cones of nonnegative eigenvectors
+T20	Entity 108 137	a nonnegative square matrix A
+T21	Entity 211 233	an argument of Pullman
+T22	Cluster8 274 303	the eigencones of powers of A
+T23	Entity 361 385	nonnegative column spans
+T24	Cluster5 389 395	matrix
+T25	Entity 396 402	powers
+T26	Entity 452 459	the set
+T27	Entity 463 476	extremal rays
+T28	Cluster5 513 519	matrix
+T29	Entity 520 526	powers
+T30	Cluster5 545 551	matrix
+T31	Entity 552 556	core
+T32	Entity 14 203	the sequence of eigencones (i.e., cones of nonnegative eigenvectors) of positive powers Ak of a nonnegative square matrix A is periodic both in max algebra and in nonnegative linear algebra
+T33	Entity 253 423	the Minkowski sum of the eigencones of powers of A is equal to the core of A defined as the intersection of nonnegative column spans of matrix powers, also in max algebra
+T34	Cluster8 14 137	the sequence of eigencones (i.e., cones of nonnegative eigenvectors) of positive powers Ak of a nonnegative square matrix A
+T35	Entity 274 303	the eigencones of powers of A
+T36	Cluster1 0 2	We
+T37	Cluster1 235 237	we
+T38	Cluster1 440 442	we
+T39	Cluster7 389 402	matrix powers
+T40	Cluster7 513 526	matrix powers

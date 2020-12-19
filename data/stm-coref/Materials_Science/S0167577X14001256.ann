@@ -1,0 +1,48 @@
+T1	Cluster9 0 47	A three-dimensional atom probe (3DAP) technique
+T2	Cluster3 139 197	neutron-irradiated modified 316 austenitic stainless steel
+T3	Entity 117 135	screw dislocations
+T4	Cluster7 250 281	the cores of screw dislocations
+T5	Entity 313 321	depleted
+T6	Cluster7 325 339	the same areas
+T7	Entity 68 109	the three-dimensional solute distribution
+T8	Entity 234 242	enriched
+T9	Cluster1 341 343	Si
+T10	Cluster12 348 358	segregated
+T11	Entity 362 389	a narrow region in the core
+T12	Cluster1 423 425	Si
+T13	Cluster10 430 437	trapped
+T14	Entity 441 473	the initial stage of segregation
+T15	Cluster10 580 591	Si trapping
+T16	Entity 475 498	Other enriched elements
+T17	Cluster12 499 509	segregated
+T18	Entity 513 531	some edge features
+T19	Cluster2 652 670	screw dislocations
+T20	Entity 618 648	solute-dislocation interaction
+T21	Cluster4 686 715	radiation-induced segregation
+T22	Cluster5 738 760	the volume size factor
+T23	Entity 764 776	solute atoms
+T24	Entity 803 821	screw dislocations
+T25	Cluster9 873 877	3DAP
+T26	Cluster3 825 869	an irradiated 316 austenitic stainless steel
+T27	Entity 907 929	screw dislocation core
+T28	Cluster4 945 974	radiation induced segregation
+T29	Cluster5 1046 1064	volume size factor
+T30	Cluster2 1012 1030	screw dislocations
+T31	Entity 978 1008	Solute dislocation interaction
+T32	Cluster2 1092 1110	screw dislocations
+T33	Entity 1125 1152	a mixed dumb-bell mechanism
+T34	Cluster12 881 899	Solute segregation
+T35	Entity 1068 1088	Segregation behavior
+T36	Cluster1 199 201	Si
+T37	Entity 203 205	Ni
+T38	Entity 211 212	P
+T39	Entity 289 291	Fe
+T40	Entity 293 295	Cr
+T41	Entity 297 299	Mn
+T42	Entity 305 307	Mo
+T43	Entity 540 545	kinks
+T44	Entity 553 557	jogs
+T45	Cluster8 117 197	screw dislocations in neutron-irradiated modified 316 austenitic stainless steel
+T46	Cluster8 803 869	screw dislocations in an irradiated 316 austenitic stainless steel
+T47	Cluster11 618 670	solute-dislocation interaction of screw dislocations
+T48	Cluster11 978 1030	Solute dislocation interaction on screw dislocations

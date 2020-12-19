@@ -1,0 +1,14 @@
+A three-dimensional atom probe (3DAP) technique was used to observe the three-dimensional solute distribution around screw dislocations in neutron-irradiated modified 316 austenitic stainless steel.
+Si, Ni, and P were observed to get enriched around the cores of screw dislocations, while Fe, Cr, Mn, and Mo were depleted in the same areas.
+Si was segregated to a narrow region in the core for which, it was concluded that Si was trapped in the initial stage of segregation.
+Other enriched elements segregated to some edge features such as kinks and/or jogs formed as a result of Si trapping.
+The results suggest that solute-dislocation interaction of screw dislocations was similar to radiation-induced segregation, which is affected by the volume size factor of solute atoms.
+Highlights
+•
+We observed screw dislocations in an irradiated 316 austenitic stainless steel by 3DAP.
+•
+Solute segregation around screw dislocation core was similar to radiation induced segregation.
+•
+Solute dislocation interaction on screw dislocations is affected by volume size factor.
+•
+Segregation behavior at screw dislocations suggests that a mixed dumb-bell mechanism occurred.

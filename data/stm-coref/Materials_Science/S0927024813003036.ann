@@ -1,0 +1,60 @@
+T1	Entity 0 34	Single-crystal Czochralski silicon
+T2	Entity 44 57	photovoltaics
+T3	Entity 71 85	supersaturated
+T4	Entity 91 110	interstitial oxygen
+T5	Entity 114 155	temperatures just below the melting point
+T6	Cluster3 157 175	Oxide precipitates
+T7	Entity 241 257	nucleation sites
+T8	Entity 272 292	vacancy-rich regions
+T9	Cluster8 294 314	Oxygen precipitation
+T10	Cluster1 329 350	recombination centres
+T11	Entity 362 368	reduce
+T12	Entity 369 414	cell efficiencies by as much as 4% (absolute)
+T13	Entity 432 459	the recombination behaviour
+T14	Entity 463 504	p-type and n-type monocrystalline silicon
+T15	Entity 510 534	a range of doping levels
+T16	Cluster3 570 588	oxide precipitates
+T17	Entity 594 638	a range of densities, sizes and morphologies
+T18	Entity 651 709	injection-dependent minority carrier lifetime measurements
+T19	Entity 784 813	Shockley-Read-Hall statistics
+T20	Cluster11 718 741	a full parameterisation
+T21	Cluster4 745 771	the recombination activity
+T22	Cluster7 832 843	contaminate
+T23	Entity 844 853	specimens
+T24	Cluster6 859 863	iron
+T25	Cluster4 874 896	recombination activity
+T26	Cluster6 909 913	iron
+T27	Entity 914 924	segregated
+T28	Entity 928 970	oxide precipitates and surrounding defects
+T29	Cluster5 985 1015	phosphorus diffusion gettering
+T30	Cluster4 1024 1050	the recombination activity
+T31	Cluster3 1054 1070	the precipitates
+T32	Cluster9 1105 1114	bulk iron
+T33	Entity 1133 1141	gettered
+T34	Cluster10 1145 1174	the phosphorus diffused layer
+T35	Cluster3 1190 1208	oxide precipitates
+T36	Cluster8 1223 1243	Oxygen precipitation
+T37	Entity 1252 1271	absolute efficiency
+T38	Entity 1275 1294	silicon solar cells
+T39	Entity 1298 1306	up to 4%
+T40	Cluster3 1368 1386	oxide precipitates
+T41	Entity 1335 1360	minority carrier lifetime
+T42	Cluster11 1310 1331	Full parameterisation
+T43	Cluster3 1412 1430	oxide precipitates
+T44	Cluster4 1441 1463	recombination activity
+T45	Cluster7 1390 1408	Iron contamination
+T46	Cluster4 1467 1489	Recombination activity
+T47	Cluster5 1501 1531	phosphorus diffusion gettering
+T48	Cluster9 1535 1544	Bulk iron
+T49	Entity 1545 1553	gettered
+T50	Cluster10 1557 1582	phosphorus diffused layer
+T51	Cluster3 1588 1606	oxide precipitates
+T52	Entity 202 215	ingot cooling
+T53	Entity 220 235	cell processing
+T54	Entity 1431 1440	increases
+T55	Cluster1 352 357	which
+T56	Cluster2 416 418	We
+T57	Cluster2 640 642	We
+T58	Cluster2 815 817	We
+T59	Cluster2 972 974	We
+T60	Cluster2 1087 1089	We

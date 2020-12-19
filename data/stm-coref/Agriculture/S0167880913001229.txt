@@ -1,0 +1,11 @@
+Current carbon accounting methodologies often assume interactions between above-ground and below-ground carbon, without considering effects of land management.
+We used data from two long-term coffee agroforestry experiments in Costa Rica and Nicaragua to assess the effect on total soil organic carbon (SOC) stocks of (i) organic versus conventional management, (ii) higher versus moderate agronomic inputs, (iii) tree shade types.
+During the first nine years of coffee establishment total 0-40cm depth SOC stocks decreased by 12.4% in Costa Rica and 0.13% in Nicaragua.
+Change in SOC differed consistently amongst soil layers: at 0-10cm SOC stocks increased by 2.14 and 1.26MgCha-1 in Costa Rica and Nicaragua respectively; however much greater reduction occurred at 20-40cm (9.65 and 2.85MgCha-1 respectively).
+Organic management caused a greater increase in 0-10cm SOC but did not influence its reduction at depth.
+Effects of shade type were smaller, though heavily pruned legume shade trees produced a greater increase in 0-10cm SOC than unpruned timber trees.
+No significant differences in SOC stocks were found between shaded and unshaded systems at any depth and SOC was poorly correlated with above-ground biomass stocks highlighting poor validity of "expansion factors" currently used to estimate SOC.
+SOC stock changes were significantly negatively correlated with initial SOC stock per plot, providing evidence that during establishment of these woody-plant-dominated agricultural systems SOC stocks tend to converge towards a new equilibrium as a function of the change in the quantity and distribution of organic inputs.
+Therefore it cannot be assumed that tree-based agricultural systems necessarily lead to increases in soil C stocks.
+While high inputs of organic fertiliser/tree pruning mulch increased surface-layer SOC stocks, this did not affect stocks in deeper soil, where decreases generally exceeded any gains in surface soil.
+Therefore site- and system-specific sampling is essential to draw meaningful conclusions for climate change mitigation strategies.

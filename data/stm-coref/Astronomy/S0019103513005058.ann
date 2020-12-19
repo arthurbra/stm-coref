@@ -1,0 +1,79 @@
+T1	Entity 44 62	the Atacama Desert
+T2	Entity 111 125	the atmosphere
+T3	Entity 130 140	accumulate
+T4	Entity 144 155	the surface
+T5	Entity 161 175	dry deposition
+T6	Entity 189 208	diagnostic evidence
+T7	Entity 212 233	their oxygen isotopes
+T8	Entity 235 240	Salts
+T9	Entity 318 352	comparable photochemical reactions
+T10	Cluster3 361 386	a 1-D photochemical model
+T11	Cluster2 474 490	Mars' atmosphere
+T12	Entity 519 534	volcanic fluxes
+T13	Entity 602 619	integrated fluxes
+T14	Entity 672 689	the Amazonian eon
+T15	Entity 692 725	the typical background atmosphere
+T16	Cluster5 790 798	the soil
+T17	Entity 817 837	impact perturbations
+T18	Entity 895 923	a time-average volcanic flux
+T19	Entity 924 928	0.1%
+T20	Entity 932 968	the modern terrestrial volcanic flux
+T21	Cluster3 970 979	the model
+T22	Cluster5 994 1002	the soil
+T23	Entity 1026 1037	1.0-1.7wt.%
+T24	Entity 1038 1043	SO42-
+T25	Entity 1048 1059	0.2-0.4wt.%
+T26	Entity 1060 1061	N
+T27	Entity 1230 1260	orbital gamma ray spectroscopy
+T28	Entity 1390 1419	volcanically-derived chlorine
+T29	Entity 1360 1386	purely gas-phase oxidation
+T30	Cluster6 1344 1355	perchlorate
+T31	Entity 1439 1458	orders of magnitude
+T32	Entity 1470 1481	0.4-0.6wt.%
+T33	Entity 1500 1521	NASA's Phoenix Lander
+T34	Entity 1488 1496	measured
+T35	Entity 1482 1486	ClO4
+T36	Entity 1527 1554	far smaller amount of ozone
+T37	Cluster2 1558 1580	the martian atmosphere
+T38	Entity 1593 1619	the terrestrial atmosphere
+T39	Entity 1685 1704	gas phase oxidation
+T40	Entity 1670 1681	lower rates
+T41	Entity 1708 1726	chlorine volatiles
+T42	Entity 1730 1745	perchloric acid
+T43	Entity 1775 1798	non-gas-phase processes
+T44	Cluster3 1815 1838	the photochemical model
+T45	Cluster6 1915 1926	perchlorate
+T46	Entity 1848 1871	heterogeneous reactions
+T47	Entity 498 515	a plausible range
+T48	Entity 808 813	mixed
+T49	Entity 1898 1911	the formation
+T50	Entity 103 107	form
+T51	Entity 274 280	formed
+T52	Entity 3 34	extremely arid regions on Earth
+T53	Cluster1 64 102	nitrate, sulfate and perchlorate salts
+T54	Cluster2 284 306	the atmosphere of Mars
+T55	Entity 400 420	the deposition rates
+T56	Entity 538 575	sulfur- and chlorine-containing gases
+T57	Cluster7 761 785	cold and dry environment
+T58	Entity 841 870	a characteristic depth of ∼2m
+T59	Entity 1172 1179	in situ
+T60	Entity 1196 1225	soils from rovers and landers
+T61	Cluster7 1624 1652	the colder, drier conditions
+T62	Entity 1747 1763	Our calculations
+T63	Entity 1116 1152	The calculated sulfate concentration
+T64	Entity 244 261	similar oxyanions
+T65	Entity 424 431	sulfate
+T66	Entity 433 451	nitrogen oxyanions
+T67	Cluster6 457 468	perchlorate
+T68	Entity 592 601	calculate
+T69	Entity 1077 1103	pernitrate (peroxynitrate)
+T70	Entity 1107 1114	nitrate
+T71	Entity 1014 1025	accumulated
+T72	Entity 1271 1279	nitrates
+T73	Entity 1283 1294	pernitrates
+T74	Entity 1309 1317	detected
+T75	Entity 1945 1955	identified
+T76	Cluster1 212 217	their
+T77	Cluster4 631 633	we
+T78	Cluster4 1747 1750	Our
+T79	Cluster4 354 356	We

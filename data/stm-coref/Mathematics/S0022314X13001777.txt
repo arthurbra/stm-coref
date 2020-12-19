@@ -1,0 +1,1 @@
+We enumerate and describe the Sylow p-groups of the groups of polynomial permutations of the integers mod pn for n⩾1 and of the pro-finite group which is the projective limit of these groups.

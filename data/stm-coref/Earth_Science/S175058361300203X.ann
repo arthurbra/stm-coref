@@ -1,0 +1,47 @@
+T1	Cluster1 0 11	Temperature
+T2	Cluster2 218 225	the CO2
+T3	Entity 235 240	brine
+T4	Entity 244 254	a free gas
+T5	Entity 308 320	porous media
+T6	Entity 414 440	3D time-lapse seismic data
+T7	Cluster1 578 593	the temperature
+T8	Entity 693 709	This temperature
+T9	Entity 710 718	increase
+T10	Cluster1 765 776	temperature
+T11	Entity 891 894	Two
+T12	Cluster4 920 933	the reservoir
+T13	Cluster1 1041 1052	temperature
+T14	Cluster1 1110 1125	the temperature
+T15	Cluster2 1286 1293	the CO2
+T16	Entity 1271 1282	the density
+T17	Cluster1 895 906	temperature
+T18	Entity 1080 1085	minor
+T19	Entity 54 68	the properties
+T20	Cluster2 72 75	CO2
+T21	Entity 190 211	the CO2/brine mixture
+T22	Entity 83 90	storage
+T23	Entity 94 109	saline aquifers
+T24	Entity 130 138	pressure
+T25	Entity 143 158	co-constituents
+T26	Entity 168 186	the phase behavior
+T27	Entity 282 304	the elastic properties
+T28	Entity 353 366	the migration
+T29	Entity 370 412	geologically stored CO2 at the Ketzin site
+T30	Entity 467 500	a baseline (pre-injection) survey
+T31	Entity 520 542	a first monitor survey
+T32	Cluster4 597 642	the storage reservoir near the injection well
+T33	Cluster3 664 673	increased
+T34	Entity 674 691	from 34°C to 38°C
+T35	Entity 780 800	the seismic response
+T36	Entity 804 821	the CO2 injection
+T37	Cluster5 829 853	the CO2 mass estimations
+T38	Entity 863 889	the Ketzin 4D seismic data
+T39	Cluster7 969 999	multiphase fluid flow modeling
+T40	Entity 935 948	34°C and 38°C
+T41	Cluster6 1056 1076	the seismic response
+T42	Cluster5 1129 1153	the CO2 mass estimations
+T43	Cluster7 1195 1232	the multiphase fluid flow simulations
+T44	Cluster1 116 118	it
+T45	Cluster2 255 257	it
+T46	Cluster3 693 718	This temperature increase
+T47	Cluster6 780 821	the seismic response to the CO2 injection

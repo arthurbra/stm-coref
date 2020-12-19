@@ -1,0 +1,20 @@
+T1	Entity 4 5	G
+T2	Entity 33 34	X
+T3	Entity 35 67	a compact manifold with boundary
+T4	Cluster1 73 74	M
+T5	Cluster1 127 128	M
+T6	Entity 137 177	a strongly pseudoconvex complex manifold
+T7	Entity 245 248	TpG
+T8	Entity 306 307	p
+T9	Entity 314 331	the Bergman space
+T10	Cluster1 335 336	M
+T11	Entity 340 345	large
+T12	Entity 372 402	the gauged G-complexifications
+T13	Entity 347 363	Natural examples
+T14	Entity 9 31	a unimodular Lie group
+T15	Entity 75 118	the total space of a principal bundle G→M→X
+T16	Entity 222 234	a point p∈bM
+T17	Entity 265 296	the complex tangent space TpcbM
+T18	Entity 300 302	bM
+T19	Entity 206 345	if there exists a point p∈bM such that TpG is contained in the complex tangent space TpcbM of bM at p, then the Bergman space of M is large
+T20	Entity 73 177	M the total space of a principal bundle G→M→X so that M is also a strongly pseudoconvex complex manifold

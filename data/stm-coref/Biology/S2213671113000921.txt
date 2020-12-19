@@ -1,0 +1,13 @@
+SOX2 is involved in several cell and developmental processes, including maintenance of embryonic stem cells, differentiation of neural progenitor cells, and patterning of gut endoderm.
+To study its role in a human system, we generated a human embryonic stem cell (hESC) line harboring a reporter gene encoding GFP in the SOX2 locus.
+This SOX2 reporter line faithfully recapitulates expression of the SOX2 gene in undifferentiated human pluripotent stem cells (hPSCs), neural progenitor cells (NPCs), and anterior foregut endoderm (AFE).
+In undifferentiated hESCs, GFP expression corresponds to those cells with highest levels of expression of genes associated with the pluripotent state.
+In NPCs, expression of GFP can be employed to isolate cells expressing markers associated with NPC multipotency.
+In AFE, we used transcriptome-wide expression analysis to identify cell surface markers with elevated expression in this population, thereby facilitating isolation and purification of this hPSC-derived cell population.
+Highlights
+A SOX2-GFP hESC line is used to isolate and characterize multiple cell types
+A cell surface marker signature allows for the purification of endodermal progeny
+Targeted gene insertion with adeno-associated virus (AAV) is highly efficient
+SOX2 is expressed during multiple developmental stages.
+Brafman, Willert, and colleagues used human embryonic stem cells carrying a SOX2 reporter to characterize its expression in undifferentiated cells and in neural and lung progenitor cells.
+This approach led to the identification of a cell surface signature to isolate prospective lung progenitors.

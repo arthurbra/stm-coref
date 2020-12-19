@@ -1,0 +1,18 @@
+Bulk heterojunction solar cells made by vacuum co-evaporation of polythiophene (PTh) and fullerene (C60) are reported and the blend morphology control through donor-acceptor composition and post-situ annealing demonstrated.
+Co-deposited heterojunctions are shown to generate about 60% higher photocurrents than their thickness-optimized PTh/C60 planar heterojunction counterparts.
+Furthermore, by annealing the devices post-situ the power conversion efficiency is improved by as much as 80%.
+UV-vis, XRD and AFM analysis shows that the enhanced photoresponse is a result of favorable morphological development of PTh upon annealing.
+Annealing-induced improvement of the donor-acceptor network is demonstrated across a wide range of compositions (20-80% PTh).
+This illustrates that good morphology control is possible in co-evaporated polymer-fullerene blends through multiple parameters and differentiates this donor-acceptor combination from the standard small-molecule systems.
+Graphical abstract
+Highlights
+•
+Vacuum deposition of polymer/fullerene bulk heterojunction solar cells is reported.
+•
+Their performance is optimized through composition as well as post-situ thermal annealing.
+•
+Annealing enhances efficiency over a wide range of D:A blend compositions (1:4-4:1).
+•
+Improved blend morphology results from favorable phase separation of the polymer.
+•
+Morphology control in the polymer blend is superior to the equivalent oligomer blends.

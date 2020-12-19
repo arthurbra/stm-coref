@@ -1,0 +1,17 @@
+Human pluripotent stem cells (hPSCs) could provide an infinite source of clinically relevant cells with potential applications in regenerative medicine.
+However, hPSC lines vary in their capacity to generate specialized cells, and the development of universal protocols for the production of tissue-specific cells remains a major challenge.
+Here, we have addressed this limitation for the endodermal lineage by developing a defined culture system to expand and differentiate human foregut stem cells (hFSCs) derived from hPSCs. hFSCs can self-renew while maintaining their capacity to differentiate into pancreatic and hepatic cells.
+Furthermore, near-homogenous populations of hFSCs can be obtained from hPSC lines which are normally refractory to endodermal differentiation.
+Therefore, hFSCs provide a unique approach to bypass variability between pluripotent lines in order to obtain a sustainable source of multipotent endoderm stem cells for basic studies and to produce a diversity of endodermal derivatives with a clinical value.
+Highlights
+•
+Multipotent foregut stem cells are derived from pluripotent cells
+•
+Foregut stem cells can be expanded and retain their differentiation potential
+•
+Foregut stem cells differentiate into liver and pancreatic cells
+•
+Foregut stem cells decrease differentiation variability between cell lines
+Hannan, Vallier, and colleagues have developed a defined culture system to differentiate and expand human foregut stem cells (hFSCs) from human pluripotent cells.
+hFSCs can self-renew while maintaining their capacity to differentiate into pancreatic and hepatic cells.
+hFSCs represent a sustainable source of multipotent endodermal cells for basic studies and can produce a diversity of endodermal derivatives with clinical value.

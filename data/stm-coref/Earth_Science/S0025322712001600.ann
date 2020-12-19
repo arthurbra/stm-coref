@@ -1,0 +1,81 @@
+T1	Entity 137 160	the western Indus Shelf
+T2	Entity 270 274	13ka
+T3	Entity 276 289	Core Indus-10
+T4	Cluster3 344 356	fluctuations
+T5	Entity 399 408	correlate
+T6	Entity 433 439	Higher
+T7	Entity 471 476	lower
+T8	Entity 545 551	peaked
+T9	Entity 605 619	summer monsoon
+T10	Entity 597 604	maximum
+T11	Entity 583 593	the period
+T12	Entity 730 738	Indus-10
+T13	Entity 745 749	10ka
+T14	Cluster6 754 765	the monsoon
+T15	Entity 766 774	weakened
+T16	Entity 779 787	Indus-23
+T17	Entity 800 811	a clinoform
+T18	Entity 825 835	the canyon
+T19	Entity 872 880	a period
+T20	Cluster6 884 891	monsoon
+T21	Entity 1127 1134	redness
+T22	Entity 1206 1220	the floodplain
+T23	Entity 1324 1334	mineralogy
+T24	Entity 1416 1425	reworking
+T25	Cluster1 1640 1654	early Holocene
+T26	Cluster1 1705 1719	Early Holocene
+T27	Entity 1758 1771	sedimentation
+T28	Entity 1608 1624	physical proxies
+T29	Entity 1629 1636	climate
+T30	Cluster5 1775 1793	the last 200 years
+T31	Entity 679 684	clear
+T32	Entity 685 697	co-variation
+T33	Entity 1221 1231	triggering
+T34	Entity 1232 1241	reworking
+T35	Entity 1657 1666	Reworking
+T36	Entity 11 39	a multi-proxy mineral record
+T37	Entity 122 131	two cores
+T38	Entity 218 236	sediment transport
+T39	Entity 185 216	changing weathering intensities
+T40	Entity 242 263	provenance variations
+T41	Entity 414 431	monsoon intensity
+T42	Entity 440 466	smectite/(illite+chlorite)
+T43	Entity 477 497	illite crystallinity
+T44	Entity 524 543	stronger weathering
+T45	Entity 559 581	the Early-Mid Holocene
+T46	Cluster4 621 666	Hematite/goethite and magnetic susceptibility
+T47	Entity 837 854	hematite/goethite
+T48	Entity 892 905	strengthening
+T49	Entity 1018 1037	the glacial maximum
+T50	Entity 906 920	from 10 to 8ka
+T51	Entity 980 998	sediment deposited
+T52	Entity 1045 1088	2ka terrigenous sediment accumulation rates
+T53	Cluster7 1092 1102	both cores
+T54	Entity 1139 1156	hematite/goethite
+T55	Entity 1180 1202	widespread cultivation
+T56	Entity 1299 1319	sediment composition
+T57	Entity 1338 1352	two localities
+T58	Entity 1356 1377	the high-energy shelf
+T59	Entity 1397 1412	varying degrees
+T60	Entity 1438 1480	climatically modulated chemical weathering
+T61	Cluster7 1561 1577	two marine cores
+T62	Entity 1506 1555	a high resolution multi-proxy physical properties
+T63	Entity 49 117	X-ray diffraction and diffuse reflectance spectrophotometry analysis
+T64	Entity 360 393	smectite/(illite+chlorite) ratios
+T65	Entity 938 959	increased seasonality
+T66	Entity 967 976	reworking
+T67	Cluster5 1260 1272	200years ago
+T68	Entity 1279 1298	Holocene timescales
+T69	Entity 1731 1754	anthropogenic influence
+T70	Entity 173 184	reconstruct
+T71	Entity 855 864	increased
+T72	Entity 1103 1112	increased
+T73	Cluster8 1581 1599	Little correlation
+T74	Cluster8 1685 1701	poor correlation
+T75	Cluster2 0 2	We
+T76	Cluster2 1495 1497	We
+T77	Cluster2 1164 1166	we
+T78	Cluster3 394 398	that
+T79	Cluster4 708 712	they
+T80	Cluster7 122 160	two cores from the western Indus Shelf
+#1	AnnotatorNotes T45	c, APPOS

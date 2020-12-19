@@ -1,0 +1,54 @@
+T1	Entity 29 36	compare
+T2	Entity 233 244	a portfolio
+T3	Entity 311 318	default
+T4	Entity 694 709	our experiments
+T5	Cluster5 764 779	these data sets
+T6	Entity 983 990	measure
+T7	Cluster5 1419 1434	these data sets
+T8	Cluster6 1181 1191	techniques
+T9	Cluster2 92 127	imbalanced credit scoring data sets
+T10	Cluster6 37 55	several techniques
+T11	Entity 132 148	a credit scoring
+T12	Cluster2 158 178	imbalanced data sets
+T13	Entity 199 229	the number of defaulting loans
+T14	Cluster3 272 298	the number of observations
+T15	Entity 337 374	traditional classification techniques
+T16	Entity 567 590	loan default prediction
+T17	Cluster5 592 632	Five real-world credit scoring data sets
+T18	Entity 672 689	their performance
+T19	Cluster1 651 662	classifiers
+T20	Entity 737 752	class imbalance
+T21	Entity 783 806	randomly under-sampling
+T22	Entity 807 839	the minority class of defaulters
+T23	Entity 874 894	the predictive power
+T24	Entity 1006 1070	the area under the receiver operating characteristic curve (AUC)
+T25	Entity 1245 1296	the random forest and gradient boosting classifiers
+T26	Entity 1472 1495	a large class imbalance
+T27	Entity 1596 1615	significantly worse
+T28	Entity 1621 1652	the best performing classifiers
+T29	Cluster6 898 923	the respective techniques
+T30	Entity 1072 1119	Friedman's statistic and Nemenyi post hoc tests
+T31	Entity 1141 1172	significance of AUC differences
+T32	Entity 1210 1230	this empirical study
+T33	Entity 1388 1415	pronounced class imbalances
+T34	Entity 76 88	the analysis
+T35	Entity 383 402	logistic regression
+T36	Entity 404 419	neural networks
+T37	Entity 424 438	decision trees
+T38	Entity 488 505	gradient boosting
+T39	Entity 507 543	least square support vector machines
+T40	Entity 548 562	random forests
+T41	Entity 947 972	The performance criterion
+T42	Entity 1318 1334	a credit scoring
+T43	Entity 1497 1529	the C4.5 decision tree algorithm
+T44	Entity 1531 1562	quadratic discriminant analysis
+T45	Entity 1567 1587	k-nearest neighbours
+T46	Cluster6 56 60	that
+T47	Cluster3 299 303	that
+T48	Cluster4 711 713	we
+T49	Cluster4 694 697	our
+T50	Cluster7 1318 1342	a credit scoring context
+T51	Cluster7 132 156	a credit scoring context
+T52	Cluster4 1436 1438	We
+T53	Cluster1 672 677	their
+T54	Cluster4 15 17	we

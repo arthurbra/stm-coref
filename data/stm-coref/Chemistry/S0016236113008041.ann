@@ -1,0 +1,38 @@
+T1	Cluster1 335 397	Inductively Coupled Plasma-Mass Spectrometry (ICP-MS) analysis
+T2	Cluster1 696 702	ICP-MS
+T3	Cluster1 986 1001	ICP-MS analysis
+T4	Cluster2 498 510	sorbent mass
+T5	Cluster2 722 734	sorbent mass
+T6	Cluster3 515 532	SO2 concentration
+T7	Cluster3 739 756	SO2 concentration
+T8	Cluster4 220 229	limestone
+T9	Cluster4 1005 1014	limestone
+T10	Cluster5 562 576	the carbonator
+T11	Cluster5 760 774	the carbonator
+T12	Entity 806 836	gaseous trace elements sampled
+T13	Entity 955 969	trace elements
+T14	Cluster7 536 558	elemental partitioning
+T15	Cluster7 1088 1100	partitioning
+T16	Entity 273 288	the environment
+T17	Entity 454 470	other impurities
+T18	Entity 484 494	the effect
+T19	Entity 585 598	solid sorbent
+T20	Entity 603 616	gaseous phase
+T21	Entity 641 666	a bubbler sampling system
+T22	Entity 668 675	Samples
+T23	Entity 784 802	the concentrations
+T24	Cluster7 0 22	Elemental partitioning
+T25	Entity 34 61	gaseous elemental emissions
+T26	Entity 123 141	a Ca-based sorbent
+T27	Entity 295 333	carbonation and calcination conditions
+T28	Entity 401 426	Longcliffe SP52 limestone
+T29	Entity 838 861	Thermodynamic modelling
+T30	Entity 865 904	the carbonation and calcination process
+T31	Entity 935 951	molar quantities
+T32	Entity 89 116	post combustion CO2 capture
+T33	Cluster8 170 210	naturally occurring elemental impurities
+T34	Entity 67 87	pilot scale (25kWth)
+T35	Entity 1066 1083	element stability
+T36	Entity 1107 1139	realistic CO2 capture conditions
+T37	Entity 681 689	analysed
+T38	Cluster8 231 235	that

@@ -1,0 +1,63 @@
+T1	Cluster9 0 15	Transplantation
+T2	Entity 180 187	induced
+T3	Entity 325 350	an alternative RPE source
+T4	Entity 401 406	grown
+T5	Entity 440 467	near-native characteristics
+T6	Cluster2 507 510	PET
+T7	Cluster8 631 642	the implant
+T8	Entity 644 652	detected
+T9	Entity 869 881	implantation
+T10	Cluster2 938 941	PET
+T11	Entity 836 845	Histology
+T12	Entity 817 823	stable
+T13	Cluster3 959 971	the xeno-RPE
+T14	Entity 986 1010	retained characteristics
+T15	Entity 1218 1226	in vitro
+T16	Entity 1246 1256	fetal hRPE
+T17	Entity 1410 1417	Atrophy
+T18	Entity 1421 1431	the retina
+T19	Entity 1227 1242	characteristics
+T20	Entity 1432 1442	overlaying
+T21	Entity 1586 1591	grown
+T22	Cluster3 1691 1703	The xeno-RPE
+T23	Cluster6 1014 1034	the subretinal space
+T24	Cluster6 1768 1788	the subretinal space
+T25	Entity 243 254	translating
+T26	Entity 262 268	clinic
+T27	Entity 19 55	the retinal pigment epithelium (RPE)
+T28	Entity 78 104	a cell-replacement therapy
+T29	Entity 109 141	age-related macular degeneration
+T30	Entity 143 175	Human embryonic stem cell (hESC)
+T31	Entity 188 228	pluripotent stem cell (iPSC)-derived RPE
+T32	Entity 283 321	the adult human RPE stem cell (hRPESC)
+T33	Cluster5 352 372	Polarized monolayers
+T34	Cluster10 410 435	polyester (PET) membranes
+T35	Cluster1 376 400	adult hRPESC-derived RPE
+T36	Entity 469 503	Trephined pieces of RPE monolayers
+T37	Entity 516 541	transplanted subretinally
+T38	Entity 545 582	the rabbit, a large-eyed animal model
+T39	Entity 598 611	retinal edema
+T40	Entity 656 724	spectral domain optical coherence tomography (SD-OCT) and fundoscopy
+T41	Entity 737 752	retinal atrophy
+T42	Entity 763 792	the fetal or adult transplant
+T43	Entity 892 934	a continuous polarized human RPE monolayer
+T44	Cluster1 1067 1091	adult hRPESC-derived RPE
+T45	Cluster4 1119 1144	transplantation therapies
+T46	Cluster1 1178 1202	Adult hRPESC-derived RPE
+T47	Entity 1259 1274	hRPE monolayers
+T48	Entity 1295 1307	PET carriers
+T49	Cluster7 1314 1331	the rabbit retina
+T50	Entity 1341 1359	xenograft survival
+T51	Entity 1374 1407	the maintained hRPE cell polarity
+T52	Entity 1443 1461	the hRPE xenograft
+T53	Cluster10 1595 1614	polyester membranes
+T54	Entity 1628 1665	adult hRPE stem cells or fetal tissue
+T55	Entity 1546 1585	human retinal pigment epithelium (hRPE)
+T56	Cluster7 1672 1689	the rabbit retina
+T57	Entity 1735 1764	cell polarity characteristics
+T58	Cluster1 1821 1845	adult hRPESC-derived RPE
+T59	Cluster4 1873 1898	transplantation therapies
+T60	Cluster9 1509 1521	transplanted
+T61	Cluster5 1522 1542	polarized monolayers
+T62	Entity 1615 1622	derived
+T63	Cluster8 469 510	Trephined pieces of RPE monolayers on PET

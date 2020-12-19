@@ -1,0 +1,21 @@
+Most previous studies on soil microbial communities have been focused on species abundance and diversity, but not the interactions among species.
+In present study, the Molecular Ecological Network Analysis tool was used to study the interactions and network organizations of fungal communities in yield-invigorating (healthy) and -debilitating (diseased) soils induced by prolonged potato monoculture, based on the relative abundances of internal transcribed spacer sequences derived using pyrosequencing.
+An emphasis was placed on the differences between the healthy and diseased networks.
+The constructed healthy and diseased networks both showed scale-free, small world and modular properties.
+The key topological properties and phylogenetic composition of the two networks were similar.
+However, major differences included: a) the healthy network had more number of functionally interrelated operational taxonomic units (OTUs) than the diseased one; b) healthy network contained 6 (4%) generalist OTUs whereas the diseased contained only 1 (0.6%) marginal generalist OTU; and c) majority (55%) of OTUs in healthy soils were stimulated by a certain set of soil variables but the majorities (63%) in diseased soils were inhibited.
+Based on these data, a conceptual picture was synthesized: a healthy community was a better organized or a better operated community than the diseased one; a healthy soil was a soil with variables that encouraged majority of fungi whereas a diseased soil discouraged.
+By comparing the topological roles of different sets of shared OTUs between healthy and diseased networks, it was found that role-shifts prevailed among the network members such as generalists/specialists, significant module memberships and the OTU sets irresponsive to soil variables in one network but responsive in the counterpart network.
+Soil organic matter was the key variable associated with healthy community, whereas ammonium nitrogen (NH4+-N) and Electrical conductivity (EC) were the key variables associated with diseased community.
+Major affected phylogenetic groups were Sordariales and Hypocreales.
+Highlights
+•
+We constructed and compared two fungal networks from healthy and diseased soils.
+•
+We conceptually depictured what a healthy or a diseased community/soil was.
+•
+Nodes' role-shift prevailed when a healthy network changed to diseased one.
+•
+Soil organic matter, NH4+-N and EC were the key responsible variables.
+•
+Major affected phylogenetic groups were Sordariales and Hypocreales.

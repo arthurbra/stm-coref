@@ -1,0 +1,83 @@
+T1	Entity 20 56	magnetoencephalography (MEG) studies
+T2	Entity 62 125	superior temporal gyrus (STG) auditory processing abnormalities
+T3	Cluster2 129 142	schizophrenia
+T4	Cluster1 146 158	50 and 100ms
+T5	Entity 160 189	EEG and corticography studies
+T6	Entity 213 257	additional brain areas (e.g., frontal areas)
+T7	Cluster1 265 278	this interval
+T8	Entity 430 440	the cortex
+T9	Cluster11 309 320	30 to 130ms
+T10	Entity 321 348	auditory encoding processes
+T11	Cluster3 401 418	group differences
+T12	Entity 501 503	19
+T13	Entity 450 480	The standard paired-click task
+T14	Entity 511 513	21
+T15	Entity 533 546	MEG recording
+T16	Entity 548 617	Vector-based Spatial-temporal Analysis using L1-minimum-norm (VESTAL)
+T17	Cluster2 504 506	SZ
+T18	Entity 514 525	HC subjects
+T19	Entity 627 634	4D maps
+T20	Cluster11 652 663	30 to 130ms
+T21	Entity 638 646	activity
+T22	Entity 665 685	Within-group t-tests
+T23	Entity 695 708	post-stimulus
+T24	Cluster1 709 723	50ms and 100ms
+T25	Entity 746 767	Between-group t-tests
+T26	Entity 768 776	examined
+T27	Cluster1 777 789	50 and 100ms
+T28	Cluster3 790 807	group differences
+T29	Entity 840 852	STG activity
+T30	Cluster6 869 880	both groups
+T31	Cluster4 882 884	HC
+T32	Entity 817 826	Bilateral
+T33	Cluster1 827 839	50 and 100ms
+T34	Entity 889 907	stronger bilateral
+T35	Cluster1 908 920	50 and 100ms
+T36	Entity 921 933	STG activity
+T37	Cluster2 939 941	SZ
+T38	Entity 958 982	the STG group difference
+T39	Entity 984 1000	non-STG activity
+T40	Cluster6 1022 1033	both groups
+T41	Cluster4 1056 1058	HC
+T42	Entity 1063 1118	stronger left and right inferior frontal gyrus activity
+T43	Cluster2 1124 1126	SZ
+T44	Cluster2 1128 1130	SZ
+T45	Cluster4 1216 1218	HC
+T46	Entity 1135 1210	stronger right superior frontal gyrus and left supramarginal gyrus activity
+T47	Entity 1232 1249	Less STG activity
+T48	Cluster2 1266 1268	SZ
+T49	Cluster4 1274 1276	HC
+T50	Entity 1289 1306	encoding problems
+T51	Cluster2 1310 1312	SZ
+T52	Entity 1370 1373	STG
+T53	Cluster12 1318 1349	auditory encoding abnormalities
+T54	Cluster13 1413 1434	frontal and SMG areas
+T55	Cluster3 1378 1395	group differences
+T56	Entity 1473 1492	individuals with SZ
+T57	Entity 1533 1574	a concurrently activated auditory network
+T58	Cluster8 1515 1529	multiple nodes
+T59	Entity 1498 1511	abnormalities
+T60	Entity 1589 1606	Auditory encoding
+T61	Cluster2 1610 1628	schizophrenia (SZ)
+T62	Cluster4 1633 1654	healthy controls (HC)
+T63	Entity 1712 1732	whole-brain measures
+T64	Cluster11 1733 1749	from 30 to 130ms
+T65	Entity 1753 1766	Abnormalities
+T66	Entity 1671 1702	Distributed source localization
+T67	Entity 1784 1828	superior temporal gyrus (STG) auditory areas
+T68	Cluster2 1832 1834	SZ
+T69	Cluster13 1883 1920	frontal and supramarginal gyrus areas
+T70	Cluster12 1838 1860	Encoding abnormalities
+T71	Cluster2 1924 1926	SZ
+T72	Entity 1933 1946	abnormalities
+T73	Cluster8 1950 1964	multiple nodes
+T74	Entity 1968 1998	a distributed auditory network
+T75	Cluster2 352 370	schizophrenia (SZ)
+T76	Cluster4 375 396	healthy controls (HC)
+T77	Entity 736 744	baseline
+T78	Entity 1659 1667	examined
+T79	Cluster6 352 396	schizophrenia (SZ) and healthy controls (HC)
+T80	Cluster9 1498 1529	abnormalities in multiple nodes
+T81	Cluster9 1933 1964	abnormalities in multiple nodes
+T82	Cluster10 827 852	50 and 100ms STG activity
+T83	Cluster10 908 933	50 and 100ms STG activity

@@ -1,0 +1,94 @@
+T1	Entity 46 62	economic legumes
+T2	Entity 162 167	trade
+T3	Entity 171 199	the cut wild flower industry
+T4	Cluster9 770 779	bulk soil
+T5	Cluster10 829 844	the rhizosphere
+T6	Entity 998 1020	older Cyclopia species
+T7	Cluster10 1087 1102	the rhizosphere
+T8	Entity 1173 1193	C. subternata plants
+T9	Cluster7 1487 1495	cuttings
+T10	Cluster3 1501 1510	seedlings
+T11	Entity 1693 1711	Aspalathus species
+T12	Cluster7 1859 1867	cuttings
+T13	Cluster3 1879 1888	seedlings
+T14	Cluster7 1772 1780	cuttings
+T15	Cluster8 1978 1995	rhizosphere soils
+T16	Entity 2008 2018	bulk soils
+T17	Entity 2022 2036	fynbos legumes
+T18	Entity 1927 1935	measured
+T19	Entity 2056 2064	measured
+T20	Cluster8 2171 2188	rhizosphere soils
+T21	Entity 2201 2227	non-rhizosphere bulk soils
+T22	Entity 2273 2276	age
+T23	Entity 2280 2295	Cyclopia plants
+T24	Cluster3 2380 2389	seedlings
+T25	Cluster7 2321 2329	cuttings
+T26	Cluster11 2299 2305	Plants
+T27	Cluster11 1760 1766	plants
+T28	Entity 120 126	making
+T29	Entity 1340 1357	the concentration
+T30	Entity 982 996	younger plants
+T31	Entity 1032 1044	much greater
+T32	Cluster7 1209 1217	cuttings
+T33	Entity 1194 1203	developed
+T34	Entity 1238 1245	greater
+T35	Entity 1398 1409	much higher
+T36	Entity 1468 1475	greater
+T37	Cluster15 1476 1483	shoot P
+T38	Entity 1597 1613	a good indicator
+T39	Entity 1732 1744	The enhanced
+T40	Entity 1130 1141	much higher
+T41	Cluster17 1142 1172	plant-available rhizosphere P.
+T42	Entity 1803 1813	the higher
+T43	Entity 1892 1909	their plantations
+T44	Entity 2126 2132	higher
+T45	Cluster1 0 31	Cyclopia and Aspalathus species
+T46	Entity 127 152	Honeybush and Rooibos tea
+T47	Entity 230 236	assess
+T48	Cluster13 237 275	acid and alkaline phosphatase activity
+T49	Cluster12 279 393	the rhizosphere of Cyclopia genistoides, Cyclopia subternata, Aspalathus caledonensis and Aspalathus aspalathoides
+T50	Entity 441 464	the nutrient-poor soils
+T51	Entity 397 409	an indicator
+T52	Entity 520 543	the P enzyme activities
+T53	Entity 549 560	much higher
+T54	Cluster12 564 664	the rhizospheres of the legumes C. genistoides, C. subternata, A. caledonensis, and A. aspalathoides
+T55	Entity 677 765	those of the non-legumes Leucadendron strictum, Elegia thyrsoidea and Mimetes cucullatus
+T56	Entity 794 825	plant-available P concentration
+T57	Cluster15 857 871	shoot P levels
+T58	Cluster13 889 927	acid and alkaline phosphatase activity
+T59	Entity 931 968	the rhizosphere of each plant species
+T60	Entity 1045 1083	acid and alkaline phosphatase activity
+T61	Entity 1246 1296	rhizosphere acid and alkaline phosphatase activity
+T62	Entity 1413 1455	the rhizosphere of cuttings than seedlings
+T63	Entity 1645 1676	Cyclopia cuttings and seedlings
+T64	Entity 1552 1581	rhizosphere P enzyme activity
+T65	Cluster5 1745 1756	P nutrition
+T66	Entity 1814 1824	tea yields
+T67	Cluster13 1936 1974	acid and alkaline phosphatase activity
+T68	Entity 2065 2073	P levels
+T69	Cluster13 2133 2167	acid/alkaline phosphatase activity
+T70	Entity 2231 2257	Acid and alkaline activity
+T71	Cluster13 2340 2374	acid/alkaline phosphatase activity
+T72	Cluster4 413 421	P supply
+T73	Cluster5 426 437	P nutrition
+T74	Cluster3 1302 1311	seedlings
+T75	Cluster9 1316 1325	bulk soil
+T76	Entity 1361 1378	plant available-P
+T77	Entity 1383 1392	organic P
+T78	Cluster4 1617 1625	P supply
+T79	Cluster5 1630 1641	P nutrition
+T80	Cluster10 2077 2088	rhizosphere
+T81	Entity 2093 2099	shoots
+T82	Entity 2306 2315	developed
+T83	Cluster1 102 106	they
+T84	Cluster2 2103 2105	We
+T85	Cluster2 2040 2042	We
+T87	Cluster6 413 437	P supply and P nutrition
+T88	Cluster6 1617 1641	P supply and P nutrition
+T89	Cluster17 1340 1378	the concentration of plant available-P
+T90	Entity 1045 1102	acid and alkaline phosphatase activity in the rhizosphere
+T91	Cluster17 794 844	plant-available P concentration in the rhizosphere
+T92	Cluster18 1032 1102	much greater acid and alkaline phosphatase activity in the rhizosphere
+T93	Cluster18 1107 1111	this
+T86	Cluster2 1924 1926	We
+T94	Cluster18 1238 1296	greater rhizosphere acid and alkaline phosphatase activity

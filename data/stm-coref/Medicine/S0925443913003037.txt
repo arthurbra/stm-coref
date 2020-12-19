@@ -1,0 +1,15 @@
+Mitochondrial aminoacyl-tRNA synthetases (aaRSs) are essential enzymes in protein synthesis since they charge tRNAs with their cognate amino acids.
+Mutations in the genes encoding mitochondrial aaRSs have been associated with a wide spectrum of human mitochondrial diseases.
+Here we report the identification of pathogenic mutations (a partial genomic deletion and a highly conserved p.
+Asp325Tyr missense variant) in FARS2, the gene encoding mitochondrial phenylalanyl-tRNA synthetase, in a patient with early-onset epilepsy and isolated complex IV deficiency in muscle.
+The biochemical defect was expressed in myoblasts but not in fibroblasts and associated with decreased steady state levels of COXI and COXII protein and reduced steady state levels of the mt-tRNAPhe transcript.
+Functional analysis of the recombinant mutant p.
+Asp325Tyr FARS2 protein showed an inability to bind ATP and consequently undetectable aminoacylation activity using either bacterial tRNA or human mt-tRNAPhe as substrates.
+Lentiviral transduction of cells with wildtype FARS2 restored complex IV protein levels, confirming that the p.Asp325Tyr mutation is pathogenic, causing respiratory chain deficiency and neurological deficits on account of defective aminoacylation of mt-tRNAPhe.
+Highlights
+•
+The tissue specific variation in presentation of aaRS mutations is discussed.
+•
+A further clinical presentation of a FARS2 defect.
+•
+Molecular mechanism of FARS2 defect is characterised in vitro.

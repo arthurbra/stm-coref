@@ -1,0 +1,52 @@
+T1	Cluster1 0 48	Mitochondrial aminoacyl-tRNA synthetases (aaRSs)
+T2	Entity 53 70	essential enzymes
+T3	Entity 74 91	protein synthesis
+T4	Entity 121 146	their cognate amino acids
+T5	Entity 110 115	tRNAs
+T6	Entity 161 170	the genes
+T7	Entity 148 157	Mutations
+T8	Cluster1 180 199	mitochondrial aaRSs
+T9	Entity 312 332	pathogenic mutations
+T10	Entity 334 360	a partial genomic deletion
+T12	Entity 418 423	FARS2
+T13	Entity 425 485	the gene encoding mitochondrial phenylalanyl-tRNA synthetase
+T14	Entity 490 499	a patient
+T15	Entity 505 525	early-onset epilepsy
+T16	Entity 530 560	isolated complex IV deficiency
+T17	Entity 564 570	muscle
+T18	Entity 633 644	fibroblasts
+T19	Entity 612 621	myoblasts
+T20	Cluster2 572 594	The biochemical defect
+T21	Cluster3 665 694	decreased steady state levels
+T22	Entity 698 720	COXI and COXII protein
+T23	Cluster3 725 752	reduced steady state levels
+T24	Entity 756 781	the mt-tRNAPhe transcript
+T25	Entity 993 1003	substrates
+T26	Entity 905 941	undetectable aminoacylation activity
+T27	Entity 884 887	ATP
+T28	Entity 879 883	bind
+T29	Entity 1005 1028	Lentiviral transduction
+T30	Entity 1032 1037	cells
+T31	Entity 1043 1092	wildtype FARS2 restored complex IV protein levels
+T32	Cluster4 1110 1134	the p.Asp325Tyr mutation
+T33	Entity 1138 1148	pathogenic
+T34	Entity 1191 1212	neurological deficits
+T35	Entity 1158 1186	respiratory chain deficiency
+T36	Entity 1255 1265	mt-tRNAPhe
+T37	Entity 1227 1251	defective aminoacylation
+T38	Entity 1329 1343	aaRS mutations
+T39	Entity 1280 1309	The tissue specific variation
+T40	Cluster2 1395 1409	a FARS2 defect
+T41	Cluster2 1436 1448	FARS2 defect
+T42	Entity 1413 1432	Molecular mechanism
+T43	Entity 1466 1474	in vitro
+T44	Entity 226 273	a wide spectrum of human mitochondrial diseases
+T45	Entity 948 989	either bacterial tRNA or human mt-tRNAPhe
+T46	Entity 171 179	encoding
+T47	Entity 290 308	the identification
+T48	Entity 365 386;387 413	a highly conserved p. Asp325Tyr missense variant
+T11	Cluster1 98 102	they
+T49	Cluster1 121 126	their
+#1	AnnotatorNotes T1	c, corpular structure
+#2	AnnotatorNotes T12	c, APPOS
+T50	Cluster4 806 831;832 855	the recombinant mutant p. Asp325Tyr FARS2 protein

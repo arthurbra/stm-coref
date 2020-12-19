@@ -1,0 +1,73 @@
+T1	Entity 73 98	clinically relevant cells
+T2	Entity 130 151	regenerative medicine
+T3	Entity 208 225	specialized cells
+T4	Entity 250 269	universal protocols
+T5	Entity 231 246	the development
+T6	Entity 274 288	the production
+T7	Entity 422 446	a defined culture system
+T8	Cluster1 521 526	hPSCs
+T9	Cluster2 528 533	hFSCs
+T10	Entity 538 548	self-renew
+T11	Cluster7 567 581	their capacity
+T12	Entity 555 566	maintaining
+T13	Entity 585 598	differentiate
+T14	Cluster2 788 793	hFSCs
+T15	Entity 823 829	bypass
+T16	Entity 830 841	variability
+T17	Cluster9 1019 1035	a clinical value
+T18	Entity 1085 1092	derived
+T19	Entity 1144 1152	expanded
+T20	Entity 1164 1195	their differentiation potential
+T21	Entity 1217 1230	differentiate
+T22	Entity 1329 1339	cell lines
+T23	Entity 1387 1411	a defined culture system
+T24	Cluster2 1503 1508	hFSCs
+T25	Entity 1513 1523	self-renew
+T26	Cluster2 1609 1614	hFSCs
+T27	Entity 1530 1541	maintaining
+T28	Cluster9 1755 1769	clinical value
+T29	Entity 1704 1711	produce
+T30	Entity 968 975	produce
+T31	Entity 199 207	generate
+T32	Entity 1157 1163	retain
+T33	Entity 1625 1645	a sustainable source
+T34	Entity 51 69	an infinite source
+T35	Cluster1 0 36	Human pluripotent stem cells (hPSCs)
+T36	Cluster3 162 172	hPSC lines
+T37	Entity 292 313	tissue-specific cells
+T38	Entity 385 407	the endodermal lineage
+T39	Cluster2 475 507	human foregut stem cells (hFSCs)
+T40	Cluster4 604 632	pancreatic and hepatic cells
+T41	Entity 647 683	near-homogenous populations of hFSCs
+T42	Cluster3 705 715	hPSC lines
+T43	Entity 735 775	refractory to endodermal differentiation
+T44	Entity 850 867	pluripotent lines
+T45	Cluster8 887 942	a sustainable source of multipotent endoderm stem cells
+T46	Cluster6 976 1013	a diversity of endodermal derivatives
+T47	Entity 1050 1080	Multipotent foregut stem cells
+T48	Entity 1098 1115	pluripotent cells
+T49	Cluster11 1118 1136	Foregut stem cells
+T50	Cluster11 1198 1216	Foregut stem cells
+T51	Entity 1236 1262	liver and pancreatic cells
+T52	Cluster11 1265 1283	Foregut stem cells
+T53	Entity 1293 1320	differentiation variability
+T54	Cluster2 1440 1472	human foregut stem cells (hFSCs)
+T55	Cluster1 1478 1501	human pluripotent cells
+T56	Cluster4 1579 1607	pancreatic and hepatic cells
+T57	Cluster7 1542 1556	their capacity
+T58	Entity 1649 1677	multipotent endodermal cells
+T59	Cluster6 1712 1749	a diversity of endodermal derivatives
+T60	Entity 411 421	developing
+T61	Entity 450 456	expand
+T62	Entity 461 474	differentiate
+T63	Entity 508 515	derived
+T64	Entity 1284 1292	decrease
+T65	Entity 1377 1386	developed
+T66	Entity 1415 1428	differentiate
+T67	Entity 1433 1439	expand
+T68	Cluster2 567 572	their
+T69	Cluster2 1542 1547	their
+T70	Cluster8 1625 1677	a sustainable source of multipotent endodermal cells
+T71	Cluster3 181 186	their
+T72	Cluster10 1387 1501	a defined culture system to differentiate and expand human foregut stem cells (hFSCs) from human pluripotent cells
+T73	Cluster10 422 526	a defined culture system to expand and differentiate human foregut stem cells (hFSCs) derived from hPSCs

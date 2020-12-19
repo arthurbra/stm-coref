@@ -1,0 +1,56 @@
+T1	Entity 143 174	standard clinical risk profiles
+T2	Cluster1 31 48	vascular diseases
+T3	Entity 53 74	later-life depression
+T4	Cluster1 189 206	vascular diseases
+T5	Entity 243 255	older adults
+T6	Cluster2 220 239	depressive symptoms
+T7	Entity 212 219	predict
+T8	Entity 287 309	the Whitehall II study
+T9	Entity 345 365	follow-up screenings
+T10	Entity 315 335	baseline examination
+T11	Entity 369 389	1997, 2003, and 2008
+T12	Entity 339 343	1991
+T13	Cluster2 530 549	depressive symptoms
+T14	Entity 433 446	hospital data
+T15	Entity 451 467	registry linkage
+T16	Entity 553 561	baseline
+T17	Entity 563 576	Vascular risk
+T18	Entity 701 725	each follow-up screening
+T19	Entity 745 782	General Health Questionnaire caseness
+T20	Entity 858 883	antidepressant medication
+T21	Cluster6 894 920	Diagnosed vascular disease
+T22	Cluster2 1007 1026	depressive symptoms
+T23	Entity 1028 1121	age- and sex-adjusted odds ratios from 1.5 (95% confidence interval 1.0-2.2) to 2.0 (1.4-3.0)
+T24	Cluster2 1153 1172	depressive symptoms
+T25	Entity 1136 1149	the indicator
+T26	Cluster3 1201 1226	manifest vascular disease
+T27	Cluster4 1270 1319	Center for Epidemiologic Studies Depression Scale
+T28	Cluster4 784 835	a Center for Epidemiologic Studies Depression Scale
+T29	Entity 836 845	score ≥16
+T30	Entity 1455 1470	the risk scores
+T31	Entity 1530 1556	odds ratios from .8 to 1.2
+T32	Entity 1514 1528	those aged ≥65
+T33	Entity 1320 1353	depressive symptoms before age 65
+T34	Entity 1596 1618	public health measures
+T35	Entity 1683 1713	later-life depressive symptoms
+T36	Entity 1718 1731	reduced rates
+T37	Cluster3 1735 1760	manifest vascular disease
+T38	Entity 1630 1650	vascular risk status
+T39	Entity 12 27	Common etiology
+T40	Cluster5 1180 1192	participants
+T41	Entity 985 1002	an increased risk
+T42	Entity 1355 1440	age- and sex-adjusted odds ratio per 10% absolute change in the score = 3.1 [1.5-6.5]
+T43	Entity 87 106	important synergies
+T44	Entity 395 427	additional disease ascertainment
+T45	Entity 471 488	5318 participants
+T46	Entity 490 520	mean age 54.8 years, 31% women
+T47	Entity 595 672	the Framingham Cardiovascular, Coronary Heart Disease, and Stroke Risk Scores
+T48	Entity 931 963	coronary heart disease or stroke
+T49	Entity 674 697	New depressive symptoms
+T50	Entity 1228 1249	the Stroke Risk Score
+T51	Entity 1481 1510	new-onset depressive symptoms
+T52	Entity 111 121	prevention
+T53	Entity 581 589	assessed
+T54	Entity 1622 1629	improve
+T55	Cluster5 1514 1519	those
+T56	Cluster6 922 926	that

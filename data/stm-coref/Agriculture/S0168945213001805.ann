@@ -1,0 +1,58 @@
+T1	Cluster1 0 7	Biomass
+T2	Entity 30 61	genetic engineering in forestry
+T3	Entity 186 196	production
+T4	Entity 198 210	Transgenesis
+T5	Cluster1 224 231	biomass
+T6	Cluster4 375 385	Transgenes
+T7	Entity 398 408	juvenility
+T8	Entity 410 425	winter dormancy
+T9	Entity 431 440	flowering
+T10	Cluster1 470 477	biomass
+T11	Entity 487 508	Transgenic approaches
+T12	Entity 825 835	tree crops
+T13	Cluster2 797 820	multi-trait engineering
+T14	Entity 862 888	multiple independent genes
+T15	Entity 964 980	crop improvement
+T16	Cluster6 1025 1080	unpredictable (synergistic or detrimental) interactions
+T17	Cluster8 1111 1132	the overall phenotype
+T18	Cluster7 1200 1227	the physiological processes
+T19	Entity 1339 1355	close monitoring
+T20	Entity 1359 1393	the resultant transgenic genotypes
+T21	Entity 524 539	yield potential
+T22	Entity 543 553	mitigating
+T23	Entity 652 666	multiple genes
+T24	Entity 713 718	trees
+T25	Entity 728 740	forest trees
+T26	Entity 852 861	deploying
+T27	Entity 1006 1021	the probability
+T28	Entity 1137 1162	its long-term performance
+T29	Cluster2 982 995	This strategy
+T30	Cluster2 1252 1267	such a strategy
+T31	Entity 685 707	various stress factors
+T32	Entity 1192 1199	predict
+T33	Entity 606 621	the environment
+T34	Entity 70 79	increased
+T35	Entity 554 573	the adverse effects
+T36	Entity 588 602	stress factors
+T37	Entity 636 648	introduction
+T38	Entity 671 681	resistance
+T39	Entity 741 745	cope
+T40	Entity 80 93	biomass yield
+T41	Entity 107 135	most downstream applications
+T42	Entity 331 373	solar energy, water, and mineral nutrients
+T43	Entity 307 326	competitive ability
+T44	Entity 245 289	resource acquisition and product utilization
+T45	Entity 751 784	multiple or changing environments
+T46	Cluster5 900 940	a set of genetically uncorrelated traits
+T47	Entity 1277 1295	vigilance and care
+T48	Entity 1397 1436	multi-year, multi-location field trials
+T49	Entity 144 185	timber, fiber, pulp, paper, and bioenergy
+T50	Entity 215 223	increase
+T51	Entity 514 523	increased
+T52	Cluster3 786 788	We
+T53	Cluster3 1326 1328	we
+T54	Cluster4 386 390	that
+T55	Cluster5 941 945	that
+T56	Cluster6 1081 1085	that
+T57	Cluster7 1228 1232	that
+T58	Cluster8 1137 1140	its

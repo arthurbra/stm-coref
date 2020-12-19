@@ -1,0 +1,66 @@
+T1	Entity 98 103	cells
+T2	Entity 117 138	a patient's own cells
+T3	Entity 104 111	derived
+T4	Cluster1 171 176	iPSCs
+T5	Entity 180 197	their derivatives
+T6	Entity 149 167	the immunogenicity
+T7	Entity 264 281	direct comparison
+T8	Entity 385 402	nonhuman primates
+T9	Cluster8 487 512	a minimal immune response
+T10	Cluster5 516 525	the brain
+T11	Cluster4 540 554	the allografts
+T12	Entity 595 609	the activation
+T13	Cluster9 613 645	microglia (IBA-1+/MHC class II+)
+T14	Entity 650 666	the infiltration
+T15	Cluster13 670 693	leukocytes (CD45+/CD3+)
+T16	Cluster7 562 589	an acquired immune response
+T17	Cluster6 761 775	the autografts
+T18	Cluster5 916 925	the brain
+T19	Cluster18 893 912	the immune response
+T20	Entity 882 892	minimizing
+T21	Cluster8 1026 1051	a minimal immune response
+T22	Cluster6 1075 1085	Autografts
+T23	Cluster4 1107 1117	allografts
+T24	Entity 1126 1151	an immune-privileged site
+T25	Cluster4 1187 1197	allografts
+T26	Entity 1206 1223	immunosuppression
+T27	Cluster5 1322 1331	the brain
+T28	Cluster8 1293 1318	a minimal immune response
+T29	Cluster4 1346 1360	the allografts
+T30	Cluster7 1368 1395	an acquired immune response
+T31	Entity 1401 1415	the activation
+T32	Cluster9 1419 1451	microglia (IBA-1+/MHC class II+)
+T33	Entity 1456 1472	the infiltration
+T34	Cluster13 1476 1499	leukocytes (CD45+/CD3+)
+T35	Cluster18 1559 1578	the immune response
+T36	Entity 1548 1558	minimizing
+T37	Cluster1 0 38	Induced pluripotent stem cells (iPSCs)
+T38	Cluster3 65 91	autologous transplantation
+T39	Entity 285 326	autologous and allogeneic transplantation
+T40	Entity 330 371	the brains of humans or nonhuman primates
+T41	Entity 418 448	the autologous transplantation
+T42	Cluster15 452 472	iPSC-derived neurons
+T43	Cluster17 728 748	dopaminergic neurons
+T44	Cluster15 836 861	iPSC-derived neural cells
+T45	Entity 802 832	the autologous transplantation
+T46	Cluster4 940 957	allogeneic grafts
+T47	Entity 991 1014	iPSC-derived autografts
+T48	Entity 1055 1072	the primate brain
+T49	Cluster17 1154 1170	Dopamine neurons
+T50	Entity 1224 1254	The autologous transplantation
+T51	Cluster15 1258 1278	iPSC-derived neurons
+T52	Cluster3 1501 1527	Autologous transplantation
+T53	Cluster4 1593 1610	allogeneic grafts
+T54	Entity 709 724	a higher number
+T55	Entity 749 757	survived
+T56	Entity 1171 1178	survive
+T57	Cluster2 404 406	we
+T58	Cluster2 777 780	Our
+T59	Cluster11 595 645	the activation of microglia (IBA-1+/MHC class II+)
+T60	Cluster11 1401 1451	the activation of microglia (IBA-1+/MHC class II+)
+T61	Cluster1 180 185	their
+T62	Cluster14 650 693	the infiltration of leukocytes (CD45+/CD3+)
+T63	Cluster14 1456 1499	the infiltration of leukocytes (CD45+/CD3+)
+T64	Cluster16 418 472	the autologous transplantation of iPSC-derived neurons
+T65	Cluster16 1224 1278	The autologous transplantation of iPSC-derived neurons
+T66	Cluster16 802 861	the autologous transplantation of iPSC-derived neural cells

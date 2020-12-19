@@ -1,0 +1,76 @@
+T1	Cluster1 817 827	wind speed
+T2	Cluster1 1091 1105	the wind speed
+T3	Cluster2 388 397	evaluated
+T4	Cluster2 515 529	The evaluation
+T5	Entity 696 732	aerodynamically independent turbines
+T6	Cluster12 781 793	the turbines
+T7	Cluster12 1412 1424	the turbines
+T8	Cluster4 962 981	The mutual topology
+T9	Entity 97 112	mutual topology
+T10	Entity 197 214	separate topology
+T11	Cluster5 1015 1036	the separate topology
+T12	Entity 362 383	electrical topologies
+T13	Cluster6 927 941	the topologies
+T14	Entity 543 557	a vortex model
+T15	Entity 1166 1178	vortex model
+T16	Entity 580 587	coupled
+T17	Entity 1179 1186	coupled
+T18	Entity 604 632	the electromechanical system
+T19	Cluster9 1192 1206	electric model
+T20	Cluster10 634 645	Simulations
+T21	Cluster10 1151 1160	simulated
+T22	Cluster12 232 244	the turbines
+T23	Entity 336 350	control signal
+T24	Entity 358 361	two
+T25	Entity 562 578	the aerodynamics
+T26	Entity 646 653	predict
+T27	Entity 798 813	the differences
+T28	Cluster13 842 853	one turbine
+T29	Entity 854 863	operating
+T30	Entity 888 902	the deviations
+T31	Entity 867 875	the wake
+T32	Entity 991 998	deliver
+T33	Entity 1004 1009	power
+T34	Entity 1042 1045	one
+T35	Entity 1046 1053	turbine
+T36	Entity 1060 1068	the wake
+T37	Entity 1114 1121	rapidly
+T38	Cluster2 1282 1291	evaluated
+T39	Entity 1338 1353	a vertical axis
+T40	Entity 1375 1390	The aerodynamic
+T41	Cluster2 1442 1456	the evaluation
+T42	Entity 0 11	A wind farm
+T43	Entity 17 45	a simple electrical topology
+T44	Entity 129 152	a more complex topology
+T45	Cluster12 159 171	each turbine
+T46	Entity 176 195	a separate inverter
+T47	Entity 260 272	electrically
+T48	Entity 284 303	the extracted power
+T49	Entity 309 332	the rotational velocity
+T50	Entity 414 432	the absorbed power
+T51	Entity 437 460	a farm of four turbines
+T52	Entity 478 513	a line or in a square configuration
+T53	Entity 736 751	the wind speeds
+T54	Entity 906 918	power output
+T55	Cluster16 1136 1147	A VAWT farm
+T56	Cluster9 1210 1228	An electric system
+T57	Cluster9 1295 1323	The proposed electric system
+T58	Entity 1354 1371	wind turbine farm
+T59	Entity 1460 1486	The inter turbine distance
+T60	Entity 1514 1537	the electrical topology
+T61	Entity 78 95	a single inverter
+T62	Cluster17 55 73	passive rectifiers
+T63	Entity 249 259	controlled
+T64	Entity 1072 1087	another turbine
+T65	Cluster17 1234 1252	passive rectifiers
+T66	Entity 1257 1272	a mutual DC-bus
+T67	Cluster6 352 383	These two electrical topologies
+T68	Cluster11 867 886	the wake of another
+T69	Cluster11 1060 1087	the wake of another turbine
+T70	Cluster13 1042 1053	one turbine
+T71	Cluster14 543 632	a vortex model for the aerodynamics, coupled with a model of the electromechanical system
+T72	Cluster14 1166 1206	vortex model coupled with electric model
+T73	Cluster4 0 113	A wind farm with a simple electrical topology based on passive rectifiers and a single inverter (mutual topology)
+T74	Cluster5 129 215	a more complex topology where each turbine has a separate inverter (separate topology)
+T75	Cluster16 1338 1371	a vertical axis wind turbine farm
+T76	Cluster9 593 632	a model of the electromechanical system

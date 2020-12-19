@@ -1,0 +1,4 @@
+Let O be a holomorphy ring in a global field K, and R a classical maximal O-order in a central simple algebra over K.
+We study sets of lengths of factorizations of cancellative elements of R into atoms (irreducibles).
+In a large majority of cases there exists a transfer homomorphism to a monoid of zero-sum sequences over a ray class group of O, which implies that all the structural finiteness results for sets of lengths-valid for commutative Krull monoids with finite class group-hold also true for R.
+If O is the ring of algebraic integers of a number field K, we prove that in the remaining cases no such transfer homomorphism can exist and that several invariants dealing with sets of lengths are infinite.

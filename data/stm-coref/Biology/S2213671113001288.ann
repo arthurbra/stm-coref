@@ -1,0 +1,71 @@
+T1	Entity 141 160	the stem cell field
+T2	Cluster1 235 241	hiPSCs
+T3	Entity 243 250	n = 114
+T4	Cluster2 256 261	hESCs
+T5	Entity 263 270	n = 155
+T6	Cluster1 345 351	hiPSCs
+T7	Cluster2 357 362	hESCs
+T8	Cluster5 299 301	82
+T9	Entity 288 295	a panel
+T10	Entity 439 455	hypermethylation
+T11	Cluster4 467 473	DNMT3B
+T12	Cluster4 484 490	DNMT3B
+T13	Cluster9 515 540	aberrant hypermethylation
+T14	Entity 545 554	silencing
+T15	Cluster4 613 619	DNMT3B
+T16	Entity 672 685	reprogramming
+T17	Entity 180 188	analyzed
+T18	Entity 277 287	identified
+T19	Cluster12 368 381	high accuracy
+T20	Cluster5 767 769	82
+T21	Entity 809 819	biomarkers
+T22	Cluster5 874 884	Eighty-two
+T23	Cluster12 941 954	high accuracy
+T24	Entity 957 963	Twelve
+T25	Cluster4 1029 1035	DNMT3B
+T26	Cluster4 1038 1044	DNMT3B
+T27	Cluster9 1085 1110	aberrant hypermethylation
+T28	Cluster1 1114 1120	hiPSCs
+T29	Cluster5 1154 1156	82
+T30	Cluster1 1209 1215	hiPSCs
+T31	Cluster2 1221 1226	hESCs
+T32	Cluster12 1232 1245	high accuracy
+T33	Cluster4 1367 1373	DNMT3B
+T34	Entity 1329 1348	partially abrogated
+T35	Entity 1255 1268	the signature
+T36	Entity 1143 1150	a panel
+T37	Entity 58 72	epigenetically
+T38	Cluster1 8 53	human induced pluripotent stem cells (hiPSCs)
+T39	Cluster2 86 120	human embryonic stem cells (hESCs)
+T40	Entity 189 213	DNA methylation patterns
+T41	Cluster3 302 323	CpG methylation sites
+T42	Entity 396 412	12 out of the 82
+T43	Cluster3 413 422	CpG sites
+T44	Entity 558 585	the signature gene, TCERG1L
+T45	Cluster11 635 664	a wave of de novo methylation
+T46	Entity 721 759	the unique hiPSC methylation signature
+T47	Entity 770 791	CpG methylation sites
+T48	Cluster3 885 906	DNA methylation sites
+T49	Entity 964 1009	aberrantly hypermethylated signature CG sites
+T50	Cluster3 1157 1178	CpG methylation sites
+T51	Cluster10 1281 1317	aberrantly hypermethylated CpG sites
+T52	Entity 1388 1408	DNMT3B-mutant hiPSCs
+T53	Entity 1424 1466	other aberrant hypermethylation signatures
+T54	Entity 333 344	distinguish
+T55	Entity 823 834	distinguish
+T56	Cluster1 843 849	hiPSCs
+T57	Cluster2 854 859	hESCs
+T58	Entity 907 918	distinguish
+T59	Cluster1 919 925	hiPSCs
+T60	Cluster2 930 935	hESCs
+T61	Entity 1197 1208	distinguish
+T62	Cluster7 1143 1245	a panel of 82 CpG methylation sites that can robustly distinguish hiPSCs from hESCs with high accuracy
+T63	Cluster7 288 381	a panel of 82 CpG methylation sites that can distinguish hiPSCs from hESCs with high accuracy
+T64	Cluster8 177 179	we
+T65	Cluster8 383 385	We
+T66	Cluster8 596 598	we
+T67	Cluster3 1179 1183	that
+T68	Cluster10 1319 1324	which
+T69	Cluster11 700 705	which
+T70	Cluster3 324 328	that
+T71	Cluster7 761 791	These 82 CpG methylation sites

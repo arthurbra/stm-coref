@@ -1,0 +1,18 @@
+High-resolution osmium (Os) isotope stratigraphy across the Cenomanian-Turonian Boundary Interval from 6 sections for four transcontinental settings has produced a record of seawater chemistry that demonstrates regional variability as a function of terrestrial and hydrothermal inputs, revealing the impact of palaeoenvironmental processes.
+In every section the 187Os/188Os profiles show a comparable trend; radiogenic values in the lead up to Oceanic Anoxic Event 2 (OAE 2); an abrupt unradiogenic trend at the onset of OAE 2; an unradiogenic interval during the first part of OAE 2; and a return to radiogenic values towards the end of the event, above the Cenomanian-Turonian boundary.
+The unradiogenic trend in 187Os/188Os is synchronous in all sections.
+Previous work suggests that activity of the Caribbean LIP (Large Igneous Province) was the source of unradiogenic Os across the OAE 2 and possibly an instigator of anoxia in the oceans.
+Here we assess this hypothesis and consider the influence of activity from other LIPs; such as the High Arctic LIP.
+A brief shift to high radiogenic 187Os/188Os values occurred in the Western Interior Seaway before the onset of OAE 2.
+We evaluate this trend and suggest that a combination of factors collectively played critical roles in the initiation of OAE 2; differential input of nutrients from continental and volcanogenic sources, coupled with efficient palaeocirculation of the global ocean and epeiric seas, enhanced productivity due to higher nutrient availability, which permitted penecontemporaneous transport of continental and LIP-derived nutrients to trans-equatorial basins.
+Highlights
+•
+Use Osi isotope stratigraphy to infer driving mechanism(s) of Oceanic Anoxic Event 2.
+•
+Osi profiles from 6 sites illustrate the regional variability of seawater chemistry.
+•
+δ13Corg and Osi records combined generate an integrated timescale model based on the GSSP.
+•
+Anoxia is a function of feedback based on climate change and volcanism.
+•
+Quantitatively constrain the duration of volcanism from Caribbean LIP.

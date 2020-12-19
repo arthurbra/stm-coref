@@ -1,0 +1,56 @@
+T1	Cluster1 0 28	The transterminator ion flow
+T2	Cluster7 32 55	the Venusian ionosphere
+T3	Cluster2 71 84	solar minimum
+T4	Entity 110 116	a flow
+T5	Cluster8 124 134	transports
+T6	Cluster3 135 139	ions
+T7	Entity 207 220	solar maximum
+T8	Cluster2 225 238	solar minimum
+T9	Cluster8 239 261	this transport process
+T10	Entity 309 322	the ionopause
+T11	Entity 265 283	severely inhibited
+T12	Entity 370 401	the Venusian ionospheric plasma
+T13	Entity 405 428	the ASPERA-4 experiment
+T14	Entity 437 465	the Venus Express spacecraft
+T15	Entity 508 528	in-situ measurements
+T16	Entity 532 542	the plasma
+T17	Cluster2 548 561	solar minimum
+T18	Entity 623 641	ionospheric origin
+T19	Entity 649 658	asymmetry
+T20	Entity 667 696	the noon and midnight sectors
+T21	Entity 714 737	an antisunward ion flow
+T22	Cluster4 794 807	this ion flow
+T23	Cluster5 823 834	maintaining
+T24	Cluster6 835 859	the nightside ionosphere
+T25	Entity 865 886	the terminator region
+T26	Cluster2 890 903	solar minimum
+T27	Entity 980 1001	the ion number counts
+T28	Entity 927 937	the result
+T29	Entity 1016 1035	dawn-dusk asymmetry
+T30	Entity 1056 1077	a nightward transport
+T31	Cluster3 1081 1085	ions
+T32	Cluster1 1138 1146	the flow
+T33	Cluster5 1191 1206	the maintenance
+T34	Cluster6 1210 1234	the nightside ionosphere
+T35	Entity 1151 1166	highly variable
+T36	Entity 1092 1109	the noon-midnight
+T37	Cluster1 1249 1277	The transterminator ion flow
+T38	Cluster7 1281 1304	the Venusian ionosphere
+T39	Cluster2 1320 1333	solar minimum
+T40	Cluster1 1337 1346	This flow
+T41	Cluster1 1401 1410	this flow
+T42	Entity 1414 1429	highly variable
+T43	Cluster6 1466 1490	the nightside ionosphere
+T44	Entity 145 169	the day to the nightside
+T45	Entity 287 305	the lower altitude
+T46	Cluster11 743 771	a velocity of (2.5±1.5)kms-1
+T47	Entity 581 619	the terminator of the energies of ions
+T48	Entity 965 976	asymmetries
+T49	Cluster11 1351 1379	a velocity of (2.5±1.5)kms-1
+T50	Cluster1 105 116	Such a flow
+T51	Cluster1 118 123	which
+T52	Cluster12 471 476	which
+T53	Cluster13 698 703	which
+T54	Cluster13 649 696	asymmetry between the noon and midnight sectors
+T55	Cluster4 714 771	an antisunward ion flow with a velocity of (2.5±1.5)kms-1
+T56	Cluster12 356 465	those made of the Venusian ionospheric plasma by the ASPERA-4 experiment onboard the Venus Express spacecraft

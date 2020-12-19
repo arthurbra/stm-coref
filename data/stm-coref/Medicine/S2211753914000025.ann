@@ -1,0 +1,17 @@
+T1	Entity 0 22	Phialemonium infection
+T2	Entity 26 32	humans
+T3	Cluster1 52 76	a 7-year-old healthy boy
+T4	Cluster2 96 112	chronic otorrhea
+T5	Entity 138 165	adequate antibiotic therapy
+T6	Entity 175 219	preservative tympanomastoidectomy operations
+T7	Entity 170 174	four
+T8	Entity 242 281	intermittent topical antibiotic therapy
+T9	Entity 283 291	cultures
+T11	Entity 303 307	grew
+T12	Entity 341 367	a more extensive operation
+T13	Entity 383 417	systemic/topical anti-fungal agent
+T14	Entity 429 442	clinical cure
+T15	Entity 36 40	rare
+T16	Cluster1 77 80	who
+T17	Cluster2 114 119	which
+T10	Entity 308 320	Phialemonium

@@ -1,0 +1,3 @@
+Let G be a unimodular Lie group, X a compact manifold with boundary, and M the total space of a principal bundle G→M→X so that M is also a strongly pseudoconvex complex manifold.
+In this work, we show that if there exists a point p∈bM such that TpG is contained in the complex tangent space TpcbM of bM at p, then the Bergman space of M is large.
+Natural examples include the gauged G-complexifications of Heinzner, Huckleberry, and Kutzschebauch.

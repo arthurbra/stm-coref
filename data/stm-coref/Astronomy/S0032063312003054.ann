@@ -1,0 +1,142 @@
+T1	Cluster8 23 32	asymmetry
+T2	Entity 45 69	the energy distributions
+T3	Entity 99 108	M/Q=16-44
+T4	Entity 117 127	signatures
+T5	Cluster5 131 153	electron precipitation
+T6	Entity 157 179	the Martian ionosphere
+T7	Entity 190 200	classified
+T8	Entity 317 329	ASPERA-3 ELS
+T9	Entity 339 349	signatures
+T10	Cluster5 353 375	electron precipitation
+T11	Entity 388 398	MEX orbits
+T12	Entity 379 384	43.0%
+T13	Cluster3 537 541	Mars
+T14	Entity 558 562	∼70%
+T15	Entity 400 423	Unaccelerated electrons
+T16	Cluster12 566 576	the events
+T17	Cluster1 601 610	Electrons
+T18	Entity 680 707	local ionospheric electrons
+T19	Entity 713 729	enhanced density
+T20	Cluster1 734 743	electrons
+T21	Cluster1 879 888	electrons
+T22	Entity 915 924	the shape
+T23	Entity 928 956	most electron energy spectra
+T24	Entity 864 875	The heating
+T25	Cluster3 1059 1063	Mars
+T26	Entity 1084 1101	the precipitation
+T27	Cluster1 1105 1114	electrons
+T28	Entity 1018 1034	the general flow
+T29	Cluster2 1038 1048	heavy-ions
+T30	Entity 1153 1181	the finite gyroradius effect
+T31	Entity 1238 1242	∼17%
+T32	Cluster12 1246 1252	events
+T33	Cluster16 1271 1293	heavy-ion acceleration
+T34	Entity 1459 1469	signatures
+T35	Cluster5 1473 1495	electron precipitation
+T36	Cluster1 1505 1514	electrons
+T37	Entity 1563 1572	isotropic
+T38	Entity 1534 1555	very little asymmetry
+T39	Cluster2 1577 1587	heavy-ions
+T40	Cluster9 1598 1615	a upward net flux
+T41	Entity 1629 1647	the upward current
+T42	Entity 1664 1670	aurora
+T43	Entity 1689 1710	reliable measurements
+T44	Cluster1 1714 1723	electrons
+T45	Cluster3 1743 1747	Mars
+T46	Cluster14 1790 1805	upward currents
+T47	Entity 1770 1786	further evidence
+T48	Entity 1724 1734	travelling
+T49	Entity 1893 1903	signatures
+T50	Cluster5 1907 1929	electron precipitation
+T51	Cluster8 1977 1987	asymmetric
+T52	Cluster9 1997 2015	an net upward flux
+T53	Cluster9 2065 2082	a net upward flux
+T54	Entity 2022 2035	distributions
+T55	Cluster2 2039 2049	heavy-ions
+T56	Entity 2084 2104	Energy distributions
+T57	Cluster2 2108 2118	heavy-ions
+T58	Entity 2124 2134	a net flux
+T59	Cluster3 2143 2147	Mars
+T60	Cluster2 2171 2181	heavy-ions
+T61	Cluster9 2187 2205	an upward net flux
+T62	Cluster11 2252 2269	downward currents
+T63	Entity 2324 2344	energy distributions
+T64	Cluster1 2348 2357	electrons
+T65	Cluster8 2367 2377	asymmetric
+T66	Cluster9 2387 2405	an upward net flux
+T67	Entity 2421 2441	energy distributions
+T68	Cluster2 2445 2455	heavy-ions
+T69	Entity 2466 2485	a downward net flux
+T70	Cluster1 2575 2584	electrons
+T71	Entity 2518 2551	downward parallel electric fields
+T72	Entity 2598 2625	a large amount of asymmetry
+T73	Entity 2653 2676	the energy distribution
+T74	Cluster9 2686 2703	a upward net flux
+T75	Entity 2725 2733	ASPERA-3
+T76	Entity 2737 2745	classify
+T77	Entity 2746 2766	particle asymmetries
+T78	Cluster5 2774 2796	electron precipitation
+T79	Cluster3 2800 2804	Mars
+T80	Entity 2828 2847	energy distribution
+T81	Cluster14 2924 2939	upward currents
+T82	Cluster11 2970 2987	downward currents
+T83	Entity 2899 2912	Distributions
+T84	Entity 2991 3005	Heavy-ion flow
+T85	Cluster3 3009 3013	Mars
+T86	Cluster5 3035 3057	electron precipitation
+T87	Entity 3065 3083	finite gyro-radius
+T88	Entity 3087 3099	Acceleration
+T89	Cluster2 3103 3113	heavy-ions
+T90	Cluster5 3140 3162	electron precipitation
+T91	Entity 231 263	the space plasma instrumentation
+T92	Entity 267 279	MEX ASPERA-3
+T93	Entity 1309 1319	concurrent
+T94	Entity 1326 1339	the periphery
+T95	Entity 2629 2649	the upward direction
+T96	Entity 744 755	transported
+T97	Entity 1941 1954	distributions
+T98	Cluster1 1958 1967	electrons
+T99	Entity 285 315	peri-centre altitude to 2200km
+T100	Entity 501 533	electron precipitation signature
+T101	Entity 621 668	unaccelerated electron precipitation signatures
+T102	Entity 761 809	another region of ionosphere, solar wind or tail
+T103	Entity 962 998	accelerated precipitation signatures
+T104	Entity 1185 1231	the heavy-ions on crustal magnetic field lines
+T105	Entity 1343 1378	an electron precipitation signature
+T106	Cluster6 2277 2310	electron precipitation signatures
+T107	Entity 2487 2513	Wave particle interactions
+T108	Cluster1 73 82	electrons
+T109	Cluster2 87 97	heavy-ions
+T110	Entity 439 472	sudden electron flux enhancements
+T111	Entity 814 862	a combination of local and transported electrons
+T112	Cluster15 1411 1454	electron and heavy-ion energy distributions
+T113	Cluster15 1845 1888	electron and heavy-ion energy distributions
+T114	Entity 2854 2873	isotropic electrons
+T115	Entity 2878 2895	upward heavy-ions
+T116	Entity 2949 2959	four times
+T117	Cluster1 611 615	that
+T118	Cluster6 117 153	signatures of electron precipitation
+T119	Cluster6 1459 1495	signatures of electron precipitation
+T120	Cluster6 1893 1929	signatures of electron precipitation
+T121	Cluster6 339 375	signatures of electron precipitation
+T122	Cluster5 1084 1114	the precipitation of electrons
+T123	Cluster15 45 97	the energy distributions of electrons and heavy-ions
+T124	Cluster16 3087 3113	Acceleration of heavy-ions
+T125	Cluster16 1294 1298	that
+T126	Cluster17 1941 1967	distributions of electrons
+T127	Cluster18 2022 2049	distributions of heavy-ions
+T128	Cluster18 2421 2455	energy distributions of heavy-ions
+T129	Cluster17 2324 2357	energy distributions of electrons
+T130	Cluster18 2084 2118	Energy distributions of heavy-ions
+T131	Cluster17 1968 1972	that
+T132	Cluster17 2358 2362	that
+T133	Cluster18 2456 2460	that
+T134	Cluster1 1515 1519	that
+T135	Cluster2 1588 1592	that
+T136	Cluster19 1762 1764	we
+T137	Cluster18 2050 2054	that
+T138	Cluster19 2241 2243	we
+T139	Cluster19 2316 2318	we
+T140	Cluster19 2718 2720	We
+T141	Cluster1 2585 2589	that
+#1	AnnotatorNotes T100	c, singular plural

@@ -1,0 +1,71 @@
+T1	Entity 252 271	The dilution method
+T2	Entity 296 312	soil communities
+T3	Entity 392 409	the 10-6 dilution
+T4	Entity 413 423	field soil
+T5	Entity 490 512	the 10-1 soil dilution
+T6	Entity 548 561	planted soils
+T7	Entity 648 683	principal components analysis (PCA)
+T8	Entity 739 754	planting regime
+T9	Entity 908 935	planted and unplanted soils
+T10	Cluster4 945 964	aggregate stability
+T11	Entity 568 581	root activity
+T12	Cluster1 610 626	species richness
+T13	Entity 1014 1038	Mycorrhizal colonisation
+T14	Entity 1049 1062	plant biomass
+T15	Entity 1192 1225	planted but non-mycorrhizal soils
+T16	Entity 1300 1325	these (mycorrhizal) soils
+T17	Cluster4 1480 1499	aggregate stability
+T18	Entity 1503 1545	the bare and non-mycorrhizal planted soils
+T19	Cluster6 1617 1630	the bare soil
+T20	Entity 1905 1919	mineralisation
+T21	Cluster8 1923 1937	organic matter
+T22	Entity 1867 1889	a degree of redundancy
+T23	Entity 2099 2137	sustainable soil management techniques
+T24	Entity 2160 2164	soil
+T25	Entity 2168 2187	a dynamic ecosystem
+T26	Entity 1125 1141	lower percentage
+T27	Cluster8 1142 1156	organic matter
+T28	Entity 694 725	bacterial community composition
+T29	Cluster5 1594 1608	all treatments
+T30	Entity 42 54	manipulating
+T31	Entity 28 38	the effect
+T32	Entity 179 250	planted (with or without mycorrhizal fungi) and in unplanted macrocosms
+T33	Entity 815 825	treatments
+T34	Entity 969 990	positively correlated
+T35	Entity 1453 1474	positively correlated
+T36	Entity 1717 1733	directly related
+T37	Entity 1800 1804	more
+T38	Cluster7 1805 1814	organic C
+T39	Entity 2012 2023	the effects
+T40	Entity 2027 2046	microbial diversity
+T41	Entity 2089 2098	advancing
+T42	Entity 2050 2071	functional parameters
+T43	Entity 331 375	contrasting levels of species (TRF) richness
+T44	Entity 436 480	less rich communities in bare unplanted soil
+T45	Cluster3 996 1012	small pore sizes
+T46	Cluster3 1161 1179	smaller pore sizes
+T47	Cluster4 1236 1260	soil aggregate stability
+T48	Entity 1265 1281	water repellency
+T49	Entity 1342 1363	AMF hyphal activities
+T50	Entity 1426 1448	bacterial TRF richness
+T51	Cluster7 1547 1566	Soil organic carbon
+T52	Entity 1737 1756	fungal TRF richness
+T53	Entity 1691 1707	the percentage C
+T54	Entity 1758 1789	The less species rich bare soil
+T55	Entity 1820 1851	the more species rich bare soil
+T56	Entity 1084 1123	reduced soil bacterial species richness
+T57	Entity 1943 1980	additional, more utilisable C sources
+T58	Entity 116 131	the development
+T59	Entity 135 149	soil structure
+T60	Entity 850 882	bacterial community compositions
+T61	Entity 55 91	soil microbial community composition
+T62	Cluster1 96 112	species richness
+T63	Entity 756 775	planted mycorrhizal
+T64	Entity 777 800	planted non-mycorrhizal
+T65	Cluster6 805 814	bare soil
+T66	Entity 1039 1048	decreased
+T67	Entity 1374 1384	enmeshment
+T68	Entity 1392 1411	glomalin production
+T69	Entity 1670 1689	labile C from roots
+T70	Entity 1650 1666	additional input
+T71	Cluster5 756 825	planted mycorrhizal, planted non-mycorrhizal and bare soil treatments

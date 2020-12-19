@@ -1,0 +1,4 @@
+Let K be a number field of degree n with ring of integers OK.
+By means of a criterion of Gilmer for polynomially dense subsets of the ring of integers of a number field, we show that, if h∈K[X] maps every element of OK of degree n to an algebraic integer, then h(X) is integral-valued over OK, that is, h(OK)⊂OK.
+A similar property holds if we consider the set of all algebraic integers of degree n and a polynomial f∈Q[X]: if f(α) is integral over Z for every algebraic integer α of degree n, then f(β) is integral over Z for every algebraic integer β of degree smaller than n.
+This second result is established by proving that the integral closure of the ring of polynomials in Q[X] which are integer-valued over the set of matrices Mn(Z) is equal to the ring of integral-valued polynomials over the set of algebraic integers of degree equal to n.

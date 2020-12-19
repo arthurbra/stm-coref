@@ -1,0 +1,3 @@
+In this note we show how to include low order terms in the C∞ well-posedness results for weakly hyperbolic equations with analytic time-dependent coefficients.
+This is achieved by doing a different reduction to a system from the previously used one.
+We find the Levi conditions such that the C∞ well-posedness continues to hold.

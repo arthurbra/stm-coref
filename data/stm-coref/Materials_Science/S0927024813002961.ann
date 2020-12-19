@@ -1,0 +1,86 @@
+T1	Entity 0 16	The energy yield
+T2	Cluster4 30 68	different types of photovoltaic device
+T3	Entity 141 171	cheap photovoltaic electricity
+T4	Entity 235 267	certain strengths and weaknesses
+T5	Entity 173 199	The different technologies
+T6	Entity 285 294	operating
+T7	Entity 298 320	different environments
+T8	Entity 387 408	contradictory results
+T9	Entity 345 362	comparative tests
+T10	Entity 434 450	device behaviour
+T11	Entity 454 488	contrasting thin film technologies
+T12	Entity 503 528	a-Si and CIGS derivatives
+T13	Entity 636 648	the accuracy
+T14	Cluster8 652 676	module inter-comparisons
+T15	Entity 681 704	most outdoor monitoring
+T16	Entity 735 742	compare
+T17	Cluster4 743 750	devices
+T18	Entity 708 718	this scale
+T19	Entity 825 836	differences
+T20	Cluster7 840 855	energy delivery
+T21	Entity 860 873	the magnitude
+T22	Entity 799 821	five main contributors
+T23	Cluster2 894 910	the environments
+T24	Cluster4 920 931	the devices
+T25	Entity 967 978	two effects
+T26	Cluster8 1008 1025	inter-comparisons
+T27	Cluster7 1036 1064	the reported energy delivery
+T28	Entity 1099 1114	light intensity
+T29	Entity 1116 1150	spectrum and operating temperature
+T30	Entity 1161 1183	performance variations
+T31	Entity 1194 1214	in the range of 2-7%
+T32	Entity 1066 1090	Environmental influences
+T33	Entity 1249 1271	most comparative tests
+T34	Entity 1297 1318	short periods of time
+T35	Entity 1323 1342	the order of months
+T36	Entity 1350 1366	the power rating
+T37	Entity 1392 1403	uncertainty
+T38	Entity 1433 1443	thin films
+T39	Entity 1453 1472	the range of 10-15%
+T40	Entity 1408 1424	new technologies
+T41	Cluster8 1489 1506	inter-comparisons
+T42	Entity 1518 1550	as-new, first-year energy yields
+T43	Entity 1568 1594	the life-time energy yield
+T44	Entity 1612 1618	ageing
+T45	Entity 1626 1635	up to 25%
+T46	Entity 1636 1645	variation
+T47	Cluster4 1654 1671	different devices
+T48	Entity 1673 1687	The durability
+T49	Cluster4 1691 1698	devices
+T50	Entity 1703 1726	performance-maintenance
+T51	Cluster7 1773 1788	energy delivery
+T52	Entity 1813 1829	electricity cost
+T53	Entity 1858 1880	long-term measurements
+T54	Entity 1931 1974	Renewable Energy Systems Technology (CREST)
+T55	Entity 2039 2058	the energy delivery
+T56	Cluster4 2062 2092	thin film photovoltaic devices
+T57	Entity 2096 2114	a maritime climate
+T58	Entity 2119 2150	amorphous silicon based modules
+T59	Entity 2155 2204	Copper -Indium, Gallium -DiSelenide based devices
+T60	Cluster4 2239 2262	thin film photovoltaics
+T61	Entity 2216 2235	the energy delivery
+T62	Cluster9 2205 2212	Effects
+T63	Entity 2316 2336	measurement accuracy
+T64	Entity 2341 2368	changes in device behaviour
+T65	Entity 2374 2378	time
+T66	Entity 2391 2402	environment
+T67	Cluster9 2406 2413	Effects
+T68	Entity 2508 2524	long term ageing
+T69	Cluster4 2528 2545	different devices
+T70	Entity 2489 2504	The differences
+T71	Entity 2549 2559	quantified
+T72	Entity 936 944	operated
+T73	Entity 1027 1035	dominate
+T74	Entity 2267 2276	separated
+T75	Entity 2281 2291	quantified
+T76	Entity 2417 2428	temperature
+T77	Entity 2430 2440	irradiance
+T78	Entity 2445 2453	spectrum
+T79	Entity 2458 2470	investigated
+T80	Entity 2475 2485	quantified
+T81	Cluster1 877 882	these
+T83	Cluster2 914 919	which
+T84	Cluster3 0 68	The energy yield delivered by different types of photovoltaic device
+T85	Cluster3 2039 2092	the energy delivery of thin film photovoltaic devices
+T86	Cluster3 2216 2262	the energy delivery of thin film photovoltaics
+T82	Cluster1 799 855	five main contributors to differences in energy delivery

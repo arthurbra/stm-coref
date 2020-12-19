@@ -1,0 +1,64 @@
+T1	Entity 64 71	heights
+T2	Entity 20 36	few observations
+T3	Entity 133 147	Doppler lidars
+T4	Entity 263 273	predicting
+T5	Entity 311 325	remote sensing
+T6	Entity 431 446	several minutes
+T7	Cluster1 568 576	the flow
+T8	Cluster2 959 968	The lidar
+T9	Entity 1049 1057	Accuracy
+T10	Cluster2 1114 1123	the lidar
+T11	Cluster4 1171 1182	urban areas
+T12	Entity 1350 1368	the boundary layer
+T13	Entity 1331 1338	measure
+T14	Cluster1 1391 1399	the flow
+T15	Cluster5 1406 1412	cities
+T16	Cluster6 1519 1532	an anemometer
+T17	Cluster4 1590 1601	urban areas
+T18	Entity 865 880	the uncertainty
+T19	Entity 83 96	rooftop level
+T20	Cluster8 98 124	Remote sensing instruments
+T21	Entity 156 171	wind speed data
+T22	Entity 175 187	many heights
+T23	Entity 243 257	tall buildings
+T24	Entity 274 291	local air quality
+T25	Entity 370 395	flat, homogeneous terrain
+T26	Entity 406 419	scan patterns
+T27	Entity 496 510	space and time
+T28	Cluster1 468 476	the flow
+T29	Entity 451 467	an urban context
+T30	Cluster9 515 527	faster scans
+T31	Entity 582 597	the scan period
+T32	Entity 610 634	3993h of wind speed data
+T33	Cluster3 651 699	a three-beam Doppler lidar wind profiling method
+T34	Entity 827 852	wind profile measurements
+T35	Entity 884 910	the hourly mean wind speed
+T36	Entity 1023 1034	wind speeds
+T37	Entity 1088 1110	the scanning frequency
+T38	Entity 1077 1087	increasing
+T39	Entity 1236 1256	more wind speed data
+T40	Cluster8 1300 1326	Remote sensing instruments
+T41	Entity 1372 1387	Rapid evolution
+T42	Cluster9 1419 1436	a short scan time
+T43	Cluster3 1461 1500	a 3-beam Doppler lidar profiling method
+T44	Cluster3 1536 1553	The 3-beam method
+T45	Entity 40 60	the urban wind field
+T46	Entity 331 354	traditional anemometers
+T47	Cluster6 715 733	a sonic anemometer
+T48	Entity 735 739	190m
+T49	Entity 742 758	Both instruments
+T50	Entity 853 863	every 2min
+T51	Entity 918 940	the sampling frequency
+T52	Entity 944 957	0.05-0.11ms-1
+T53	Entity 992 1006	the wind speed
+T54	Entity 1010 1018	≈0.5ms-1
+T55	Entity 1035 1047	below 20ms-1
+T56	Cluster3 1125 1136	This method
+T57	Entity 1267 1286	above rooftop level
+T58	Entity 226 239	wind loadings
+T59	Cluster5 1290 1296	cities
+T60	Entity 979 991	overestimate
+T61	Entity 1257 1266	collected
+T62	Entity 635 644	collected
+T63	Entity 214 225	determining
+T64	Entity 651 733	a three-beam Doppler lidar wind profiling method with data from a sonic anemometer

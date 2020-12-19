@@ -1,0 +1,81 @@
+T1	Cluster4 31 60	a robust two-layer classifier
+T2	Entity 90 195	normal hearing (NH) from hearing impaired (HI) infants with congenital sensori-neural hearing loss (SNHL)
+T3	Entity 70 89	accurately classify
+T4	Entity 205 241	their Magnetic Resonance (MR) images
+T5	Entity 283 317	the intensity of each single voxel
+T6	Entity 332 351	high-level features
+T7	Cluster8 368 431	the structural MR images (sMRI) and functional MR images (fMRI)
+T8	Entity 433 487	The Scale Invariant Feature Transform (SIFT) algorithm
+T9	Entity 524 542	the local features
+T10	Entity 546 550	sMRI
+T11	Entity 556 560	fMRI
+T12	Cluster2 577 590	contrast maps
+T13	Entity 565 576	constructed
+T14	Entity 595 603	detected
+T15	Cluster3 604 643	the most activated/de-activated regions
+T16	Entity 647 662	each individual
+T17	Cluster3 673 694	those salient regions
+T18	Entity 712 723	individuals
+T19	Entity 725 750	the bag-of-words strategy
+T20	Entity 769 778	vectorize
+T21	Cluster2 779 796	the contrast maps
+T22	Cluster4 811 828	a two-layer model
+T23	Entity 832 841	integrate
+T24	Cluster8 842 869	these two types of features
+T25	Entity 885 928	the leave-one-out cross-validation approach
+T26	Cluster4 930 951	this integrated model
+T27	Cluster9 961 981	an AUC score of 0.90
+T28	Cluster5 1023 1054	several important brain regions
+T29	Entity 1075 1101	between NH and HI children
+T30	Entity 1060 1074	differentiated
+T31	Cluster5 1111 1124	these regions
+T32	Entity 1172 1231	well known auditory and visual language association regions
+T33	Entity 1246 1281	the anterior cingulate cortex (ACC)
+T34	Entity 1347 1366	HI from NH children
+T35	Entity 1331 1346	differentiating
+T36	Entity 1403 1417	brain function
+T37	Cluster6 1425 1437	the disorder
+T38	Cluster5 1446 1475	These important brain regions
+T39	Cluster7 1485 1490	clues
+T40	Entity 1497 1509	neuroimaging
+T41	Entity 1510 1517	markers
+T42	Entity 1560 1583	functional neuroimaging
+T43	Entity 1611 1639	speech and language outcomes
+T44	Entity 1643 1684	HI infants who receive a cochlear implant
+T45	Entity 1699 1721	prognostic information
+T46	Entity 1829 1834	probe
+T47	Entity 1878 1907	hearing impaired (HI) infants
+T48	Entity 1835 1874	brain structural and functional changes
+T49	Cluster4 1920 1949	a robust two-layer classifier
+T50	Entity 1955 1965	integrates
+T51	Cluster8 1966 1984	sMRI and fMRI data
+T52	Cluster4 1988 2009	This integrated model
+T53	Entity 2031 2053	HI from normal infants
+T54	Cluster9 2055 2062	AUC 0.9
+T55	Entity 2010 2030	accurately separates
+T56	Cluster5 2086 2109	important brain regions
+T57	Entity 2128 2149	HI and normal infants
+T58	Entity 2176 2197	diverse types of data
+T59	Entity 2222 2230	diseases
+T60	Cluster4 2067 2077	Our method
+T61	Cluster4 2153 2163	Our method
+T62	Entity 504 510	detect
+T63	Entity 515 523	describe
+T64	Cluster4 997 1010	our algorithm
+T65	Entity 1131 1147	planum temporale
+T66	Entity 1152 1165	angular gyrus
+T67	Entity 1593 1604	predictions
+T68	Cluster1 1826 1828	We
+T69	Cluster1 1911 1913	We
+T70	Cluster1 2067 2070	Our
+T71	Cluster1 2153 2156	Our
+T73	Cluster1 798 800	We
+T74	Cluster1 997 1000	our
+T75	Cluster4 61 65	that
+T76	Cluster1 319 321	we
+T77	Cluster1 562 564	we
+T78	Cluster6 1438 1444	itself
+T79	Cluster4 1950 1954	that
+T80	Cluster7 1518 1522	that
+T81	Cluster1 18 20	we
+T82	Cluster5 1055 1059	that

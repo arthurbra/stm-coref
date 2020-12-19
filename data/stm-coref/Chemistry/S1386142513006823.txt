@@ -1,0 +1,10 @@
+Two series of mono- and binuclear complexes cyclic or acyclic thio-ferocine Schiff base ligands, derived from the condensation of 2-aminobenzenthiol (L) with monoacetyl ferrocene in the molar ratio 1:1 or in the molar ratio 1:2 for diacetyl ferocine have been prepared.
+The condensation reactions yield the corresponding Schiff Base ligands, HLa-Maf and H2Lb-Daf.
+The chelation of the ligands to metal ions occurs through the sulfur of the thiol group as well as the nitrogen atoms of the azomethine group of the ligands.
+HLa-Maf acts as monobasic bidentate or dibasic tetradentate, while H2Lb-Daf behaves as twice negatively cargend tetradentate ligand.
+The structures of these ligands were elucidated by elemental analysis, infrared, ultraviolet-visible spectra, as well as 1H NMR spectra.
+Reactions of the Schiff bases ligands with ruthenium(III), oxovanadium(IV) and dioxouranium(VI) afforded the corresponding transition metal complexes.
+The properties of the newly prepared complexes were analyse by elemental analyses, infrared, electronic spectra, 1H NMR as well as the magnetic susceptibility and conductivity measurement.
+The metal complexes exhibits different geometrical arrangements such as octahedral and square pyramidal coordination.
+Schiff base ligands and their metal complexes were tested against two pathogenic bacteria as Gram-positive and Gram-negative bacteria as well as one kind of fungi to study their biological activity.
+All the complexes exhibit antibacterial and antifungal activities against these organisms.

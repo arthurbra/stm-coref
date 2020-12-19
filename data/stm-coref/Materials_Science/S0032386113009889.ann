@@ -1,0 +1,79 @@
+T1	Cluster1 0 20	Silica nanoparticles
+T2	Entity 32 77	three different diameters (23, 74 and 170 nm)
+T3	Cluster7 98 130	a piperidine-cured epoxy polymer
+T4	Entity 132 146	Fracture tests
+T5	Entity 166 189	values of the toughness
+T6	Entity 212 229	the concentration
+T7	Cluster1 233 253	silica nanoparticles
+T8	Entity 258 267	increased
+T9	Entity 281 300	significant effects
+T10	Entity 304 317	particle size
+T11	Entity 332 363	the measured value of toughness
+T12	Cluster3 365 390	The toughening mechanisms
+T13	Cluster7 464 488	the epoxy matrix polymer
+T14	Cluster1 511 535	the silica nanoparticles
+T15	Cluster13 546 555	debonding
+T16	Cluster1 559 583	the silica nanoparticles
+T17	Entity 596 615	plastic void growth
+T18	Cluster7 619 643	the epoxy matrix polymer
+T19	Cluster3 645 661	These mechanisms
+T20	Entity 673 686	the toughness
+T21	Entity 690 708	the epoxy polymers
+T22	Cluster1 720 744	the silica nanoparticles
+T23	Entity 766 791	the Hsieh et al. approach
+T24	Entity 751 759	modelled
+T25	Entity 793 820	Polymer 51, 2010, 6284-6294
+T26	Entity 891 910	the volume fraction
+T27	Entity 914 939	debonded silica particles
+T28	Cluster8 960 981	the fracture surfaces
+T29	Entity 946 954	measured
+T30	Entity 1067 1091	finite-element modelling
+T31	Cluster4 1119 1142	one silica nanoparticle
+T32	Cluster13 1143 1150	debonds
+T33	Entity 1156 1178	its nearest neighbours
+T34	Entity 1183 1191	shielded
+T35	Entity 1197 1221	the applied stress field
+T36	Cluster13 1241 1247	debond
+T37	Entity 1249 1269	Statistical analysis
+T38	Entity 1287 1335	a good, i.e. random, dispersion of nanoparticles
+T39	Cluster1 1337 1354	each nanoparticle
+T40	Entity 1359 1362	six
+T41	Entity 1363 1381	nearest neighbours
+T42	Entity 1386 1403	only one in seven
+T43	Cluster1 1404 1413	particles
+T44	Cluster13 1436 1442	debond
+T45	Cluster6 1482 1492	only 14.3%
+T46	Entity 1496 1513	the nanoparticles
+T47	Cluster13 1527 1533	debond
+T48	Entity 1604 1623	those nanoparticles
+T49	Cluster13 1632 1641	debonding
+T50	Entity 1652 1660	recorded
+T51	Cluster8 1688 1709	the fracture surfaces
+T52	Cluster12 1581 1600	the value of 10-15%
+T53	Cluster6 1539 1549	this value
+T54	Entity 1720 1743	this value of about 15%
+T55	Entity 1747 1777	silica nanoparticles particles
+T56	Entity 1786 1795	debonding
+T57	Entity 1931 1944	the toughness
+T58	Entity 1948 1974	the various epoxy polymers
+T59	Cluster1 1986 2010	the silica nanoparticles
+T60	Entity 1885 1900	The predictions
+T61	Entity 2065 2078	the agreement
+T62	Entity 1906 1927	the modelling studies
+T63	Entity 414 460	the formation of localised shear-band yielding
+T64	Entity 2030 2060	the measured fracture energies
+T65	Entity 91 97	modify
+T66	Entity 152 161	performed
+T67	Entity 190 208	increased steadily
+T68	Entity 849 877	that previous modelling work
+T69	Entity 1423 1432	predicted
+T70	Cluster2 489 494	which
+T71	Cluster2 414 488	the formation of localised shear-band yielding in the epoxy matrix polymer
+T72	Cluster4 1156 1159	its
+T73	Cluster9 673 744	the toughness of the epoxy polymers containing the silica nanoparticles
+T74	Cluster10 1948 2010	the various epoxy polymers containing the silica nanoparticles
+T75	Cluster10 690 744	the epoxy polymers containing the silica nanoparticles
+T76	Cluster9 1931 2010	the toughness of the various epoxy polymers containing the silica nanoparticles
+T77	Cluster11 1496 1521	the nanoparticles present
+T78	Cluster11 1604 1631	those nanoparticles present
+T79	Cluster12 1642 1647	which

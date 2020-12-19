@@ -1,0 +1,70 @@
+T1	Cluster1 26 71	human induced pluripotent stem cells (hiPSCs)
+T2	Cluster1 738 748	The hiPSCs
+T3	Cluster1 474 480	hiPSCs
+T4	Cluster1 1272 1278	hiPSCs
+T5	Entity 241 256	hiPSC expansion
+T6	Entity 455 473	efficiently expand
+T7	Entity 211 236	a scalable culture system
+T8	Cluster3 1128 1139	This system
+T9	Cluster4 605 618	the E8 medium
+T10	Cluster4 1414 1423	E8 medium
+T11	Cluster4 263 309	the E8 chemically defined and xeno-free medium
+T12	Entity 1199 1229	completely xeno-free condition
+T13	Entity 1542 1581	completely defined xeno-free conditions
+T14	Cluster6 1163 1195	an efficient scale-up bioprocess
+T15	Cluster6 1720 1734	the bioprocess
+T16	Cluster6 1517 1538	a scalable bioprocess
+T17	Cluster7 1598 1628	a single-cell cryopreservation
+T18	Cluster7 1029 1057	single-cell cryopreservation
+T19	Entity 144 169	translational realization
+T20	Entity 199 210	demonstrate
+T21	Entity 370 391	suspension conditions
+T22	Entity 402 428	a computational simulation
+T23	Entity 531 547	Serial passaging
+T24	Entity 656 666	expression
+T25	Entity 629 651	their normal karyotype
+T26	Entity 619 628	preserved
+T27	Entity 761 775	spinner flasks
+T28	Entity 749 757	cultured
+T29	Entity 829 840	pluripotent
+T30	Entity 1005 1025	a xeno-free protocol
+T31	Entity 1062 1070	recovery
+T32	Entity 1075 1098	the scalable production
+T33	Entity 1323 1344	clinical applications
+T34	Entity 1437 1465	the first hydrodynamic model
+T35	Entity 1470 1500	glass-ball type spinner flasks
+T36	Cluster1 1657 1668	Human iPSCs
+T37	Entity 1588 1597	optimized
+T38	Entity 0 22	Large-scale production
+T39	Entity 75 102	robust and economic methods
+T40	Entity 173 189	hiPSC technology
+T41	Entity 484 529	undifferentiated aggregates in spinner flasks
+T42	Cluster9 551 598	two different hiPSC lines in the spinner flasks
+T43	Entity 670 700	undifferentiated state markers
+T44	Entity 931 975	mesodermal and hematopoietic differentiation
+T45	Entity 1102 1126	hiPSCs in spinner flasks
+T46	Entity 1284 1308	the quantity and quality
+T47	Entity 1369 1407	the first suspension culture of hiPSCs
+T48	Entity 1633 1653	hiPSCs in suspension
+T49	Entity 1680 1713	pluripotency and normal karyotype
+T50	Entity 857 884	in vitro and in vivo assays
+T51	Entity 1234 1268	the expansion and cryopreservation
+T52	Entity 316 356	either adherent or suspension conditions
+T53	Entity 361 369	optimize
+T54	Entity 704 712	TRA-1-60
+T55	Entity 714 719	SSEA4
+T56	Entity 721 725	OCT4
+T57	Entity 731 736	NANOG
+T58	Entity 790 792	10
+T59	Entity 793 801	passages
+T60	Entity 904 923	efficiently induced
+T61	Entity 1669 1679	maintained
+T62	Cluster8 196 198	we
+T63	Cluster8 1359 1361	We
+T64	Cluster8 1427 1429	We
+T65	Cluster8 1504 1506	We
+T66	Cluster8 1585 1587	We
+T67	Cluster8 430 432	we
+T68	Cluster9 629 634	their
+T69	Cluster8 990 992	we
+T70	Cluster3 211 256	a scalable culture system for hiPSC expansion

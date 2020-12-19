@@ -1,0 +1,53 @@
+T1	Entity 110 126	the condensation
+T2	Entity 232 249	diacetyl ferocine
+T3	Entity 270 296	The condensation reactions
+T4	Cluster1 381 392	the ligands
+T5	Entity 364 377	The chelation
+T6	Entity 522 529	HLa-Maf
+T7	Entity 589 597	H2Lb-Daf
+T8	Entity 634 653	tetradentate ligand
+T9	Cluster1 673 686	these ligands
+T10	Cluster4 726 734	infrared
+T11	Entity 736 763	ultraviolet-visible spectra
+T12	Cluster5 776 790	1H NMR spectra
+T13	Cluster2 706 724	elemental analysis
+T14	Entity 792 801	Reactions
+T15	Cluster3 961 989	the newly prepared complexes
+T16	Cluster2 1006 1024	elemental analyses
+T17	Cluster4 1026 1034	infrared
+T18	Entity 1036 1054	electronic spectra
+T19	Cluster5 1056 1062	1H NMR
+T20	Entity 1171 1195	geometrical arrangements
+T21	Entity 1301 1307	tested
+T22	Entity 1316 1319	two
+T23	Entity 1320 1339	pathogenic bacteria
+T24	Entity 1395 1412	one kind of fungi
+T25	Entity 1422 1447	their biological activity
+T26	Cluster6 1523 1538	these organisms
+T27	Entity 0 95	Two series of mono- and binuclear complexes cyclic or acyclic thio-ferocine Schiff base ligands
+T28	Entity 130 178	2-aminobenzenthiol (L) with monoacetyl ferrocene
+T29	Entity 182 201	the molar ratio 1:1
+T30	Entity 208 227	the molar ratio 1:2
+T31	Cluster1 303 362	the corresponding Schiff Base ligands, HLa-Maf and H2Lb-Daf
+T32	Entity 396 406	metal ions
+T33	Entity 422 451	the sulfur of the thiol group
+T34	Entity 463 520	the nitrogen atoms of the azomethine group of the ligands
+T35	Entity 609 633	twice negatively cargend
+T36	Entity 805 887	the Schiff bases ligands with ruthenium(III), oxovanadium(IV) and dioxouranium(VI)
+T37	Cluster3 897 941	the corresponding transition metal complexes
+T38	Entity 1074 1130	the magnetic susceptibility and conductivity measurement
+T39	Cluster3 1132 1151	The metal complexes
+T40	Entity 1204 1248	octahedral and square pyramidal coordination
+T41	Cluster1 1250 1269	Schiff base ligands
+T42	Cluster3 1274 1295	their metal complexes
+T43	Entity 1343 1383	Gram-positive and Gram-negative bacteria
+T44	Entity 1475 1514	antibacterial and antifungal activities
+T45	Cluster7 1449 1466	All the complexes
+T46	Entity 538 557	monobasic bidentate
+T47	Entity 561 581	dibasic tetradentate
+T48	Entity 655 669	The structures
+T49	Entity 943 957	The properties
+T50	Cluster1 1274 1279	their
+T51	Cluster7 1422 1427	their
+T52	Cluster6 1316 1412	two pathogenic bacteria as Gram-positive and Gram-negative bacteria as well as one kind of fungi
+T53	Cluster7 1250 1295	Schiff base ligands and their metal complexes

@@ -1,0 +1,5 @@
+We consider the polynomial representation of Double Affine Hecke Algebras (DAHAs) and construct its submodules as ideals of functions vanishing on the special collections of affine planes.
+This generalizes certain results of Kasatani in types An, (Cn∨,Cn).
+We obtain commutative algebras of difference operators given by the action of invariant combinations of Cherednik-Dunkl operators in the corresponding quotient modules of the polynomial representation.
+This gives known and new generalized Macdonald-Ruijsenaars systems.
+Thus in the cases of DAHAs of types An and (Cn∨,Cn) we derive Chalykh-Sergeev-Veselov operators and a generalization of the Koornwinder operator respectively, together with complete sets of quantum integrals in the explicit form.

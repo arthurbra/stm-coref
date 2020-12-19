@@ -1,0 +1,38 @@
+T1	Entity 13 23	the effect
+T2	Entity 27 40	halide doping
+T3	Cluster5 44 91	the Aerosol-assisted Chemical Vapour Deposition
+T4	Entity 95 104	tin oxide
+T5	Entity 138 160	precursor interactions
+T6	Cluster7 177 203	A halide exchange reaction
+T7	Cluster1 235 252	the tin precursor
+T9	Entity 290 301	the complex
+T10	Entity 312 320	a marker
+T11	Cluster4 325 339	improved films
+T12	Entity 345 387	improved transparent-conducting properties
+T13	Entity 411 484	butyltin trichloride and potassium halide (X=F, Cl, Br, I) in propan-2-ol
+T14	Entity 503 535	a substrate temperature of 450°C
+T15	Entity 490 499	deposited
+T16	Entity 542 557	air carrier gas
+T17	Entity 389 407	Precursor mixtures
+T18	Cluster3 593 601	fluorine
+T19	Cluster6 607 667	the best performing n-type transparent conducting thin films
+T20	Entity 683 724	high optical transparency (>80% at 550nm)
+T21	Entity 729 763	resistivity values of 4.9×10-4Ω.cm
+T22	Entity 770 851	charge carrier density and carrier mobility values of 8.85×1020cm-3 and 15cm3/V.s
+T23	Entity 924 952	Halide-doped tin oxide films
+T24	Entity 967 972	glass
+T25	Cluster5 979 984	AACVD
+T26	Cluster3 988 996	Fluorine
+T27	Entity 1013 1038	the most effective dopant
+T28	Entity 1043 1059	TCO applications
+T29	Cluster7 1063 1088	A halide exchange process
+T30	Entity 1102 1126	a direct tin-dopant bond
+T31	Cluster1 1130 1143	the precursor
+T32	Entity 1147 1161	This structure
+T33	Entity 1173 1181	a marker
+T34	Cluster4 1185 1208	higher-performing films
+T35	Entity 559 570	Hall Effect
+T8	Cluster6 668 672	that
+T36	Entity 277 288	the solvent
+T37	Cluster8 312 339	a marker for improved films
+T38	Cluster8 1173 1208	a marker to higher-performing films

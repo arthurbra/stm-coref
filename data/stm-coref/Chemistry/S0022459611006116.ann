@@ -1,0 +1,48 @@
+T1	Entity 77 97	solid state reaction
+T2	Entity 119 129	1323-1423K
+T3	Entity 273 286	rock-salt MgO
+T4	Cluster4 206 212	Mg3NF3
+T5	Entity 313 319	vacant
+T6	Entity 150 162	powder X-ray
+T7	Entity 167 193	powder neutron diffraction
+T8	Cluster2 321 326	Mg2NF
+T9	Cluster1 406 420	Both compounds
+T10	Entity 437 442	ionic
+T11	Cluster1 534 555	The nitride fluorides
+T12	Entity 250 261	a structure
+T13	Entity 723 754	the lower temperature polymorph
+T14	Cluster2 758 763	Mg2NF
+T15	Cluster1 823 842	The nitride halides
+T16	Cluster8 647 668	Definitive structures
+T17	Cluster9 452 462	structures
+T18	Entity 859 864	ionic
+T19	Entity 869 876	exhibit
+T20	Cluster8 943 964	Definitive structures
+T21	Cluster7 504 532	crystallographically ordered
+T22	Cluster7 1059 1087	crystallographically ordered
+T23	Cluster1 1189 1202	The compounds
+T24	Entity 1219 1224	ionic
+T25	Entity 1255 1265	F- content
+T26	Entity 1230 1238	ionicity
+T27	Entity 297 312	one cation site
+T28	Cluster5 472 499	nitride and fluoride anions
+T29	Entity 561 607	temperature independent paramagnetic behaviour
+T30	Cluster5 1027 1054	Nitride and fluoride anions
+T31	Cluster1 1110 1124	Both compounds
+T32	Cluster1 1091 1106	both structures
+T33	Entity 372 404	an anti-LiFeO2 related structure
+T34	Entity 216 241	cubic (space group: Pm3m)
+T35	Entity 330 363	tetragonal (space group: I41/amd)
+T36	Entity 608 626	between 5 and 300K
+T37	Entity 1004 1023	neutron diffraction
+T38	Cluster1 11 54	ternary nitride fluorides, Mg3NF3 and Mg2NF
+T39	Entity 672 718	the ternary magnesium nitride fluorides Mg3NF3
+T40	Entity 790 821	powder neutron diffraction data
+T41	Cluster6 1133 1185	weak, temperature independent paramagnetic behaviour
+T42	Cluster6 877 928	weak temperature independent paramagnetic behaviour
+T43	Entity 101 106	Mg3N2
+T45	Cluster4 968 974	Mg3NF3
+T46	Cluster2 979 984	Mg2NF
+T44	Entity 111 115	MgF2
+T47	Cluster1 968 984	Mg3NF3 and Mg2NF
+T48	Cluster9 466 471	which

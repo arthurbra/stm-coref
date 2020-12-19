@@ -1,0 +1,68 @@
+T1	Entity 0 28	Laboratory and field studies
+T2	Cluster1 225 235	Glyphosate
+T3	Entity 236 245	inhibited
+T4	Entity 306 346	technical grade glyphosate acid (GlyCry)
+T5	Entity 390 426	an exponential dose dependent manner
+T6	Cluster9 366 372	growth
+T7	Entity 270 300	a linear dose dependent manner
+T8	Entity 600 621	culture radial growth
+T9	Entity 582 585	50%
+T10	Entity 789 818	the three temperature regimes
+T11	Cluster4 716 734	The three isolates
+T12	Cluster4 826 844	the three isolates
+T13	Entity 846 852	TN 410
+T14	Entity 944 949	30 °C
+T15	Cluster1 980 990	glyphosate
+T16	Cluster1 1126 1136	glyphosate
+T17	Cluster6 1196 1208	the severity
+T18	Cluster6 1457 1465	severity
+T19	Entity 1470 1478	assessed
+T20	Entity 1408 1414	growth
+T21	Cluster1 1482 1492	Glyphosate
+T22	Entity 1493 1502	inhibited
+T23	Cluster4 1587 1595	isolates
+T24	Cluster2 1599 1615	Disease severity
+T25	Cluster1 1679 1689	Glyphosate
+T26	Cluster8 1716 1728	tilled field
+T27	Entity 1258 1281	some suppressing effect
+T28	Entity 1694 1712	suppressing effect
+T29	Entity 377 386	inhibited
+T30	Entity 509 528	The glyphosate GR50
+T31	Entity 529 535	values
+T32	Entity 586 595	reduction
+T33	Entity 759 781	various concentrations
+T34	Entity 1010 1017	inhibit
+T35	Cluster8 1285 1305	a tilled environment
+T36	Entity 1317 1336	single applications
+T37	Cluster1 1387 1397	Glyphosate
+T38	Entity 1398 1404	effect
+T39	Entity 1503 1516	M. phaseolina
+T40	Entity 1662 1675	no-till field
+T41	Entity 54 65	the effects
+T42	Cluster1 69 79	glyphosate
+T43	Entity 83 121	Macrophomina phaseolina culture growth
+T44	Entity 122 130	in vitro
+T45	Cluster2 135 155	the disease severity
+T46	Entity 159 189	charcoal rot in soybean fields
+T47	Cluster9 246 266	M. phaseolina growth
+T48	Entity 432 498	a commercial formulation of glyphosate-potassium salt (Gly-K salt)
+T49	Entity 537 561	glyphosate concentration
+T50	Entity 629 649	from 0.25 to 9.94 mM
+T51	Entity 656 714	the M. Phaseolina isolates, temperatures, and formulations
+T52	Entity 880 940	both GlyCry (GR50 = 7.74 mM) and Gly-K salt (GR50 = 0.25 mM)
+T53	Entity 1018 1024	growth
+T54	Entity 1028 1052	M. phaseolina in culture
+T55	Entity 1053 1061	in vitro
+T56	Entity 1140 1169	glyphosate-resistant soybeans
+T57	Entity 1178 1195	enhance or reduce
+T58	Entity 1212 1243	charcoal rot in a no-till field
+T59	Entity 1350 1372	growth stage V3 and V6
+T60	Entity 1418 1452	Macrophomina phaseolina in culture
+T61	Entity 1517 1525	in vitro
+T62	Entity 1544 1569	glyphosate concentrations
+T63	Entity 1636 1658	Glyphosate application
+T64	Entity 1735 1757	hot and dry conditions
+T65	Cluster9 1408 1452	growth of Macrophomina phaseolina in culture
+T66	Entity 1018 1052	growth of M. phaseolina in culture
+T67	Cluster9 83 130	Macrophomina phaseolina culture growth in vitro
+T68	Cluster9 1018 1061	growth of M. phaseolina in culture in vitro

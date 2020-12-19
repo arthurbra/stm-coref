@@ -1,0 +1,22 @@
+Ageing is a fact of life.
+Just as with conventional forms of power generation, the energy produced by a wind farm gradually decreases over its lifetime, perhaps due to falling availability, aerodynamic performance or conversion efficiency.
+Understanding these factors is however complicated by the highly variable availability of the wind.
+This paper reveals the rate of ageing of a national fleet of wind turbines using free public data for the actual and theoretical ideal load factors from the UK's 282 wind farms.
+Actual load factors are recorded monthly for the period of 2002-2012, covering 1686 farm-years of operation.
+Ideal load factors are derived from a high resolution wind resource assessment made using NASA data to estimate the hourly wind speed at the location and hub height of each wind farm, accounting for the particular models of turbine installed.
+By accounting for individual site conditions we confirm that load factors do decline with age, at a similar rate to other rotating machinery.
+Wind turbines are found to lose 1.6 ± 0.2% of their output per year, with average load factors declining from 28.5% when new to 21% at age 19.
+This trend is consistent for different generations of turbine design and individual wind farms.
+This level of degradation reduces a wind farm's output by 12% over a twenty year lifetime, increasing the levelised cost of electricity by 9%.
+Graphical abstract
+Highlights:
+•
+The output of 282 wind farms is accurately estimated using public wind speed data.
+•
+Correcting for variability in the weather allows wind turbine ageing to be studied.
+•
+Onshore wind farm output falls 16% a decade, possibly due to availability and wear.
+•
+Performance decline with age is seen in all farms and all generations of turbines.
+•
+Decreasing output over a farm's life increases the levelised cost of electricity.

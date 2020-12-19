@@ -1,0 +1,103 @@
+T1	Entity 16 21	cured
+T2	Cluster11 261 267	148 °C
+T3	Entity 282 291	unchanged
+T4	Entity 457 471	well-dispersed
+T5	Entity 538 557	the Young's modulus
+T6	Entity 608 613	20 °C
+T7	Entity 0 14	An epoxy resin
+T8	Entity 28 49	an anhydride hardener
+T9	Cluster2 88 147	pre-formed polysiloxane core-shell rubber (S-CSR) particles
+T10	Entity 153 179	a mean diameter of 0.18 μm
+T11	Cluster3 222 256	the cured unmodified epoxy polymer
+T12	Cluster2 314 333	the S-CSR particles
+T13	Entity 72 84	the addition
+T14	Entity 298 310	the addition
+T15	Cluster2 335 368	The polysiloxane rubber particles
+T16	Cluster10 373 394	a Tg of about -100 °C
+T17	Entity 396 419	Atomic force microscopy
+T18	Cluster2 432 451	the S-CSR particles
+T19	Cluster3 475 492	the epoxy polymer
+T20	Entity 494 506	The addition
+T21	Cluster2 510 529	the S-CSR particles
+T22	Entity 562 578	tensile strength
+T23	Cluster3 582 599	the epoxy polymer
+T24	Entity 655 663	117 J/m2
+T25	Cluster3 668 688	the unmodified epoxy
+T26	Entity 692 700	947 J/m2
+T27	Cluster2 716 735	the S-CSR particles
+T28	Cluster6 706 712	20 wt%
+T29	Entity 755 769	Fracture tests
+T30	Entity 846 874	the measured fracture energy
+T31	Cluster7 878 911	the S-CSR-modified epoxy polymers
+T32	Entity 942 958	room temperature
+T33	Entity 976 983	-109 °C
+T34	Entity 1019 1027	measured
+T35	Cluster6 1034 1040	20 wt%
+T36	Cluster2 1044 1059	S-CSR particles
+T37	Cluster3 1148 1176	the unmodified epoxy polymer
+T38	Entity 1075 1098	this value of toughness
+T39	Entity 1224 1254	this very low test temperature
+T40	Entity 1297 1309	the addition
+T41	Cluster3 1313 1330	the epoxy polymer
+T42	Cluster2 1334 1353	the S-CSR particles
+T43	Entity 1373 1408	significant toughening of the epoxy
+T44	Cluster5 1418 1454	temperatures as low as about -100 °C
+T45	Cluster4 1456 1481	The toughening mechanisms
+T46	Cluster2 1493 1512	the S-CSR particles
+T47	Entity 1536 1564	localised plastic shear-band
+T48	Entity 1565 1573	yielding
+T49	Cluster2 1581 1594	the particles
+T50	Entity 1603 1613	cavitation
+T51	Cluster2 1617 1630	the particles
+T52	Cluster13 1643 1662	plastic void growth
+T53	Cluster3 1666 1683	the epoxy polymer
+T54	Entity 1722 1747	the Hsieh et al. approach
+T55	Cluster7 1781 1814	the S-CSR-modified epoxy polymers
+T56	Entity 1760 1777	the values of GIc
+T57	Entity 1818 1849	the different test temperatures
+T58	Entity 1855 1865	calculated
+T59	Entity 1867 1886	Excellent agreement
+T60	Entity 1905 1920	the predictions
+T61	Entity 1925 1970	the experimentally measured fracture energies
+T62	Entity 2108 2124	low temperatures
+T63	Cluster13 2070 2089	plastic void growth
+T64	Entity 2056 2066	the extent
+T65	Entity 2094 2104	suppressed
+T66	Cluster7 2129 2162	the S-CSR-modified epoxy polymers
+T67	Entity 2173 2216	the localised shear-band yielding mechanism
+T68	Entity 2247 2267	the test temperature
+T69	Cluster3 2301 2317	An epoxy polymer
+T70	Entity 2327 2335	modified
+T71	Cluster2 2341 2381	polysiloxane core-shell rubber particles
+T72	Cluster3 2385 2394	The epoxy
+T73	Cluster11 2399 2417	Tg of about 148 °C
+T74	Cluster2 2422 2435	the particles
+T75	Cluster10 2440 2461	a Tg of about -100 °C
+T76	Entity 2465 2468	AFM
+T77	Cluster2 2481 2494	the particles
+T78	Cluster3 2518 2535	the epoxy polymer
+T79	Entity 2500 2514	well-dispersed
+T80	Entity 2539 2551	The addition
+T81	Cluster8 2582 2585	GIc
+T82	Cluster12 2591 2617	about 120 J/m2 to 950 J/m2
+T83	Cluster6 2555 2561	20 wt%
+T84	Cluster2 2562 2571	particles
+T85	Cluster2 2621 2634	The particles
+T86	Entity 2640 2663	significantly toughened
+T87	Cluster3 2664 2681	the epoxy polymer
+T88	Cluster5 2690 2703	about -100 °C
+T89	Entity 793 820	-55 °C, -80 °C, and -109 °C
+T90	Entity 1194 1220	a value of GIc of 174 J/m2
+T91	Cluster14 181 217	The glass transition temperature, Tg
+T92	Cluster8 614 638	the fracture energy, GIc
+T93	Entity 985 1014	a fracture energy of 481 J/m2
+T94	Cluster4 1685 1701	These mechanisms
+T95	Entity 912 935	decreased significantly
+T96	Entity 1707 1715	modelled
+T97	Cluster1 72 147	the addition of pre-formed polysiloxane core-shell rubber (S-CSR) particles
+T98	Cluster1 298 333	the addition of the S-CSR particles
+T99	Cluster1 494 529	The addition of the S-CSR particles
+T100	Cluster1 1297 1353	the addition to the epoxy polymer of the S-CSR particles
+T101	Cluster12 655 700	117 J/m2 for the unmodified epoxy to 947 J/m2
+T102	Cluster1 2539 2571	The addition of 20 wt% particles
+T103	Cluster14 273 277	this

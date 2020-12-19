@@ -1,0 +1,64 @@
+T1	Cluster1 16 57	the Land Use/Land Cover Area Frame Survey
+T2	Entity 97 117	around 22,000 points
+T3	Cluster7 259 270	the samples
+T4	Entity 281 289	measured
+T5	Entity 337 348	the results
+T6	Cluster1 352 376	the LUCAS topsoil survey
+T7	Entity 390 403	an assessment
+T8	Entity 435 453	European croplands
+T9	Entity 578 586	reported
+T10	Cluster5 644 690	two selected fertilizer recommendation systems
+T11	Entity 742 788	The fertilizer recommendation system of the UK
+T12	Entity 808 833	additional fertilizer use
+T13	Entity 943 970	a Hungarian advisory system
+T14	Entity 991 1009	fertilizer P input
+T15	Entity 1013 1034	all regions of the EU
+T16	Cluster5 1109 1124	the two systems
+T17	Entity 1135 1158	data from 2009 and 2012
+T18	Entity 1214 1223	estimated
+T19	Entity 1227 1252	3,849,873 tons(P2O5)/year
+T20	Cluster1 1389 1428	The first ever uniform topsoil P survey
+T21	Entity 1701 1732	a repeated LUCAS topsoil survey
+T22	Entity 1810 1811	P
+T23	Entity 1815 1830	soils of the EU
+T24	Entity 1783 1798	nutrient levels
+T25	Entity 1765 1779	future changes
+T26	Cluster1 1618 1630	Our analysis
+T27	Entity 1757 1764	monitor
+T28	Entity 490 497	regions
+T29	Entity 504 510	higher
+T30	Entity 549 553	high
+T31	Entity 554 573	fertilizer P inputs
+T32	Cluster4 837 846	croplands
+T33	Entity 852 859	highest
+T34	Entity 1084 1095	integrating
+T35	Entity 1096 1103	results
+T36	Cluster4 1178 1187	croplands
+T37	Entity 1273 1284	disparities
+T38	Entity 1450 1468	the contradictions
+T39	Entity 1535 1554	the inconsistencies
+T40	Entity 1563 1571	reported
+T41	Entity 1601 1608	advised
+T42	Entity 1609 1616	P doses
+T43	Entity 1637 1645	a status
+T44	Entity 1649 1666	a baseline period
+T45	Entity 200 227	other basic soil properties
+T46	Entity 228 255	soil phosphorus (P) content
+T47	Entity 407 431	plant available P status
+T48	Entity 455 470	Higher P levels
+T49	Entity 511 522	crop yields
+T50	Entity 588 621	Plant available phosphorus levels
+T51	Cluster6 860 868	P supply
+T52	Entity 1051 1074	a P fertilizer need map
+T53	Entity 1160 1174	P input demand
+T54	Entity 1288 1309	calculated input need
+T55	Entity 1314 1344	reported fertilizer statistics
+T56	Entity 1477 1494	soil P management
+T57	Entity 1572 1596	P fertilizer consumption
+T58	Entity 58 66	sampling
+T59	Entity 70 77	topsoil
+T60	Cluster2 1036 1038	We
+T61	Cluster2 1264 1266	we
+T62	Cluster2 377 379	we
+T63	Cluster6 870 875	which
+T64	Cluster7 58 77	sampling of topsoil

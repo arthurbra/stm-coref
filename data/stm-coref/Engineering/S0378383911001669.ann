@@ -1,0 +1,62 @@
+T1	Entity 259 264	1.3mm
+T2	Entity 265 269	sand
+T3	Entity 271 276	5.4mm
+T4	Cluster4 277 283	gravel
+T5	Entity 288 293	8.4mm
+T6	Cluster4 294 300	gravel
+T7	Entity 400 409	the beach
+T8	Entity 355 367	the collapse
+T9	Entity 466 469	LIF
+T10	Entity 503 506	PIV
+T11	Cluster1 580 597	the hydrodynamics
+T12	Entity 898 907	the swash
+T13	Entity 856 860	five
+T14	Entity 1001 1007	depths
+T15	Entity 1012 1019	shallow
+T16	Entity 1024 1034	velocities
+T17	Entity 1039 1043	high
+T18	Entity 1095 1120	advanced numerical models
+T19	Cluster2 96 127	impermeable, rough beach slopes
+T20	Entity 62 92	large-scale, bore-driven swash
+T21	Entity 41 58	the hydrodynamics
+T22	Entity 178 182	1:10
+T23	Cluster2 183 208	impermeable, rough slopes
+T24	Entity 214 249	three different surface roughnesses
+T25	Entity 302 338	The large-scale discrete swash event
+T26	Entity 371 396	a dambreak-generated bore
+T27	Entity 471 497	Laser-induced fluorescence
+T28	Entity 508 534	particle image velocimetry
+T29	Entity 559 576	better resolution
+T30	Entity 621 638	Depth time-series
+T31	Entity 640 671	instantaneous velocity profiles
+T32	Entity 673 698	depth-averaged velocities
+T33	Entity 700 747	instantaneous turbulent kinetic energy profiles
+T34	Entity 790 814	Reynolds stress profiles
+T35	Entity 819 837	bed shear stresses
+T36	Entity 749 788	depth-averaged turbulent kinetic energy
+T37	Entity 861 894	cross-shore measurement locations
+T38	Cluster8 909 925	The measurements
+T39	Entity 934 965	the backwash shoreline position
+T40	Cluster7 1125 1158	bore-driven waves on rough slopes
+T41	Entity 1198 1215	bore-driven swash
+T42	Cluster2 1219 1244	impermeable, rough slopes
+T43	Cluster3 1292 1326	simultaneous depths and velocities
+T44	Entity 1365 1400	bulk flow and turbulence properties
+T45	Entity 1346 1361	slope roughness
+T46	Entity 1410 1418	measures
+T47	Entity 1422 1451	time-varying bed shear stress
+T48	Cluster3 411 445	Simultaneous depths and velocities
+T49	Entity 971 995	the late backwash period
+T50	Entity 1172 1194	Detailed hydrodynamics
+T51	Cluster6 1247 1281	Large-scale laboratory experiments
+T52	Entity 1459 1473	the swash zone
+T53	Cluster6 142 157	The experiments
+T54	Cluster8 451 459	measured
+T55	Entity 1282 1291	measuring
+T56	Entity 1335 1342	effects
+#1	AnnotatorNotes T9	c, APPOS
+#2	AnnotatorNotes T10	c, APPOS
+T57	Cluster7 62 127	large-scale, bore-driven swash on impermeable, rough beach slopes
+T58	Cluster7 1198 1244	bore-driven swash on impermeable, rough slopes
+T59	Cluster1 41 127	the hydrodynamics of large-scale, bore-driven swash on impermeable, rough beach slopes
+T60	Cluster1 1172 1244	Detailed hydrodynamics of bore-driven swash on impermeable, rough slopes

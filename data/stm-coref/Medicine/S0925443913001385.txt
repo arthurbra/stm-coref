@@ -1,0 +1,17 @@
+Multiple respiratory chain deficiencies represent a common cause of mitochondrial diseases and are associated with a wide range of clinical symptoms.
+We report a subject, born to consanguineous parents, with growth retardation and neurological deterioration.
+Multiple respiratory chain deficiency was found in muscle and fibroblasts of the subject as well as abnormal assembly of complexes I and IV.
+A microsatellite genotyping of the family members detected only one region of homozygosity on chromosome 17q24.2-q25.3 in which we focused our attention to genes involved in mitochondrial translation.
+We sequenced MRPL12, encoding the mitochondrial ribosomal protein L12 and identified a c.542C>T transition in exon 5 changing a highly conserved alanine into a valine (p.Ala181Val).
+This mutation resulted in a decreased steady-state level of MRPL12 protein, with altered integration into the large ribosomal subunit.
+Moreover, an overall mitochondrial translation defect was observed in the subject's fibroblasts with a significant reduction of synthesis of COXI, COXII and COXIII subunits.
+Modeling of MRPL12 shows Ala181 positioned in a helix potentially involved in an interface of interaction suggesting that the p.Ala181Val change might be predicted to alter interactions with the elongation factors.
+These results contrast with the eubacterial orthologues of human MRPL12, where L7/L12 proteins do not appear to have a selective effect on translation.
+Therefore, analysis of the mutated version found in the subject presented here suggests that the mammalian protein does not function in an entirely analogous manner to the eubacterial L7/L12 equivalent.
+Highlights
+•
+MRPL12 function is not entirely analogous to the eubacterial L7/L12 equivalent.
+•
+Mutations in MRPL12 cause translation defects.
+•
+Mutations in apparently universal translation factors can affect different OXPHOS complexes.

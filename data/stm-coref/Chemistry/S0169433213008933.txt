@@ -1,0 +1,10 @@
+Surface roughness or texture is the most visible property of any object, including injection molded plastic parts.
+Roughness of the injection molding (IM) tool cavity directly affects not only appearance and perception of quality, but often also the function of all manufactured plastic parts.
+So called "optically smooth" plastic surfaces is one example, where low roughness of a tool cavity is desirable.
+Such tool surfaces can be very expensive to fabricate using conventional means, such as abrasive diamond polishing or diamond turning.
+We present a novel process to coat machined metal parts with hydrogen silsesquioxane (HSQ) to reduce their surface roughness.
+Results from the testing of surfaces made from two starting roughnesses are presented; one polished with grit 2500 sandpaper, another with grit 11.000 diamond polishing paste.
+We characterize the two surfaces with AFM, SEM and optical profilometry before and after coating.
+We show that the HSQ coating is able to reduce peak-to-valley roughness more than 20 times on the sandpaper polished sample, from 2.44(±0.99)μm to 104(±22)nm and more than 10 times for the paste polished sample from 1.85(±0.63)μm to 162(±28)nm while roughness averages are reduced 10 and 3 times respectively.
+We completed more than 10,000 injection molding cycles without detectable degradation of the HSQ coating.
+This result opens new possibilities for molding of affordable plastic parts with perfect surface finish.

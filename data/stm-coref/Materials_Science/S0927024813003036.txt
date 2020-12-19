@@ -1,0 +1,19 @@
+Single-crystal Czochralski silicon used for photovoltaics is typically supersaturated with interstitial oxygen at temperatures just below the melting point.
+Oxide precipitates therefore can form during ingot cooling and cell processing, and nucleation sites are typically vacancy-rich regions.
+Oxygen precipitation gives rise to recombination centres, which can reduce cell efficiencies by as much as 4% (absolute).
+We have studied the recombination behaviour in p-type and n-type monocrystalline silicon with a range of doping levels intentionally processed to contain oxide precipitates with a range of densities, sizes and morphologies.
+We analyse injection-dependent minority carrier lifetime measurements to give a full parameterisation of the recombination activity in terms of Shockley-Read-Hall statistics.
+We intentionally contaminate specimens with iron, and show recombination activity arises from iron segregated to oxide precipitates and surrounding defects.
+We find that phosphorus diffusion gettering reduces the recombination activity of the precipitates to some extent.
+We also find that bulk iron is preferentially gettered to the phosphorus diffused layer rather than to oxide precipitates.
+Highlights
+•
+Oxygen precipitation reduces absolute efficiency of silicon solar cells by up to 4%.
+•
+Full parameterisation of minority carrier lifetime due to oxide precipitates.
+•
+Iron contamination of oxide precipitates increases recombination activity.
+•
+Recombination activity reduced by phosphorus diffusion gettering.
+•
+Bulk iron gettered to phosphorus diffused layer, not oxide precipitates.

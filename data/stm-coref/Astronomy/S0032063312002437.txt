@@ -1,0 +1,12 @@
+The transterminator ion flow in the Venusian ionosphere is observed at solar minimum for the first time.
+Such a flow, which transports ions from the day to the nightside, has been observed previously around solar maximum.
+At solar minimum this transport process is severely inhibited by the lower altitude of the ionopause.
+The observations presented were those made of the Venusian ionospheric plasma by the ASPERA-4 experiment onboard the Venus Express spacecraft, and which constitute the first extensive in-situ measurements of the plasma near solar minimum.
+Observations near the terminator of the energies of ions of ionospheric origin showed asymmetry between the noon and midnight sectors, which indicated an antisunward ion flow with a velocity of (2.5±1.5)kms-1.
+It is suggested that this ion flow contributes to maintaining the nightside ionosphere near the terminator region at solar minimum.
+The interpretation of the result was reinforced by observed asymmetries in the ion number counts.
+The observed dawn-dusk asymmetry was consistent with a nightward transport of ions while the noon-midnight observations indicated that the flow was highly variable but could contribute to the maintenance of the nightside ionosphere.
+Highlights
+► The transterminator ion flow in the Venusian ionosphere is observed at solar minimum.
+► This flow has a velocity of (2.5±1.5)kms-1.
+► The occurrence of this flow is highly variable, but can be a significant source of the nightside ionosphere.

@@ -1,0 +1,13 @@
+O3-type NaFeO2 is a promising candidate as positive electrode materials for rechargeable Na batteries.
+However, its reversible range of sodium extraction is relatively narrow (x=ca.
+0.4 in Na1-xFeO2) because of the irreversible structural change, presumably associated with the iron migration into the adjacent tetrahedral sites in Na layers as we recently reported.
+Herein, we report that cobalt-substituted NaFeO2 demonstrates excellent electrode performance in a non-aqueous Na cell at room temperature.
+NaFe0.5Co0.5O2 delivers approximately 160mAhg-1 of reversible capacity with relatively good capacity retention and excellent rate-capability in a voltage range of 2.5-4.0V, resulting in reversible formation of Na0.3Fe0.5Co0.5O2.
+The partial substitution of metal element for Fe in O3-type NaFeO2-based materials is proved to be the important strategy to suppress the irreversible phase transition, and thus improving the reversibility of sodium removal/insertion as the electrode materials.
+Highlights
+•
+Synthesis and characterizations of layered NaFe0.5Co0.5O2.
+•
+Its electrode performance in Na cell was compared with those of NaFeO2 and NaCoO2.
+•
+NaxFe0.5Co0.5O2 is one of the highest power positive electrodes among layered oxides.

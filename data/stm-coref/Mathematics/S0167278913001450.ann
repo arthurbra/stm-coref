@@ -1,0 +1,70 @@
+T1	Cluster1 65 101	Lagrangian Coherent Structures (LCS)
+T2	Entity 0 37	Finite-time Lyapunov exponents (FTLE)
+T3	Cluster1 182 189	the LCS
+T4	Entity 211 217	curves
+T5	Entity 137 142	flows
+T6	Entity 146 175	two-dimensional (2D) surfaces
+T7	Cluster2 236 264	three-dimensional (3D) flows
+T8	Cluster1 272 275	LCS
+T9	Entity 280 293	2D structures
+T10	Cluster3 306 317	a 3D volume
+T11	Entity 365 382	geophysical flows
+T12	Entity 386 401	regional scales
+T13	Entity 403 430	full prognostic computation
+T14	Cluster9 434 464	the evolving 3D velocity field
+T15	Entity 498 531	The vertical or diabatic velocity
+T16	Entity 600 621	questionable accuracy
+T17	Entity 573 594	a diagnostic quantity
+T18	Entity 549 569	ignored or estimated
+T19	Entity 642 664	reliable 3D velocities
+T20	Entity 732 743	calculating
+T21	Entity 744 756	trajectories
+T22	Entity 762 772	velocities
+T23	Entity 776 801	carefully chosen surfaces
+T24	Entity 813 845	reliable 3D velocity information
+T25	Entity 864 886	one velocity component
+T26	Cluster8 945 960	2D LCS surfaces
+T27	Entity 910 929	a reduced FTLE form
+T28	Cluster3 964 975	a 3D volume
+T29	Entity 990 1002	The accuracy
+T30	Entity 1010 1035	reduced FTLE formulations
+T31	Cluster10 1006 1009	two
+T32	Cluster5 1059 1071	the ABC flow
+T33	Cluster11 1076 1096	a 3D quadrupole flow
+T34	Entity 1100 1111	test models
+T35	Entity 1189 1206	adjacent surfaces
+T36	Entity 1145 1162	knitting together
+T37	Entity 1256 1270	the dispersion
+T38	Cluster6 1278 1298	vertical (u,v) shear
+T39	Entity 1221 1240	a new approximation
+T40	Cluster9 1350 1376	the full 3D velocity field
+T41	Cluster7 1445 1467	a fully 3D computation
+T42	Entity 1484 1509	an accurate determination
+T43	Cluster8 1513 1523	the 2D LCS
+T44	Entity 1391 1416	two diagnostic quantities
+T45	Cluster5 1529 1541	the ABC flow
+T46	Cluster7 1552 1575	the full 3D calculation
+T47	Cluster6 1599 1623	the vertical (u,v) shear
+T48	Entity 1627 1645	sufficiently small
+T49	Cluster7 1692 1710	the 3D calculation
+T50	Cluster11 1715 1735	the quadrupole model
+T51	Entity 1736 1742	scaled
+T52	Entity 1746 1775	typical open ocean conditions
+T53	Entity 1790 1804	Approximations
+T54	Cluster8 1808 1841	2D Lagrangian coherent structures
+T55	Cluster2 1845 1853	3D flows
+T56	Cluster6 1869 1883	Vertical shear
+T57	Cluster2 1912 1939	the three-dimensional flows
+T58	Entity 1995 2014	vertical velocities
+T59	Entity 1943 1980	A new approximate Cauchy-Green tensor
+T60	Entity 2084 2104	the full 3D velocity
+T61	Entity 294 302	embedded
+T62	Entity 1163 1176	FTLE patterns
+T63	Cluster10 2030 2033	Two
+T64	Entity 2034 2063	velocity gradient diagnostics
+T65	Entity 1790 1853	Approximations of 2D Lagrangian coherent structures in 3D flows
+T66	Entity 1869 1939	Vertical shear is shown to be important in the three-dimensional flows
+T67	Cluster2 266 271	whose
+T68	Cluster4 1378 1380	We
+T69	Cluster4 1543 1545	we
+T70	Cluster8 146 217	two-dimensional (2D) surfaces where the LCS are characterized as curves

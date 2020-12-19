@@ -1,0 +1,92 @@
+T1	Entity 114 130	the interactions
+T2	Entity 73 104	species abundance and diversity
+T3	Entity 137 144	species
+T4	Entity 164 210	the Molecular Ecological Network Analysis tool
+T5	Entity 490 504	pyrosequencing
+T6	Entity 990 1005	generalist OTUs
+T7	Entity 983 989	6 (4%)
+T8	Cluster2 1014 1026	the diseased
+T9	Entity 1037 1050	only 1 (0.6%)
+T10	Entity 1051 1074	marginal generalist OTU
+T11	Entity 1083 1097	majority (55%)
+T12	Entity 1178 1198	the majorities (63%)
+T13	Entity 1128 1138	stimulated
+T14	Entity 1222 1231	inhibited
+T15	Entity 1279 1290	synthesized
+T16	Entity 1408 1414	a soil
+T17	Entity 1435 1445	encouraged
+T18	Entity 1446 1463	majority of fungi
+T19	Entity 1472 1487	a diseased soil
+T20	Entity 1488 1499	discouraged
+T21	Cluster7 1928 1954	ammonium nitrogen (NH4+-N)
+T22	Cluster8 1959 1987	Electrical conductivity (EC)
+T23	Entity 2087 2098	Sordariales
+T24	Entity 2103 2114	Hypocreales
+T25	Entity 2157 2176	two fungal networks
+T26	Cluster5 2215 2238	conceptually depictured
+T27	Cluster7 2389 2395	NH4+-N
+T28	Cluster8 2400 2402	EC
+T29	Entity 438 475	internal transcribed spacer sequences
+T30	Entity 476 483	derived
+T31	Entity 411 434	the relative abundances
+T32	Entity 732 756	phylogenetic composition
+T33	Cluster5 1254 1274	a conceptual picture
+T34	Cluster9 2408 2437	the key responsible variables
+T35	Entity 2290 2307	Nodes' role-shift
+T36	Cluster9 1993 2010	the key variables
+T37	Cluster3 760 776	the two networks
+T38	Entity 1514 1535	the topological roles
+T39	Entity 1626 1637	role-shifts
+T40	Entity 1819 1842	the counterpart network
+T41	Entity 1742 1754	the OTU sets
+T42	Entity 532 547	the differences
+T43	Entity 1242 1252	these data
+T44	Cluster6 1420 1429	variables
+T45	Entity 1654 1673	the network members
+T46	Entity 1682 1705	generalists/specialists
+T47	Entity 1755 1767	irresponsive
+T48	Entity 1789 1800	one network
+T49	Entity 1805 1815	responsive
+T50	Entity 1868 1884	the key variable
+T51	Entity 1356 1365	community
+T52	Entity 25 51	soil microbial communities
+T53	Entity 297 360	yield-invigorating (healthy) and -debilitating (diseased) soils
+T54	Entity 372 400	prolonged potato monoculture
+T55	Cluster3 556 589	the healthy and diseased networks
+T56	Cluster3 591 636	The constructed healthy and diseased networks
+T57	Entity 649 695	scale-free, small world and modular properties
+T58	Cluster1 831 850	the healthy network
+T59	Cluster2 936 952	the diseased one
+T60	Entity 870 930	functionally interrelated operational taxonomic units (OTUs)
+T61	Cluster1 957 972	healthy network
+T62	Entity 1202 1216	diseased soils
+T63	Cluster13 1292 1311	a healthy community
+T64	Cluster14 1371 1387	the diseased one
+T65	Entity 1389 1403	a healthy soil
+T66	Entity 1539 1568	different sets of shared OTUs
+T67	Cluster3 1577 1606	healthy and diseased networks
+T68	Cluster6 1771 1785	soil variables
+T69	Cluster15 1844 1863	Soil organic matter
+T70	Cluster13 1901 1918	healthy community
+T71	Cluster14 2027 2045	diseased community
+T72	Entity 2132 2156	constructed and compared
+T73	Entity 2182 2208	healthy and diseased soils
+T74	Entity 2244 2282	a healthy or a diseased community/soil
+T75	Cluster1 2323 2340	a healthy network
+T76	Cluster2 2352 2364	diseased one
+T77	Cluster15 2368 2387	Soil organic matter
+T78	Entity 1101 1122	OTUs in healthy soils
+T79	Entity 229 271	the interactions and network organizations
+T80	Entity 275 293	fungal communities
+T81	Entity 697 727	The key topological properties
+T82	Entity 1142 1155	a certain set
+T83	Cluster6 1159 1173	soil variables
+T84	Entity 1316 1355	a better organized or a better operated
+T85	Entity 1707 1737	significant module memberships
+T86	Cluster10 2047 2081	Major affected phylogenetic groups
+T87	Cluster10 2441 2475	Major affected phylogenetic groups
+T88	Cluster11 2481 2508	Sordariales and Hypocreales
+T89	Cluster4 2212 2214	We
+T90	Cluster4 2129 2131	We
+T91	Cluster3 2157 2208	two fungal networks from healthy and diseased soils
+T92	Cluster11 2087 2114	Sordariales and Hypocreales

@@ -1,0 +1,89 @@
+T1	Entity 21 41	embryonic structures
+T2	Entity 165 195	the serious medical conditions
+T3	Entity 271 295	the efficient derivation
+T4	Entity 409 442	the dual-SMAD inhibition strategy
+T5	Entity 520 542	Concomitant inhibition
+T6	Entity 621 637	surface ectoderm
+T7	Entity 581 589	disrupts
+T8	Entity 613 620	induces
+T9	Cluster7 793 811	mature lens fibers
+T10	Entity 870 885	transplantation
+T11	Entity 947 954	in vivo
+T12	Entity 919 946	adrenocorticotropic hormone
+T13	Entity 669 689	the preplacode stage
+T14	Entity 698 722	the selective generation
+T15	Entity 726 760	placode-derived trigeminal ganglia
+T16	Entity 1095 1121	human cell-based therapies
+T17	Entity 1208 1221	BMP inhibitor
+T18	Entity 1239 1245	induce
+T19	Entity 1265 1270	hESCs
+T20	Entity 978 1010	a powerful experimental platform
+T21	Entity 1330 1347	epidermal lineage
+T22	Entity 1322 1329	induces
+T23	Entity 1294 1304	suppresses
+T25	Entity 1421 1428	in vivo
+T26	Cluster6 1413 1420	engraft
+T27	Entity 1389 1399	functional
+T28	Cluster8 1550 1565	the development
+T29	Entity 1634 1658	the efficient derivation
+T30	Entity 1782 1800	trigeminal ganglia
+T31	Entity 1812 1819	in vivo
+T32	Entity 1820 1831	engraftment
+T33	Cluster8 1076 1091	the development
+T34	Entity 1921 1928	in vivo
+T35	Entity 2036 2055	placode derivatives
+T36	Entity 2059 2080	regenerative medicine
+T37	Entity 1954 1964	a platform
+T38	Entity 1969 1977	studying
+T39	Entity 2020 2032	applications
+T40	Entity 1893 1902	producing
+T41	Cluster1 0 16	Cranial placodes
+T42	Entity 56 95	sensory and endocrine organ development
+T43	Entity 97 122	Human placode development
+T44	Cluster1 299 315	cranial placodes
+T45	Cluster2 321 349	human pluripotent stem cells
+T46	Entity 351 364	Timed removal
+T47	Entity 368 392	the BMP inhibitor Noggin
+T48	Entity 446 462	neural induction
+T49	Entity 464 472	triggers
+T50	Entity 473 490	placode induction
+T51	Entity 509 518	CNS fates
+T52	Entity 546 580	fibroblast growth factor signaling
+T53	Entity 590 608	placode derivation
+T54	Entity 647 665	fate specification
+T55	Entity 817 859	anterior pituitary hormone-producing cells
+T56	Entity 894 914	human growth hormone
+T57	Cluster5 1020 1053	human cranial placode development
+T58	Entity 1125 1154	sensory and endocrine disease
+T59	Entity 1188 1204	Timed withdrawal
+T60	Entity 1246 1259	placode fates
+T61	Entity 1273 1293	Timed FGF inhibition
+T62	Entity 1305 1317	placode fate
+T63	Entity 1350 1384	Placode-derived trigeminal neurons
+T64	Entity 1431 1462	Pituitary placode-derived cells
+T65	Entity 1478 1493	hormone release
+T66	Cluster1 1515 1531	Cranial placodes
+T67	Entity 1569 1597	sensory and endocrine organs
+T68	Cluster1 1662 1678	cranial placodes
+T69	Cluster2 1684 1712	human pluripotent stem cells
+T70	Cluster7 1833 1851	mature lens fibers
+T71	Entity 1857 1881	anterior pituitary cells
+T72	Entity 1903 1920	human GH and ACTH
+T73	Cluster5 1978 2011	human cranial placode development
+T74	Entity 206 221	the dysfunction
+T75	Entity 225 248	placode-derived tissues
+T76	Entity 772 779	in vivo
+T77	Entity 780 791	engraftment
+T78	Entity 1494 1514	in vitro and in vivo
+T79	Entity 1745 1773	specific placode derivatives
+T80	Cluster6 772 791	in vivo engraftment
+T81	Cluster6 1812 1831	in vivo engraftment
+T84	Cluster9 1714 1718	They
+T85	Cluster9 1930 1935	Their
+T24	Entity 1400 1408	in vitro
+T82	Cluster4 978 1053	a powerful experimental platform to study human cranial placode development
+T83	Cluster4 1954 2011	a platform for studying human cranial placode development
+T86	Cluster10 1634 1678	the efficient derivation of cranial placodes
+T87	Cluster10 271 315	the efficient derivation of cranial placodes
+T88	Cluster11 256 258	we
+T89	Cluster11 956 959	Our

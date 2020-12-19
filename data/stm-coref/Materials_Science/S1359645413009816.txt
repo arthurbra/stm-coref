@@ -1,0 +1,6 @@
+The release of excess volume upon recrystallization of ultrafine-grained Cu deformed by high-pressure torsion (HPT) was studied by means of the direct technique of high-precision difference dilatometry in combination with differential scanning calorimetry (DSC) and scanning electron microscopy.
+From the length change associated with the removal of grain boundaries in the wake of crystallite growth, a structural key quantity of grain boundaries, the grain boundary excess volume or expansion eGB=(0.46±0.11)×10-10 m was directly determined.
+The value is quite similar to that measured by dilatometry for grain boundaries in HPT-deformed Ni.
+Activation energies for crystallite growth of 0.99±0.11 and 0.96±0.06eV are derived by Kissinger analysis from dilatometry and DSC data, respectively.
+In contrast to Ni, substantial length change proceeds in Cu at elevated temperatures beyond the regime of dominant crystallite growth.
+In the light of recent findings from tracer diffusion and permeation experiments, this is associated with the shrinkage of nanovoids at high temperatures.

@@ -1,0 +1,76 @@
+T1	Entity 0 31	The spatial and temporal nature
+T2	Entity 337 356	Plantago lanceolata
+T3	Entity 361 371	inoculated
+T4	Entity 446 485	every combination of the fungal species
+T5	Entity 515 538	each individual species
+T6	Entity 487 498	Infectivity
+T7	Entity 628 637	colonised
+T8	Entity 699 706	induced
+T9	Cluster6 820 823	AMF
+T10	Cluster5 749 768	Aggregate stability
+T11	Entity 773 800	aggregate size distribution
+T12	Entity 869 888	Microbial biomass-C
+T13	Cluster4 910 915	roots
+T14	Cluster1 1002 1012	G. mosseae
+T15	Cluster2 1030 1045	G. intraradices
+T16	Entity 991 998	reduced
+T17	Entity 1017 1026	increased
+T18	Cluster2 1074 1089	G. intraradices
+T19	Entity 1165 1177	Porosity (%)
+T20	Cluster1 1195 1205	G. mosseae
+T21	Cluster4 1356 1367	plant roots
+T22	Cluster6 1409 1437	arbuscular mycorrhizal fungi
+T23	Cluster1 1466 1480	Glomus mosseae
+T24	Cluster2 1498 1517	Glomus intraradices
+T25	Cluster1 1521 1531	G. mosseae
+T26	Cluster2 1584 1599	G. intraradices
+T27	Entity 1557 1580	neighbouring soil pores
+T28	Entity 1627 1650	neighbouring soil pores
+T29	Entity 1540 1548	distance
+T30	Entity 1610 1618	distance
+T31	Cluster5 1371 1390	Aggregate stability
+T32	Entity 1128 1133	pores
+T33	Entity 1141 1163	the experimental soils
+T34	Entity 1102 1119	greater distances
+T35	Entity 1247 1260	less distance
+T36	Entity 1283 1299	overall porosity
+T37	Entity 806 816	unaffected
+T38	Entity 833 842	increased
+T39	Entity 898 906	enhanced
+T40	Entity 1182 1191	increased
+T41	Entity 35 59	the precise interactions
+T42	Entity 222 238	the relationship
+T43	Cluster4 862 867	roots
+T44	Entity 68 88	soil fungi and roots
+T45	Cluster10 247 299	three species of arbuscular mycorrhizal fungus (AMF)
+T46	Entity 304 335	soil structural characteristics
+T47	Cluster7 647 680	the lower percentage colonisation
+T48	Entity 707 747	the greatest mycorrhizal growth response
+T49	Cluster8 917 926	Pore size
+T50	Entity 928 950	pore size distribution
+T51	Entity 955 981	nearest neighbour distance
+T52	Entity 1047 1062	All AMF inocula
+T53	Cluster9 1222 1241	more, smaller pores
+T54	Cluster5 1314 1338	Soil aggregate stability
+T55	Cluster8 1441 1450	Pore size
+T56	Entity 596 627	the lowest per cent root length
+T57	Cluster3 682 698	this combination
+T58	Entity 1274 1282	enhanced
+T59	Entity 1343 1352	increased
+T60	Entity 1395 1405	unaffected
+T61	Entity 1455 1462	reduced
+T62	Entity 1485 1494	increased
+T63	Entity 1532 1539	reduced
+T64	Entity 1600 1609	increased
+T65	Entity 118 128	developing
+T66	Entity 129 143	soil structure
+T67	Entity 385 401	Glomus geosporum
+T68	Cluster1 403 417	Glomus mosseae
+T69	Cluster2 421 440	Glomus intraradices
+T70	Cluster1 544 554	G. mosseae
+T71	Cluster2 559 574	G. intraradices
+T72	Cluster3 544 583	G. mosseae and G. intraradices together
+T73	Cluster7 596 637	the lowest per cent root length colonised
+T74	Cluster9 1269 1273	them
+T75	Cluster10 385 440	Glomus geosporum, Glomus mosseae or Glomus intraradices
+T77	Entity 1610 1650	distance between neighbouring soil pores

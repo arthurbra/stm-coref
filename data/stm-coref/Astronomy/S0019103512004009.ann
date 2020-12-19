@@ -1,0 +1,78 @@
+T1	Entity 175 195	its upper atmosphere
+T2	Cluster8 240 246	models
+T3	Entity 317 352	the first hydrodynamic escape model
+T4	Cluster4 357 377	the upper atmosphere
+T5	Entity 458 472	high altitudes
+T6	Cluster3 538 548	This model
+T7	Entity 560 585	the stellar heating rates
+T8	Entity 664 682	the photochemistry
+T9	Entity 615 649	photoelectron heating efficiencies
+T10	Entity 819 845	a full photochemical model
+T11	Entity 849 869	the lower atmosphere
+T12	Entity 887 896	molecules
+T13	Entity 897 907	dissociate
+T14	Cluster9 913 928	the 1μbar level
+T15	Cluster9 1007 1017	this level
+T16	Entity 944 971	complex molecular chemistry
+T17	Entity 1040 1060	diffusive separation
+T18	Cluster7 1064 1084	the detected species
+T19	Entity 1133 1151	collide frequently
+T20	Entity 1249 1265	the thermosphere
+T21	Entity 1284 1308	the elemental abundances
+T22	Entity 1380 1387	neutral
+T23	Entity 1441 1448	ionized
+T24	Entity 1452 1481	significantly lower altitudes
+T25	Entity 1574 1599	the temperature gradients
+T26	Entity 1619 1651	the assumed heating efficiencies
+T27	Entity 1653 1663	Our models
+T28	Entity 1791 1817	the average solar XUV flux
+T29	Entity 1821 1828	0.047AU
+T30	Entity 1907 1921	stellar energy
+T31	Entity 1925 1932	heating
+T32	Cluster4 1933 1953	the upper atmosphere
+T33	Cluster7 399 419	the detected species
+T34	Entity 440 454	their presence
+T35	Entity 762 780	the lower boundary
+T36	Cluster3 784 800	the escape model
+T37	Cluster10 1837 1861	these temperature limits
+T38	Entity 1866 1882	the observations
+T39	Entity 18 55	atomic hydrogen, heavy atoms and ions
+T40	Cluster2 68 111	the extrasolar giant planet (EGP) HD209458b
+T41	Entity 122 171	the composition, temperature and density profiles
+T42	Entity 264 273	predicted
+T43	Entity 274 304	a range of possible conditions
+T44	Cluster6 499 536	the temperature and velocity profiles
+T45	Entity 686 706	heavy atoms and ions
+T46	Entity 743 758	The composition
+T47	Cluster5 1108 1132	the heavy atoms and ions
+T48	Entity 1157 1186	the rapidly escaping H and H+
+T49	Cluster5 1221 1245	the heavy atoms and ions
+T50	Entity 1313 1329	ionization rates
+T51	Entity 1388 1406	up to at least 3Rp
+T52	Entity 1416 1429	both C and Si
+T53	Cluster6 1499 1536	the temperature and velocity profiles
+T54	Entity 1552 1569	the outflow speed
+T55	Entity 1757 1781	a typical value of 7000K
+T56	Entity 0 14	The detections
+T57	Entity 549 559	calculates
+T58	Entity 595 611	recent estimates
+T59	Cluster11 722 730	hydrogen
+T60	Entity 735 741	helium
+T61	Cluster11 1358 1359	H
+T62	Entity 1364 1365	O
+T63	Entity 1672 1695	an upper limit of 8000K
+T64	Entity 1700 1750	the mean (pressure averaged) temperature below 3Rp
+T65	Entity 1886 1894	evaluate
+T66	Cluster1 306 308	We
+T67	Cluster1 871 873	We
+T68	Cluster1 1019 1021	We
+T69	Cluster1 1331 1333	We
+T70	Cluster1 1483 1485	We
+T71	Cluster1 1830 1832	We
+T72	Cluster1 1653 1656	Our
+T73	Cluster2 175 178	its
+T74	Cluster8 247 251	that
+T75	Cluster3 317 377	the first hydrodynamic escape model for the upper atmosphere
+T76	Cluster3 378 382	that
+T77	Cluster7 440 445	their
+T78	Cluster10 1672 1750	an upper limit of 8000K for the mean (pressure averaged) temperature below 3Rp

@@ -1,0 +1,59 @@
+T1	Cluster6 115 124	Roughness
+T2	Cluster3 304 339	"optically smooth" plastic surfaces
+T3	Entity 451 460	fabricate
+T4	Entity 572 576	coat
+T5	Entity 636 642	reduce
+T6	Entity 681 692	the testing
+T7	Entity 696 704	surfaces
+T8	Entity 759 767	polished
+T9	Cluster2 933 940	coating
+T10	Entity 860 876	the two surfaces
+T11	Entity 882 885	AFM
+T12	Entity 982 988	reduce
+T13	Entity 989 1013	peak-to-valley roughness
+T14	Entity 1215 1222	reduced
+T15	Entity 1398 1405	molding
+T16	Entity 262 292	all manufactured plastic parts
+T17	Entity 379 392	a tool cavity
+T18	Cluster4 577 597	machined metal parts
+T19	Cluster3 407 425	Such tool surfaces
+T20	Entity 887 890	SEM
+T21	Entity 895 915	optical profilometry
+T22	Cluster2 955 970	the HSQ coating
+T23	Cluster7 1036 1065	the sandpaper polished sample
+T24	Cluster8 1127 1152	the paste polished sample
+T25	Entity 1282 1306	injection molding cycles
+T26	Cluster2 1341 1356	the HSQ coating
+T27	Entity 1447 1461	surface finish
+T28	Entity 61 71	any object
+T29	Entity 603 632	hydrogen silsesquioxane (HSQ)
+T30	Entity 1014 1032	more than 20 times
+T31	Entity 1104 1122	more than 10 times
+T32	Entity 1223 1237	10 and 3 times
+T33	Entity 1265 1281	more than 10,000
+T34	Entity 1315 1337	detectable degradation
+T35	Entity 1409 1433	affordable plastic parts
+T36	Cluster6 0 28	Surface roughness or texture
+T37	Entity 83 113	injection molded plastic parts
+T38	Entity 128 166	the injection molding (IM) tool cavity
+T39	Entity 362 375	low roughness
+T40	Entity 643 666	their surface roughness
+T41	Entity 1153 1185	from 1.85(±0.63)μm to 162(±28)nm
+T42	Entity 1067 1099	from 2.44(±0.99)μm to 104(±22)nm
+T43	Entity 807 818	grit 11.000
+T44	Entity 819 842	diamond polishing paste
+T45	Entity 773 782	grit 2500
+T46	Entity 783 792	sandpaper
+T47	Entity 193 229	appearance and perception of quality
+T48	Entity 715 739	two starting roughnesses
+T49	Entity 1192 1210	roughness averages
+T50	Entity 176 183	affects
+T51	Entity 495 540	abrasive diamond polishing or diamond turning
+T52	Cluster1 542 544	We
+T53	Cluster1 844 846	We
+T54	Cluster1 942 944	We
+T55	Cluster1 1252 1254	We
+T56	Cluster2 553 632	a novel process to coat machined metal parts with hydrogen silsesquioxane (HSQ)
+T57	Cluster4 643 648	their
+T59	Cluster7 755 792	one polished with grit 2500 sandpaper
+T60	Cluster8 794 842	another with grit 11.000 diamond polishing paste

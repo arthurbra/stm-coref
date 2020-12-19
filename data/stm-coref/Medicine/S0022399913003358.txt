@@ -1,0 +1,17 @@
+Background
+Previous research has suggested that a substantial proportion of the population are severely affected by tinnitus, however recent population data are lacking.
+Furthermore, there is growing evidence that the perception of severity is closely related to personality factors such as neuroticism.
+Objective
+In a subset (N=172,621) of a large population sample of >500,000 adults aged 40 to 69years, (from the UK Biobank dataset) we calculated the prevalence of tinnitus and that which is perceived as bothersome, and examined the association between tinnitus and a putative predisposing personality factor, neuroticism.
+Method
+Participants were recruited through National Health Service registers and aimed to be inclusive and as representative of the UK population as possible.
+The assessment included subjective questions concerning hearing and tinnitus.
+Neuroticism was self-rated on 13 questions from the Eysenck Personality Inventory.
+Associations between neuroticism and tinnitus were tested with logistic regression analyses.
+Results
+Prevalence of tinnitus was significantly higher for males, and increased with age, doubling between the youngest and oldest age groups (males 13% and 26%; females 9% and 19% respectively).
+Of those with tinnitus, females were more likely to report bothersome tinnitus.
+Neuroticism was associated with current tinnitus and bothersome tinnitus, with the items: 'loneliness', 'mood swings', 'worrier/anxious' and 'miserableness', as the strongest associations of bothersome tinnitus.
+Conclusions
+Neuroticism was identified as a novel association with tinnitus.
+Individuals with tinnitus and higher levels of neuroticism are more likely to experience bothersome tinnitus, possibly as a reflection of greater sensitivity to intrusive experiences.

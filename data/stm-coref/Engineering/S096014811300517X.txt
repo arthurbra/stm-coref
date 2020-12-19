@@ -1,0 +1,19 @@
+The power coefficient of a turbine increases according to the predictions from streamtube theory for sites with a confined fluid flow.
+Here, a vertical axis turbine (optimized for free flow) has been simulated by a two-dimensional vortex method, both in a channel and in free flow.
+The first part of the study concerns the numerical parameters of channel simulations.
+It is found that for free flow and wide channels, a large number of revolutions is required for convergence (around 100 at the optimal tip speed ratio and increasing with higher tip speed ratio), while for smaller channels, the required number of revolutions decreases.
+The second part analyses changes in turbine performance by the channel boundaries.
+The turbine performance increases when the channel width is decreased, although the results are below the predictions from streamtube theory, and this difference increases with decreasing channel width.
+It is also observed that the optimal tip speed ratio increases with decreasing channel width.
+By increasing the chord, which decreases the optimal tip speed ratio, the power coefficient can be increased somewhat.
+Highlights
+•
+Theory for extending a vortex model to a channel included.
+•
+The extracted power for a turbine increases with decreasing channel width.
+•
+The optimal tip speed ratio for a turbine increases with decreasing channel width.
+•
+Turbines in a channel should have larger blades than in free flow.
+•
+Wide channels require many simulated revolution for convergence.

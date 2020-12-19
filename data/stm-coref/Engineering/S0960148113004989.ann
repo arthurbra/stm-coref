@@ -1,0 +1,96 @@
+T1	Entity 42 55	a vast amount
+T2	Cluster1 163 177	this potential
+T3	Cluster9 191 198	extract
+T4	Entity 239 247	hundreds
+T5	Entity 296 304	an array
+T6	Entity 284 292	deployed
+T7	Cluster2 350 364	these turbines
+T8	Entity 375 385	configured
+T9	Cluster9 389 396	extract
+T10	Cluster2 470 482	the turbines
+T11	Entity 648 670	nonlinear interactions
+T12	Cluster5 721 730	the power
+T13	Entity 864 880	a physical model
+T14	Entity 1055 1063	the flow
+T15	Entity 1068 1083	the performance
+T16	Entity 1120 1132	The gradient
+T17	Entity 1136 1145	the power
+T18	Entity 1146 1155	extracted
+T19	Entity 1294 1301	solving
+T20	Cluster6 1336 1351	These equations
+T21	Entity 1390 1405	the computation
+T22	Entity 1362 1371	causality
+T23	Entity 1412 1421	the power
+T24	Entity 1422 1431	extracted
+T25	Entity 1372 1381	backwards
+T26	Cluster8 1501 1513	the gradient
+T27	Entity 1517 1523	a cost
+T28	Entity 1546 1556	the number
+T29	Entity 1560 1568	turbines
+T30	Cluster13 1665 1675	optimising
+T31	Cluster16 1756 1759	256
+T32	Entity 1760 1768	turbines
+T33	Cluster13 1992 2008	the optimisation
+T34	Entity 2012 2025	many turbines
+T35	Cluster13 2206 2216	optimising
+T36	Cluster16 2217 2220	256
+T37	Entity 2320 2331	open-source
+T38	Entity 2349 2373	http://opentidalfarm.org
+T39	Cluster11 1877 1887	formulated
+T40	Entity 1230 1238	computed
+T41	Entity 0 13	Oceanic tides
+T42	Entity 59 75	renewable energy
+T43	Entity 77 100	Tidal stream generators
+T44	Entity 251 265	tidal turbines
+T45	Entity 199 237	an economically useful amount of power
+T46	Entity 397 423	the maximum possible power
+T47	Cluster5 513 532	the extracted power
+T48	Entity 556 573	economic interest
+T49	Entity 584 603	manual optimisation
+T50	Entity 624 646	legal site constraints
+T51	Entity 674 691	the turbine wakes
+T52	Entity 734 748	the flow speed
+T53	Entity 697 717	the cubic dependence
+T54	Entity 825 848	an optimisation problem
+T55	Entity 909 959	an efficient gradient-based optimisation algorithm
+T56	Entity 969 991	optimisation iteration
+T57	Cluster14 993 1045	a two-dimensional finite element shallow water model
+T58	Entity 1087 1118	the current array configuration
+T59	Cluster4 1172 1193	the turbine positions
+T60	Entity 1198 1221	their tuning parameters
+T61	Entity 1275 1290	a flow solution
+T62	Cluster6 1302 1334	the associated adjoint equations
+T63	Entity 1242 1264	a fraction of the time
+T64	Cluster4 1440 1461	the turbine positions
+T65	Entity 1466 1487	the tuning parameters
+T66	Entity 1676 1690	turbine arrays
+T67	Entity 1834 1857	The layout optimisation
+T68	Entity 1861 1872	tidal farms
+T69	Cluster3 1891 1929	a PDE-constrained optimisation problem
+T70	Entity 1933 1960	Gradient-based optimisation
+T71	Entity 2031 2052	realistic flow models
+T72	Entity 1965 1985	the adjoint approach
+T73	Cluster14 2056 2077	A shallow water model
+T74	Cluster15 2087 2120	the flow and the farm performance
+T75	Cluster12 2124 2151	each optimisation iteration
+T76	Entity 2221 2239	turbines in a farm
+T77	Entity 2294 2316	The software framework
+T78	Cluster9 137 147	extracting
+T79	Entity 152 162	harnessing
+T80	Entity 425 440	the positioning
+T81	Entity 445 466	the individual tuning
+T82	Cluster11 790 805	the formulation
+T83	Entity 2078 2086	predicts
+T84	Cluster1 19 75	the potential to yield a vast amount of renewable energy
+T85	Cluster2 239 265	hundreds of tidal turbines
+T86	Cluster3 882 887	which
+T87	Cluster4 1198 1203	their
+T88	Cluster5 1136 1155	the power extracted
+T89	Cluster5 1412 1431	the power extracted
+T90	Cluster8 1120 1155	The gradient of the power extracted
+T91	Cluster3 825 880	an optimisation problem constrained by a physical model
+T92	Cluster10 1756 1819	256 turbines in the Inner Sound of the Pentland Firth, Scotland
+#1	AnnotatorNotes T37	c, APPOS
+T93	Cluster10 2217 2290	256 turbines in a farm in the Inner Sound of the Pentland Firth, Scotland
+T94	Cluster15 1055 1118	the flow and the performance of the current array configuration
+T95	Cluster12 964 991	each optimisation iteration

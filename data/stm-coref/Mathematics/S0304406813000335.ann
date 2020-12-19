@@ -1,0 +1,44 @@
+T1	Cluster1 13 27	efficient sets
+T2	Cluster3 48 50	Rp
+T3	Entity 29 44	a class of sets
+T4	Cluster5 64 72	each set
+T5	Entity 77 84	element
+T6	Entity 99 113	all dimensions
+T7	Entity 88 95	greater
+T8	Entity 138 155	differentiability
+T9	Entity 160 170	continuity
+T10	Cluster1 186 195	such sets
+T11	Entity 245 271	quasi-indifference classes
+T12	Entity 288 309	a preference relation
+T13	Entity 323 341	a utility function
+T14	Entity 343 366	mean-variance frontiers
+T15	Entity 368 400	production possibility frontiers
+T16	Entity 406 427	Pareto efficient sets
+T17	Entity 432 458	Lebesgue's density theorem
+T18	Cluster1 460 474	efficient sets
+T19	Entity 511 527	Lebesgue measure
+T20	Entity 565 575	small sets
+T21	Cluster3 638 640	Rp
+T22	Cluster5 616 634	each efficient set
+T23	Entity 591 610	the stronger result
+T24	Entity 645 676	Hausdorff dimension at most p-1
+T25	Entity 698 719	topological dimension
+T26	Entity 766 777	smooth sets
+T27	Cluster2 872 883	stable sets
+T28	Entity 889 915	dimension at most m(n-1)-1
+T29	Entity 850 858	n agents
+T30	Entity 863 870	m goods
+T31	Cluster2 974 985	stable sets
+T32	Entity 212 222	level sets
+T33	Entity 226 243	utility functions
+T34	Entity 480 506	p-dimensional measure zero
+T35	Cluster2 805 816	stable sets
+T36	Entity 820 844	multi-good pillage games
+T37	Entity 991 1022	m(n-1)-dimensional measure zero
+T38	Entity 13 50	efficient sets, a class of sets in Rp
+T39	Entity 591 676	the stronger result that each efficient set in Rp has Hausdorff dimension at most p-1
+T40	Entity 846 915	for n agents and m goods, stable sets have dimension at most m(n-1)-1
+T41	Cluster4 0 2	We
+T42	Cluster4 779 781	We
+T43	Cluster4 577 579	we
+T45	Entity 616 676	each efficient set in Rp has Hausdorff dimension at most p-1

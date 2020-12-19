@@ -1,0 +1,37 @@
+T1	Entity 30 52	lower and upper bounds
+T2	Entity 128 147	Gα,β(t)=t/(α+t2+β2)
+T3	Entity 215 238	ν is a negative integer
+T4	Entity 207 211	ν≥-1
+T5	Entity 156 182	Rν is positive for all t>0
+T6	Entity 244 248	ν≥-1
+T7	Cluster4 285 308	the set of lower bounds
+T8	Entity 330 348	a greatest element
+T9	Entity 424 430	ν≥-1/2
+T10	Cluster2 432 452	the minimal elements
+T11	Entity 457 464	tangent
+T12	Cluster5 468 470	Rν
+T13	Entity 474 497	exactly one point 0≤t≤∞
+T14	Cluster5 508 510	Rν
+T15	Entity 514 534	their lower envelope
+T16	Entity 616 639	ν is a negative integer
+T17	Cluster3 664 698	the sets of lower and upper bounds
+T18	Entity 709 742	their greatest and least elements
+T19	Entity 568 602	explicitly computable upper bounds
+T20	Entity 57 102	the modified Bessel function ratio Rν=Iν+1/Iν
+T21	Entity 326 348	has a greatest element
+T22	Entity 421 533	If ν≥-1/2, the minimal elements are tangent to Rν in exactly one point 0≤t≤∞, and have Rν as their lower envelop
+T23	Entity 371 419	the set of upper bounds and its minimal elements
+T24	Entity 552 602	a new family of explicitly computable upper bounds
+T25	Entity 664 698	the sets of lower and upper bounds
+T26	Entity 709 742	their greatest and least elements
+T27	Entity 285 308	the set of lower bounds
+T28	Entity 30 182	lower and upper bounds for the modified Bessel function ratio Rν=Iν+1/Iν by functions of the form Gα,β(t)=t/(α+t2+β2) in case Rν is positive for all t>0
+T29	Entity 371 419	the set of upper bounds and its minimal elements
+T30	Cluster1 0 2	We
+T31	Cluster1 350 352	We
+T32	Cluster1 536 538	We
+T33	Cluster1 641 643	we
+T34	Cluster2 514 519	their
+T35	Cluster3 709 714	their
+T36	Cluster1 250 252	we
+T37	Cluster4 323 325	it

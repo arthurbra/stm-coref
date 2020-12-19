@@ -1,0 +1,10 @@
+This paper presents the results of a large scale empirical study of coherent dependence clusters.
+All statements in a coherent dependence cluster depend upon the same set of statements and affect the same set of statements; a coherent cluster's statements have 'coherent' shared backward and forward dependence.
+We introduce an approximation to efficiently locate coherent clusters and show that it has a minimum precision of 97.76%.
+Our empirical study also finds that, despite their tight coherence constraints, coherent dependence clusters are in abundance: 23 of the 30 programs studied have coherent clusters that contain at least 10% of the whole program.
+Studying patterns of clustering in these programs reveals that most programs contain multiple substantial coherent clusters.
+A series of subsequent case studies uncover that all clusters of significant size map to a logical functionality and correspond to a program structure.
+For example, we show that for the program acct, the top five coherent clusters all map to specific, yet otherwise non-obvious, functionality.
+Cluster visualization also brings out subtle deficiencies in program structure and identifies potential refactoring candidates.
+A study of inter-cluster dependence is used to highlight how coherent clusters are connected to each other, revealing higher-level structures, which can be used in reverse engineering.
+Finally, studies are presented to illustrate how clusters are not correlated with program faults as they remain stable during most system evolution.

@@ -1,0 +1,13 @@
+Objective
+Otitis media with effusion (OME), a common chronic childhood condition affecting hearing, is thought to be a result of bacterial infection, with biofilms recently implicated.
+Although bacterial DNA can be detected by polymerase chain reaction in 80% of patients, typically fewer than half of effusions are positive using standard culture techniques.
+We adopted an alternative approach to demonstrating bacteria in OME, using a bacterial viability stain and confocal laser scanning microscopy (CLSM): staining allows detection of live bacteria without requiring growth on culture, while CLSM allows demonstration of the three-dimensional structure typical of biofilms.
+Methods
+Effusion samples were collected at the time of ventilation tube insertion, analysed with CLSM and bacterial viability stain, and extended culture techniques performed with the intention of capturing all possible organisms.
+Results
+Sixty-two effusions (42 patients) were analysed: 28 (45.2%) were culture-positive, but 51 (82.3%) were CLSM-positive.
+Combining the two techniques demonstrated live bacteria in 57 (91.8%) samples.
+Using CLSM, bacteria exhibited biofilm morphology in 25 effusions and were planktonic in 26; the proportion of samples exhibiting biofilm morphology was similar in the culture-positive and culture-negative groups (50.0% and 48.3%, respectively).
+Biofilm samples contained an average of 1.7 different bacterial isolates and planktonic samples 2.0, with the commonest bacteria identified being coagulase-negative staphylococci.
+Conclusion
+Live bacteria are present in most effusions, strongly suggesting that bacteria and biofilms are important in the aetiopathogenesis of OME.

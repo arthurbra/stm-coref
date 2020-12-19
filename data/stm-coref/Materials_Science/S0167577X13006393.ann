@@ -1,0 +1,43 @@
+T1	Cluster8 0 33	Calcium phosphate (CaP) materials
+T2	Cluster2 261 275	submicrofibres
+T4	Entity 401 426	the electrospinning route
+T5	Entity 451 481	sintering temperature (1100°C)
+T6	Cluster11 497 523	electrospun polymer fibres
+T7	Cluster3 536 564	hydroxyapatite nanoparticles
+T8	Entity 428 447	A thermal treatment
+T9	Entity 574 585	aggregation
+T10	Cluster3 589 606	the nanoparticles
+T11	Entity 611 619	vaporise
+T12	Cluster10 620 638	the polymer matrix
+T13	Entity 640 650	The images
+T14	Entity 660 679	electron microscopy
+T15	Cluster9 694 713	the treated samples
+T16	Entity 725 757	their submicrofibrous morphology
+T17	Cluster1 889 909	the resulting fibres
+T18	Cluster1 976 994	CaP submicrofibres
+T19	Cluster11 1070 1088	Electrospun fibres
+T20	Entity 1108 1123	a PLGA solution
+T21	Cluster3 1149 1165	HA nanoparticles
+T22	Entity 1169 1184	Heat treatments
+T23	Cluster10 1211 1222	the polymer
+T24	Cluster3 1247 1264	the nanoparticles
+T25	Entity 1201 1210	evaporate
+T26	Entity 1234 1243	sintering
+T28	Entity 1324 1345	the sintered scaffold
+T29	Cluster2 1389 1403	submicrofibres
+T30	Entity 1409 1438	a variety of ceramic material
+T31	Entity 1124 1143	highly concentrated
+T32	Entity 42 135	synthetic hydroxyapatite (HA, Ca10(PO4)6·(OH)2) and β-tricalcium phosphate (β-TCP, Ca3(PO4)2)
+T33	Entity 174 228	bone tissue engineering and drug delivery applications
+T34	Cluster1 374 392	CaP submicrofibres
+T35	Entity 922 961	hydroxypatite and tricalcium phosphates
+T36	Entity 1020 1066	a combination of electrospinning and sintering
+T37	Entity 769 808	Fourier transform infrared spectroscopy
+T38	Entity 810 827	X-ray diffraction
+T39	Entity 832 864	X-ray photoelectron spectroscopy
+T40	Entity 1227 1233	induce
+T41	Entity 304 326	their biocompatibility
+T45	Entity 1268 1281	Hydroxypatite
+T48	Cluster8 304 309	their
+T49	Cluster9 725 730	their
+T50	Cluster8 155 160	their

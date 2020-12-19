@@ -1,0 +1,3 @@
+We prove an integrality property of the Chern character with values in Chow groups.
+As a consequence, we obtain a construction of the p-1 first homological Steenrod operations on Chow groups modulo p and p-primary torsion, over an arbitrary field.
+We provide applications to the study of correspondences between algebraic varieties.

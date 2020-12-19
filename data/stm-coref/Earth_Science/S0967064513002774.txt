@@ -1,0 +1,9 @@
+Cold-water corals are associated with high local biodiversity, but despite their importance as ecosystem engineers, little is known about how these organisms will respond to projected ocean acidification.
+Since preindustrial times, average ocean pH has decreased from 8.2 to ~8.1, and predicted CO2 emissions will decrease by up to another 0.3 pH units by the end of the century.
+This decrease in pH may have a wide range of impacts upon marine life, and in particular upon calcifiers such as cold-water corals.
+Lophelia pertusa is the most widespread cold-water coral (CWC) species, frequently found in the North Atlantic.
+Here, we present the first short-term (21 days) data on the effects of increased CO2 (750ppm) upon the metabolism of freshly collected L. pertusa from Mingulay Reef Complex, Scotland, for comparison with net calcification.
+Over 21 days, corals exposed to increased CO2 conditions had significantly lower respiration rates (11.4±1.39 SE, µmolO2g-1tissuedryweighth-1) than corals in control conditions (28.6±7.30 SE µmolO2g-1tissuedryweighth-1).
+There was no corresponding change in calcification rates between treatments, measured using the alkalinity anomaly technique and 14C uptake.
+The decrease in respiration rate and maintenance of calcification rate indicates an energetic imbalance, likely facilitated by utilisation of lipid reserves.
+These data from freshly collected L. pertusa from the Mingulay Reef Complex will help define the impact of ocean acidification upon the growth, physiology and structural integrity of this key reef framework forming species.

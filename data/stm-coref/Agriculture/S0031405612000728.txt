@@ -1,0 +1,13 @@
+This investigation examines the effect of manipulating soil microbial community composition and species richness on the development of soil structure over a seven month period in planted (with or without mycorrhizal fungi) and in unplanted macrocosms.
+The dilution method effectively resulted in soil communities with consistently contrasting levels of species (TRF) richness.
+In particular, the 10-6 dilution of field soil resulted in less rich communities in bare unplanted soil than did the 10-1 soil dilution.
+However, this was not the case in planted soils where root activity was a powerful influence on species richness.
+After seven months, principal components analysis (PCA) separated bacterial community composition primarily on planting regime; planted mycorrhizal, planted non-mycorrhizal and bare soil treatments all contained different bacterial community compositions.
+A consistent finding in planted and unplanted soils was that aggregate stability was positively correlated with small pore sizes.
+Mycorrhizal colonisation decreased plant biomass and also resulted in reduced soil bacterial species richness, lower percentage organic matter and smaller pore sizes relative to planted but non-mycorrhizal soils.
+However, soil aggregate stability and water repellency were increased in these (mycorrhizal) soils probably due to AMF hyphal activities including enmeshment and/or glomalin production.
+In contrast, bacterial TRF richness was positively correlated with aggregate stability in the bare and non-mycorrhizal planted soils.
+Soil organic carbon was an important factor in all treatments, but in the bare soil where there was no additional input of labile C from roots, the percentage C could be directly related to fungal TRF richness.
+The less species rich bare soil contained more organic C than the more species rich bare soil.
+This suggests a degree of redundancy with regard to mineralisation of organic matter when additional, more utilisable C sources are unavailable.
+Understanding the effects of microbial diversity on functional parameters is important for advancing sustainable soil management techniques, but it is clear that soil is a dynamic ecosystem.

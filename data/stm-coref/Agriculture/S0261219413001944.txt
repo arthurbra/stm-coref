@@ -1,0 +1,18 @@
+Laboratory and field studies were conducted to assess the effects of glyphosate on Macrophomina phaseolina culture growth in vitro and the disease severity of charcoal rot in soybean fields at Stoneville, MS and Jackson, TN.
+Glyphosate inhibited M. phaseolina growth in a linear dose dependent manner when technical grade glyphosate acid (GlyCry) was used; however, growth was inhibited in an exponential dose dependent manner when a commercial formulation of glyphosate-potassium salt (Gly-K salt) was used.
+The glyphosate GR50 values (glyphosate concentration required to cause a 50% reduction) in culture radial growth ranged from 0.25 to 9.94 mM among the M. Phaseolina isolates, temperatures, and formulations.
+The three isolates differed in response to various concentrations across the three temperature regimes.
+Among the three isolates, TN 410 was the most sensitive for both GlyCry (GR50 = 7.74 mM) and Gly-K salt (GR50 = 0.25 mM) at 30 °C.
+This research indicates that glyphosate has the ability to inhibit growth of M. phaseolina in culture in vitro.
+The preliminary field studies demonstrated that application of glyphosate to glyphosate-resistant soybeans did not enhance or reduce the severity of charcoal rot in a no-till field in TN but had some suppressing effect in a tilled environment in MS when single applications were made at growth stage V3 and V6.
+Highlights
+•
+Glyphosate effect on growth of Macrophomina phaseolina in culture and severity was assessed.
+•
+Glyphosate inhibited M. phaseolina in vitro.
+•
+Sensitivity to glyphosate concentrations differed between isolates.
+•
+Disease severity was not affected by Glyphosate application of no-till field.
+•
+Glyphosate had suppressing effect in tilled field under hot and dry conditions.

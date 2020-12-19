@@ -1,0 +1,89 @@
+T1	Cluster1 18 41	the Jovian thermosphere
+T2	Entity 113 135	magnetospheric physics
+T3	Entity 179 191	the response
+T4	Cluster1 195 218	the Jovian thermosphere
+T5	Entity 222 242	transient variations
+T6	Entity 281 330	an azimuthally symmetric global circulation model
+T7	Cluster3 342 364	a simple magnetosphere
+T8	Entity 331 338	coupled
+T9	Cluster3 423 447	the Jovian magnetosphere
+T10	Entity 481 499	rarefaction region
+T11	Entity 555 575	the ensuing response
+T12	Cluster5 579 600	the coupling currents
+T13	Entity 602 621	thermospheric flows
+T14	Entity 623 648	heating and cooling terms
+T15	Entity 654 664	the aurora
+T16	Entity 668 690	these transient events
+T17	Cluster2 692 714	Transient compressions
+T18	Cluster6 721 733	the reversal
+T19	Entity 815 832	momentum transfer
+T20	Entity 751 763	steady state
+T21	Entity 841 875	the thermosphere and magnetosphere
+T22	Entity 930 952	the Joule heating rate
+T23	Cluster3 1055 1072	the magnetosphere
+T24	Entity 985 1003	the kinetic energy
+T25	Entity 1007 1033	the thermospheric neutrals
+T26	Entity 1100 1128	Local temperature variations
+T27	Cluster10 1160 1184	the compression scenario
+T28	Entity 1189 1199	~-20and50K
+T29	Cluster11 1204 1222	the expansion case
+T30	Entity 1355 1378	global energy transport
+T31	Cluster9 1244 1260	equatorward flow
+T32	Entity 1284 1302	compression events
+T33	Entity 1421 1439	a ~2000TW increase
+T34	Cluster1 1486 1502	the thermosphere
+T35	Entity 1516 1533	auroral processes
+T36	Entity 1592 1608	a factor of ~4.5
+T37	Cluster2 1535 1557	transient compressions
+T38	Entity 1616 1636	transient expansions
+T39	Cluster4 1646 1664	this main emission
+T40	Entity 1668 1685	a more modest 37%
+T41	Entity 1701 1716	transient event
+T42	Entity 1723 1729	shifts
+T43	Entity 1749 1762	the main oval
+T44	Entity 1733 1745	the position
+T45	Entity 1860 1914	Jupiter's magnetosphere-ionosphere-thermosphere system
+T46	Entity 1973 1998	angular momentum transfer
+T47	Cluster1 2004 2020	the thermosphere
+T48	Cluster3 2024 2037	magnetosphere
+T49	Cluster9 2084 2100	equatorward flow
+T50	Cluster1 2104 2120	the thermosphere
+T51	Cluster6 2128 2140	the reversal
+T52	Entity 246 273	solar wind dynamic pressure
+T53	Cluster7 459 477	a solar wind shock
+T54	Cluster5 768 810	magnetosphere-ionosphere coupling currents
+T55	Entity 954 962	Ion drag
+T56	Entity 1136 1155	between ~-45and175K
+T57	Entity 1224 1240	Extended regions
+T58	Cluster4 1567 1588	main oval UV emission
+T59	Entity 1767 1784	up to 1° latitude
+T60	Cluster12 1824 1851	rapid solar wind variations
+T61	Cluster7 1918 1936	A solar wind shock
+T62	Entity 2041 2058	Solar wind shocks
+T63	Entity 2067 2080	large regions
+T64	Entity 2144 2165	ion drag acceleration
+T65	Entity 2223 2269	local thermospheric temperature increases >25K
+T66	Entity 2175 2212	rapid magnetospheric reconfigurations
+T67	Entity 57 90	magnetosphere-ionosphere coupling
+T68	Entity 375 401	auroral conductivity model
+T69	Cluster10 520 530	compressed
+T70	Cluster11 534 542	expanded
+T71	Entity 893 917	at least a factor of two
+T72	Entity 918 926	increase
+T73	Cluster10 1076 1086	compressed
+T74	Cluster11 1090 1098	expanded
+T75	Entity 1380 1412	Both compressions and expansions
+T76	Entity 1443 1482	the total power dissipated or deposited
+T77	Entity 1558 1566	increase
+T78	Entity 1637 1645	increase
+T79	Entity 1944 1968	the reversal of currents
+T80	Cluster2 877 881	They
+T81	Cluster8 137 139	We
+T82	Cluster8 406 409	our
+T83	Cluster8 544 546	We
+T84	Cluster8 1305 1307	we
+T85	Cluster12 222 273	transient variations in solar wind dynamic pressure
+T86	Cluster13 815 875	momentum transfer between the thermosphere and magnetosphere
+T87	Cluster13 1973 2037	angular momentum transfer from the thermosphere to magnetosphere
+T88	Cluster16 1224 1260	Extended regions of equatorward flow
+T89	Cluster16 2067 2100	large regions of equatorward flow

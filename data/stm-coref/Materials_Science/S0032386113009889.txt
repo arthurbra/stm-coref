@@ -1,0 +1,12 @@
+Silica nanoparticles possessing three different diameters (23, 74 and 170 nm) were used to modify a piperidine-cured epoxy polymer.
+Fracture tests were performed and values of the toughness increased steadily as the concentration of silica nanoparticles was increased.
+However, no significant effects of particle size were found on the measured value of toughness.
+The toughening mechanisms were identified as (i) the formation of localised shear-band yielding in the epoxy matrix polymer which is initiated by the silica nanoparticles, and (ii) debonding of the silica nanoparticles followed by plastic void growth of the epoxy matrix polymer.
+These mechanisms, and hence the toughness of the epoxy polymers containing the silica nanoparticles, were modelled using the Hsieh et al. approach (Polymer 51, 2010, 6284-6294).
+However, it is noteworthy that previous modelling work has required the volume fraction of debonded silica particles to be measured from the fracture surfaces but in the present paper a new and more fundamental approach has been proposed.
+Here finite-element modelling has demonstrated that once one silica nanoparticle debonds then its nearest neighbours are shielded from the applied stress field, and hence may not debond.
+Statistical analysis showed that, for a good, i.e. random, dispersion of nanoparticles, each nanoparticle has six nearest neighbours, so only one in seven particles would be predicted to debond.
+This approach therefore predicts that only 14.3% of the nanoparticles present will debond, and this value is in excellent agreement with the value of 10-15% of those nanoparticles present debonding which was recorded via direct observations of the fracture surfaces.
+Further, this value of about 15% of silica nanoparticles particles present debonding has also been noted in other published studies, but has never been previously explained.
+The predictions from the modelling studies of the toughness of the various epoxy polymers containing the silica nanoparticles were compared with the measured fracture energies and the agreement was found to be good.
+Graphical abstract

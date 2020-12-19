@@ -1,0 +1,63 @@
+T1	Cluster1 142 157	these organisms
+T4	Entity 397 399	pH
+T5	Entity 438 449	marine life
+T6	Entity 474 484	calcifiers
+T7	Cluster5 512 528	Lophelia pertusa
+T8	Entity 723 737	the metabolism
+T9	Cluster4 775 796	Mingulay Reef Complex
+T10	Cluster1 861 867	corals
+T11	Cluster1 995 1001	corals
+T12	Entity 1197 1200	14C
+T13	Entity 1201 1207	uptake
+T14	Entity 1336 1347	utilisation
+T15	Cluster4 1417 1442	the Mingulay Reef Complex
+T16	Entity 710 716	750ppm
+T17	Entity 1499 1509	the growth
+T18	Entity 1511 1521	physiology
+T19	Entity 1526 1546	structural integrity
+T20	Entity 1209 1221	The decrease
+T21	Entity 380 393	This decrease
+T22	Cluster1 0 17	Cold-water corals
+T23	Entity 38 42	high
+T24	Entity 43 61	local biodiversity
+T25	Entity 95 114	ecosystem engineers
+T26	Entity 174 203	projected ocean acidification
+T30	Cluster1 493 510	cold-water corals
+T31	Entity 532 582	the most widespread cold-water coral (CWC) species
+T32	Entity 641 676	the first short-term (21 days) data
+T33	Entity 741 769	freshly collected L. pertusa
+T34	Entity 828 845	net calcification
+T35	Entity 868 875	exposed
+T36	Entity 922 927	lower
+T37	Entity 928 945	respiration rates
+T38	Entity 947 988	11.4±1.39 SE, µmolO2g-1tissuedryweighth-1
+T39	Entity 1005 1023	control conditions
+T40	Entity 1025 1065	28.6±7.30 SE µmolO2g-1tissuedryweighth-1
+T41	Entity 1095 1124	change in calcification rates
+T42	Entity 1133 1143	treatments
+T43	Entity 1160 1192	the alkalinity anomaly technique
+T44	Entity 1225 1241	respiration rate
+T45	Entity 1261 1279	calcification rate
+T46	Entity 1246 1257	maintenance
+T47	Entity 1290 1312	an energetic imbalance
+T48	Entity 1351 1365	lipid reserves
+T49	Entity 1383 1411	freshly collected L. pertusa
+T50	Entity 1474 1493	ocean acidification
+T51	Cluster5 1550 1589	this key reef framework forming species
+T52	Entity 211 230	preindustrial times
+T54	Entity 680 691	the effects
+T55	Entity 695 704	increased
+T56	Entity 705 708	CO2
+T57	Entity 847 859	Over 21 days
+T58	Entity 879 888	increased
+T59	Entity 889 903	CO2 conditions
+T53	Cluster1 75 80	their
+T2	Entity 232 248	average ocean pH
+T60	Entity 263 279	from 8.2 to ~8.1
+T61	Entity 285 308	predicted CO2 emissions
+T62	Entity 326 352	up to another 0.3 pH units
+#4	AnnotatorNotes T31	c, Corpular structure
+T64	Cluster7 1383 1442	freshly collected L. pertusa from the Mingulay Reef Complex
+T63	Cluster7 741 806	freshly collected L. pertusa from Mingulay Reef Complex, Scotland
+T65	Cluster6 641 806	the first short-term (21 days) data on the effects of increased CO2 (750ppm) upon the metabolism of freshly collected L. pertusa from Mingulay Reef Complex, Scotland
+T66	Cluster6 1367 1442	These data from freshly collected L. pertusa from the Mingulay Reef Complex

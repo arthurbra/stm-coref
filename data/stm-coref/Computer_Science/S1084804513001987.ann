@@ -1,0 +1,54 @@
+T1	Cluster4 0 14	Precomputation
+T2	Cluster1 114 123	a request
+T3	Entity 124 131	arrives
+T4	Entity 133 141	a packet
+T5	Entity 149 158	forwarded
+T6	Entity 192 211	the QoS information
+T7	Entity 225 231	a node
+T8	Entity 261 278	a certain request
+T9	Entity 304 313	launching
+T10	Entity 381 388	a route
+T11	Entity 428 439	NP-complete
+T12	Entity 483 495	approximated
+T13	Entity 566 572	reduce
+T14	Cluster2 573 582	the error
+T15	Entity 586 596	estimating
+T16	Cluster2 673 683	this error
+T17	Cluster3 706 721	the performance
+T18	Entity 725 742	admission control
+T19	Cluster1 760 769	a request
+T20	Entity 902 910	evaluate
+T21	Cluster3 911 926	the performance
+T22	Cluster4 930 942	precomputing
+T23	Entity 857 871	a novel metric
+T24	Cluster3 978 993	the performance
+T25	Entity 1064 1076	discretizing
+T26	Entity 1077 1089	link metrics
+T27	Cluster3 1110 1125	the performance
+T28	Entity 1167 1177	increasing
+T29	Entity 1178 1188	complexity
+T30	Cluster5 18 35	the supported QoS
+T31	Entity 58 74	internet routing
+T32	Entity 164 185	a simple table lookup
+T33	Entity 92 106	routing tables
+T34	Entity 314 338	the path finding process
+T35	Entity 502 529	a polynomial time mechanism
+T36	Entity 597 621	the actual supported QoS
+T37	Entity 531 558	A good approximation scheme
+T38	Entity 777 797	correctly classified
+T39	Entity 801 823	feasible or infeasible
+T40	Cluster5 943 960	the supported QoS
+T41	Entity 882 897	distortion area
+T42	Cluster5 1038 1055	the supported QoS
+T43	Cluster7 997 1020	the class of algorithms
+T44	Cluster7 1129 1142	these schemes
+T45	Entity 1237 1282	discretization-based approximation algorithms
+T46	Cluster5 441 470	the supported QoS information
+T47	Entity 79 91	constructing
+T48	Entity 400 424	two additive constraints
+T49	Entity 1026 1037	approximate
+T50	Cluster6 962 964	We
+T51	Cluster6 1091 1093	We
+T52	Cluster6 1190 1193	Our
+T53	Cluster6 840 842	we
+T54	Cluster7 1021 1025	that

@@ -1,0 +1,18 @@
+A wind farm with a simple electrical topology based on passive rectifiers and a single inverter (mutual topology) is compared to a more complex topology where each turbine has a separate inverter (separate topology).
+In both cases, the turbines are controlled electrically by varying the extracted power with the rotational velocity as control signal.
+These two electrical topologies are evaluated with respect to the absorbed power for a farm of four turbines placed either on a line or in a square configuration.
+The evaluation is done with a vortex model for the aerodynamics, coupled with a model of the electromechanical system.
+Simulations predict that individual control is beneficial for aerodynamically independent turbines if the wind speeds differ significantly between the turbines.
+If the differences in wind speed are caused by one turbine operating in the wake of another, the deviations in power output between the topologies are less prominent.
+The mutual topology can even deliver more power than the separate topology when one turbine is in the wake of another turbine if the wind speed changes rapidly.
+Highlights
+•
+A VAWT farm is simulated with vortex model coupled with electric model.
+•
+An electric system with passive rectifiers and a mutual DC-bus has been evaluated.
+•
+The proposed electric system is viable for a vertical axis wind turbine farm.
+•
+The aerodynamic interactions between the turbines is important for the evaluation.
+•
+The inter turbine distance is far more important than the electrical topology.

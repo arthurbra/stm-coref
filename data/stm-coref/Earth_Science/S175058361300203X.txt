@@ -1,0 +1,7 @@
+Temperature is one of the main parameters influencing the properties of CO2 during storage in saline aquifers since it along with pressure and co-constituents controls the phase behavior of the CO2/brine mixture.
+When the CO2 replaces brine as a free gas it is well known to affect the elastic properties of porous media considerably.
+In order to track the migration of geologically stored CO2 at the Ketzin site, 3D time-lapse seismic data were acquired by means of a baseline (pre-injection) survey in autumn 2005 and a first monitor survey in autumn 2009.
+During this period the temperature in the storage reservoir near the injection well was observed to have increased from 34°C to 38°C.
+This temperature increase led us to investigate the potential impact of temperature on the seismic response to the CO2 injection and on the CO2 mass estimations based on the Ketzin 4D seismic data.
+Two temperature scenarios in the reservoir (34°C and 38°C) were studied using multiphase fluid flow modeling.
+The simulations show that the impact of temperature on the seismic response is minor, but that the impact of the temperature on the CO2 mass estimations is significant and can, with the help of the multiphase fluid flow simulations, be explained mostly by the impact on the density of the CO2.

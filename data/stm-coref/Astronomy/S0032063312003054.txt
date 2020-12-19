@@ -1,0 +1,20 @@
+The different types of asymmetry observed in the energy distributions of electrons and heavy-ions (M/Q=16-44) during signatures of electron precipitation in the Martian ionosphere have been classified.
+This has been achieved using the space plasma instrumentation of MEX ASPERA-3 from peri-centre altitude to 2200km.
+ASPERA-3 ELS observes signatures of electron precipitation on 43.0% of MEX orbits.
+Unaccelerated electrons in the form of sudden electron flux enhancements are the most common type of electron precipitation signature at Mars and account for ∼70% of the events observed in this study.
+Electrons that form unaccelerated electron precipitation signatures are either local ionospheric electrons with enhanced density, or electrons transported from another region of ionosphere, solar wind or tail, or a combination of local and transported electrons.
+The heating of electrons has a strong influence on the shape of most electron energy spectra from accelerated precipitation signatures.
+On most occasions the general flow of heavy-ions away from Mars is unchanged during the precipitation of electrons, which is thought to be the result of the finite gyroradius effect of the heavy-ions on crustal magnetic field lines.
+Only ∼17% of events show some form of heavy-ion acceleration that is either concurrent or at the periphery of an electron precipitation signature.
+The most common combination of electron and heavy-ion energy distributions for signatures of electron precipitation involves electrons that visually have very little asymmetry or are isotropic and heavy-ions that have a upward net flux, and suggest the upward current associated with aurora.
+Due to a lack of reliable measurements of electrons travelling towards Mars, it is likely we miss further evidence of upward currents.
+The second most common combination of electron and heavy-ion energy distributions for signatures of electron precipitation, are those distributions of electrons that are asymmetric and have an net upward flux, with distributions of heavy-ions that also have a net upward flux.
+Energy distributions of heavy-ions with a net flux towards Mars occur half as often as heavy-ions with an upward net flux.
+There is also evidence to suggest we observe downward currents during electron precipitation signatures when we find energy distributions of electrons that are asymmetric and have an upward net flux, combined with energy distributions of heavy-ions that have a downward net flux.
+Wave particle interactions and downward parallel electric fields may be responsible for electrons that display a large amount of asymmetry in the upward direction of the energy distribution and have a upward net flux.
+Highlights
+► We use ASPERA-3 to classify particle asymmetries during electron precipitation at Mars.
+► Most common type of energy distribution is of isotropic electrons and upward heavy-ions.
+► Distributions suggesting upward currents observed four times more than downward currents.
+► Heavy-ion flow at Mars mostly unaffected by electron precipitation due to finite gyro-radius.
+► Acceleration of heavy-ions is rarely observed during electron precipitation.

@@ -1,0 +1,65 @@
+T1	Entity 0 14	The disruption
+T2	Cluster6 18 44	large-scale brain networks
+T3	Entity 92 119	neurodegenerative dementias
+T4	Entity 133 139	adults
+T5	Entity 145 188	behavioural variant frontotemporal dementia
+T6	Entity 193 223	progressive supranuclear palsy
+T7	Entity 230 252	magnetoencephalography
+T8	Entity 260 288	an auditory oddball paradigm
+T9	Entity 290 310	Network connectivity
+T10	Entity 317 365	bilateral temporal, frontal and parietal sources
+T11	Cluster7 385 409	dynamic causal modelling
+T12	Cluster1 482 495	both diseases
+T13	Entity 433 452	a systematic change
+T14	Entity 456 478	effective connectivity
+T15	Cluster12 511 527	healthy subjects
+T16	Entity 537 553	focal modulation
+T17	Entity 557 602	intrahemispheric frontal-temporal connections
+T18	Cluster8 604 622	the patient groups
+T19	Entity 630 675	abnormally extensive and inefficient networks
+T20	Entity 725 743	impaired responses
+T21	Entity 747 766	the auditory cortex
+T22	Entity 677 704	The changes in connectivity
+T23	Entity 770 801	unexpected deviant tones (MMNm)
+T24	Entity 811 827	normal responses
+T25	Entity 831 847	standard stimuli
+T26	Entity 886 903	neurodegeneration
+T27	Cluster10 907 910	two
+T28	Entity 911 938	distinct clinical syndromes
+T29	Cluster4 968 986	prefrontal atrophy
+T30	Entity 944 964	overlapping profiles
+T31	Entity 995 1012	a similar pattern
+T32	Cluster3 1067 1094	this network reorganisation
+T33	Entity 1119 1140	focal brain disorders
+T34	Entity 1204 1229	neurodegenerative disease
+T35	Entity 1175 1200	functional brain networks
+T36	Entity 1145 1171	the specific vulnerability
+T37	Cluster10 1255 1258	two
+T38	Entity 1247 1254	compare
+T39	Entity 1259 1295	distinct neurodegenerative syndromes
+T40	Cluster4 1301 1319	prefrontal atrophy
+T41	Entity 1345 1351	impair
+T42	Entity 1352 1392	the automatic detection of change (MMNm)
+T43	Cluster7 1402 1405	DCM
+T44	Entity 1428 1436	diseases
+T45	Cluster5 1445 1475	similar network reorganisation
+T46	Entity 1490 1523	principled network reorganisation
+T47	Entity 1539 1562	prefrontal degeneration
+T48	Entity 124 132	assessed
+T49	Cluster3 1016 1030	reorganisation
+T50	Cluster6 1034 1054	large-scale networks
+T51	Cluster1 1331 1344	both diseases
+T52	Cluster1 145 223	behavioural variant frontotemporal dementia and progressive supranuclear palsy
+T53	Cluster2 121 123	We
+T54	Cluster2 411 413	We
+T55	Cluster2 1323 1325	We
+T56	Cluster2 1244 1246	We
+T57	Cluster2 1479 1481	We
+T58	Cluster5 995 1030	a similar pattern of reorganisation
+T59	Cluster1 1423 1436	both diseases
+T60	Cluster8 133 223	adults with behavioural variant frontotemporal dementia and progressive supranuclear palsy
+T62	Cluster1 907 938	two distinct clinical syndromes
+T63	Cluster1 1255 1295	two distinct neurodegenerative syndromes
+T64	Cluster12 529 532	who
+T65	Cluster2 1406 1408	we
+T66	Cluster2 1056 1058	We

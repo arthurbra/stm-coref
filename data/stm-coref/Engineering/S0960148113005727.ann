@@ -1,0 +1,85 @@
+T1	Entity 0 6	Ageing
+T2	Entity 10 16	a fact
+T3	Entity 20 24	life
+T4	Entity 79 89	the energy
+T5	Entity 124 133	decreases
+T6	Cluster11 139 151	its lifetime
+T7	Entity 168 175	falling
+T8	Cluster2 254 267	these factors
+T9	Entity 359 367	the rate
+T10	Cluster3 371 377	ageing
+T11	Cluster8 502 505	282
+T12	Entity 542 550	recorded
+T13	Entity 616 625	operation
+T14	Entity 717 726	NASA data
+T15	Cluster5 931 943	load factors
+T16	Entity 947 954	decline
+T17	Cluster10 960 963	age
+T18	Entity 968 982	a similar rate
+T19	Entity 1107 1116	declining
+T20	Entity 1122 1127	28.5%
+T21	Entity 1140 1143	21%
+T22	Entity 1155 1165	This trend
+T23	Entity 1194 1205	generations
+T24	Entity 1265 1276	degradation
+T25	Entity 1251 1261	This level
+T26	Entity 1277 1284	reduces
+T27	Entity 1342 1352	increasing
+T28	Entity 1375 1386	electricity
+T29	Entity 1390 1392	9%
+T30	Cluster8 1441 1444	282
+T31	Entity 1527 1538	variability
+T32	Entity 1542 1553	the weather
+T33	Entity 1512 1522	Correcting
+T34	Entity 1623 1628	falls
+T35	Cluster10 1709 1712	age
+T36	Entity 1806 1815	increases
+T37	Entity 61 77	power generation
+T38	Cluster1 102 113	a wind farm
+T39	Entity 190 213	aerodynamic performance
+T40	Entity 217 238	conversion efficiency
+T41	Entity 381 414	a national fleet of wind turbines
+T42	Entity 506 516	wind farms
+T43	Cluster5 442 487	the actual and theoretical ideal load factors
+T44	Entity 518 537	Actual load factors
+T45	Entity 551 586	monthly for the period of 2002-2012
+T46	Entity 597 612	1686 farm-years
+T47	Entity 663 705	a high resolution wind resource assessment
+T48	Entity 739 760	the hourly wind speed
+T49	Entity 781 791	hub height
+T50	Cluster4 795 809	each wind farm
+T51	Entity 826 858	the particular models of turbine
+T52	Entity 888 914	individual site conditions
+T53	Entity 986 1010	other rotating machinery
+T54	Cluster6 1012 1025	Wind turbines
+T55	Entity 1044 1079	1.6 ± 0.2% of their output per year
+T56	Entity 1209 1223	turbine design
+T57	Entity 1228 1249	individual wind farms
+T58	Entity 1309 1340	12% over a twenty year lifetime
+T59	Entity 1285 1305	a wind farm's output
+T60	Entity 1445 1455	wind farms
+T61	Entity 1486 1508	public wind speed data
+T62	Cluster3 1561 1580	wind turbine ageing
+T63	Entity 1598 1622	Onshore wind farm output
+T64	Entity 1724 1765	all farms and all generations of turbines
+T65	Entity 1684 1703	Performance decline
+T66	Cluster9 1816 1849	the levelised cost of electricity
+T67	Cluster11 1792 1805	a farm's life
+T68	Entity 1769 1786	Decreasing output
+T69	Entity 294 338	the highly variable availability of the wind
+T70	Entity 421 437	free public data
+T71	Entity 650 657	derived
+T72	Entity 627 645	Ideal load factors
+T73	Entity 859 868	installed
+T74	Entity 1086 1106	average load factors
+T75	Entity 1459 1479	accurately estimated
+T76	Entity 1353 1371	the levelised cost
+T77	Entity 1659 1671	availability
+T78	Entity 1676 1680	wear
+T79	Entity 1629 1641	16% a decade
+T80	Cluster1 139 142	its
+T82	Cluster4 502 516	282 wind farms
+T83	Cluster6 1058 1063	their
+T84	Cluster4 1441 1455	282 wind farms
+T85	Cluster9 1353 1386	the levelised cost of electricity
+T81	Cluster2 176 238	availability, aerodynamic performance or conversion efficiency

@@ -1,0 +1,4 @@
+Particle-reinforced composites and nanocomposites can contain a wide range of discrete particles, of various morphologies (e.g. spherical, fibre, and tube).
+Two-dimensional micrographs of the material are used to assess whether the particles are well- or poorly-dispersed, but typically use the assumption that all particles are identical and spherical.
+However we show, by considering elliptical particles, that the sizing and shapes of the discrete particles can change the overall appearance of the system, without the underlying mechanisms changing.
+Thus our interpretation of particle dispersion is obtained by comparing our measurements to a reference system, which takes into account the particle morphologies, and demonstrates that discrepancies are brought on by oversimplification.

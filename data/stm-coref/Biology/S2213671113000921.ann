@@ -1,0 +1,64 @@
+T1	Cluster1 0 4	SOX2
+T2	Entity 157 167	patterning
+T3	Entity 72 83	maintenance
+T4	Entity 109 124	differentiation
+T5	Entity 225 234	generated
+T6	Entity 275 284	harboring
+T7	Entity 317 331	the SOX2 locus
+T8	Entity 594 605	those cells
+T9	Entity 665 686	the pluripotent state
+T10	Entity 691 695	NPCs
+T11	Entity 734 741	isolate
+T12	Entity 804 807	AFE
+T13	Entity 894 913	elevated expression
+T14	Cluster5 917 932	this population
+T15	Cluster2 333 356	This SOX2 reporter line
+T16	Entity 382 392	expression
+T17	Entity 1088 1107	multiple cell types
+T18	Entity 1151 1167	the purification
+T19	Cluster1 1268 1272	SOX2
+T20	Entity 1293 1322	multiple developmental stages
+T21	Cluster2 1398 1413	a SOX2 reporter
+T22	Entity 1430 1444	its expression
+T23	Entity 1583 1590	isolate
+T24	Entity 611 625	highest levels
+T25	Entity 206 220	a human system
+T26	Entity 1533 1551	the identification
+T27	Entity 20 60	several cell and developmental processes
+T28	Entity 87 107	embryonic stem cells
+T29	Entity 128 151	neural progenitor cells
+T30	Entity 171 183	gut endoderm
+T31	Entity 235 274	a human embryonic stem cell (hESC) line
+T32	Entity 396 409	the SOX2 gene
+T33	Entity 540 562	undifferentiated hESCs
+T34	Cluster6 564 578	GFP expression
+T35	Entity 629 648	expression of genes
+T36	Entity 742 766	cells expressing markers
+T37	Entity 783 799	NPC multipotency
+T38	Entity 817 855	transcriptome-wide expression analysis
+T39	Entity 868 888	cell surface markers
+T40	Cluster5 985 1018	this hPSC-derived cell population
+T41	Cluster2 1031 1051	A SOX2-GFP hESC line
+T42	Entity 1108 1139	A cell surface marker signature
+T43	Entity 1171 1189	endodermal progeny
+T44	Entity 1219 1247	adeno-associated virus (AAV)
+T45	Entity 1190 1213	Targeted gene insertion
+T46	Entity 1362 1388	human embryonic stem cells
+T47	Entity 1448 1470	undifferentiated cells
+T48	Entity 1478 1510	neural and lung progenitor cells
+T49	Entity 1555 1579	a cell surface signature
+T50	Entity 1603 1619	lung progenitors
+T51	Entity 285 313	a reporter gene encoding GFP
+T52	Entity 697 707	expression
+T53	Entity 711 714	GFP
+T54	Entity 955 964	isolation
+T55	Entity 969 981	purification
+T56	Entity 1063 1070	isolate
+T57	Entity 1075 1087	characterize
+T58	Entity 413 535	undifferentiated human pluripotent stem cells (hPSCs), neural progenitor cells (NPCs), and anterior foregut endoderm (AFE)
+T59	Cluster1 194 197	its
+T60	Cluster2 235 331	a human embryonic stem cell (hESC) line harboring a reporter gene encoding GFP in the SOX2 locus
+T61	Cluster3 222 224	we
+T62	Cluster3 809 811	we
+T63	Cluster1 1430 1433	its
+T64	Cluster6 697 714	expression of GFP

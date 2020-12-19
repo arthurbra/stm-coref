@@ -1,0 +1,42 @@
+T1	Cluster2 51 66	long grain rice
+T2	Cluster2 288 303	long grain rice
+T3	Cluster2 472 487	long grain rice
+T4	Entity 620 629	the level
+T5	Entity 665 676	quantitated
+T6	Entity 680 684	four
+T7	Entity 685 692	samples
+T8	Entity 715 724	0.11mg/kg
+T9	Cluster2 774 789	long grain rice
+T10	Entity 843 858	every age group
+T11	Cluster5 859 869	the intake
+T12	Entity 930 934	EFSA
+T13	Entity 959 969	the intake
+T14	Entity 223 239	an ICP-MS method
+T15	Entity 697 704	average
+T16	Entity 726 740	Our estimation
+T17	Cluster4 71 92	rice based baby foods
+T18	Cluster6 112 129	Inorganic arsenic
+T19	Cluster4 546 567	rice-based baby foods
+T20	Cluster6 633 650	inorganic arsenic
+T21	Entity 794 814	rice-based baby food
+T22	Cluster6 973 990	inorganic arsenic
+T23	Cluster7 13 47	total and inorganic arsenic levels
+T24	Entity 148 169	an HPLC-ICP-MS system
+T25	Cluster3 171 202	The total arsenic concentration
+T26	Entity 256 284	the inorganic arsenic levels
+T27	Entity 311 339	from 0.09 to 0.28mg/kg (n=8)
+T28	Cluster3 344 368	the total arsenic levels
+T29	Entity 369 391	from 0.11 to 0.65mg/kg
+T30	Cluster7 430 468	the total and inorganic arsenic levels
+T31	Entity 491 516	a confidence level of 95%
+T32	Cluster3 518 542	The total arsenic levels
+T33	Entity 576 609	the range 0.02 - 0.29mg/kg (n=10)
+T34	Entity 882 922	the lowest BMDL0.1 value 0.3μg/kg bw/day
+T35	Cluster5 744 768	inorganic arsenic intake
+T36	Entity 134 142	analysed
+T37	Entity 403 421	a good correlation
+T38	Cluster1 0 2	We
+T39	Cluster1 726 729	Our
+T40	Cluster1 949 952	our
+T41	Cluster3 705 709	they
+T42	Cluster5 959 990	the intake of inorganic arsenic

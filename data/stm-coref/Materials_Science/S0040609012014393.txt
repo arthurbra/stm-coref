@@ -1,0 +1,11 @@
+We report on the effect of halide doping on the Aerosol-assisted Chemical Vapour Deposition of tin oxide.
+Specifically, the importance of precursor interactions is highlighted.
+A halide exchange reaction involving part substitution of the tin precursor is believed to occur in the solvent; the complex acting as a marker for improved films with improved transparent-conducting properties.
+Precursor mixtures of butyltin trichloride and potassium halide (X=F, Cl, Br, I) in propan-2-ol were deposited at a substrate temperature of 450°C using air carrier gas.
+Hall Effect results indicate that fluorine gave the best performing n-type transparent conducting thin films that exhibited high optical transparency (>80% at 550nm) and resistivity values of 4.9×10-4Ω.cm, with charge carrier density and carrier mobility values of 8.85×1020cm-3 and 15cm3/V.s respectively.
+Such parameters yield high figures of merit.
+Highlights
+► Halide-doped tin oxide films were grown on glass using AACVD.
+► Fluorine is confirmed as the most effective dopant for TCO applications.
+► A halide exchange process resulting in a direct tin-dopant bond in the precursor.
+► This structure is thought a marker to higher-performing films.

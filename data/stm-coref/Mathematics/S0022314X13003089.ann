@@ -1,0 +1,45 @@
+T1	Entity 4 5	K
+T2	Cluster5 9 23	a number field
+T3	Entity 27 35	degree n
+T4	Entity 187 193	h∈K[X]
+T5	Entity 234 254	an algebraic integer
+T6	Cluster5 154 168	a number field
+T7	Entity 74 95	a criterion of Gilmer
+T8	Entity 100 126	polynomially dense subsets
+T9	Entity 303 311	h(OK)⊂OK
+T10	Entity 261 265	h(X)
+T11	Entity 269 292	integral-valued over OK
+T12	Entity 403 422	a polynomial f∈Q[X]
+T13	Entity 629 649	the integral closure
+T14	Entity 695 709	integer-valued
+T15	Cluster1 41 45	ring
+T16	Entity 49 60	integers OK
+T17	Cluster1 130 138	the ring
+T18	Entity 142 150	integers
+T19	Entity 499 503	f(β)
+T20	Cluster4 507 522	integral over Z
+T21	Entity 427 431	f(α)
+T22	Cluster4 435 450	integral over Z
+T23	Cluster3 715 722	the set
+T24	Entity 726 740	matrices Mn(Z)
+T25	Cluster1 753 761	the ring
+T26	Entity 765 780	integral-valued
+T27	Entity 781 792	polynomials
+T28	Cluster3 798 805	the set
+T29	Cluster1 653 661	the ring
+T30	Entity 665 684	polynomials in Q[X]
+T31	Cluster3 353 360	the set
+T32	Entity 184 311	if h∈K[X] maps every element of OK of degree n to an algebraic integer, then h(X) is integral-valued over OK, that is, h(OK)⊂OK
+T33	Entity 424 577	if f(α) is integral over Z for every algebraic integer α of degree n, then f(β) is integral over Z for every algebraic integer β of degree smaller than n
+T34	Entity 629 848	the integral closure of the ring of polynomials in Q[X] which are integer-valued over the set of matrices Mn(Z) is equal to the ring of integral-valued polynomials over the set of algebraic integers of degree equal to n
+T35	Entity 184 311	if h∈K[X] maps every element of OK of degree n to an algebraic integer, then h(X) is integral-valued over OK, that is, h(OK)⊂OK
+T36	Entity 424 577	if f(α) is integral over Z for every algebraic integer α of degree n, then f(β) is integral over Z for every algebraic integer β of degree smaller than n
+T37	Entity 74 95	a criterion of Gilmer
+T38	Entity 199 230	every element of OK of degree n
+T39	Entity 364 398	all algebraic integers of degree n
+T40	Entity 455 492	every algebraic integer α of degree n
+T41	Entity 527 577	every algebraic integer β of degree smaller than n
+T42	Entity 809 848	algebraic integers of degree equal to n
+T43	Entity 194 198	maps
+T44	Cluster2 170 172	we
+T45	Cluster2 341 343	we

@@ -1,0 +1,15 @@
+Waves on the surface of a planetary magnetopause promote energy transport into the magnetosphere, representing an important aspect of solar wind-magnetosphere coupling.
+At Saturn's magnetopause it has been proposed that growth of the Kelvin-Helmholtz (K-H) instability produces greater wave activity on the dawn side of the surface than on the dusk side.
+We test this hypothesis using data taken by the Cassini spacecraft during crossings of Saturn's magnetopause.
+Surface orientation perturbations are primarily controlled by the local magnetospheric magnetic field orientation, and are generally greater at dusk than at dawn.
+53% of all crossings were part of a sequence of regular oscillations arising in consecutive surface normals that is strong evidence for tailward propagating surface waves, with no detectable local time asymmetry in this phenomenon.
+We estimate the dominant wave period to be ∼5h at dawn and ∼3h at dusk.
+The role played by the magnetospheric magnetic field, tailward wave propagation, and the dawn-dusk difference in wave period suggests that K-H instability is a major wave driving mechanism.
+Using linear K-H theory we estimate the dominant wavelength to be ∼10 Saturn radii (RS) and amplitude to be ∼1 RS at both dawn and dusk, giving propagation speeds of ∼30 and ∼50kms-1 at dawn and dusk, respectively.
+The lack of the hypothesized dawn-dusk asymmetry in wave activity demonstrates that we need to revise our understanding of the growth of the K-H instability at Saturn's magnetopause, which will have implications for the study of other planetary magnetospheres.
+Highlights
+► Surface waves on a planetary magnetopause transport energy into the magnetosphere.
+► Differences in the level of wave activity across Saturn's magnetopause has been predicted.
+► Kelvin-Helmholtz waves often form on Saturn's magnetopause surface.
+► There is no evidence for the predicted difference across the surface.
+► We need to revise our understanding of surface waves on Saturn's magnetopause.

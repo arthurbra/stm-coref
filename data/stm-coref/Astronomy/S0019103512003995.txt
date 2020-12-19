@@ -1,0 +1,13 @@
+Transits in the H I 1216Å (Lyman α), O I 1334Å, C II 1335Å, and Si III 1206.5Å lines constrain the properties of the upper atmosphere of HD209458b.
+In addition to probing the temperature and density profiles in the thermosphere, they have implications for the properties of the lower atmosphere.
+Fits to the observations with a simple empirical model and a direct comparison with a more complex hydrodynamic model constrain the mean temperature and ionization state of the atmosphere, and imply that the optical depth of the extended thermosphere of the planet in the atomic resonance lines is significant.
+In particular, it is sufficient to explain the observed transit depths in the H I 1216Å line.
+The detection of O at high altitudes implies that the minimum mass loss rate from the planet is approximately 6×106kgs-1.
+The mass loss rate based on our hydrodynamic model is higher than this and implies that diffusive separation is prevented for neutral species with a mass lower than about 130amu by the escape of H.
+Heavy ions are transported to the upper atmosphere by Coulomb collisions with H+ and their presence does not provide as strong constraints on the mass loss rate as the detection of heavy neutral atoms.
+Models of the upper atmosphere with solar composition and heating based on the average solar X-ray and EUV flux agree broadly with the observations but tend to underestimate the transit depths in the O I, C II, and Si III lines.
+This suggests that the temperature and/or elemental abundances in the thermosphere may be higher than expected from such models.
+Observations of the escaping atmosphere can potentially be used to constrain the strength of the planetary magnetic field.
+We find that a magnetic moment of m≲0.04mJ, where mJ is the jovian magnetic moment, allows the ions to escape globally rather than only along open field lines.
+The detection of Si2+ in the thermosphere indicates that clouds of forsterite and enstatite do not form in the lower atmosphere.
+This has implications for the temperature and dynamics of the atmosphere that also affect the interpretation of transit and secondary eclipse observations in the visible and infrared wavelengths.

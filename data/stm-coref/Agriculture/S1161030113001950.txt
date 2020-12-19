@@ -1,0 +1,12 @@
+In the frame of the Land Use/Land Cover Area Frame Survey sampling of topsoil was carried out on around 22,000 points in 25 EU Member States in 2009 and in additional 2 Member States in 2012.
+Besides other basic soil properties soil phosphorus (P) content of the samples were also measured in a single laboratory in both years.
+Based on the results of the LUCAS topsoil survey we performed an assessment of plant available P status of European croplands.
+Higher P levels can be observed in regions where higher crop yields can be expected and where high fertilizer P inputs are reported.
+Plant available phosphorus levels were determined using two selected fertilizer recommendation systems: one from Hungary and one from the United Kingdom.
+The fertilizer recommendation system of the UK does not recommend additional fertilizer use on croplands with highest P supply, which covers regions mostly in Belgium and the Netherlands.
+According to a Hungarian advisory system there is a need for fertilizer P input in all regions of the EU.
+We established a P fertilizer need map based on integrating results from the two systems.
+Based on data from 2009 and 2012, P input demand of croplands in the European Union was estimated to 3,849,873 tons(P2O5)/year.
+Meanwhile we found disparities of calculated input need and reported fertilizer statistics both on local (country) scale and EU level.
+The first ever uniform topsoil P survey of the EU highlights the contradictions between soil P management of different countries of the Union and the inconsistencies between reported P fertilizer consumption and advised P doses.
+Our analysis shows a status of a baseline period of the years 2009 and 2012, while a repeated LUCAS topsoil survey can be a useful tool to monitor future changes of nutrient levels, including P in soils of the EU.

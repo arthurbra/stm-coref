@@ -1,0 +1,9 @@
+This paper presents an approach for the automated debugging of reactive and concurrent Java programs, combining model checking and runtime monitoring.
+Runtime monitoring is used to transform the Java execution traces into the input for the model checker, the purpose of which is twofold.
+First, it checks these execution traces against properties written in linear temporal logic (LTL), which represent desirable or undesirable behaviors.
+Second, it produces several execution traces for a single Java program by generating test inputs and exploring different schedulings in multithreaded programs.
+As state explosion is the main drawback to model checking, we propose two abstraction approaches to reduce the memory requirements when storing Java states.
+We also present the formal framework to clarify which kinds of LTL safety and liveness formulas can be correctly analysed with each abstraction for both finite and infinite program executions.
+A major advantage of our approach comes from the model checker, which stores the trace of each failed execution, allowing the programmer to replay these executions to locate the bugs.
+Our current implementation, the tool TJT, uses Spin as the model checker and the Java Debug Interface (JDI) for runtime monitoring.
+TJT is presented as an Eclipse plug-in and it has been successfully applied to debug complex public Java programs.

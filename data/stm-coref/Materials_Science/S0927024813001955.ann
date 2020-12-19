@@ -1,0 +1,37 @@
+T1	Entity 0 24	A thin ZnO (<200nm) film
+T2	Cluster2 34 76	Atmospheric Atomic Layer Deposition (AALD)
+T3	Entity 115 136	a hole-blocking layer
+T4	Entity 140 252	poly(3-hexylthiophene-2,5-diyl):[6,6]-phenyl-C61-buyric acid methyl ester (P3HT:PCBM) based inverted solar cells
+T5	Entity 254 275	These AALD ZnO layers
+T6	Entity 294 318	a high electron mobility
+T7	Entity 322 335	3.4+0.1cm2/Vs
+T8	Entity 369 382	visible light
+T9	Entity 341 351	up to 100%
+T10	Entity 352 365	transmittance
+T11	Entity 388 406	a good wettability
+T12	Entity 411 420	the blend
+T13	Cluster1 477 497	the cell performance
+T14	Entity 430 475	the very rapid, open atmosphere growth method
+T15	Entity 518 579	some of the best inverted bulk heterojunction P3HT:PCBM cells
+T16	Cluster1 599 614	The performance
+T17	Entity 641 649	200 days
+T18	Entity 653 660	storage
+T19	Entity 664 679	air in the dark
+T20	Entity 713 716	ZnO
+T21	Entity 734 744	under 5min
+T22	Cluster2 751 793	Atmospheric Atomic Layer Deposition (AALD)
+T23	Cluster2 797 801	AALD
+T24	Entity 852 875	roll-to-roll processing
+T25	Cluster3 879 891	The AALD ZnO
+T26	Entity 931 950	organic solar cells
+T27	Entity 904 927	the hole blocking layer
+T28	Entity 954 965	The devices
+T29	Entity 970 982	performances
+T30	Entity 1037 1075	The low-temperature deposited AALD ZnO
+T31	Entity 1091 1120	plastic substrate solar cells
+T32	Entity 999 1033	the highest reported in literature
+T33	Entity 281 288	compact
+T34	Entity 721 730	deposited
+T35	Cluster3 0 99	A thin ZnO (<200nm) film grown by Atmospheric Atomic Layer Deposition (AALD) in a matter of minutes
+T36	Cluster4 115 252	a hole-blocking layer in poly(3-hexylthiophene-2,5-diyl):[6,6]-phenyl-C61-buyric acid methyl ester (P3HT:PCBM) based inverted solar cells
+T37	Cluster4 904 950	the hole blocking layer in organic solar cells

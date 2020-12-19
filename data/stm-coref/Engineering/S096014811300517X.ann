@@ -1,0 +1,75 @@
+T1	Cluster6 25 34	a turbine
+T2	Entity 58 73	the predictions
+T3	Entity 101 106	sites
+T4	Entity 35 44	increases
+T5	Cluster1 180 189	free flow
+T6	Entity 166 175	optimized
+T7	Entity 200 209	simulated
+T8	Cluster11 254 263	a channel
+T9	Cluster1 271 280	free flow
+T10	Cluster1 389 398	free flow
+T11	Cluster2 436 447	revolutions
+T12	Cluster12 464 475	convergence
+T13	Entity 477 487	around 100
+T14	Entity 523 533	increasing
+T15	Cluster2 615 626	revolutions
+T16	Entity 627 636	decreases
+T17	Entity 745 754	increases
+T18	Entity 781 790	decreased
+T19	Entity 823 838	the predictions
+T20	Cluster4 844 861	streamtube theory
+T21	Entity 867 882	this difference
+T22	Entity 883 892	increases
+T23	Entity 977 986	increases
+T24	Entity 992 1002	decreasing
+T25	Entity 1032 1041	the chord
+T26	Entity 1021 1031	increasing
+T27	Entity 1117 1126	increased
+T28	Cluster11 1189 1198	a channel
+T29	Entity 1161 1170	extending
+T30	Cluster6 1235 1244	a turbine
+T31	Entity 1245 1254	increases
+T32	Entity 1260 1270	decreasing
+T33	Cluster6 1320 1329	a turbine
+T34	Entity 1330 1339	increases
+T35	Entity 1345 1355	decreasing
+T36	Entity 1373 1381	Turbines
+T37	Cluster11 1385 1394	a channel
+T38	Cluster1 1429 1438	free flow
+T39	Cluster12 1494 1505	convergence
+T40	Cluster9 0 21	The power coefficient
+T41	Entity 112 133	a confined fluid flow
+T42	Entity 141 164	a vertical axis turbine
+T43	Cluster15 213 244	a two-dimensional vortex method
+T44	Entity 319 343	the numerical parameters
+T45	Entity 347 366	channel simulations
+T46	Cluster8 403 416	wide channels
+T47	Cluster7 491 518	the optimal tip speed ratio
+T48	Entity 539 561	higher tip speed ratio
+T49	Entity 574 590	smaller channels
+T50	Cluster3 674 693	turbine performance
+T51	Entity 697 719	the channel boundaries
+T52	Cluster3 721 744	The turbine performance
+T53	Cluster5 760 777	the channel width
+T54	Cluster7 949 976	the optimal tip speed ratio
+T55	Cluster5 1003 1016	channel width
+T56	Entity 1049 1058	decreases
+T57	Cluster7 1059 1086	the optimal tip speed ratio
+T58	Cluster9 1088 1109	the power coefficient
+T59	Cluster15 1171 1185	a vortex model
+T60	Cluster5 1271 1284	channel width
+T61	Entity 1211 1230	The extracted power
+T62	Cluster7 1288 1315	The optimal tip speed ratio
+T63	Cluster5 1356 1369	channel width
+T64	Entity 1407 1420	larger blades
+T65	Cluster8 1442 1455	Wide channels
+T66	Entity 1464 1489	many simulated revolution
+T67	Entity 418 432	a large number
+T68	Entity 592 611	the required number
+T69	Entity 898 908	decreasing
+T70	Cluster5 909 922	channel width
+T71	Cluster4 79 96	streamtube theory
+T72	Cluster4 1150 1156	Theory
+T73	Cluster10 58 96	the predictions from streamtube theory
+T74	Cluster10 823 861	the predictions from streamtube theory
+T75	Cluster3 1211 1244	The extracted power for a turbine

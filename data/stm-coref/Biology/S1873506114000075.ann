@@ -1,0 +1,61 @@
+T1	Cluster1 0 41	Familial amyloidotic polyneuropathy (FAP)
+T2	Entity 45 69	a hereditary amyloidosis
+T3	Entity 81 115	amyloidogenic transthyretin (ATTR)
+T4	Entity 162 173	synthesized
+T5	Entity 177 186	the liver
+T6	Entity 70 77	induced
+T7	Entity 256 260	halt
+T8	Cluster2 297 299	LT
+T9	Entity 319 335	several problems
+T10	Cluster2 388 390	LT
+T11	Entity 520 533	The induction
+T12	Entity 537 573	induced pluripotent stem (iPS) cells
+T13	Cluster10 632 640	patients
+T14	Entity 723 732	elucidate
+T15	Entity 984 1002	dermal fibroblasts
+T16	Entity 974 983	reprogram
+T17	Entity 871 900	a Sendai virus vector mixture
+T18	Cluster6 1103 1124	hepatocyte-like cells
+T19	Entity 1136 1150	expressed ATTR
+T20	Entity 1084 1097	differentiate
+T21	Cluster5 1218 1237	a pathological tool
+T22	Cluster11 1416 1430	a Sendai virus
+T23	Cluster6 1494 1515	hepatocyte-like cells
+T24	Entity 1475 1488	differentiate
+T25	Cluster6 1519 1540	Hepatocyte-like cells
+T26	Cluster5 1666 1685	a pathological tool
+T27	Cluster2 188 214	liver transplantation (LT)
+T28	Entity 261 283	the progression of FAP
+T29	Entity 125 158	most transthyretin (TTR) in serum
+T30	Entity 601 618	pluripotent cells
+T31	Entity 673 687	human diseases
+T32	Entity 805 839	heterozygous ATTR mutant iPS cells
+T33	Cluster10 1016 1028	FAP patients
+T34	Cluster3 1040 1062	FAP-specific iPS cells
+T35	Cluster3 1152 1174	FAP-specific iPS cells
+T36	Entity 1319 1333	FAP treatments
+T37	Cluster3 1384 1406	FAP-specific iPS cells
+T38	Cluster3 1434 1456	FAP-specific iPS cells
+T39	Cluster3 1546 1568	FAP-specific iPS cells
+T40	Cluster3 1603 1625	FAP-specific iPS cells
+T41	Entity 733 759	the molecular pathogenesis
+T42	Cluster1 763 766	FAP
+T43	Entity 912 970	four transcription factors (Oct3/4, Sox2, Klf4, and c-Myc)
+T44	Entity 1276 1292	the pathogenesis
+T45	Cluster1 1296 1299	FAP
+T46	Entity 1576 1599	expressed ATTR Val30Met
+T47	Entity 501 509	patients
+T48	Cluster1 515 518	FAP
+T49	Entity 392 417	the detailed pathogenesis
+T50	Cluster1 421 424	FAP
+T51	Entity 475 497	the relevant processes
+T52	Entity 586 597	development
+T53	Entity 656 669	useful models
+T54	Entity 1003 1010	derived
+T55	Cluster9 782 784	we
+T56	Cluster10 501 518	patients with FAP
+T57	Cluster5 1238 1242	that
+T58	Cluster9 1348 1350	We
+T59	Cluster11 871 970	a Sendai virus vector mixture containing four transcription factors (Oct3/4, Sox2, Klf4, and c-Myc)
+T60	Cluster12 392 424	the detailed pathogenesis of FAP
+T61	Cluster12 1276 1299	the pathogenesis of FAP

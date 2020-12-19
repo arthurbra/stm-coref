@@ -1,0 +1,44 @@
+T1	Cluster1 0 14	O3-type NaFeO2
+T2	Entity 43 51	positive
+T3	Entity 298 328	the adjacent tetrahedral sites
+T4	Entity 489 505	room temperature
+T5	Cluster3 507 521	NaFe0.5Co0.5O2
+T6	Entity 522 530	delivers
+T7	Entity 717 734	Na0.3Fe0.5Co0.5O2
+T8	Entity 594 598	good
+T9	Entity 622 631	excellent
+T10	Entity 861 869	suppress
+T11	Cluster3 1046 1068	layered NaFe0.5Co0.5O2
+T12	Entity 1136 1142	NaFeO2
+T13	Entity 1147 1153	NaCoO2
+T14	Entity 1157 1172	NaxFe0.5Co0.5O2
+T15	Entity 1227 1241	layered oxides
+T16	Entity 76 101	rechargeable Na batteries
+T17	Cluster6 52 71	electrode materials
+T18	Entity 136 153	sodium extraction
+T19	Entity 211 245	the irreversible structural change
+T20	Entity 274 292	the iron migration
+T21	Entity 332 341	Na layers
+T22	Cluster3 390 415	cobalt-substituted NaFeO2
+T23	Cluster5 464 485	a non-aqueous Na cell
+T24	Entity 531 577	approximately 160mAhg-1 of reversible capacity
+T25	Entity 599 617	capacity retention
+T26	Entity 651 678	a voltage range of 2.5-4.0V
+T27	Entity 632 647	rate-capability
+T28	Entity 693 713	reversible formation
+T29	Entity 870 903	the irreversible phase transition
+T30	Entity 736 777	The partial substitution of metal element
+T31	Entity 782 818	Fe in O3-type NaFeO2-based materials
+T32	Cluster6 973 996	the electrode materials
+T33	Entity 924 969	the reversibility of sodium removal/insertion
+T34	Cluster5 1101 1108	Na cell
+T35	Cluster4 1076 1097	electrode performance
+T36	Entity 1176 1220	one of the highest power positive electrodes
+T37	Cluster4 439 460	electrode performance
+T38	Entity 1011 1020	Synthesis
+T39	Entity 1025 1042	characterizations
+T40	Cluster1 112 115	its
+T41	Cluster2 345 347	we
+T42	Cluster2 375 377	we
+T43	Cluster3 1072 1075	Its
+T44	Cluster4 1127 1132	those

@@ -1,0 +1,12 @@
+T1	Entity 89 116	weakly hyperbolic equations
+T2	Entity 36 51	low order terms
+T3	Entity 122 158	analytic time-dependent coefficients
+T4	Entity 258 277	the Levi conditions
+T5	Entity 288 309	the C∞ well-posedness
+T6	Entity 55 84	the C∞ well-posedness results
+T7	Entity 198 207	reduction
+T8	Entity 258 327	the Levi conditions such that the C∞ well-posedness continues to hold
+T9	Entity 21 158	how to include low order terms in the C∞ well-posedness results for weakly hyperbolic equations with analytic time-dependent coefficients
+T10	Entity 36 51	low order terms
+T11	Cluster1 13 15	we
+T12	Cluster1 250 252	We

@@ -1,0 +1,82 @@
+T1	Cluster1 0 18	The moon Enceladus
+T2	Cluster1 417 425	the moon
+T3	Cluster1 908 916	the moon
+T4	Cluster1 1659 1667	the moon
+T5	Cluster1 1802 1810	the moon
+T6	Cluster2 149 188	A plume of water ice molecules and dust
+T7	Cluster2 500 509	the plume
+T8	Cluster2 589 598	the plume
+T9	Cluster2 1238 1247	the plume
+T10	Cluster3 380 402	the Cassini spacecraft
+T11	Cluster3 881 888	Cassini
+T12	Cluster3 1057 1071	the spacecraft
+T13	Cluster3 1121 1135	the spacecraft
+T14	Cluster3 1816 1823	Cassini
+T15	Cluster3 1997 2004	Cassini
+T16	Cluster4 1178 1189	field lines
+T17	Cluster4 1339 1356	those field lines
+T18	Entity 403 407	flew
+T19	Entity 1848 1858	the flybys
+T20	Cluster12 1706 1715	electrons
+T21	Cluster12 2318 2327	electrons
+T22	Entity 122 147	the Kronian magnetosphere
+T23	Entity 89 118	neutral and charged particles
+T24	Entity 206 239	geysers on the south polar region
+T25	Entity 268 272	feed
+T26	Entity 273 283	the E-ring
+T27	Entity 426 434	14 times
+T28	Entity 446 460	as low as 25km
+T29	Entity 467 478	the surface
+T30	Entity 551 581	plasma and energetic particles
+T31	Cluster10 535 547	measurements
+T32	Entity 603 625	its immediate vicinity
+T33	Entity 762 818	the Low Energy Magnetospheric Measurement System (LEMMS)
+T34	Entity 828 872	the Magnetospheric Imaging Instrument (MIMI)
+T35	Entity 953 984	the magnetometer instrument MAG
+T36	Cluster10 937 949	measurements
+T37	Entity 1073 1093	Features in the data
+T38	Entity 1153 1171	the plume material
+T39	Entity 1202 1210	entering
+T40	Entity 1324 1332	bouncing
+T41	Entity 1417 1431	flyby geometry
+T42	Entity 1485 1499	the instrument
+T43	Entity 2027 2048	the south polar plume
+T44	Cluster7 2071 2080	gradients
+T45	Entity 2084 2113	the magnetic field components
+T46	Entity 2232 2255	complex electron drifts
+T47	Cluster1 2275 2284	Enceladus
+T48	Entity 1968 1991	energetic electron data
+T49	Entity 1944 1964	the presence of dust
+T50	Cluster9 1908 1923	MIMI/LEMMS data
+T51	Entity 1547 1565	some of the flybys
+T52	Entity 1571 1591	"ramp-like" features
+T53	Entity 1680 1702	nearly full absorption
+T54	Entity 2005 2018	flew directly
+T55	Entity 1294 1300	losses
+T56	Entity 1304 1323	energetic electrons
+T57	Entity 2348 2367	intensity drop-outs
+T58	Entity 32 56	Saturn's radiation belts
+T59	Entity 989 1018	the Electron Spectrometer ELS
+T60	Entity 1022 1048	the plasma instrument CAPS
+T61	Entity 1211 1234	the high density region
+T62	Entity 1748 1773	partially/fully connected
+T63	Entity 1777 1790	the flux tube
+T64	Entity 1832 1844	at least two
+T65	Cluster8 2296 2313	forbidden regions
+T66	Entity 293 349	the neutral torus of Saturn and the entire magnetosphere
+T67	Entity 686 717	energetic electron measurements
+T68	Entity 721 752	the energy range 27keV to 21MeV
+T69	Entity 1249 1276	Sharp absorption signatures
+T70	Entity 1366 1397	the emitted gas and dust clouds
+T71	Entity 1515 1539	the depletion signatures
+T72	Entity 2174 2210	the MIMI/LEMMS particles intensities
+T73	Entity 1446 1481	measured pitch angle/look direction
+T74	Entity 1603 1622	a partial depletion
+T75	Cluster2 603 606	its
+T76	Cluster6 658 660	we
+T77	Cluster6 1727 1729	We
+T78	Cluster6 1501 1503	We
+T79	Cluster6 2062 2064	we
+T80	Cluster7 2114 2119	which
+T81	Cluster8 2328 2333	which
+T82	Cluster9 686 872	energetic electron measurements in the energy range 27keV to 21MeV taken by the Low Energy Magnetospheric Measurement System (LEMMS), part of the Magnetospheric Imaging Instrument (MIMI)

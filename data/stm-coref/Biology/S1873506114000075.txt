@@ -1,0 +1,16 @@
+Familial amyloidotic polyneuropathy (FAP) is a hereditary amyloidosis induced by amyloidogenic transthyretin (ATTR).
+Because most transthyretin (TTR) in serum is synthesized by the liver, liver transplantation (LT) is today the only treatment available to halt the progression of FAP, even though LT is associated with several problems.
+Despite the urgent need to develop alternatives to LT, the detailed pathogenesis of FAP is still unknown; also, no model fully represents the relevant processes in patients with FAP.
+The induction of induced pluripotent stem (iPS) cells has allowed development of pluripotent cells specific for patients and has led to useful models of human diseases.
+Because of the need for a tool to elucidate the molecular pathogenesis of FAP, in this study we sought to establish heterozygous ATTR mutant iPS cells, and were successful, by using a Sendai virus vector mixture containing four transcription factors (Oct3/4, Sox2, Klf4, and c-Myc) to reprogram dermal fibroblasts derived from FAP patients.
+Moreover, FAP-specific iPS cells had the potential to differentiate into hepatocyte-like cells and indeed expressed ATTR.
+FAP-specific iPS cells demonstrated the possibility of serving as a pathological tool that will contribute to understanding the pathogenesis of FAP and development of FAP treatments.
+Highlights
+•
+We established, for the first time, FAP-specific iPS cells by using a Sendai virus.
+•
+FAP-specific iPS cells have potential to differentiate into hepatocyte-like cells.
+•
+Hepatocyte-like cells from FAP-specific iPS cells indeed expressed ATTR Val30Met.
+•
+FAP-specific iPS cells demonstrate the possibility to serve as a pathological tool.

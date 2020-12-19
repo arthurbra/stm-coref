@@ -1,0 +1,74 @@
+T1	Entity 53 65	interactions
+T2	Cluster1 276 314	total soil organic carbon (SOC) stocks
+T3	Entity 414 430	tree shade types
+T4	Entity 463 483	coffee establishment
+T5	Entity 527 532	12.4%
+T6	Entity 551 556	0.13%
+T7	Entity 514 523	decreased
+T8	Entity 615 626	soil layers
+T9	Cluster1 638 648	SOC stocks
+T10	Entity 768 775	20-40cm
+T11	Entity 1042 1063	unpruned timber trees
+T12	Entity 961 994	heavily pruned legume shade trees
+T13	Cluster3 1033 1036	SOC
+T14	Cluster2 1026 1032	0-10cm
+T15	Entity 929 939	shade type
+T16	Cluster1 1095 1105	SOC stocks
+T17	Cluster3 1170 1173	SOC
+T18	Entity 813 831	Organic management
+T19	Cluster2 861 867	0-10cm
+T20	Cluster3 868 871	SOC
+T21	Entity 1260 1277	expansion factors
+T22	Entity 1375 1401	initial SOC stock per plot
+T23	Entity 1451 1499	these woody-plant-dominated agricultural systems
+T24	Cluster1 1500 1510	SOC stocks
+T25	Entity 1735 1748	soil C stocks
+T26	Entity 1722 1731	increases
+T27	Entity 1819 1843	surface-layer SOC stocks
+T28	Entity 1960 1994	site- and system-specific sampling
+T29	Entity 2043 2079	climate change mitigation strategies
+T30	Entity 1771 1808	organic fertiliser/tree pruning mulch
+T31	Entity 1756 1767	high inputs
+T32	Entity 1865 1886	stocks in deeper soil
+T33	Entity 1936 1948	surface soil
+T34	Entity 1670 1701	tree-based agricultural systems
+T35	Entity 649 658	increased
+T36	Entity 733 755	much greater reduction
+T37	Entity 839 857	a greater increase
+T38	Entity 1536 1553	a new equilibrium
+T39	Entity 1004 1022	a greater increase
+T40	Entity 1434 1447	establishment
+T41	Entity 1571 1632	the change in the quantity and distribution of organic inputs
+T42	Entity 1809 1818	increased
+T43	Entity 255 261	assess
+T44	Entity 132 139	effects
+T45	Entity 143 158	land management
+T46	Entity 894 907	its reduction
+T47	Entity 911 916	depth
+T48	Entity 918 925	Effects
+T49	Entity 945 952	smaller
+T50	Entity 1178 1195	poorly correlated
+T51	Entity 1348 1369	negatively correlated
+T52	Entity 262 272	the effect
+T53	Entity 8 39	carbon accounting methodologies
+T54	Entity 74 110	above-ground and below-ground carbon
+T55	Entity 178 223	two long-term coffee agroforestry experiments
+T56	Entity 322 360	organic versus conventional management
+T57	Entity 367 406	higher versus moderate agronomic inputs
+T58	Entity 571 584	Change in SOC
+T59	Entity 484 502	total 0-40cm depth
+T60	Cluster1 503 513	SOC stocks
+T61	Cluster2 628 637	at 0-10cm
+T62	Entity 662 682	2.14 and 1.26MgCha-1
+T63	Entity 777 797	9.65 and 2.85MgCha-1
+T64	Entity 1125 1152	shaded and unshaded systems
+T65	Entity 1156 1165	any depth
+T66	Entity 1201 1228	above-ground biomass stocks
+T67	Entity 1242 1255	poor validity
+T68	Entity 1311 1328	SOC stock changes
+T69	Entity 1297 1305	estimate
+T70	Cluster3 1306 1309	SOC
+T71	Cluster4 839 871	a greater increase in 0-10cm SOC
+T72	Cluster4 1004 1036	a greater increase in 0-10cm SOC
+T73	Cluster5 1756 1808	high inputs of organic fertiliser/tree pruning mulch
+T74	Cluster5 1845 1849	this

@@ -1,0 +1,60 @@
+T1	Cluster1 131 149	runtime monitoring
+T2	Cluster1 151 169	Runtime monitoring
+T3	Cluster1 1245 1263	runtime monitoring
+T4	Cluster2 191 216	the Java execution traces
+T5	Cluster2 305 327	these execution traces
+T6	Entity 1026 1035	the trace
+T7	Entity 673 695	abstraction approaches
+T8	Entity 888 899	abstraction
+T9	Cluster4 112 126	model checking
+T10	Cluster4 642 656	model checking
+T11	Cluster5 236 253	the model checker
+T12	Cluster5 994 1011	the model checker
+T13	Cluster5 1188 1205	the model checker
+T14	Entity 1180 1184	Spin
+T15	Cluster6 1039 1060	each failed execution
+T16	Cluster6 1096 1112	these executions
+T17	Cluster7 1161 1173	the tool TJT
+T18	Cluster7 1265 1268	TJT
+T19	Entity 36 59	the automated debugging
+T20	Entity 1344 1349	debug
+T21	Entity 336 346	properties
+T22	Entity 513 523	generating
+T23	Entity 524 535	test inputs
+T24	Entity 540 549	exploring
+T25	Entity 560 571	schedulings
+T26	Entity 735 742	storing
+T27	Entity 699 705	reduce
+T28	Entity 772 792	the formal framework
+T29	Entity 1089 1095	replay
+T30	Entity 1116 1122	locate
+T31	Entity 1123 1131	the bugs
+T32	Entity 1019 1025	stores
+T33	Entity 63 100	reactive and concurrent Java programs
+T34	Entity 222 231	the input
+T35	Entity 358 385	linear temporal logic (LTL)
+T36	Entity 403 437	desirable or undesirable behaviors
+T37	Entity 459 483	several execution traces
+T38	Entity 488 509	a single Java program
+T39	Entity 575 597	multithreaded programs
+T40	Entity 602 617	state explosion
+T41	Entity 669 672	two
+T42	Entity 743 754	Java states
+T43	Entity 706 729	the memory requirements
+T44	Entity 904 947	both finite and infinite program executions
+T45	Entity 1210 1240	the Java Debug Interface (JDI)
+T46	Entity 1285 1303	an Eclipse plug-in
+T47	Entity 1350 1378	complex public Java programs
+T48	Entity 859 877	correctly analysed
+T49	Entity 819 851	LTL safety and liveness formulas
+T50	Cluster8 387 392	which
+T51	Cluster8 336 385	properties written in linear temporal logic (LTL)
+T52	Cluster5 295 297	it
+T53	Cluster5 447 449	it
+T54	Cluster10 658 660	we
+T55	Cluster10 756 758	We
+T56	Cluster10 1133 1136	Our
+T57	Cluster10 970 973	our
+T58	Cluster5 1013 1018	which
+T59	Cluster7 1308 1310	it
+T60	Cluster5 270 275	which

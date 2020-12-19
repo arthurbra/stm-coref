@@ -1,0 +1,57 @@
+T1	Entity 81 96	Systems-on-Chip
+T2	Entity 116 135	an unbounded number
+T3	Entity 174 188	a large number
+T4	Entity 465 476	correctness
+T5	Cluster3 402 435	a comprehensive modeling approach
+T6	Entity 523 548	the high-level properties
+T7	Entity 747 768	mathematically verify
+T8	Entity 796 817	high-level properties
+T9	Entity 773 794	manageable complexity
+T10	Entity 936 944	designed
+T11	Entity 948 952	VHDL
+T12	Entity 960 976	the Petrify tool
+T13	Entity 1018 1029	synthesized
+T14	Entity 1034 1056	an Altera Cyclone FPGA
+T15	Entity 1381 1387	faults
+T16	Entity 1355 1372	metastable upsets
+T17	Entity 1327 1339	the measures
+T18	Entity 1402 1419	experimental data
+T19	Cluster6 1460 1473	the algorithm
+T20	Cluster3 1084 1110	a novel modeling framework
+T21	Entity 39 76	a distributed clock generation scheme
+T22	Entity 139 165	arbitrary transient faults
+T23	Entity 192 218	arbitrary permanent faults
+T24	Entity 333 363	metastability-free transitions
+T25	Entity 276 323	a hybrid synchronous/asynchronous state machine
+T26	Entity 480 521	the constructed low-level building blocks
+T27	Entity 552 581	the synchronization algorithm
+T28	Entity 821 841	a fault-prone system
+T29	Entity 1115 1143	fault-tolerant VLSI circuits
+T30	Cluster6 1155 1189	a self-stabilizing clocking scheme
+T31	Entity 230 271	self-stabilizing hardware building blocks
+T32	Entity 367 389	the algorithm's states
+T33	Entity 854 879	its very basic components
+T34	Cluster1 893 919	a prototype implementation
+T35	Entity 1243 1269	the implications of theory
+T36	Cluster1 1425 1456	a prototype FPGA implementation
+T37	Entity 614 635	a more abstract model
+T38	Entity 884 892	evaluate
+T39	Entity 11 35	the first implementation
+T40	Cluster2 0 2	We
+T41	Cluster2 220 222	We
+T42	Cluster2 391 393	We
+T43	Cluster2 638 640	We
+T44	Cluster2 881 883	We
+T45	Cluster2 1071 1073	We
+T46	Cluster2 1147 1149	We
+T47	Cluster2 1232 1234	We
+T48	Cluster2 1316 1318	We
+T49	Cluster2 1391 1393	We
+T50	Cluster3 436 440	that
+T51	Cluster1 921 926	which
+T52	Cluster5 583 588	which
+T53	Cluster5 523 581	the high-level properties of the synchronization algorithm
+T54	Cluster1 11 96	the first implementation of a distributed clock generation scheme for Systems-on-Chip
+T55	Cluster1 97 101	that
+T56	Cluster3 705 709	this
+T57	Cluster6 39 96	a distributed clock generation scheme for Systems-on-Chip

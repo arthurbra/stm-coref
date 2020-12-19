@@ -1,0 +1,35 @@
+T1	Entity 85 94	predicted
+T2	Entity 98 121	computational modelling
+T3	Entity 127 131	MOFs
+T4	Entity 146 162	ultra-micropores
+T5	Entity 296 311	the interaction
+T6	Entity 315 317	H2
+T7	Entity 363 366	low
+T8	Entity 430 432	5K
+T9	Entity 466 477	the channel
+T11	Entity 167 174	optimal
+T13	Entity 907 913	higher
+T14	Entity 0 39	Metal-organic framework (MOF) materials
+T15	Entity 57 67	H2 storage
+T16	Entity 179 189	H2 binding
+T17	Entity 197 228	enhanced overlapping potentials
+T18	Entity 264 292	inelastic neutron scattering
+T19	Cluster1 321 354	an ultra-microporous MOF material
+T20	Entity 367 385	H2 uptake capacity
+T21	Entity 415 426	adsorbed H2
+T22	Entity 437 459	a liquid recoil motion
+T23	Entity 512 524	the MOF host
+T27	Entity 599 637	incomplete activation or decomposition
+T28	Entity 641 659	the desolvated MOF
+T29	Entity 682 704	a measured pore volume
+T30	Cluster5 666 676	CO2 uptake
+T31	Entity 722 752	the single crystal pore volume
+T33	Cluster1 830 844	a MOF material
+T34	Entity 914 931	uptake capacities
+T35	Entity 936 956	binding interactions
+T36	Entity 483 506	very little interaction
+T24	Cluster2 555 565	low uptake
+T10	Cluster2 567 584	The low H2 uptake
+T12	Cluster2 809 822	low H2 uptake
+T25	Cluster5 714 718	that
+T26	Cluster2 363 385	low H2 uptake capacity

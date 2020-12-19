@@ -1,0 +1,55 @@
+T1	Cluster1 137 152	the Mefp-1 film
+T2	Entity 156 170	iron substrate
+T3	Entity 105 118	the formation
+T4	Entity 123 133	properties
+T5	Entity 247 253	Mefp-1
+T6	Cluster8 258 274	the complexation
+T7	Cluster2 299 304	QCM-D
+T8	Entity 326 354	an initially fast adsorption
+T9	Cluster6 361 374	the molecules
+T10	Entity 45 69	theoretical calculations
+T11	Entity 411 422	the surface
+T12	Cluster1 463 471	the film
+T13	Cluster6 483 492	molecules
+T14	Entity 510 518	solution
+T15	Entity 375 407	oriented preferentially parallel
+T16	Entity 568 589	enhanced complexation
+T17	Entity 520 528	Exposure
+T18	Cluster4 775 792	the surface layer
+T19	Cluster2 825 834	the QCM-D
+T20	Entity 866 874	addition
+T21	Cluster5 878 882	Fe3+
+T22	Entity 883 890	induces
+T23	Entity 891 903	a transition
+T24	Entity 909 943	an extended and soft protein layer
+T25	Entity 947 971	a denser and stiffer one
+T26	Cluster4 1115 1132	the surface layer
+T27	Entity 1140 1148	addition
+T28	Entity 1071 1078	monitor
+T29	Entity 1284 1300	the surface film
+T30	Entity 1311 1319	enhanced
+T31	Entity 1240 1249	formation
+T32	Cluster5 213 222	Fe3+ ions
+T33	Entity 224 243	Adsorption kinetics
+T34	Entity 436 455	a structural change
+T35	Entity 532 556	a diluted FeCl3 solution
+T36	Entity 597 622	the adsorbed protein film
+T37	Entity 670 700	In situ Peak Force Tapping AFM
+T38	Entity 982 998	in situ ATR-FTIR
+T39	Entity 1079 1111	compositional/structural changes
+T40	Cluster5 1152 1161	Fe3+ ions
+T41	Entity 1202 1218	DFT calculations
+T42	Entity 1253 1280	tri-Fe3+/catechol complexes
+T43	Entity 1003 1042	Confocal Raman Micro-spectroscopy (CRM)
+T44	Cluster9 1163 1189	The spectroscopic analyses
+T45	Cluster8 183 207	the protein complexation
+T46	Entity 635 648	water removal
+T47	Entity 653 668	film compaction
+T48	Entity 730 771	morphology and nano-mechanical properties
+T49	Cluster3 1323 1336	Fe3+ addition
+T50	Entity 11 18	in situ
+T51	Entity 19 40	analytical techniques
+T52	Entity 718 729	determining
+T53	Cluster3 1140 1161	addition of Fe3+ ions
+T54	Cluster3 866 882	addition of Fe3+
+T55	Cluster9 982 1053	in situ ATR-FTIR and Confocal Raman Micro-spectroscopy (CRM) techniques

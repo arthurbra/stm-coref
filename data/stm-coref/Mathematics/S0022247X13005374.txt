@@ -1,0 +1,6 @@
+We systematically investigate lower and upper bounds for the modified Bessel function ratio Rν=Iν+1/Iν by functions of the form Gα,β(t)=t/(α+t2+β2) in case Rν is positive for all t>0, or equivalently, where ν≥-1 or ν is a negative integer.
+For ν≥-1, we give an explicit description of the set of lower bounds and show that it has a greatest element.
+We also characterize the set of upper bounds and its minimal elements.
+If ν≥-1/2, the minimal elements are tangent to Rν in exactly one point 0≤t≤∞, and have Rν as their lower envelope.
+We also provide a new family of explicitly computable upper bounds.
+Finally, if ν is a negative integer, we explicitly describe the sets of lower and upper bounds, and give their greatest and least elements, respectively.

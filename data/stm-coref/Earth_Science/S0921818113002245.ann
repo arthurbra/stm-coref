@@ -1,0 +1,56 @@
+T1	Entity 390 396	varves
+T2	Entity 386 389	873
+T3	Entity 641 660	magnetosomal origin
+T4	Entity 917 927	correcting
+T5	Cluster7 1088 1104	reference curves
+T6	Entity 1070 1079	regressed
+T7	Cluster7 1208 1228	the reference curves
+T8	Entity 1519 1531	bioturbation
+T9	Entity 1670 1680	Chronology
+T10	Entity 1796 1809	at least 21cm
+T11	Entity 1782 1792	quantified
+T12	Cluster4 1726 1750	terrestrial macrofossils
+T13	Cluster5 11 39	the paleomagnetic properties
+T14	Entity 174 192	An age-depth model
+T15	Entity 206 240	a regional lead pollution isochron
+T16	Entity 245 263	Bayesian modelling
+T17	Entity 267 283	radiocarbon ages
+T18	Entity 347 382	a radiocarbon wiggle-matched series
+T19	Entity 414 444	between 3000 and 2000 Cal a BP
+T20	Entity 471 492	Mineral magnetic data
+T21	Entity 497 524	first order reversal curves
+T22	Entity 538 572	the natural remanent magnetization
+T23	Entity 587 627	stable single-domain grains of magnetite
+T24	Entity 662 678	Discrete samples
+T25	Entity 690 714	overlapping piston cores
+T26	Entity 736 806	smoothed paleomagnetic secular variation (inclination and declination)
+T27	Entity 811 844	relative paleointensity data sets
+T28	Cluster5 877 899	the paleomagnetic data
+T29	Entity 858 873	temporal trends
+T30	Entity 932 960	paleomagnetic lock-in depths
+T31	Entity 961 979	between 0 and 70cm
+T32	Entity 1004 1041	changes in sediment accumulation rate
+T33	Cluster6 1043 1064	These temporal trends
+T34	Entity 1109 1174	the same region (FENNOSTACK and FENNORPIS; Snowball et al., 2007)
+T35	Cluster9 1256 1281	lock-in depths of 21-34cm
+T36	Entity 1285 1319	the Gyltigesjön paleomagnetic data
+T37	Entity 1352 1369	minimum estimates
+T38	Entity 1395 1436	a significant paleomagnetic lock-in depth
+T39	Entity 1467 1507	post-depositional remanent magnetization
+T40	Entity 1549 1577	mixed sediment surface layer
+T41	Cluster5 1599 1617	Paleomagnetic data
+T42	Cluster8 1632 1666	organic rich varved lake sediments
+T43	Entity 1690 1709	14C wiggle-matching
+T44	Entity 1714 1722	14C ages
+T45	Entity 1754 1781	Paleomagnetic lock-in delay
+T46	Cluster8 43 105	relatively organic rich, annually laminated (varved) sediments
+T47	Entity 109 121	Holocene age
+T48	Entity 287 301	bulk sediments
+T49	Cluster4 306 330	terrestrial macrofossils
+T51	Cluster2 397 401	that
+T52	Cluster3 1247 1249	we
+T53	Cluster3 1371 1374	Our
+T54	Cluster3 0 2	We
+T55	Cluster2 347 396	a radiocarbon wiggle-matched series of 873 varves
+T56	Cluster6 858 899	temporal trends in the paleomagnetic data
+T57	Cluster9 1330 1335	these

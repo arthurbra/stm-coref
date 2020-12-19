@@ -1,0 +1,88 @@
+T1	Cluster1 107 121	carbon dioxide
+T2	Cluster2 123 148	The Sleipner storage site
+T3	Cluster1 250 253	CO2
+T4	Entity 272 305	the Sleipner gas condensate field
+T5	Entity 320 334	the pore space
+T6	Entity 338 358	the Utsira Formation
+T7	Entity 391 394	1km
+T8	Entity 401 412	the surface
+T9	Entity 417 422	200km
+T10	Entity 428 437	the coast
+T11	Cluster2 516 532	the storage site
+T12	Entity 488 494	1Mt/yr
+T13	Cluster10 472 480	injected
+T14	Entity 439 446	Statoil
+T15	Cluster7 545 566	The buoyant CO2 plume
+T16	Cluster14 592 597	eight
+T17	Entity 598 617	thin shale barriers
+T18	Cluster3 625 636	the aquifer
+T19	Entity 646 658	the top seal
+T20	Entity 819 832	the spreading
+T21	Entity 836 840	nine
+T22	Entity 841 856	thin CO2 layers
+T23	Entity 960 971	the plume's
+T24	Entity 972 980	geometry
+T25	Entity 907 935	invasion percolation physics
+T26	Entity 878 900	a capillary flow model
+T27	Cluster6 1008 1039	standard Darcy flow simulations
+T28	Cluster7 1156 1165	the plume
+T29	Entity 1137 1143	a mass
+T30	Entity 1190 1199	replicate
+T31	Cluster12 1268 1277	fractured
+T32	Cluster9 1222 1263	the thin intra-formational shale barriers
+T33	Entity 1312 1329	the shale barrier
+T34	Cluster12 1364 1377	The fractures
+T35	Entity 1463 1471	the rock
+T36	Cluster7 1497 1506	the plume
+T37	Cluster12 1515 1525	fracturing
+T38	Cluster10 1540 1549	injection
+T39	Entity 1583 1599	the deglaciation
+T40	Cluster11 1603 1622	regional ice sheets
+T41	Entity 1656 1664	unloaded
+T42	Entity 1665 1682	approximately 1km
+T43	Entity 1686 1689	ice
+T44	Entity 1746 1760	hydro-fracture
+T45	Entity 1761 1772	thin shales
+T46	Cluster12 1774 1787	The fractures
+T47	Entity 1825 1846	a multi-layered plume
+T48	Entity 1943 1964	Quaternary ice sheets
+T49	Entity 11 30	ocean acidification
+T50	Entity 44 68	greenhouse gas emissions
+T51	Entity 211 227	waste repository
+T52	Entity 232 248	a greenhouse gas
+T53	Entity 360 376	a saline aquifer
+T54	Entity 498 510	captured CO2
+T55	Cluster14 728 733	eight
+T56	Entity 734 749	seismic surveys
+T57	Entity 685 705	The plume's progress
+T58	Entity 762 804	gravimetric and electromagnetic monitoring
+T59	Cluster8 1061 1079	the plume geometry
+T60	Cluster5 1081 1121	The calibrated capillary flow simulation
+T61	Cluster8 1200 1218	the plume geometry
+T62	Entity 1297 1308	an estimate
+T63	Entity 1343 1362	caprock performance
+T64	Cluster10 1419 1432	CO2 injection
+T65	Entity 1691 1727	The induced transient pore pressures
+T66	Entity 1795 1810	fast CO2 ascent
+T67	Entity 1848 1873	Shallow CO2 storage sites
+T68	Entity 3 10	prevent
+T69	Entity 35 43	mitigate
+T70	Entity 89 96	capture
+T71	Entity 101 106	store
+T72	Entity 257 266	separated
+T73	Entity 310 316	stored
+T74	Entity 567 583	ascended rapidly
+T75	Entity 715 724	monitored
+T76	Cluster5 1279 1288	The model
+T77	Entity 1439 1459	the confining stress
+T78	Entity 1476 1493	weak overpressure
+T79	Cluster3 338 437	the Utsira Formation, a saline aquifer approximately 1km below the surface and 200km from the coast
+T81	Cluster5 936 940	that
+T82	Cluster5 878 935	a capillary flow model using invasion percolation physics
+T83	Cluster6 1041 1046	which
+T84	Cluster11 1623 1627	that
+#1	AnnotatorNotes T79	C, APPOS
+T80	Cluster8 960 980	the plume's geometry
+T85	Cluster13 1918 1922	that
+T86	Cluster13 1848 1917	Shallow CO2 storage sites in the Northern North Sea and other regions
+T87	Cluster9 592 617	eight thin shale barriers

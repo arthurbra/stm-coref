@@ -1,0 +1,16 @@
+We present the first implementation of a distributed clock generation scheme for Systems-on-Chip that recovers from an unbounded number of arbitrary transient faults despite a large number of arbitrary permanent faults.
+We devise self-stabilizing hardware building blocks and a hybrid synchronous/asynchronous state machine enabling metastability-free transitions of the algorithm's states.
+We provide a comprehensive modeling approach that permits to prove, given correctness of the constructed low-level building blocks, the high-level properties of the synchronization algorithm (which have been established in a more abstract model).
+We believe this approach to be of interest in its own right, since this is the first technique permitting to mathematically verify, at manageable complexity, high-level properties of a fault-prone system in terms of its very basic components.
+We evaluate a prototype implementation, which has been designed in VHDL, using the Petrify tool in conjunction with some extensions, and synthesized for an Altera Cyclone FPGA.
+Highlights
+•
+We introduce a novel modeling framework for fault-tolerant VLSI circuits.
+•
+We cast a self-stabilizing clocking scheme from a companion article in this model.
+•
+We discuss the implications of theory and model for the resulting implementation.
+•
+We present the measures taken to avoid metastable upsets despite faults.
+•
+We provide experimental data from a prototype FPGA implementation of the algorithm.

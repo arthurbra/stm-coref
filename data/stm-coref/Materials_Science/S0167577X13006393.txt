@@ -1,0 +1,17 @@
+Calcium phosphate (CaP) materials such as synthetic hydroxyapatite (HA, Ca10(PO4)6·(OH)2) and β-tricalcium phosphate (β-TCP, Ca3(PO4)2) are well-known for their potential in bone tissue engineering and drug delivery applications.
+Processing such materials into submicrofibres might contribute to improve their biocompatibility.
+This paper presents a new method for creating CaP submicrofibres through the electrospinning route.
+A thermal treatment at sintering temperature (1100°C) was applied to electrospun polymer fibres filled with hydroxyapatite nanoparticles to cause aggregation of the nanoparticles and vaporise the polymer matrix.
+The images taken by electron microscopy revealed that the treated samples maintained their submicrofibrous morphology.
+Moreover, Fourier transform infrared spectroscopy, X-ray diffraction and X-ray photoelectron spectroscopy analysis confirmed that the resulting fibres are made of hydroxypatite and tricalcium phosphates.
+Highlights
+•
+CaP submicrofibres can be produced by using a combination of electrospinning and sintering.
+•
+Electrospun fibres were produced from a PLGA solution highly concentrated with HA nanoparticles.
+•
+Heat treatments were applied to evaporate the polymer and induce sintering of the nanoparticles.
+•
+Hydroxypatite was identified to be the main material in the sintered scaffold.
+•
+Approach potentially applicable to make submicrofibres from a variety of ceramic material.

@@ -1,0 +1,74 @@
+T1	Entity 14 40	transcriptional regulation
+T2	Cluster2 44 66	pancreatic development
+T3	Entity 120 151	beta cell replacement therapies
+T4	Entity 156 178	patients with diabetes
+T5	Cluster15 201 231	key transcriptional regulators
+T6	Entity 260 273	mouse studies
+T7	Entity 280 315	rare, naturally occurring mutations
+T8	Entity 386 407	homozygosity analysis
+T9	Entity 412 429	Sanger sequencing
+T10	Entity 433 435	37
+T11	Entity 436 459	consanguineous patients
+T12	Cluster11 465 492	permanent neonatal diabetes
+T13	Cluster1 507 527	homozygous mutations
+T14	Entity 531 533	29
+T15	Entity 534 560	transcription factor genes
+T16	Entity 575 604	murine pancreatic development
+T17	Cluster1 620 640	homozygous mutations
+T18	Cluster3 644 645	7
+T19	Entity 646 661	different genes
+T20	Entity 665 667	11
+T21	Entity 668 686	unrelated patients
+T22	Entity 721 738	etiological genes
+T23	Cluster6 743 760	neonatal diabetes
+T24	Entity 796 807	development
+T25	Entity 811 829	the human pancreas
+T26	Entity 831 852	The similar phenotype
+T27	Entity 856 868	the patients
+T28	Cluster14 874 893	recessive mutations
+T29	Entity 898 902	mice
+T30	Entity 908 920	inactivation
+T31	Entity 924 959	a transcription factor gene support
+T32	Cluster2 998 1020	pancreatic development
+T33	Cluster7 1063 1084	beta cell development
+T34	Entity 1045 1058	rodent models
+T35	Cluster1 1118 1138	Homozygous mutations
+T36	Cluster3 1142 1147	seven
+T37	Entity 1148 1180	pancreatic transcription factors
+T38	Cluster6 1187 1204	neonatal diabetes
+T39	Entity 1258 1271	five patients
+T40	Entity 1207 1243	Homozygous NKX2-2 and MNX1 mutations
+T41	Entity 1316 1353	murine and human pancreas development
+T42	Entity 1356 1374	Similar phenotypes
+T43	Cluster7 1412 1433	beta cell development
+T44	Entity 1444 1462	a large collection
+T45	Entity 1466 1489	consanguineous patients
+T46	Cluster11 1495 1522	permanent neonatal diabetes
+T47	Cluster14 1577 1596	recessive mutations
+T48	Entity 1600 1621	transcription factors
+T49	Entity 1647 1675	mouse pancreatic development
+T50	Cluster3 1691 1696	seven
+T52	Cluster6 1741 1758	neonatal diabetes
+T53	Cluster4 701 707	NKX2-2
+T54	Cluster5 712 716	MNX1
+T55	Cluster4 1283 1289	NKX2-2
+T56	Cluster5 1294 1298	MNX1
+T57	Entity 1378 1383	mouse
+T58	Entity 1388 1391	man
+T59	Entity 1392 1400	validate
+T60	Cluster4 1770 1776	NKX2-2
+T61	Cluster5 1781 1785	MNX1
+T62	Cluster2 796 829	development of the human pancreas
+T63	Cluster10 1142 1180	seven pancreatic transcription factors
+T64	Cluster10 1691 1729	seven pancreatic transcription factors
+T65	Entity 436 492	consanguineous patients with permanent neonatal diabetes
+T66	Entity 1466 1522	consanguineous patients with permanent neonatal diabetes
+T67	Cluster15 329 334	their
+T68	Cluster16 433 492	37 consanguineous patients with permanent neonatal diabetes
+T69	Cluster16 1444 1522	a large collection of consanguineous patients with permanent neonatal diabetes
+T71	Cluster17 778 783	their
+T72	Cluster17 1770 1785	NKX2-2 and MNX1
+T73	Cluster17 1283 1298	NKX2-2 and MNX1
+T70	Cluster17 701 716	NKX2-2 and MNX1
+T51	Entity 1697 1729	pancreatic transcription factors
+T74	Cluster10 1730 1734	that

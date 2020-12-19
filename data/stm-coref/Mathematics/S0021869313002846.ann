@@ -1,0 +1,43 @@
+T1	Cluster2 4 5	O
+T2	Entity 30 44	a global field
+T3	Cluster1 45 46	K
+T4	Cluster3 52 53	R
+T5	Entity 54 81	a classical maximal O-order
+T6	Entity 85 109	a central simple algebra
+T7	Cluster1 115 116	K
+T8	Entity 146 160	factorizations
+T9	Entity 164 185	cancellative elements
+T10	Cluster3 189 190	R
+T11	Cluster8 260 283	a transfer homomorphism
+T12	Entity 287 295	a monoid
+T13	Entity 323 340	a ray class group
+T14	Cluster2 344 345	O
+T15	Entity 366 403	all the structural finiteness results
+T16	Cluster3 503 504	R
+T17	Entity 465 483	finite class group
+T18	Entity 434 459	commutative Krull monoids
+T19	Cluster2 509 510	O
+T20	Entity 548 562	a number field
+T21	Cluster1 563 564	K
+T22	Entity 583 602	the remaining cases
+T23	Entity 611 632	transfer homomorphism
+T24	Entity 704 712	infinite
+T25	Entity 652 670	several invariants
+T26	Entity 9 21	a holomorphy
+T27	Entity 22 26	ring
+T28	Cluster5 127 131	sets
+T29	Cluster6 135 142	lengths
+T30	Entity 196 216	atoms (irreducibles)
+T31	Entity 308 317	sequences
+T32	Entity 299 307	zero-sum
+T33	Cluster5 408 412	sets
+T34	Cluster6 416 423	lengths
+T35	Entity 514 522	the ring
+T36	Entity 526 544	algebraic integers
+T37	Cluster5 684 688	sets
+T38	Cluster6 692 699	lengths
+T39	Entity 127 216	sets of lengths of factorizations of cancellative elements of R into atoms (irreducibles)
+T40	Entity 506 712	If O is the ring of algebraic integers of a number field K, we prove that in the remaining cases no such transfer homomorphism can exist and that several invariants dealing with sets of lengths are infinite
+T41	Cluster4 566 568	we
+T42	Cluster4 118 120	We
+T43	Cluster8 606 632	such transfer homomorphism

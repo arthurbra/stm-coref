@@ -1,0 +1,104 @@
+T1	Entity 36 60	a simple plasma absorber
+T2	Cluster5 0 18	Saturn's moon Rhea
+T3	Entity 238 267	plasma absorbing interactions
+T4	Cluster9 269 292	Energetic electron data
+T5	Cluster2 400 415	the moon's wake
+T6	Entity 436 450	these dropouts
+T7	Entity 504 522	Rhea's Hill sphere
+T8	Entity 488 496	orbiting
+T9	Entity 706 735	the moon's interaction region
+T10	Entity 667 688	alternative processes
+T11	Entity 689 698	operating
+T12	Entity 811 867	magnetometer, cold plasma density and energetic ion data
+T13	Entity 869 879	All flybys
+T14	Cluster1 928 946	several structures
+T15	Entity 1026 1041	narrow dropouts
+T16	Entity 1045 1070	energetic electron fluxes
+T17	Entity 1085 1100	the wake flanks
+T18	Cluster2 1173 1181	the wake
+T19	Entity 1183 1213	A phase-space-density analysis
+T20	Cluster1 1218 1234	these structures
+T21	Entity 1240 1265	the first Rhea flyby (R1)
+T22	Entity 1277 1296	Liouville's theorem
+T23	Entity 1391 1408	the magnetosphere
+T24	Cluster2 1412 1420	the wake
+T25	Entity 1430 1445	narrow channels
+T26	Cluster3 1499 1521	this transport process
+T27	Cluster6 1647 1671	a hybrid simulation code
+T28	Entity 1688 1699	a transport
+T29	Cluster4 1867 1886	energetic electrons
+T30	Entity 1898 1919	the narrow structures
+T31	Cluster6 1991 2006	the hybrid code
+T32	Entity 2063 2087	the small scale features
+T33	Entity 2152 2165	the electrons
+T34	Cluster8 2180 2196	This instability
+T35	Cluster8 2110 2143	a flute (interchange) instability
+T36	Entity 2219 2235	strong gradients
+T37	Entity 2239 2258	the plasma pressure
+T38	Entity 2402 2416	ion absorption
+T39	Cluster5 2420 2424	Rhea
+T40	Entity 2332 2342	signatures
+T41	Cluster8 2454 2469	the instability
+T42	Entity 2486 2495	gradients
+T43	Entity 2499 2522	the cold plasma density
+T44	Cluster7 2642 2653	Rhea's wake
+T45	Entity 2619 2638	a density depletion
+T46	Cluster15 2679 2712	a local cold plasma source region
+T47	Entity 2772 2793	the ionized component
+T48	Entity 2797 2818	Rhea's weak exosphere
+T49	Cluster15 2750 2761	this source
+T50	Entity 2878 2915	the moon's negatively charged surface
+T51	Entity 2933 2949	surface charging
+T52	Entity 2992 3032	Rhea's magnetospheric interaction region
+T53	Entity 2984 2991	shaping
+T54	Entity 137 180	unexpected and complex interaction features
+T55	Entity 71 89	energetic particle
+T56	Entity 337 345	a series
+T57	Entity 456 466	absorption
+T58	Entity 470 487	dust and boulders
+T59	Entity 749 767	energetic electron
+T60	Entity 885 900	unique features
+T61	Entity 1347 1362	rapid transport
+T62	Cluster4 1366 1385	energetic electrons
+T63	Entity 1580 1602	the interaction region
+T64	Entity 1606 1629	a plasma absorbing moon
+T65	Entity 1746 1756	broadening
+T66	Entity 1760 1776	the central wake
+T67	Entity 2293 2305	magnetometer
+T68	Entity 2569 2583	most crossings
+T69	Cluster7 2587 2605	Rhea's plasma wake
+T70	Entity 349 381	broad and narrow flux depletions
+T71	Entity 606 637	all four Cassini flybys of Rhea
+T72	Entity 1141 1165	narrow flux enhancements
+T73	Entity 1543 1576	complex energetic electron drifts
+T74	Entity 1841 1863	interaction signatures
+T75	Entity 1942 1972	Additional dynamical processes
+T76	Entity 2263 2291	the magnetic field magnitude
+T77	Entity 2359 2394	the (expected) plasma pressure loss
+T78	Entity 2714 2739	Hybrid plasma simulations
+T79	Entity 2846 2872	accelerated photoelectrons
+T80	Entity 979 1014	The most interesting common feature
+T81	Entity 1723 1739	several features
+T82	Entity 417 432	The association
+T83	Entity 1782 1792	increasing
+T84	Entity 1793 1808	electron energy
+T85	Cluster3 1347 1445	rapid transport of energetic electrons from the magnetosphere to the wake, through narrow channels
+T86	Cluster3 1683 1699	such a transport
+T87	Cluster9 324 328	they
+T88	Cluster10 586 588	we
+T89	Cluster10 737 739	We
+T90	Cluster10 911 913	we
+T91	Cluster10 1523 1525	We
+T92	Cluster5 106 109	its
+T93	Cluster11 124 180	a variety of unexpected and complex interaction features
+T94	Cluster11 181 185	that
+T95	Cluster10 206 209	our
+T96	Cluster10 788 790	we
+T97	Cluster12 749 780	energetic electron observations
+T98	Cluster12 782 787	which
+T99	Cluster1 947 951	that
+T100	Cluster13 1026 1070	narrow dropouts in energetic electron fluxes
+T101	Cluster13 1102 1107	These
+T102	Cluster1 1320 1324	they
+T103	Cluster14 2486 2522	gradients in the cold plasma density
+T104	Cluster14 2524 2529	which

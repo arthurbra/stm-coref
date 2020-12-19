@@ -1,0 +1,71 @@
+T1	Cluster1 116 124	tinnitus
+T2	Entity 263 282	personality factors
+T3	Entity 214 240	the perception of severity
+T4	Cluster2 291 302	neuroticism
+T5	Entity 192 208	growing evidence
+T6	Entity 412 434	the UK Biobank dataset
+T7	Cluster1 468 476	tinnitus
+T8	Entity 533 548	the association
+T9	Cluster1 557 565	tinnitus
+T10	Cluster2 570 625	a putative predisposing personality factor, neuroticism
+T11	Entity 670 703	National Health Service registers
+T12	Entity 755 772	the UK population
+T13	Entity 810 830	subjective questions
+T14	Entity 786 800	The assessment
+T15	Cluster2 864 875	Neuroticism
+T16	Entity 894 906	13 questions
+T17	Entity 912 945	the Eysenck Personality Inventory
+T18	Entity 880 890	self-rated
+T19	Entity 1010 1038	logistic regression analyses
+T20	Entity 947 959	Associations
+T21	Entity 1100 1105	males
+T22	Entity 1126 1129	age
+T23	Cluster1 1251 1259	tinnitus
+T24	Entity 1261 1268	females
+T25	Cluster3 1296 1315	bothersome tinnitus
+T26	Cluster2 1317 1328	Neuroticism
+T27	Cluster3 1508 1527	bothersome tinnitus
+T28	Entity 1396 1405	the items
+T29	Cluster2 1541 1552	Neuroticism
+T30	Cluster1 1596 1604	tinnitus
+T31	Cluster1 1623 1631	tinnitus
+T32	Cluster2 1653 1664	neuroticism
+T33	Entity 1636 1649	higher levels
+T34	Entity 1606 1617	Individuals
+T35	Cluster3 1695 1714	bothersome tinnitus
+T36	Entity 1767 1788	intrusive experiences
+T37	Entity 1744 1763	greater sensitivity
+T38	Entity 450 464	the prevalence
+T39	Cluster5 634 646	Participants
+T40	Entity 1131 1139	doubling
+T41	Entity 1571 1590	a novel association
+T42	Entity 134 156	recent population data
+T43	Entity 48 72	a substantial proportion
+T44	Entity 76 90	the population
+T45	Entity 317 337	a subset (N=172,621)
+T46	Entity 341 366	a large population sample
+T47	Entity 370 378	>500,000
+T48	Entity 379 385	adults
+T49	Entity 386 404	aged 40 to 69years
+T50	Cluster4 1048 1070	Prevalence of tinnitus
+T51	Entity 95 112	severely affected
+T52	Entity 439 449	calculated
+T53	Entity 842 849	hearing
+T54	Cluster1 854 862	tinnitus
+T55	Cluster2 968 979	neuroticism
+T56	Cluster1 984 992	tinnitus
+T57	Entity 1148 1182	the youngest and oldest age groups
+T58	Entity 1184 1221	males 13% and 26%; females 9% and 19%
+T59	Entity 1349 1365	current tinnitus
+T60	Cluster3 1370 1389	bothersome tinnitus
+T61	Entity 1407 1419	'loneliness'
+T62	Entity 1421 1434	'mood swings'
+T63	Entity 1436 1453	'worrier/anxious'
+T64	Entity 1458 1473	'miserableness'
+T65	Entity 1557 1567	identified
+#1	AnnotatorNotes T10	c, APPOS
+T66	Cluster4 450 476	the prevalence of tinnitus
+T67	Cluster5 1240 1245	those
+T68	Cluster1 481 485	that
+T69	Cluster6 533 625	the association between tinnitus and a putative predisposing personality factor, neuroticism
+T70	Cluster6 947 992	Associations between neuroticism and tinnitus

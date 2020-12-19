@@ -1,0 +1,8 @@
+We evaluated total and inorganic arsenic levels in long grain rice and rice based baby foods on Finnish market.
+Inorganic arsenic was analysed with an HPLC-ICP-MS system.
+The total arsenic concentration was determined with an ICP-MS method.
+In this study, the inorganic arsenic levels in long grain rice varied from 0.09 to 0.28mg/kg (n=8) and the total arsenic levels from 0.11 to 0.65mg/kg.
+There was a good correlation between the total and inorganic arsenic levels in long grain rice at a confidence level of 95%.
+The total arsenic levels of rice-based baby foods were in the range 0.02 - 0.29mg/kg (n=10), however, the level of inorganic arsenic could only be quantitated in four samples, on average they were 0.11mg/kg.
+Our estimation of inorganic arsenic intake from long grain rice and rice-based baby food in Finland indicate that in every age group the intake is close to the lowest BMDL0.1 value 0.3μg/kg bw/day set by EFSA.
+According to our data, the intake of inorganic arsenic should be more extensively evaluated.

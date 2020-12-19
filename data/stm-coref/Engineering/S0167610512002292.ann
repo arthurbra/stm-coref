@@ -1,0 +1,105 @@
+T1	Entity 119 132	the 3D flight
+T2	Cluster14 310 316	debris
+T3	Cluster8 333 336	fly
+T4	Cluster2 484 493	the plate
+T5	Cluster7 524 532	the flow
+T6	Entity 593 599	attack
+T7	Entity 572 589	the initial angle
+T8	Cluster2 601 610	The plate
+T9	Cluster8 639 644	flies
+T10	Cluster2 767 776	the plate
+T11	Cluster8 791 797	flying
+T12	Cluster9 810 818	the wind
+T14	Entity 881 898	rotational energy
+T15	Cluster2 916 925	the plate
+T16	Cluster15 900 912	The rotation
+T17	Entity 933 943	the forces
+T18	Cluster2 954 963	the plate
+T19	Entity 975 985	accelerate
+T20	Entity 989 999	decelerate
+T21	Cluster2 1046 1055	the plate
+T22	Cluster7 1090 1098	the flow
+T23	Cluster2 1100 1109	the plate
+T24	Entity 1063 1070	aligned
+T25	Cluster2 1208 1217	the plate
+T26	Cluster7 1248 1256	the flow
+T28	Cluster8 1303 1309	flying
+T29	Entity 1350 1365	a porous region
+T30	Cluster3 1411 1417	plates
+T31	Entity 1422 1430	launched
+T32	Entity 1436 1444	the roof
+T33	Entity 1449 1465	their trajectory
+T34	Entity 1469 1478	simulated
+T35	Cluster4 1511 1523	the building
+T36	Cluster3 1681 1691	the plates
+T37	Cluster8 1737 1740	fly
+T38	Cluster4 1752 1764	the building
+T39	Entity 1772 1780	entering
+T40	Entity 1706 1719	that position
+T41	Entity 1827 1830	CFD
+T42	Entity 1831 1838	coupled
+T43	Entity 1842 1861	Rigid Body Dynamics
+T44	Cluster8 1871 1881	the flight
+T45	Cluster8 2001 2006	flies
+T46	Cluster9 2019 2027	the wind
+T47	Entity 2064 2071	kinetic
+T48	Cluster3 2075 2081	Plates
+T49	Entity 2092 2100	launched
+T50	Entity 109 118	modelling
+T51	Cluster1 0 74	A coupled Computational Fluid Dynamics-Rigid Body Dynamics (CFD-RBD) model
+T52	Cluster14 136 163	plate-type windborne debris
+T53	Cluster1 165 178	The RBD model
+T54	Entity 232 264	complex spinning modes of flight
+T55	Entity 355 367	obstructions
+T56	Cluster6 400 429	the initial plate orientation
+T57	Entity 508 520	right angles
+T58	Entity 534 549	the flight mode
+T59	Entity 663 678	a full rotation
+T60	Entity 696 725	an autorotational flight mode
+T61	Cluster12 1017 1039	the rotation direction
+T62	Entity 1074 1086	right angles
+T63	Cluster11 1124 1150	a complex 3D spinning mode
+T64	Entity 1232 1244	right angles
+T65	Cluster11 1258 1276	This spinning mode
+T66	Entity 1313 1329	real wind storms
+T67	Cluster4 1379 1409	a simple double-eaved building
+T68	Entity 1480 1503	The complex flow fields
+T69	Entity 1534 1567	more realistic plate trajectories
+T70	Entity 1617 1647	the windward slope of the roof
+T71	Entity 1599 1613	large suctions
+T72	Entity 1781 1805	the wake of the building
+T73	Cluster14 1885 1901	windborne debris
+T74	Cluster6 1962 1985	the initial orientation
+T75	Entity 1905 1920	Different modes
+T76	Cluster8 1924 1930	flight
+T77	Entity 2031 2047	potential energy
+T78	Entity 2106 2136	the roof of a typical building
+T79	Entity 2140 2161	The predicted flights
+T80	Entity 2180 2213	limited experimental observations
+T81	Entity 191 213	rotational quaternions
+T82	Entity 431 464	a number of distinct flight modes
+T83	Entity 855 875	its potential energy
+T84	Entity 740 753	the direction
+T85	Cluster15 757 765	rotation
+T86	Entity 1656 1669	large amounts
+T87	Entity 1673 1677	lift
+T88	Cluster13 1157 1185	significant crosswind motion
+T89	Entity 272 280	modelled
+T90	Entity 281 291	accurately
+T91	Entity 296 304	robustly
+T92	Entity 615 621	wobble
+T93	Entity 625 632	flutter
+T94	Entity 1989 2000	Some debris
+T95	Cluster2 820 822	It
+T96	Cluster2 636 638	it
+T97	Cluster2 683 685	it
+T98	Cluster2 1000 1002	it
+T27	Cluster1 1827 1861	CFD coupled to Rigid Body Dynamics
+T99	Cluster1 89 94	which
+T100	Cluster2 855 858	its
+T101	Cluster12 740 765	the direction of rotation
+T13	Cluster13 1187 1192	which
+T102	Cluster3 1296 1302	plates
+T103	Cluster3 1449 1454	their
+T104	Cluster3 1729 1733	them
+T105	Cluster14 317 321	that

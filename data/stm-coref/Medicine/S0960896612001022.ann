@@ -1,0 +1,54 @@
+T1	Cluster1 17 40	single clonal deletions
+T2	Entity 46 97	the first mitochondrial DNA (mtDNA) genetic defects
+T3	Entity 128 141	human disease
+T4	Entity 212 221	deletions
+T5	Entity 154 172	very large numbers
+T6	Entity 289 316	human mitochondrial disease
+T7	Entity 408 418	mechanisms
+T8	Entity 484 495	the factors
+T9	Entity 508 519	the complex
+T10	Entity 553 584	genotype and clinical phenotype
+T11	Entity 595 622	multidisciplinary team care
+T12	Entity 652 667	quality of life
+T13	Entity 672 680	outcomes
+T14	Entity 685 693	patients
+T15	Entity 695 727	a definitive molecular treatment
+T16	Cluster2 732 754	single mtDNA deletions
+T17	Entity 776 803	translational research goal
+T18	Entity 805 813	Patients
+T19	Cluster1 819 834	mtDNA deletions
+T20	Entity 843 860	a very wide range
+T21	Entity 864 893	different clinical phenotypes
+T22	Entity 899 915	marked variation
+T23	Entity 919 922	age
+T24	Entity 926 931	onset
+T25	Entity 936 952	disease severity
+T26	Cluster2 954 976	Single mtDNA deletions
+T27	Entity 992 1018	the differential diagnosis
+T28	Entity 1022 1071	many different paediatric and adult presentations
+T29	Entity 1079 1091	a wide range
+T30	Entity 1095 1114	medical specialties
+T31	Entity 1125 1151	neurological presentations
+T32	Entity 1208 1232	the molecular mechanisms
+T33	Entity 1246 1263	mtDNA replication
+T34	Entity 1401 1431	the range of clinical features
+T35	Cluster2 1448 1470	single mtDNA deletions
+T36	Entity 1480 1511	a molecular diagnostic approach
+T37	Entity 1553 1616	the role of aerobic and resistance exercise training programmes
+T38	Entity 176 184	children
+T39	Entity 189 195	adults
+T40	Entity 196 206	harbouring
+T41	Entity 430 448	deletion formation
+T42	Entity 453 464	propagation
+T43	Cluster6 1315 1344	the formation and propagation
+T44	Entity 1348 1382	single large-scale mtDNA deletions
+#2	AnnotatorNotes T2	c, Corpular structure?
+T45	Cluster1 258 262	they
+T46	Cluster4 176 221	children and adults harbouring such deletions
+T47	Cluster5 387 390	our
+T48	Cluster5 1384 1386	We
+T49	Cluster5 1197 1199	we
+T50	Cluster1 207 221	such deletions
+T51	Cluster5 1268 1270	we
+T52	Cluster4 805 834	Patients with mtDNA deletions
+T53	Cluster6 430 464	deletion formation and propagation

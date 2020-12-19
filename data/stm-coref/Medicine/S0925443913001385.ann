@@ -1,0 +1,61 @@
+T1	Entity 68 90	mitochondrial diseases
+T2	Entity 115 148	a wide range of clinical symptoms
+T3	Entity 0 39	Multiple respiratory chain deficiencies
+T4	Entity 179 201	consanguineous parents
+T5	Cluster3 160 169	a subject
+T6	Entity 259 296	Multiple respiratory chain deficiency
+T7	Entity 359 398	abnormal assembly of complexes I and IV
+T8	Entity 400 427	A microsatellite genotyping
+T9	Entity 494 518	chromosome 17q24.2-q25.3
+T10	Entity 431 449	the family members
+T11	Entity 478 490	homozygosity
+T12	Entity 556 561	genes
+T13	Entity 574 599	mitochondrial translation
+T14	Entity 604 613	sequenced
+T15	Cluster2 614 620	MRPL12
+T16	Cluster2 631 670	the mitochondrial ribosomal protein L12
+T17	Entity 727 753	a highly conserved alanine
+T18	Entity 711 717	exon 5
+T19	Entity 686 707	a c.542C>T transition
+T20	Cluster8 783 796	This mutation
+T21	Entity 809 839	a decreased steady-state level
+T22	Cluster2 843 857	MRPL12 protein
+T23	Entity 889 916	the large ribosomal subunit
+T24	Entity 864 883	altered integration
+T25	Entity 928 971	an overall mitochondrial translation defect
+T26	Entity 988 1013	the subject's fibroblasts
+T27	Entity 1059 1090	COXI, COXII and COXIII subunits
+T28	Entity 1019 1055	a significant reduction of synthesis
+T29	Cluster7 1117 1123	Ala181
+T30	Cluster2 1104 1110	MRPL12
+T31	Entity 1138 1145	a helix
+T32	Entity 1283 1305	the elongation factors
+T33	Cluster8 1214 1236	the p.Ala181Val change
+T34	Entity 1386 1401	L7/L12 proteins
+T35	Cluster2 1552 1573	the mammalian protein
+T36	Entity 1446 1457	translation
+T37	Cluster8 1482 1501	the mutated version
+T38	Cluster3 1511 1522	the subject
+T39	Cluster5 1627 1660	the eubacterial L7/L12 equivalent
+T40	Cluster5 1720 1753	the eubacterial L7/L12 equivalent
+T41	Cluster2 1770 1776	MRPL12
+T42	Cluster4 1757 1766	Mutations
+T43	Cluster4 1806 1815	Mutations
+T44	Entity 1830 1859	universal translation factors
+T45	Entity 1871 1897	different OXPHOS complexes
+T46	Entity 1170 1197	an interface of interaction
+T47	Entity 1259 1277	alter interactions
+T48	Entity 310 347	muscle and fibroblasts of the subject
+T49	Cluster7 759 781	a valine (p.Ala181Val)
+T50	Entity 1335 1378	the eubacterial orthologues of human MRPL12
+T51	Entity 208 226	growth retardation
+T52	Entity 231 257	neurological deterioration
+T53	Entity 1092 1100	Modeling
+T54	Entity 1424 1442	a selective effect
+T55	Entity 1675 1690	MRPL12 function
+T56	Entity 1783 1802	translation defects
+T57	Cluster1 150 152	We
+T58	Cluster1 601 603	We
+T59	Cluster1 528 530	we
+T60	Cluster1 539 542	our
+T61	Cluster8 686 781	a c.542C>T transition in exon 5 changing a highly conserved alanine into a valine (p.Ala181Val)

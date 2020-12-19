@@ -1,0 +1,62 @@
+T1	Entity 19 36	a numerical model
+T2	Entity 276 281	steep
+T3	Entity 282 287	bores
+T4	Cluster2 321 331	the NLSWEs
+T5	Entity 634 646	measurements
+T6	Cluster3 691 696	swash
+T7	Entity 560 571	predictions
+T8	Entity 1093 1096	air
+T9	Entity 1097 1106	entrapped
+T10	Entity 1311 1321	filtration
+T11	Entity 1416 1428	measurements
+T12	Entity 299 304	large
+T13	Cluster3 41 58	bore-driven swash
+T14	Cluster8 62 94	permeable coarse-grained beaches
+T15	Cluster2 138 185	the non-linear shallow water equations (NLSWEs)
+T16	Cluster1 200 243	the Godunov-based finite volume ADER scheme
+T17	Entity 305 317	source terms
+T18	Entity 333 352	The subsurface flow
+T19	Entity 410 435	vertical piston-like flow
+T20	Entity 478 513	the unsaturated region of the beach
+T21	Entity 521 552	the horizontal groundwater flow
+T22	Entity 575 606	the surface and subsurface flow
+T23	Entity 652 686	large-scale laboratory experiments
+T24	Entity 700 727	permeable, immobile beaches
+T25	Entity 830 842	the air flow
+T26	Entity 852 881	the quadratic Forchheimer law
+T27	Entity 901 938	the infiltration and groundwater flow
+T28	Cluster3 1034 1051	bore-driven swash
+T29	Cluster6 992 1029	the surface-subsurface water exchange
+T30	Cluster8 1055 1077	coarse-grained beaches
+T31	Entity 1137 1158	the groundwater level
+T32	Entity 1115 1132	the wetting front
+T33	Cluster6 1162 1180	the water exchange
+T34	Cluster6 1248 1266	the water exchange
+T35	Entity 1360 1381	the unsaturated beach
+T36	Entity 1326 1352	pore-air pressure build-up
+T37	Cluster4 1434 1468	large-scale laboratory experiments
+T38	Entity 1503 1523	experimental results
+T39	Entity 1527 1530	two
+T40	Cluster8 1531 1553	coarse-grained beaches
+T41	Entity 1626 1641	swash processes
+T42	Entity 96 119	The surface flow module
+T43	Entity 123 131	modelled
+T44	Entity 187 193	solved
+T45	Entity 368 380	infiltration
+T46	Entity 385 397	exfiltration
+T47	Entity 442 470	horizontal pore-air movement
+T48	Entity 732 749	these simulations
+T49	Entity 750 762	air velocity
+T50	Entity 803 825	Darcy's resistance law
+T51	Entity 398 406	modelled
+T52	Cluster5 940 969	The validated numerical model
+T53	Cluster3 1275 1280	swash
+T54	Entity 1285 1295	subsurface
+T55	Entity 1385 1395	Validation
+T56	Cluster5 1472 1483	Swash model
+T57	Entity 1609 1618	modelling
+T58	Cluster1 245 250	which
+T59	Cluster4 652 727	large-scale laboratory experiments for swash on permeable, immobile beaches
+T60	Cluster5 19 94	a numerical model for bore-driven swash on permeable coarse-grained beaches
+T61	Cluster7 634 727	measurements from large-scale laboratory experiments for swash on permeable, immobile beaches
+T62	Cluster7 1416 1468	measurements from large-scale laboratory experiments

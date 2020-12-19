@@ -1,0 +1,81 @@
+T1	Entity 302 313	the diatoms
+T2	Entity 380 398	primary production
+T3	Entity 596 611	marine sediment
+T4	Entity 928 943	the late Eocene
+T5	Entity 1039 1061	the earliest Oligocene
+T6	Entity 1161 1169	doubling
+T7	Entity 1307 1314	∼31.5Ma
+T8	Entity 1387 1405	the Tasman Gateway
+T9	Entity 1410 1423	Drake Passage
+T10	Cluster10 1742 1762	Antarctic glaciation
+T11	Entity 2116 2125	Upwelling
+T12	Cluster10 2258 2278	Antarctic glaciation
+T13	Cluster10 830 850	Antarctic glaciation
+T14	Entity 1002 1026	high, near modern values
+T15	Entity 1222 1249	the high southern latitudes
+T16	Entity 1297 1303	peaked
+T17	Entity 1647 1653	export
+T18	Entity 48 79	the Eocene-Oligocene Transition
+T19	Entity 81 93	∼33.7Ma, Oi1
+T20	Cluster10 20 40	Antarctic glaciation
+T21	Entity 118 141	atmospheric pCO2 levels
+T23	Entity 203 227	Biogenic silicon cycling
+T24	Entity 259 293	long and short term carbon cycling
+T25	Cluster11 315 342	siliceous walled autotrophs
+T26	Entity 367 376	up to 40%
+T27	Entity 463 479	diatom abundance
+T28	Entity 447 459	a sharp rise
+T29	Cluster1 506 519	pCO2 drawdown
+T30	Entity 524 538	global cooling
+T31	Cluster2 613 661	Diatom and sponge silicon isotope ratios (δ30Si)
+T32	Cluster4 714 765	the late Eocene-early Oligocene ocean silicon cycle
+T33	Entity 795 826	the role of diatom productivity
+T34	Entity 855 868	ODP site 1090
+T35	Entity 892 903	a 0.6‰ rise
+T36	Cluster5 907 919	diatom δ30Si
+T37	Entity 954 996	increasing diatom silicic acid utilisation
+T38	Entity 1093 1105	sponge δ30Si
+T39	Entity 1109 1121	ODP site 689
+T40	Cluster8 1173 1218	intermediate depth silicic acid concentration
+T41	Cluster8 1251 1296	Intermediate depth silicic acid concentration
+T42	Entity 1359 1378	a deepwater pathway
+T43	Entity 1452 1477	upwelling intensification
+T44	Cluster9 1547 1579	late Eocene diatom proliferation
+T45	Cluster1 1696 1709	pCO2 drawdown
+T46	Entity 1619 1642	higher diatom abundance
+T47	Entity 1778 1806	a pCO2 'threshold' mechanism
+T48	Entity 1811 1827	ice sheet growth
+T49	Cluster2 1861 1884	Diatom and sponge δ30Si
+T50	Cluster4 1905 1939	the Eocene-Oligocene silicon cycle
+T51	Cluster5 1968 1980	diatom δ30Si
+T52	Entity 1993 2017	silicic acid utilisation
+T53	Cluster8 2085 2111	silicic acid concentration
+T54	Entity 2137 2146	proto-ACC
+T55	Cluster9 2159 2191	late Eocene diatom proliferation
+T56	Cluster1 2238 2250	pCO2 decline
+T57	Entity 2195 2222	Diatom driven carbon burial
+T58	Cluster13 147 161	the mechanisms
+T59	Entity 424 446	during the Late Eocene
+T60	Entity 1063 1089	A concomitant 1.5‰ decline
+T61	Entity 1125 1138	the Maud Rise
+T62	Entity 1489 1530	the spin-up of a circum-Antarctic current
+T63	Entity 1943 1964	0.6‰ late Eocene rise
+T64	Cluster7 2022 2072	1.5‰ late Eocene/early Oligocene sponge δ30Si fall
+T65	Entity 108 117	declining
+T66	Entity 542 552	increasing
+T67	Entity 553 567	the proportion
+T68	Entity 571 585	organic carbon
+T69	Cluster12 586 592	buried
+T70	Entity 671 679	combined
+T71	Entity 702 713	reconstruct
+T72	Entity 1139 1145	tracks
+T73	Cluster12 1581 1602	Organic carbon burial
+T74	Entity 1893 1904	reconstruct
+T75	Cluster1 108 141	declining atmospheric pCO2 levels
+T76	Cluster1 174 186	pCO2 decline
+T22	Cluster7 1063 1105	A concomitant 1.5‰ decline in sponge δ30Si
+T77	Cluster11 343 348	which
+#2	AnnotatorNotes T25	c, APPOS
+T78	Cluster13 162 166	that
+T79	Cluster6 892 943	a 0.6‰ rise in diatom δ30Si through the late Eocene
+T80	Cluster6 1943 1980	0.6‰ late Eocene rise in diatom δ30Si

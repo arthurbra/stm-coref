@@ -1,0 +1,72 @@
+T1	Entity 153 170	a control subject
+T2	Entity 93 102	generated
+T3	Entity 448 480	patient-specific cellular models
+T4	Entity 668 681	staurosporine
+T5	Cluster4 721 753	the serine/threonine kinase S6K2
+T6	Entity 868 881	downregulated
+T7	Cluster3 935 952	kinase inhibitors
+T8	Entity 957 969	reduced S6K2
+T9	Entity 975 982	rescued
+T10	Cluster7 1025 1060	cell-autonomous, reversible defects
+T11	Cluster9 1146 1182	PGRN-dependent pathogenic mechanisms
+T12	Entity 1187 1194	testing
+T13	Cluster10 1195 1214	potential therapies
+T14	Cluster3 1457 1474	kinase inhibitors
+T15	Cluster12 1447 1453	stress
+T16	Cluster4 1477 1481	S6K2
+T17	Entity 1485 1498	downregulated
+T18	Cluster5 1502 1517	patient neurons
+T19	Entity 1521 1544	a PGRN-dependent manner
+T20	Entity 1804 1826	a human neuronal model
+T21	Cluster6 1905 1916	these lines
+T22	Entity 2124 2131	testing
+T23	Entity 1248 1268	A human neuron model
+T24	Entity 2055 2069	a model system
+T25	Cluster9 2083 2119	PGRN-dependent pathogenic mechanisms
+T26	Entity 1387 1392	iPSCs
+T27	Entity 103 147	multiple induced pluripotent stem cell lines
+T28	Entity 205 219	an FTD patient
+T29	Entity 225 285	a novel heterozygous GRN mutation (progranulin [PGRN] S116X)
+T30	Cluster2 484 507	PGRN haploinsufficiency
+T31	Cluster8 583 601	PGRN S116X neurons
+T32	Entity 611 631	sporadic FTD neurons
+T33	Entity 517 536	a systematic screen
+T34	Entity 643 664	increased sensitivity
+T35	Entity 686 709	other kinase inhibitors
+T36	Entity 770 849	the phosphatidylinositol 3-kinase and mitogen-activated protein kinase pathways
+T37	Cluster8 885 903	PGRN S116X neurons
+T38	Entity 910 931	increased sensitivity
+T39	Entity 986 1001	PGRN expression
+T40	Cluster5 1064 1079	patient neurons
+T41	Entity 1085 1100	PGRN deficiency
+T42	Cluster2 1272 1309	progranulin (PGRN) haploinsufficiency
+T43	Entity 1327 1386	Sporadic and PGRN-deficient frontotemporal dementia patient
+T44	Entity 1404 1429	PGRN S116X mutant neurons
+T45	Entity 1545 1573	Progranulin (PGRN) mutations
+T46	Entity 1596 1619	frontotemporal dementia
+T47	Cluster2 1830 1853	PGRN haploinsufficiency
+T48	Entity 1866 1891	human postmitotic neurons
+T49	Cluster7 1924 1962	cell-autonomous and reversible defects
+T50	Entity 2018 2040	PGRN-deficient neurons
+T51	Entity 0 58	The pathogenic mechanisms of frontotemporal dementia (FTD)
+T52	Entity 172 181	a patient
+T53	Entity 187 199	sporadic FTD
+T54	Cluster6 1704 1789	multiple frontotemporal dementia patient-specific induced pluripotent stem cell lines
+T55	Cluster10 2132 2151	potential therapies
+T56	Entity 290 297	neurons
+T57	Entity 302 311	microglia
+T58	Entity 332 373	PGRN S116X induced pluripotent stem cells
+T59	Entity 375 385	the levels
+T60	Entity 389 420	intracellular and secreted PGRN
+T61	Entity 540 548	inducers
+T62	Cluster12 552 567	cellular stress
+T63	Entity 1137 1145	studying
+T64	Entity 1625 1659	the underlying molecular mechanism
+T65	Entity 1966 1993	specific signaling pathways
+T66	Entity 2074 2082	studying
+T67	Cluster1 90 92	we
+T68	Cluster1 1003 1006	Our
+T69	Cluster1 569 571	we
+T70	Cluster7 1994 1998	that
+T71	Cluster11 1804 1853	a human neuronal model of PGRN haploinsufficiency
+T72	Cluster11 1248 1309	A human neuron model of progranulin (PGRN) haploinsufficiency

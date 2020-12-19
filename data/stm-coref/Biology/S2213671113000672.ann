@@ -1,0 +1,61 @@
+T1	Cluster6 0 11	Tauopathies
+T2	Entity 78 94	the accumulation
+T3	Entity 126 132	brains
+T4	Cluster3 170 179	tauopathy
+T5	Cluster4 360 372	the mutation
+T6	Entity 373 382	corrected
+T7	Cluster5 401 424	the homozygous mutation
+T8	Entity 425 435	engineered
+T9	Entity 516 533	neurodegeneration
+T10	Entity 635 644	a patient
+T11	Cluster4 650 659	TAU-A152T
+T12	Entity 732 740	restored
+T13	Entity 757 766	decreases
+T14	Entity 862 869	neurons
+T15	Cluster5 875 898	the homozygous mutation
+T16	Cluster3 833 842	tauopathy
+T17	Entity 98 122	pathological TAU protein
+T18	Entity 326 349	two isogenic iPSC lines
+T19	Entity 900 929	These isogenic TAU-iPSC lines
+T20	Cluster6 1017 1028	tauopathies
+T21	Cluster3 1168 1177	tauopathy
+T22	Entity 1184 1199	TAU-A152T-iPSCs
+T23	Cluster3 1246 1255	tauopathy
+T24	Entity 1202 1212	Correction
+T25	Entity 1258 1268	Engineered
+T26	Cluster3 1311 1320	tauopathy
+T27	Cluster3 1376 1385	tauopathy
+T28	Entity 847 858	intensified
+T29	Entity 1299 1310	intensifies
+T30	Entity 1235 1245	eliminates
+T31	Entity 996 1013	mechanistic study
+T32	Entity 970 991	the accurate modeling
+T33	Entity 22 60	a group of neurodegenerative disorders
+T34	Entity 144 166	a human neuronal model
+T35	Entity 193 231	induced pluripotent stem cells (iPSCs)
+T36	Cluster4 241 261	a TAU-A152T mutation
+T37	Entity 269 311	zinc-finger nuclease-mediated gene editing
+T38	Cluster7 437 455	The A152T mutation
+T39	Entity 466 503	TAU fragmentation and phosphorylation
+T40	Entity 549 568	axonal degeneration
+T41	Entity 570 595	These cellular phenotypes
+T42	Entity 666 685	mutation correction
+T43	Entity 687 726	normal neuronal and axonal morphologies
+T44	Entity 770 807	TAU fragmentation and phosphorylation
+T45	Entity 817 829	the severity
+T46	Entity 1034 1047	human neurons
+T47	Entity 1075 1097	drug-screening efforts
+T48	Entity 1109 1129	cell-based therapies
+T49	Entity 1144 1164	A human neuron model
+T50	Cluster4 1216 1234	TAU-A152T mutation
+T51	Entity 1269 1298	homozygous TAU-A152T mutation
+T52	Cluster7 1323 1337	A152T mutation
+T53	Entity 1348 1363	TAU proteolysis
+T54	Entity 180 187	derived
+T55	Entity 316 325	generated
+T56	Entity 456 465	increased
+T57	Entity 1338 1347	increases
+T58	Cluster1 134 136	We
+T59	Cluster1 313 315	we
+T60	Cluster8 144 261	a human neuronal model of tauopathy derived from induced pluripotent stem cells (iPSCs) carrying a TAU-A152T mutation
+T61	Cluster8 1144 1199	A human neuron model of tauopathy using TAU-A152T-iPSCs

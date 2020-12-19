@@ -1,0 +1,93 @@
+T1	Cluster1 12 52	highly-threaded, many-core architectures
+T2	Cluster1 175 189	these machines
+T3	Cluster1 288 302	these machines
+T4	Cluster1 634 675	these highly-threaded, many-core machines
+T5	Cluster1 729 743	these machines
+T6	Cluster1 1424 1438	these machines
+T7	Cluster2 58 79	memory-access latency
+T8	Cluster2 210 221	the latency
+T9	Entity 1303 1337	large enough memory-access latency
+T10	Entity 162 171	a program
+T11	Cluster3 367 381	these programs
+T12	Cluster4 236 257	the number of threads
+T13	Cluster4 392 413	the number of threads
+T14	Entity 120 145	a large number of threads
+T15	Cluster5 533 574	the Threaded Many-core Memory (TMM) model
+T16	Cluster5 770 780	this model
+T17	Cluster5 951 961	this model
+T18	Cluster5 1033 1042	our model
+T19	Cluster5 1258 1267	our model
+T20	Cluster5 1480 1489	our model
+T21	Cluster5 1630 1644	a memory model
+T22	Cluster5 1708 1717	The model
+T23	Cluster5 1806 1815	the model
+T24	Cluster5 1937 1946	our model
+T25	Entity 1978 2015	the first formalized asymptotic model
+T26	Cluster6 346 363	the PRAM analysis
+T27	Cluster6 853 870	the PRAM analysis
+T28	Cluster13 1006 1031	the same PRAM performance
+T29	Cluster6 1233 1247	the PRAM model
+T30	Cluster6 1831 1835	PRAM
+T31	Entity 792 847	a more fine-grained and accurate performance prediction
+T32	Entity 1043 1051	predicts
+T33	Cluster7 1052 1073	different performance
+T34	Entity 1268 1276	predicts
+T35	Cluster7 1277 1298	different performance
+T36	Entity 1912 1933	effectively predicted
+T37	Entity 147 158	The speedup
+T38	Entity 317 332	the performance
+T39	Entity 601 630	the important characteristics
+T40	Entity 692 725	some important machine parameters
+T41	Entity 1095 1113	machine parameters
+T42	Cluster10 1146 1179	the dynamic programming algorithm
+T43	Cluster10 1371 1404	the dynamic programming algorithm
+T44	Entity 885 895	algorithms
+T45	Entity 1656 1666	algorithms
+T46	Entity 1522 1578	an instantiation of a highly-threaded, many-core machine
+T47	Cluster1 1671 1704	highly-threaded many-core systems
+T48	Entity 2048 2058	many-cores
+T49	Entity 1443 1451	validate
+T50	Entity 1496 1518	empirical measurements
+T51	Entity 1887 1908	Empirical performance
+T52	Entity 263 271	infinite
+T53	Entity 431 443	not infinite
+T54	Entity 875 882	analyze
+T55	Entity 1587 1605	the NVIDIA GTX 480
+T56	Entity 1342 1351	validates
+T57	Entity 1623 1629	design
+T58	Entity 83 113	low-overhead context switching
+T59	Entity 467 503	both hardware and algorithmic limits
+T60	Entity 986 1000	two algorithms
+T61	Entity 1132 1144	dense graphs
+T62	Entity 1184 1203	Johnson's algorithm
+T63	Entity 1209 1229	the same performance
+T64	Entity 1452 1471	several predictions
+T65	Entity 1763 1794	work, span, and memory accesses
+T66	Entity 1727 1761	significant factors of performance
+T67	Entity 2028 2044	algorithm design
+T68	Entity 418 427	processor
+T69	Entity 900 944	the classic all pairs shortest paths problem
+T70	Cluster16 883 884	4
+T71	Entity 1648 1655	analyze
+T72	Entity 1858 1883	shortest paths algorithms
+T73	Cluster16 1856 1857	4
+T74	Cluster13 1209 1247	the same performance in the PRAM model
+#1	AnnotatorNotes T66	c, APPOS
+T75	Cluster14 883 944	4 algorithms for the classic all pairs shortest paths problem
+T76	Cluster14 1856 1883	4 shortest paths algorithms
+T77	Entity 885 944	algorithms for the classic all pairs shortest paths problem
+T78	Cluster8 520 522	we
+T79	Cluster5 575 580	which
+T80	Cluster8 683 685	we
+T81	Cluster8 872 874	We
+T82	Cluster8 963 965	We
+T83	Cluster8 1258 1261	our
+T84	Cluster8 1033 1036	our
+T85	Cluster8 1480 1483	our
+T86	Cluster8 1798 1800	We
+T87	Cluster8 1620 1622	We
+T88	Cluster8 1440 1442	We
+#2	AnnotatorNotes T25	c, corpular structure
+T90	Cluster8 745 747	we
+T91	Cluster3 162 189	a program on these machines
+T89	Cluster5 1972 1974	It

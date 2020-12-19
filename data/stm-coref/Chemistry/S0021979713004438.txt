@@ -1,0 +1,8 @@
+A range of in situ analytical techniques and theoretical calculations were applied to gain insights into the formation and properties of the Mefp-1 film on iron substrate, as well as the protein complexation with Fe3+ ions.
+Adsorption kinetics of Mefp-1 and the complexation were investigated using QCM-D.
+The results suggest an initially fast adsorption, with the molecules oriented preferentially parallel to the surface, followed by a structural change within the film leading to molecules extending toward solution.
+Exposure to a diluted FeCl3 solution results in enhanced complexation within the adsorbed protein film, leading to water removal and film compaction.
+In situ Peak Force Tapping AFM was employed for determining morphology and nano-mechanical properties of the surface layer.
+The results, in agreement with the QCM-D observations, demonstrate that addition of Fe3+ induces a transition from an extended and soft protein layer to a denser and stiffer one.
+Further, in situ ATR-FTIR and Confocal Raman Micro-spectroscopy (CRM) techniques were utilized to monitor compositional/structural changes in the surface layer due to addition of Fe3+ ions.
+The spectroscopic analyses assisted by DFT calculations provide evidence for formation of tri-Fe3+/catechol complexes in the surface film, which is enhanced by Fe3+ addition.
