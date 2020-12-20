@@ -32,9 +32,9 @@ def evaluate_kgs(gold_kg_entities: List[Entity], predicted_kg_entities: List[Ent
               f'{ev.get_f1() * 100:.1f}')
 
     print(f'CoNLL\t'
-          f'{np.mean(precisions) * 100:.1f}\t'
-          f'{np.mean(recalls) * 100:.1f}\t'
-          f'{np.mean(f1s) * 100:.1f}')
+          f'{np.mean(np.round(precisions, 3)) * 100:.1f}\t'
+          f'{np.mean(np.round(recalls, 3)) * 100:.1f}\t'
+          f'{np.mean(np.round(f1s, 3)) * 100:.1f}')
     tp = set(gold_clusters).intersection(set(predicted_clusters))
     fp = set(predicted_clusters).difference(set(gold_clusters))
     fn = set(gold_clusters).difference(set(predicted_clusters))
