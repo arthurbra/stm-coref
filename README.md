@@ -14,6 +14,7 @@ Python 3.8 required.  Install the requirements with:
 - data/stm-coref: contains the annotated coreferences separated per domain BRAT/standoff format.
 - data/stm-entities: contains the annotated concepts separated per domain in BRAT/standoff format (from https://github.com/arthurbra/stm-corpus)
 - data/silver_labelled: contains predicted concepts and coreferences of the silver labelled corpus
+- data/STM coreference annotation guidelines.pdf: annotation guidelines for coreference annotions in the STM-corpus
 
 ## Knowledge Graphs
 The folder knowledge_graph/ contains various knowledge graphs.
