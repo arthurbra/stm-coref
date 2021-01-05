@@ -3,7 +3,7 @@
 This repository contains the annotated STM corpus with coreferences, populated knowledge graphs and source code for the paper:
 
 Brack A., Müller D., Hoppe A., Ewerth R. (2021) Coreference Resolution in Research Papers from Multiple Domains, ECIR 2021 (accepted for publication). 
-- Submitted version: https://t.co/IlZhlcAgmv?amp=1
+- Preprint: https://arxiv.org/abs/2101.00884
 
 ## Installation
 Python 3.8 required.  Install the requirements with:
