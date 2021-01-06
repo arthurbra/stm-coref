@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/coreference-resolution-in-research-papers/coreference-resolution-on-stm-coref)](https://paperswithcode.com/sota/coreference-resolution-on-stm-coref?p=coreference-resolution-in-research-papers)
+
+
 # STM-corpus with coreference resolution and knowledge graph population
 
 This repository contains the annotated STM corpus with coreferences, populated knowledge graphs and source code for the paper:
