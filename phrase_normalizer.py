@@ -8,11 +8,10 @@ import nltk
 def _find_acronyms(text, entities):
     stop_words = set(nltk.corpus.stopwords.words('english'))
     phrase_to_acronym = {}
-    for (start, end) in entities:
+    for _, (start, end) in entities:
         content = text[start:end]
         contains_phrase_and_its_acronym = len(content.split()) > 1 and content.count('(') == content.count(
-            ')') == 1 and \
-                                          '(' not in content.split()[0] and ')' not in content.split()[0] and \
+            ')') == 1 and '(' not in content.split()[0] and ')' not in content.split()[0] and \
                                           content.index('(') + 1 < content.index(')')
         if contains_phrase_and_its_acronym:
             acronym_candidate = content.split('(')[1].split(')')[0]

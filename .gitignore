@@ -1,3 +1,9 @@
-/.idea
-/__pycache__
-/venv
+venv/
+.idea/
+Pipfile.lock
+Pipfile
+BertForCorefRes/bert_data/*
+BertForCorefRes/checkpoints/*
+BertForCorefRes/__pycache__/
+__pycache__/
+

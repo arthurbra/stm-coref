@@ -1,9 +1,9 @@
 import numpy as np
 np.seterr(divide='ignore', invalid='ignore')
 from collections import Counter
-from sklearn.metrics import cohen_kappa_score
 from sklearn.utils.linear_assignment_ import linear_assignment
-#from scipy.optimize import linear_sum_assignment as linear_assignment
+from sklearn.metrics import cohen_kappa_score
+# from scipy.optimize import linear_sum_assignment as linear_assignment
 
 ########################################################################################
 ########## MY CODE #####################################################################
@@ -30,7 +30,7 @@ def kappa(clusters1, clusters2, entities):
     doc2_mentions = [m for c in clusters2 for m in c]
     shared_mentions = set(doc1_mentions).intersection(set(doc2_mentions))
     all_mentions = list(shared_mentions.union(
-        [(start, end) for _, (start, end) in entities]))  # das hier müsste eigenlich shared mentions heißen
+        [(start, end) for _, (start, end) in entities]))
     all_mentions.sort(key=lambda x: x[0])
 
     # extract mention-antecedent pairs from the annotated clusters
@@ -64,7 +64,7 @@ def kappa(clusters1, clusters2, entities):
     return np.nan_to_num(cohen_kappa_score(rater1, rater2))
 
 
-class Document():
+class Document:
     def __init__(self, clusters, gold):
         self.clusters = clusters
         self.gold = gold
