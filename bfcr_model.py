@@ -65,7 +65,7 @@ EXPERIMENT_TO_CONFIG = {
                                               ckpts=[CKPTS.SCIBERT]),
     Experiment.BFCR_Span_Onto_STM_pretrained: ExperimentConfig(name='spanbert_base',
                                                                vocab_folder=CKPTS.SPANBERT_ONTO_STM.folder,
-                                                               ckpts=CKPTS.SPANBERT_ONTO_STM)
+                                                               ckpts=[CKPTS.SPANBERT_ONTO_STM])
 }
 
 
