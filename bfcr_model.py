@@ -47,16 +47,25 @@ class Experiment(Enum):
     BFCR_Span_STM = 3
     BFCR_Sci_STM = 4
     BFCR_Span_Onto_scierc_eval_only = 5
+    BFCR_Span_Onto_STM_pretrained = 6
 
 
 EXPERIMENT_TO_CONFIG = {
-    Experiment.BFCR_Span_Onto: ExperimentConfig(name='spanbert_base', vocab_folder=CKPTS.SPANBERT_ONTO.folder,
+    Experiment.BFCR_Span_Onto: ExperimentConfig(name='spanbert_base',
+                                                vocab_folder=CKPTS.SPANBERT_ONTO.folder,
                                                 ckpts=[CKPTS.SPANBERT_ONTO]),
-    Experiment.BFCR_Span_Onto_STM: ExperimentConfig(name='spanbert_base', vocab_folder=CKPTS.SPANBERT_ONTO.folder,
+    Experiment.BFCR_Span_Onto_STM: ExperimentConfig(name='spanbert_base',
+                                                    vocab_folder=CKPTS.SPANBERT_ONTO.folder,
                                                     ckpts=[CKPTS.SPANBERT_ONTO]),
-    Experiment.BFCR_Span_STM: ExperimentConfig(name='train_spanbert_base', vocab_folder=CKPTS.SPANBERT_ONTO.folder,
+    Experiment.BFCR_Span_STM: ExperimentConfig(name='train_spanbert_base',
+                                               vocab_folder=CKPTS.SPANBERT_ONTO.folder,
                                                ckpts=[CKPTS.BERT, CKPTS.SPANBERT, CKPTS.SPANBERT_ONTO]), # CKPTS.SPANBERT_ONTO only for the vocab-file
-    Experiment.BFCR_Sci_STM: ExperimentConfig(name='train_scibert_base', vocab_folder=CKPTS.SCIBERT.folder, ckpts=[CKPTS.SCIBERT])
+    Experiment.BFCR_Sci_STM: ExperimentConfig(name='train_scibert_base',
+                                              vocab_folder=CKPTS.SCIBERT.folder,
+                                              ckpts=[CKPTS.SCIBERT]),
+    Experiment.BFCR_Span_Onto_STM_pretrained: ExperimentConfig(name='spanbert_base',
+                                                               vocab_folder=CKPTS.SPANBERT_ONTO_STM.folder,
+                                                               ckpts=CKPTS.SPANBERT_ONTO_STM)
 }
 
 
@@ -94,7 +103,7 @@ class BFCRModel:
     STM_CORPUS = STMCorpus(STM_COREF_CORPUS_FP, STM_ENTITIES_CORPUS_FP)
     ONLY_SHOW_STDERR = False
 
-    def __init__(self, experiment: Experiment = Experiment.BFCR_Span_Onto_STM,
+    def __init__(self, experiment: Experiment = Experiment.BFCR_Span_Onto_STM_pretrained,
                  corpus: STMCorpus = STM_CORPUS, fold: int = 0, seed: int = 0, max_seg_len: int = 384):
         self.experiment = experiment
         self.experiment_config = EXPERIMENT_TO_CONFIG[experiment]
