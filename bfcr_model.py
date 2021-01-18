@@ -121,6 +121,9 @@ class BFCRModel:
         for ckpt in self.experiment_config.ckpts:
             if not os.path.exists(os.path.join(checkpoints_folder, ckpt.folder)):
                 print(f'Downloading file "{ckpt.folder}" to "{checkpoints_folder}".')
+                if not os.path.exists(checkpoints_folder):
+                    os.mkdir(checkpoints_folder)
+                    
                 if ckpt.dl_link.startswith('https://drive.google.com/'):
                     gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, ckpt.folder), quiet=False)
                 else:
