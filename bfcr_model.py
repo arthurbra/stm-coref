@@ -122,7 +122,7 @@ class BFCRModel:
             if not os.path.exists(os.path.join(checkpoints_folder, ckpt.folder)):
                 print(f'Downloading file "{ckpt.folder}" to "{checkpoints_folder}".')
                 if ckpt.dl_link.startswith('https://drive.google.com/'):
-                    gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, ckpt.folder))
+                    gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, ckpt.folder), quiet=False)
                 else:
                     os.system(f'wget -P {checkpoints_folder} {ckpt.dl_link}')
                 ending = '.tar.gz' if ckpt.dl_link.endswith('.tar.gz') else '.zip'
