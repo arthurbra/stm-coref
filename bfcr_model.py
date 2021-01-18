@@ -120,12 +120,12 @@ class BFCRModel:
         # download checkpoints which are used for the first time
         for ckpt in self.experiment_config.ckpts:
             if not os.path.exists(os.path.join(checkpoints_folder, ckpt.folder)):
-                print(f'Downloading file "{ckpt.folder}" to "{checkpoints_folder}".')
+                print(f'Downloading experiment "{self.experiment}" to "{checkpoints_folder}".')
                 if not os.path.exists(checkpoints_folder):
                     os.mkdir(checkpoints_folder)
-                    
+
                 if ckpt.dl_link.startswith('https://drive.google.com/'):
-                    gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, ckpt.folder), quiet=False)
+                    gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, self.experiment + '.zip'), quiet=False)
                 else:
                     os.system(f'wget -P {checkpoints_folder} {ckpt.dl_link}')
                 ending = '.tar.gz' if ckpt.dl_link.endswith('.tar.gz') else '.zip'
