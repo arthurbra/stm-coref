@@ -4,15 +4,14 @@ from collections import namedtuple
 from enum import Enum
 import subprocess
 from typing import List, Tuple
-import json
 import shutil
 
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
+import gdown
 
 import utils
 from brat_utils import Corpus, KGCorpus, Document, STMCorpus
-from utils import flatten
 from index_converter import IndexConverter
 from predictions_reader import read_predictions, Model
 
@@ -30,7 +29,7 @@ class CKPTS(Enum):
     SCIBERT = Checkpoint(folder='scibert_scivocab_uncased', dl_link='https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/tensorflow_models/scibert_scivocab_uncased.tar.gz')
     SPANBERT = Checkpoint(folder='spanbert_hf_base', dl_link='https://dl.fbaipublicfiles.com/fairseq/models/spanbert_hf_base.tar.gz')
     SPANBERT_ONTO = Checkpoint(folder='spanbert_base', dl_link='http://nlp.cs.washington.edu/pair2vec/spanbert_base.tar.gz')
-    SPANBERT_ONTO_STM = Checkpoint(folder='spanbert_base_stm', dl_link='') # Transfer Learning Model, dl from google drive?
+    SPANBERT_ONTO_STM = Checkpoint(folder='spanbert_base_stm', dl_link='https://drive.google.com/uc?id=1wx5aIjRKP9BwyQB1bYAuGTxeySmbeQsm')
     BERT = Checkpoint(folder='cased_L-12_H-768_A-12', dl_link='https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip')
 
     @property
@@ -113,7 +112,10 @@ class BFCRModel:
         for ckpt in self.experiment_config.ckpts:
             if not os.path.exists(os.path.join(checkpoints_folder, ckpt.folder)):
                 print(f'Downloading file "{ckpt.folder}" to "{checkpoints_folder}".')
-                os.system(f'wget -P {checkpoints_folder} {ckpt.dl_link}')
+                if ckpt.dl_link.startswith('https://drive.google.com/'):
+                    gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, ckpt.folder))
+                else:
+                    os.system(f'wget -P {checkpoints_folder} {ckpt.dl_link}')
                 ending = '.tar.gz' if ckpt.dl_link.endswith('.tar.gz') else '.zip'
                 if ending == '.zip':
                     os.system(f'unzip {os.path.join(checkpoints_folder, ckpt.folder)}.zip')
@@ -268,7 +270,7 @@ class BFCRModel:
                 tokenized_text = [word_tokenize(sentence) for sentence in sent_tokenize(text)]
 
                 if clusters:
-                    converter = IndexConverter(text, flatten(tokenized_text))
+                    converter = IndexConverter(text, utils.flatten(tokenized_text))
                     wi_clusters = []
 
                     for c in clusters[i]:

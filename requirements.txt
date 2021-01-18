@@ -8,6 +8,7 @@ cort==0.2.4.5
 docutils==0.14
 future==0.16.0
 gast==0.2.2
+gdown==3.12.2
 google-pasta==0.1.7
 grpcio==1.23.0
 h5py==2.7.1
