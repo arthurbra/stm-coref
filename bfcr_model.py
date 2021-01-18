@@ -29,7 +29,7 @@ class CKPTS(Enum):
     SCIBERT = Checkpoint(folder='scibert_scivocab_uncased', dl_link='https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/tensorflow_models/scibert_scivocab_uncased.tar.gz')
     SPANBERT = Checkpoint(folder='spanbert_hf_base', dl_link='https://dl.fbaipublicfiles.com/fairseq/models/spanbert_hf_base.tar.gz')
     SPANBERT_ONTO = Checkpoint(folder='spanbert_base', dl_link='http://nlp.cs.washington.edu/pair2vec/spanbert_base.tar.gz')
-    SPANBERT_ONTO_STM = Checkpoint(folder='spanbert_base_stm', dl_link='https://drive.google.com/uc?id=1wx5aIjRKP9BwyQB1bYAuGTxeySmbeQsm')
+    SPANBERT_ONTO_STM = Checkpoint(folder='BFCR_Span_Onto_STM', dl_link='https://drive.google.com/uc?id=1wx5aIjRKP9BwyQB1bYAuGTxeySmbeQsm')
     BERT = Checkpoint(folder='cased_L-12_H-768_A-12', dl_link='https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip')
 
     @property
@@ -115,12 +115,13 @@ class BFCRModel:
 
     def _setup(self, checkpoints_folder: str = os.path.join(BFCR_FP, 'checkpoints')):
         # cleanup the bert_data-folder
-        os.system(f'rm -r {BERT_DATA_FP}')
+        if os.path.exists(BERT_DATA_FP):
+            os.system(f'rm -r {BERT_DATA_FP}')
 
         # download checkpoints which are used for the first time
         for ckpt in self.experiment_config.ckpts:
             if not os.path.exists(os.path.join(checkpoints_folder, ckpt.folder)):
-                print(f'Downloading experiment "{self.experiment}" to "{checkpoints_folder}".')
+                print(f'Downloading file "{ckpt.folder}" to "{checkpoints_folder}".')
                 if not os.path.exists(checkpoints_folder):
                     os.mkdir(checkpoints_folder)
 
@@ -130,7 +131,7 @@ class BFCRModel:
                     os.system(f'wget -P {checkpoints_folder} {ckpt.dl_link}')
                 ending = '.tar.gz' if ckpt.dl_link.endswith('.tar.gz') else '.zip'
                 if ending == '.zip':
-                    os.system(f'unzip {os.path.join(checkpoints_folder, ckpt.folder)}.zip')
+                    os.system(f'unzip {os.path.join(checkpoints_folder, ckpt.folder)}.zip -d {checkpoints_folder}')
                 else:
                     os.system(f'tar xvzf {os.path.join(checkpoints_folder, ckpt.folder)}.tar.gz -C {checkpoints_folder}')
                 os.system(f'rm {os.path.join(checkpoints_folder, ckpt.folder)}{ending}')

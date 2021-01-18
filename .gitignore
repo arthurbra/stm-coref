@@ -6,4 +6,4 @@ BertForCorefRes/bert_data/*
 BertForCorefRes/checkpoints/*
 BertForCorefRes/__pycache__/
 __pycache__/
-
+main.py
