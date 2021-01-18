@@ -177,6 +177,8 @@ class BFCRModel:
         if not self.is_setup:
             self._setup()
 
+        os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
+
         if self.experiment not in [Experiment.BFCR_Span_Onto, Experiment.BFCR_Span_Onto_scierc_eval_only]:
             # train on train-set and find the best checkpoint by evaluating on dev-set
             changes = {
@@ -194,6 +196,8 @@ class BFCRModel:
     def evaluate(self) -> None:
         if not self.is_setup:
             self._setup()
+
+        os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
 
         if not os.path.exists(EVAL_RESULTS_FP):
             os.mkdir(EVAL_RESULTS_FP)
@@ -214,6 +218,8 @@ class BFCRModel:
                 standoff_annotations_dir: str = '../data/coref_predictions_standoff'):
         if not self.is_setup:
             self._setup()
+
+        os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
 
         if (not texts and not domains and not kg_corpus) or (texts and kg_corpus):
             raise Exception('Must define either texts or kg_corpus (but not both)!')
