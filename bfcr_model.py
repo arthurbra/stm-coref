@@ -125,7 +125,7 @@ class BFCRModel:
                     os.mkdir(checkpoints_folder)
 
                 if ckpt.dl_link.startswith('https://drive.google.com/'):
-                    gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, self.experiment.name + '.zip'), quiet=False)
+                    gdown.download(ckpt.dl_link, output=os.path.join(checkpoints_folder, ckpt.folder + '.zip'), quiet=False)
                 else:
                     os.system(f'wget -P {checkpoints_folder} {ckpt.dl_link}')
                 ending = '.tar.gz' if ckpt.dl_link.endswith('.tar.gz') else '.zip'
@@ -138,7 +138,15 @@ class BFCRModel:
 
             # move the checkpoints necessary for the experiment to the checkpoints-folder
             os.mkdir(BERT_DATA_FP)
-            os.system(f'cp -av {os.path.join(checkpoints_folder, ckpt.folder)} {os.path.join(BERT_DATA_FP, ckpt.folder)}')
+
+            if self.experiment == Experiment.BFCR_Span_Onto_STM_pretrained:
+                # BFCR_Span_Onto_STM_pretrained has the following name in the checkpoints-folder: spanbert_base_stm to
+                # distinguish it from the other folders, but needs to have the name 'spanbert_base' in bert_data
+                # since the experiments.conf refers to that folder
+                dest = os.path.join(BERT_DATA_FP, 'spanbert_base')
+            else:
+                dest = os.path.join(BERT_DATA_FP, ckpt.folder)
+            os.system(f'cp -av {os.path.join(checkpoints_folder, ckpt.folder)} {dest}')
 
         os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
 
