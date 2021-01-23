@@ -260,7 +260,7 @@ class BFCRModel:
         if create_standoff_annotations:
             if os.path.exists(standoff_annotations_dir):
                 shutil.rmtree(standoff_annotations_dir)
-            os.mkdir(standoff_annotations_dir)
+            os.makedirs(standoff_annotations_dir)
 
             shutil.copyfile(src=os.path.join(self.STM_COREF_CORPUS_FP, 'annotation.conf'),
                             dst=os.path.join(standoff_annotations_dir, 'annotation.conf'))
