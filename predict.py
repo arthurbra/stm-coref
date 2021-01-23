@@ -13,8 +13,8 @@ if __name__ == '__main__':
                         help='Path to a Jsonlines-file, where each line is a json containing a domain.')
     parser.add_argument('predictions_dir', type=str, nargs='?',
                         help='Path to the directory where the predicted-clusters-file and standoff_annotations '
-                             'will be saved to. (default: ../data/coref_predictions/)',
-                        default='../data/coref_predictions/')
+                             'will be saved to. (default: data/coref_predictions/)',
+                        default=os.path.join(BFCRModel.DATA_DIR, 'coref_predictions'))
     parser.add_argument('--disable_saving_clusters_to_file', action='store_true',
                         help='Disables saving the predicted_clusters to a predicted_clusters.jsonlines.', default=False)
     parser.add_argument('--create_standoff_annotations', action='store_true', default=False,

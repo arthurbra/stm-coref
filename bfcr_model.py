@@ -98,6 +98,7 @@ def execute(command: List[str]) -> None:
 
 
 class BFCRModel:
+    DATA_DIR = os.path.abspath('data')
     STM_COREF_CORPUS_FP = os.path.abspath('data/stm-coref')
     STM_ENTITIES_CORPUS_FP = os.path.abspath('data/stm-entities')
     STM_CORPUS = STMCorpus(STM_COREF_CORPUS_FP, STM_ENTITIES_CORPUS_FP)
@@ -149,7 +150,7 @@ class BFCRModel:
                 dest = os.path.join(BERT_DATA_FP, ckpt.folder)
             os.system(f'cp -av {os.path.join(checkpoints_folder, ckpt.folder)} {dest}')
 
-        os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         # creates train, test, dev.conll
         folds_fp = '../data/stm_coref_folds.json'
@@ -177,7 +178,7 @@ class BFCRModel:
         if not self.is_setup:
             self._setup()
 
-        os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         if self.experiment not in [Experiment.BFCR_Span_Onto, Experiment.BFCR_Span_Onto_scierc_eval_only]:
             # train on train-set and find the best checkpoint by evaluating on dev-set
@@ -197,7 +198,7 @@ class BFCRModel:
         if not self.is_setup:
             self._setup()
 
-        os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         if not os.path.exists(EVAL_RESULTS_FP):
             os.mkdir(EVAL_RESULTS_FP)
@@ -215,11 +216,11 @@ class BFCRModel:
     def predict(self, texts: List[str] = None, domains: List[str] = None, kg_corpus: KGCorpus = None,
                 predictions_fp: str = os.path.join(BERT_DATA_FP, 'predictions.jsonlines'),
                 remove_predictions_file: bool = True, create_standoff_annotations: bool = False,
-                standoff_annotations_dir: str = '../data/coref_predictions_standoff'):
+                standoff_annotations_dir: str = os.path.join(DATA_DIR, 'coref_predictions_standoff')):
         if not self.is_setup:
             self._setup()
 
-        os.chdir(BFCR_FP)  # BFCR_FP contains the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         if (not texts and not domains and not kg_corpus) or (texts and kg_corpus):
             raise Exception('Must define either texts or kg_corpus (but not both)!')
