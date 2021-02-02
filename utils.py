@@ -2,7 +2,7 @@ import glob
 import os
 import random
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
 
 
 def change_conf_params(configuration, conf_path, params_to_new_values):

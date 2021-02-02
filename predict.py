@@ -5,8 +5,11 @@ import os
 from bfcr_model import BFCRModel
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Predicts coref-clusters in the given texts using the pretrained '
-                                                 'BFCR_Span_Onto_STM-Model and exports the results to a file.')
+    parser = argparse.ArgumentParser(
+        description='Predicts coref-clusters in the given texts using the pretrained BFCR_Span_Onto_STM-model. '
+                    'By default the predicted clusters will be exported to a jsonlines file, where the i-th line '
+                    'contains the predicted clusters of the i-th text in the file specified at texts_fp-parameter.'
+    )
     parser.add_argument('texts_fp', type=str,
                         help='Path to a Jsonlines-file, where each line is a json containing a text.')
     parser.add_argument('domains_fp', type=str, nargs='?',
@@ -18,7 +21,7 @@ if __name__ == '__main__':
     parser.add_argument('--disable_saving_clusters_to_file', action='store_true',
                         help='Disables saving the predicted_clusters to a predicted_clusters.jsonlines.', default=False)
     parser.add_argument('--create_standoff_annotations', action='store_true', default=False,
-                        help='Creates standoff_annotations (brat) for each text with the predicted clusters')
+                        help='Creates standoff_annotations (brat) for each text with the predicted clusters.')
 
     args = parser.parse_args()
     with open(args.texts_fp) as file:
@@ -32,8 +35,7 @@ if __name__ == '__main__':
 
     bfcr_model = BFCRModel()
     all_predicted_clusters = bfcr_model.predict(
-        texts, domains, remove_predictions_file=True,
-        create_standoff_annotations=args.create_standoff_annotations,
+        texts, domains, remove_predictions_file=True, create_standoff_annotations=args.create_standoff_annotations,
         standoff_annotations_dir=os.path.join(args.predictions_dir, 'standoff')
     )
 
