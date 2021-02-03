@@ -1,5 +1,4 @@
 nltk~=3.4.5
-jsonlines~=1.2.0
 absl-py==0.7.1
 astor==0.8.0
 awscli==1.14.58

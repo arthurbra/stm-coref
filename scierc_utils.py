@@ -2,7 +2,6 @@ import os
 from collections import defaultdict
 import random
 import json
-import jsonlines
 import nltk
 import re
 
@@ -16,7 +15,7 @@ nltk.download("punkt")
 
 def prepare_corpus(corpus, fold, output_folder_path='../SciERC/data/processed_data/json'):
     for data_set, docs in zip(['train', 'dev', 'test'], corpus.get_train_dev_test(fold=fold)):
-        with jsonlines.open(os.path.join(output_folder_path, data_set + '.json'), mode='w') as writer:
+        with open(os.path.join(output_folder_path, data_set + '.json'), mode='w', encoding='utf-8') as writer:
             for doc in docs:
                 tokenized_text = [word_tokenize(s) for s in sent_tokenize(doc.text)]
                 empty_list = [["" for _ in sentence] for sentence in tokenized_text]
@@ -52,7 +51,7 @@ def prepare_corpus(corpus, fold, output_folder_path='../SciERC/data/processed_da
                     # "ner": formatted_entities # schmeisst leider ne exception
                     "ner": []
                 }
-                writer.write(batch)
+                writer.write(json.dumps(batch) + '\n')
 
     print(f'created train, dev, test.json at {output_folder_path}.')
 
