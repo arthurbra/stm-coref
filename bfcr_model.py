@@ -186,15 +186,11 @@ class BFCRModel:
 
     def predict(self, texts: List[str], domains: List[str] = None,
                 predictions_fp: str = os.path.join(BERT_DATA_FP, 'predictions.jsonlines'),
-                remove_predictions_file: bool = True, create_standoff_annotations: bool = False,
+                remove_input_file: bool = True, create_standoff_annotations: bool = False,
                 standoff_annotations_dir: str = os.path.join(DATA_DIR, 'coref_predictions_standoff')):
         if not self.is_setup:
             self._setup()
-
         os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
-
-        if (not texts and not domains and not kg_corpus) or (texts and kg_corpus):
-            raise Exception('Must define either texts or kg_corpus (but not both)!')
 
         if not domains:
             domains = ['Computer_Science' for _ in texts]
@@ -202,11 +198,7 @@ class BFCRModel:
         if any(domain not in Document.DOMAIN_TO_DOMAIN_ID for domain in domains):
             raise Exception(f'Each domain must be one of these: {Document.DOMAIN_TO_DOMAIN_ID.values()}')
 
-        if kg_corpus:
-            texts = [d.text for d in kg_corpus]
-            doc_keys = [d.key for d in kg_corpus]
-        else:
-            doc_keys = [Document.DOMAIN_TO_DOMAIN_ID[domain] + '_' + str(i) for i, domain in enumerate(domains)]
+        doc_keys = [Document.DOMAIN_TO_DOMAIN_ID[domain] + '_' + str(i) for i, domain in enumerate(domains)]
 
         input_file_name = 'texts_to_predict'
         self._create_conll_file(texts, input_file_name, doc_keys, output_folder=BERT_DATA_FP)
@@ -214,7 +206,7 @@ class BFCRModel:
         # creates a .jsonlines-file, where the texts are split into segments with a maximum length of max_seg_len
         vocab_fp = os.path.abspath(os.path.join(BERT_DATA_FP, self.experiment_config.vocab_folder, 'vocab.txt'))
         input_dir = output_dir = BERT_DATA_FP
-        utils.execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len), input_file_name])  # TODO oder nur python?
+        utils.execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len), input_file_name])
 
         # make sure the correct segment length is contained in the experiments.config
         changes = {'max_segment_len': str(self.max_seg_len)}
@@ -225,7 +217,7 @@ class BFCRModel:
 
         all_predicted_clusters = read_predictions(predictions_fp, texts, doc_keys, used_model=Model.BFCR)
 
-        if remove_predictions_file:
+        if remove_input_file:
             os.remove(input_fp)
 
         if create_standoff_annotations:

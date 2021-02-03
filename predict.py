@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
     bfcr_model = BFCRModel()
     all_predicted_clusters = bfcr_model.predict(
-        texts, domains, remove_predictions_file=True, create_standoff_annotations=args.create_standoff_annotations,
+        texts, domains, remove_input_file=True, create_standoff_annotations=args.create_standoff_annotations,
         standoff_annotations_dir=os.path.join(args.predictions_dir, 'standoff')
     )
 
