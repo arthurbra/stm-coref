@@ -19,6 +19,7 @@ class SCIIEModel:
         self.fold = fold
         self.use_pretrained_model = use_pretrained_model
         self.experiment = 'SCIIE_SciERC' if use_pretrained_model else 'SCIIE_STM'
+        self.is_setup = False
 
     def _setup(self) -> None:
         os.chdir(SCIIE_DIR)
@@ -81,6 +82,8 @@ class SCIIEModel:
         """
         Trains for a fixed number of epochs. Continuously evaluates on the dev-set while the training is running.
         """
+        if not self.is_setup:
+            self._setup()
         os.chdir(SCIIE_DIR)
 
         evaluator_thread = Thread(target=lambda: utils.execute(['python3', 'evaluator.py', 'scientific_best_coref'],
@@ -99,12 +102,16 @@ class SCIIEModel:
         """
         Evaluates on the test-set. Saves Precision-, Recall- and F1-Scores per domain to a csv-file at EVAL_RESULTS_FP.
         """
+        if not self.is_setup:
+            self._setup()
         os.chdir(SCIIE_DIR)
         utils.execute(['python3', 'test_single.py', 'test_scientific_best_coref'])
 
     def predict(self, input_json_fp: str, output_dir: str):
         raise NotImplementedError('Will be implemented in the future.')
 
+        if not self.is_setup:
+            self._setup()
         os.chdir(SCIIE_DIR)
         # TODO create embeddings
         changes = {
