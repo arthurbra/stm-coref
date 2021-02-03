@@ -66,6 +66,7 @@ class SCIIEModel:
                                     output_dir=os.path.join(SCIIE_DIR, 'data/processed_data/json'))
 
         # generate elmo embeddings for the given train-dev-test split which will be stored at data/processed_data/elmo
+        print('Creating elmo-embeddings and storing them at data/processed_data/elmo.')
         os.makedirs(os.path.join(SCIIE_DIR, 'data/processed_data/elmo'))
         utils.execute(['python3', 'scripts/filter_embeddings.py', 'embeddings/glove.840B.300d.txt',
                        'embeddings/glove.840B.300d.txt.filtered',
@@ -87,17 +88,17 @@ class SCIIEModel:
             self._setup()
         os.chdir(SCIIE_DIR)
 
-        evaluator_thread = Thread(target=lambda: utils.execute(['python3', 'evaluator.py', 'scientific_best_coref'],
-                                                               show_stderr_first=True))
-        trainer_thread = Thread(target=lambda: utils.execute(['python3', 'singleton.py', 'scientific_best_coref'],
-                                                             show_stderr_first=True))
+        evaluator_thread = Thread(target=lambda: utils.execute(['python3', 'evaluator.py', 'scientific_best_coref']))
+        trainer_thread = Thread(target=lambda: utils.execute(['python3', 'singleton.py', 'scientific_best_coref']))
 
+        print('Starting training.')
         trainer_thread.start()
         evaluator_thread.start()
 
         # blocks until the training has finished (after 300 Epochs)
         trainer_thread.join()
         evaluator_thread.join()
+        print('Training finished.')
 
     def evaluate(self):
         """
