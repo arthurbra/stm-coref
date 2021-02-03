@@ -59,7 +59,8 @@ class SCIIEModel:
             shutil.copytree(src=get_dir(pretrained_model_dl_link, SCIIE_DIR), dst=logs_dir)
 
         # creates train-, dev-, test.json files
-        shutil.rmtree(os.path.join(SCIIE_DIR, 'data'))  # delete previous elmo embeddings and dataset-splits
+        if os.path.exists(os.path.join(SCIIE_DIR, 'data')):
+            shutil.rmtree(os.path.join(SCIIE_DIR, 'data'))  # delete previous elmo embeddings and dataset-splits
         os.makedirs(os.path.join(SCIIE_DIR, 'data/processed_data/json'))
         scierc_utils.prepare_corpus(self.STM_CORPUS, self.fold,
                                     output_folder_path=os.path.join(SCIIE_DIR, 'data/processed_data/json'))
