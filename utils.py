@@ -1,6 +1,9 @@
 import glob
 import os
 import random
+import subprocess
+from typing import List
+
 import numpy as np
 # import tensorflow as tf
 
@@ -61,3 +64,33 @@ def flatten(l):
         return [x for sublist in l for x in sublist]
     else:
         return l
+
+
+def execute(command: List[str], show_stderr_first: bool = False) -> None:
+    # prefix = '!' if BFCRModel.RUN_IN_IPYTHON else ''
+    # os.system(prefix + command[0] + ' '.join(command[1:]))
+    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
+    if not show_stderr_first:
+        for line in process.stdout:
+            print(line, end='')
+        for line in process.stderr:
+            print(line, end='')
+    else:
+        for line in process.stderr:
+            print(line, end='')
+        for line in process.stdout:
+            print(line, end='')
+
+    # while process.poll() is None:
+    #     out = process.stdout.readline()
+    #     if out != '':
+    #         print(out, end='')
+    #     err = process.stderr.readline()
+    #     if err != '':
+    #         print(err, end='')
+
+# print(line, end='')
+    # for line in iter(lambda: process.stdout.readline() + '\n' + process.stderr.readline(), ''):
+    #     print(line, end='')
+    # for line in process.stderr:
+    #     print(line, end='')

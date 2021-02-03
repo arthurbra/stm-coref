@@ -68,41 +68,11 @@ EXPERIMENT_TO_CONFIG = {
                                                                ckpts=[CKPTS.SPANBERT_ONTO_STM])
 }
 
-
-def execute(command: List[str]) -> None:
-    # prefix = '!' if BFCRModel.RUN_IN_IPYTHON else ''
-    # os.system(prefix + command[0] + ' '.join(command[1:]))
-    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
-    if not BFCRModel.ONLY_SHOW_STDERR:
-        for line in process.stdout:
-            print(line, end='')
-        for line in process.stderr:
-            print(line, end='')
-    else:
-        for line in process.stderr:
-            print(line, end='')
-
-    # while process.poll() is None:
-    #     out = process.stdout.readline()
-    #     if out != '':
-    #         print(out, end='')
-    #     err = process.stderr.readline()
-    #     if err != '':
-    #         print(err, end='')
-
-# print(line, end='')
-    # for line in iter(lambda: process.stdout.readline() + '\n' + process.stderr.readline(), ''):
-    #     print(line, end='')
-    # for line in process.stderr:
-    #     print(line, end='')
-
-
 class BFCRModel:
     DATA_DIR = os.path.abspath('data')
     STM_COREF_CORPUS_FP = os.path.abspath('data/stm-coref')
     STM_ENTITIES_CORPUS_FP = os.path.abspath('data/stm-entities')
     STM_CORPUS = STMCorpus(STM_COREF_CORPUS_FP, STM_ENTITIES_CORPUS_FP)
-    ONLY_SHOW_STDERR = False
 
     def __init__(self, experiment: Experiment = Experiment.BFCR_Span_Onto_STM_pretrained,
                  corpus: STMCorpus = STM_CORPUS, fold: int = 0, seed: int = 0, max_seg_len: int = 384):
@@ -115,7 +85,7 @@ class BFCRModel:
         self.is_setup = False
 
     def _setup(self, checkpoints_folder: str = os.path.join(BFCR_FP, 'checkpoints')):
-        # cleanup the bert_data-folder
+        # cleanup the bert_data-folder from previous experiments
         if os.path.exists(BERT_DATA_FP):
             os.system(f'rm -r {BERT_DATA_FP}')
 
@@ -164,12 +134,12 @@ class BFCRModel:
         # where the texts are split into segments with a maximum length of max_seg_len
         vocab_fp = os.path.abspath(os.path.join(BERT_DATA_FP, self.experiment_config.vocab_folder, 'vocab.txt'))
         input_dir = output_dir = BERT_DATA_FP
-        execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len)])
+        utils.execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len)])
 
         utils.set_seed_value(self.seed)
         os.environ['eval_results_fp'] = os.path.join(
             EVAL_RESULTS_FP,
-            f'{self.experiment.name}_{self.fold}_s{self.seed}_msl_{self.max_seg_len}'
+            f'{self.experiment.name}_{self.fold}_s{self.seed}_msl_{self.max_seg_len}_eval.csv'
         )
         os.environ['data_dir'] = BERT_DATA_FP
         self.is_setup = True
@@ -189,7 +159,7 @@ class BFCRModel:
                 'max_segment_len': str(self.max_seg_len)
             }
             utils.change_conf_params(self.experiment_config.name, f'{BFCR_FP}/experiments.conf', changes)
-            execute(['python', 'train.py', self.experiment_config.name])
+            utils.execute(['python', 'train.py', self.experiment_config.name], show_stderr_first=True)
         else:
             print(f'Experiment: {self.experiment} is not meant to be trained! Use another Experiment if you want '
                   f'to train.')
@@ -211,7 +181,7 @@ class BFCRModel:
             'max_segment_len': str(self.max_seg_len)
         }
         utils.change_conf_params(self.experiment_config.name, f'{BFCR_FP}/experiments.conf', changes)
-        execute(['python', 'evaluate.py', self.experiment_config.name])
+        utils.execute(['python', 'evaluate.py', self.experiment_config.name])
 
     def predict(self, texts: List[str] = None, domains: List[str] = None, kg_corpus: KGCorpus = None,
                 predictions_fp: str = os.path.join(BERT_DATA_FP, 'predictions.jsonlines'),
@@ -243,14 +213,14 @@ class BFCRModel:
         # creates a .jsonlines-file, where the texts are split into segments with a maximum length of max_seg_len
         vocab_fp = os.path.abspath(os.path.join(BERT_DATA_FP, self.experiment_config.vocab_folder, 'vocab.txt'))
         input_dir = output_dir = BERT_DATA_FP
-        execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len), input_file_name])  # TODO oder nur python?
+        utils.execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len), input_file_name])  # TODO oder nur python?
 
         # make sure the correct segment length is contained in the experiments.config
         changes = {'max_segment_len': str(self.max_seg_len)}
         utils.change_conf_params(self.experiment_config.name, f'{BFCR_FP}/experiments.conf', changes)
 
         input_fp = os.path.join(BERT_DATA_FP, f'{input_file_name}.english.{self.max_seg_len}.jsonlines')
-        execute(['python3', 'predict.py', self.experiment_config.name, input_fp, predictions_fp])
+        utils.execute(['python3', 'predict.py', self.experiment_config.name, input_fp, predictions_fp])
 
         all_predicted_clusters = read_predictions(predictions_fp, texts, doc_keys, used_model=Model.BFCR)
 

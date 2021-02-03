@@ -54,7 +54,7 @@ def prepare_corpus(corpus, fold, output_folder_path='../SciERC/data/processed_da
                 }
                 writer.write(batch)
 
-    print(f'created train, dev, test.json in the path: {output_folder_path}')
+    print(f'created train, dev, test.json at {output_folder_path}.')
 
 
 def __brat_extract_properties(doc,
