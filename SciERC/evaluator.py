@@ -65,8 +65,6 @@ if __name__ == "__main__":
   best_task_f1 = {}
   checkpoint_pattern = re.compile(".*model.ckpt-([0-9]*)\Z")
 
-  max_steps = config['num_docs'] * config['num_epochs']
-
   with tf.Session() as session:
     while True:
       ckpt = tf.train.get_checkpoint_state(log_dir)
@@ -100,7 +98,8 @@ if __name__ == "__main__":
 
         evaluated_checkpoints.add(ckpt.model_checkpoint_path)
 
-        if global_step > max_steps:
-          print('global_step > max_steps, stop evaluation')
+        if 'stop_sciie_evaluator' in os.environ and os.environ['stop_sciie_evaluator'] == 'True':
+          print('Evaluator manually stopped.')
+          os.environ['stop_sciie_evaluator'] = 'False'
           break
       time.sleep(config["eval_sleep_secs"])

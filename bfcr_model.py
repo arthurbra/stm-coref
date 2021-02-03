@@ -19,7 +19,7 @@ nltk.download("punkt")
 
 BFCR_FP = os.path.abspath('BertForCorefRes')
 BERT_DATA_FP = os.path.abspath(os.path.join(BFCR_FP, 'bert_data'))
-EVAL_RESULTS_FP = os.path.abspath('EvalResults')
+EVAL_RESULTS_DIR = os.path.abspath('EvalResults')
 
 Checkpoint = namedtuple('Checkpoint', 'folder dl_link')
 ExperimentConfig = namedtuple('ExperimentConfig', 'name vocab_folder ckpts')
@@ -139,7 +139,7 @@ class BFCRModel:
 
         utils.set_seed_value(self.seed)
         os.environ['eval_results_fp'] = os.path.join(
-            EVAL_RESULTS_FP,
+            EVAL_RESULTS_DIR,
             f'{self.experiment.name}_{self.fold}_s{self.seed}_msl_{self.max_seg_len}_eval.csv'
         )
         os.environ['data_dir'] = BERT_DATA_FP
@@ -171,8 +171,8 @@ class BFCRModel:
 
         os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
-        if not os.path.exists(EVAL_RESULTS_FP):
-            os.mkdir(EVAL_RESULTS_FP)
+        if not os.path.exists(EVAL_RESULTS_DIR):
+            os.mkdir(EVAL_RESULTS_DIR)
 
         # evaluate on test-set
         changes = {
@@ -184,7 +184,7 @@ class BFCRModel:
         utils.change_conf_params(self.experiment_config.name, f'{BFCR_FP}/experiments.conf', changes)
         utils.execute(['python', 'evaluate.py', self.experiment_config.name])
 
-    def predict(self, texts: List[str] = None, domains: List[str] = None, kg_corpus: KGCorpus = None,
+    def predict(self, texts: List[str], domains: List[str] = None,
                 predictions_fp: str = os.path.join(BERT_DATA_FP, 'predictions.jsonlines'),
                 remove_predictions_file: bool = True, create_standoff_annotations: bool = False,
                 standoff_annotations_dir: str = os.path.join(DATA_DIR, 'coref_predictions_standoff')):

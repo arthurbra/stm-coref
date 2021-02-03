@@ -92,8 +92,8 @@ class Document(object):
         self.path = doc_path
         self.is_annotated = doc_with_entities_path is not None
         if self.is_annotated:
-            self.text, _, self.clusters = brat_extract_properties(doc_path, allow_fragments=allow_fragments)
-            _, self.entities, _ = brat_extract_properties(doc_with_entities_path, allow_fragments=allow_fragments)
+            self.text, _, self.clusters = brat_extract_properties(doc_path, allow_fragments)
+            _, self.entities, _ = brat_extract_properties(doc_with_entities_path, allow_fragments)
         else:
             self.text, _, _ = brat_extract_properties(doc_path)
             self.entities, self.clusters = [], []
@@ -149,29 +149,6 @@ class Corpus(object):
         return len(self.docs)
 
 
-class KGCorpus(Corpus):
-    def __init__(self, corpus_folder_path, doc_domain_mapping_file_path='../data/ccby-domain-mapping.csv'):
-        super().__init__(corpus_folder_path, is_kg_corpus=True)
-        self.__doc_name_to_domains = KGCorpus.__retrieve_domains(doc_domain_mapping_file_path)
-
-    @staticmethod
-    def __retrieve_domains(domain_mapping_file_path):
-        if not os.path.exists(domain_mapping_file_path):
-            return {}
-
-        doc_name_to_domains = {}
-        with open(domain_mapping_file_path, mode='r') as file:
-            for line in file:
-                doc_name, _, domains_str = line[:-1].split('\t')
-                domains = domains_str.split(' | ')
-                doc_name_to_domains[doc_name] = domains
-
-        return doc_name_to_domains
-
-    def get_domains(self, doc):
-        return self.__doc_name_to_domains[doc.name]
-
-
 class STMCorpus(Corpus):
     def __init__(self, cluster_corpus_folder_path, entity_corpus_folder_path, allow_fragments=True,
                  filter_out_irrelevant_entity_types=False, irrelevant_entity_types=None):
@@ -185,7 +162,7 @@ class STMCorpus(Corpus):
                         get_files_in_folder(entity_corpus_folder_path, pattern='*.txt'))
         doc_paths = [(p1.replace('.txt', ''), p2.replace('.txt', '')) for p1, p2 in doc_paths]
         self.docs = [Document(c_doc_path, allow_fragments, e_doc_path) for c_doc_path, e_doc_path in doc_paths]
-        if not allow_fragments: # sciee can't handle mentions, which occur in fragments
+        if not allow_fragments:  # sciee can't handle mentions which occur in fragments
             for doc in self.docs:
                 formatted_clusters = []
                 for cluster in doc.clusters:

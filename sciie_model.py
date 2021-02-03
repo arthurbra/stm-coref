@@ -7,7 +7,7 @@ from brat_utils import STMCorpus
 import utils
 
 SCIIE_DIR = os.path.abspath('SciERC')
-EVAL_RESULTS_FP = os.path.abspath('EvalResults')
+EVAL_RESULTS_DIR = os.path.abspath('EvalResults')
 
 
 class SCIIEModel:
@@ -77,8 +77,8 @@ class SCIIEModel:
                            '--input', os.path.join(SCIIE_DIR, f'data/processed_data/json/{split}.json'),
                            '--output', os.path.join(SCIIE_DIR, f'data/processed_data/elmo/{split}.hdf5')])
 
-        # saves Prec-, Rec- and F1-scores for each domain on the test-set to eval_results_fp-directory
-        os.environ['eval_results_fp'] = os.path.join(EVAL_RESULTS_FP, f'{self.experiment}_{self.fold}_eval.csv')
+        # saves Prec-, Rec- and F1-scores for each domain on the test-set to EVAL_RESULTS_DIR
+        os.environ['eval_results_fp'] = os.path.join(EVAL_RESULTS_DIR, f'{self.experiment}_{self.fold}_eval.csv')
 
     def train(self) -> None:
         """
@@ -97,16 +97,24 @@ class SCIIEModel:
 
         # blocks until the training has finished (after 300 Epochs)
         trainer_thread.join()
+
+        # evaluator runs indefinitely until 'stop_sciie_evaluator' is set to True
+        os.environ['stop_sciie_evaluator'] = 'True'
         evaluator_thread.join()
+
         print('Training finished.')
 
     def evaluate(self):
         """
-        Evaluates on the test-set. Saves Precision-, Recall- and F1-Scores per domain to a csv-file at EVAL_RESULTS_FP.
+        Evaluates on the test-set. Saves Precision-, Recall- and F1-Scores per domain to a csv-file at EVAL_RESULTS_DIR.
         """
         if not self.is_setup:
             self._setup()
         os.chdir(SCIIE_DIR)
+
+        if not os.path.exists(EVAL_RESULTS_DIR):
+            os.mkdir(EVAL_RESULTS_DIR)
+
         utils.execute(['python3', 'test_single.py', 'test_scientific_best_coref'])
 
     def predict(self, input_json_fp: str, output_dir: str):
