@@ -68,6 +68,7 @@ EXPERIMENT_TO_CONFIG = {
                                                                ckpts=[CKPTS.SPANBERT_ONTO_STM])
 }
 
+
 class BFCRModel:
     DATA_DIR = os.path.abspath('data')
     STM_COREF_CORPUS_FP = os.path.abspath('data/stm-coref')

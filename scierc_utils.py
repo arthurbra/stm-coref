@@ -13,9 +13,10 @@ from utils import get_files_in_folder, flatten
 nltk.download("punkt")
 
 
-def prepare_corpus(corpus, fold, output_folder_path='../SciERC/data/processed_data/json'):
-    for data_set, docs in zip(['train', 'dev', 'test'], corpus.get_train_dev_test(fold=fold)):
-        with open(os.path.join(output_folder_path, data_set + '.json'), mode='w', encoding='utf-8') as writer:
+def prepare_corpus(corpus, fold: int, output_dir: str) -> None:
+    folds_fp = '../data/stm_coref_folds.json'
+    for data_set, docs in zip(['train', 'dev', 'test'], corpus.get_train_dev_test(fold, folds_fp)):
+        with open(os.path.join(output_dir, data_set + '.json'), mode='w', encoding='utf-8') as writer:
             for doc in docs:
                 tokenized_text = [word_tokenize(s) for s in sent_tokenize(doc.text)]
                 empty_list = [["" for _ in sentence] for sentence in tokenized_text]
@@ -53,7 +54,7 @@ def prepare_corpus(corpus, fold, output_folder_path='../SciERC/data/processed_da
                 }
                 writer.write(json.dumps(batch) + '\n')
 
-    print(f'created train, dev, test.json at {output_folder_path}.')
+    print(f'created train, dev, test.json at {output_dir}.')
 
 
 def __brat_extract_properties(doc,

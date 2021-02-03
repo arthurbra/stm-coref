@@ -63,7 +63,7 @@ class SCIIEModel:
             shutil.rmtree(os.path.join(SCIIE_DIR, 'data'))  # delete previous elmo embeddings and dataset-splits
         os.makedirs(os.path.join(SCIIE_DIR, 'data/processed_data/json'))
         scierc_utils.prepare_corpus(self.STM_CORPUS, self.fold,
-                                    output_folder_path=os.path.join(SCIIE_DIR, 'data/processed_data/json'))
+                                    output_dir=os.path.join(SCIIE_DIR, 'data/processed_data/json'))
 
         # generate elmo embeddings for the given train-dev-test split which will be stored at data/processed_data/elmo
         os.makedirs(os.path.join(SCIIE_DIR, 'data/processed_data/elmo'))
