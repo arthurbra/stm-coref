@@ -11,7 +11,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 import gdown
 
 import utils
-from brat_utils import Corpus, KGCorpus, Document, STMCorpus
+from brat_utils import Corpus, Document, STMCorpus
 from index_converter import IndexConverter
 from predictions_reader import read_predictions, Model
 
@@ -249,7 +249,7 @@ class BFCRModel:
 
     @staticmethod
     def _create_conll_file(texts: List[str], file_name: str, doc_keys: List[str], output_folder: str,
-                           clusters: List[List[Tuple[int, int]]] = None) -> None:
+                           clusters: List[List[List[Tuple[int, int]]]] = None) -> None:
         if not os.path.exists(output_folder):
             os.mkdir(output_folder)
 

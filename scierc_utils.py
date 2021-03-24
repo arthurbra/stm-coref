@@ -2,6 +2,8 @@ import os
 from collections import defaultdict
 import random
 import json
+from typing import Dict
+
 import nltk
 import re
 
@@ -181,11 +183,11 @@ def __read_scierc_corpus(corpus_fp):
     return doc_key_to_text_entities_clusters
 
 
-def __create_folds(doc_key_to_text_entities_clusters, k=10):
+def __create_folds(doc_key_to_text_entities_clusters, k: int = 10) -> Dict[int, Tuple[List[str], List[str], List[str]]]:
     # scierc contains 500 docs. The train-, dev- and test-set contain 350, 50, 100 docs respectively
     doc_keys = list(doc_key_to_text_entities_clusters.keys())
     random.shuffle(doc_keys)
-    # split doc keys into k=10 groups of equal size, 50 docs per split
+    # split fp keys into k=10 groups of equal size, 50 docs per split
     k_groups = [doc_keys[round(i / k * len(doc_keys)):round((i / k + 0.1) * len(doc_keys))] for i in range(k)]
 
     fold_to_train_dev_test_docs = {}
@@ -193,7 +195,8 @@ def __create_folds(doc_key_to_text_entities_clusters, k=10):
         test = flatten(k_groups[fold: (fold + 2)] if fold != (k - 1) else [k_groups[(k - 1)], k_groups[0]])
         dev = k_groups[(fold + 2) % k]
         train = list(set(doc_keys).difference(set().union(dev, test)))
-        fold_to_train_dev_test_docs[str(fold)] = (train, dev, test) # str(fold) because json converts dict-key integers to strings
+        # str(fold) because json converts dict-key integers to strings
+        fold_to_train_dev_test_docs[str(fold)] = (train, dev, test)
 
     # check that each test-set of a the folds is unique
     assert (not any(t1 == t2 for dk1, (_, _, t1) in fold_to_train_dev_test_docs.items() for dk2, (_, _, t2) in
@@ -243,7 +246,7 @@ def prepare_scierc_corpus(corpus_fp, fold, folds_fp='data/scierc_folds.json', ou
                 train, dev, test = json.load(file)
         else:
             print(f'Creating new reduced split and storing it at {reduced_fold_fp.format(num_docs_reduction_to_percent)}.')
-            random.shuffle(train); random.shuffle(dev); random.shuffle(test)
+            random.shuffle(train), random.shuffle(dev), random.shuffle(test)
             train = train[:round(len(train) * num_docs_reduction_to_percent / 100)]
             dev = dev[:round(len(dev) * num_docs_reduction_to_percent / 100)]
             test = test[:round(len(test) * num_docs_reduction_to_percent / 100)]
