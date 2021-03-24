@@ -1,10 +1,16 @@
 import os
 from threading import Thread
 import shutil
+import json
 
-import scierc_utils
-from brat_utils import STMCorpus
+import nltk
+from nltk import word_tokenize, sent_tokenize
+
+from brat_utils import STMCorpus, Corpus
 import utils
+from index_converter import IndexConverter
+
+nltk.download("punkt")
 
 SCIIE_DIR = os.path.abspath('SciERC')
 EVAL_RESULTS_DIR = os.path.abspath('EvalResults')
@@ -15,7 +21,8 @@ class SCIIEModel:
     STM_ENTITIES_CORPUS_FP = os.path.abspath('data/stm-entities')
     STM_CORPUS = STMCorpus(STM_COREF_CORPUS_FP, STM_ENTITIES_CORPUS_FP, allow_fragments=False)
 
-    def __init__(self, fold: int = 0, use_pretrained_model: bool = False):
+    def __init__(self, corpus: Corpus = STMCorpus, fold: int = 0, use_pretrained_model: bool = False):
+        self.corpus = corpus
         self.fold = fold
         self.use_pretrained_model = use_pretrained_model
         self.experiment = 'SCIIE_SciERC' if use_pretrained_model else 'SCIIE_STM'
@@ -62,8 +69,9 @@ class SCIIEModel:
         if os.path.exists(os.path.join(SCIIE_DIR, 'data')):
             shutil.rmtree(os.path.join(SCIIE_DIR, 'data'))  # delete previous elmo embeddings and dataset-splits
         os.makedirs(os.path.join(SCIIE_DIR, 'data/processed_data/json'))
-        scierc_utils.prepare_corpus(self.STM_CORPUS, self.fold,
-                                    output_dir=os.path.join(SCIIE_DIR, 'data/processed_data/json'))
+
+        self._create_json_files(self.corpus, self.fold, folds_fp='../data/stm_coref_folds.json',
+                                output_dir=os.path.join(SCIIE_DIR, 'data/processed_data/json'))
 
         # generate elmo embeddings for the given train-dev-test split which will be stored at data/processed_data/elmo
         print('Creating elmo-embeddings and storing them at data/processed_data/elmo.')
@@ -131,3 +139,46 @@ class SCIIEModel:
         }
         utils.change_conf_params('scientific_best_coref', f'{SCIIE_DIR}/experiments.conf', changes)
         utils.execute(['python3', 'write_single.py', 'scientific_best_coref'])
+
+    @staticmethod
+    def _create_json_files(corpus: Corpus, fold: int, folds_fp: str, output_dir: str) -> None:
+        for data_set, docs in zip(['train', 'dev', 'test'], corpus.get_train_dev_test(folds_fp, fold)):
+            with open(os.path.join(output_dir, data_set + '.json'), mode='w', encoding='utf-8') as writer:
+                for doc in docs:
+                    tokenized_text = [word_tokenize(s) for s in sent_tokenize(doc.text)]
+                    empty_list = [["" for _ in sentence] for sentence in tokenized_text]
+
+                    # convert char indices to word indices
+                    converter = IndexConverter(doc.text, utils.flatten(tokenized_text))
+                    converted_clusters = []
+                    for c in doc.clusters:
+                        l = []
+                        for m in c:
+                            try:
+                                l.append(converter.to_word_index(m))
+                            except:
+                                pass
+                        if len(l) >= 2:
+                            converted_clusters.append(l)
+
+                    sentence_to_start_end = {}  # inclusive, exclusive indices
+                    curr_sentence_index = 0
+                    sentence_start_index = 0
+                    for char_index, char in enumerate(doc.text):
+                        if char == '\n':  # must be the sentence end
+                            sentence_to_start_end[curr_sentence_index] = (sentence_start_index, char_index)
+                            curr_sentence_index += 1
+                            sentence_start_index = char_index + 1
+
+                    batch = {
+                        "doc_key": doc.key,
+                        "clusters": converted_clusters,
+                        "sentences": tokenized_text,
+                        "speakers": empty_list,
+                        # "relations": []
+                        # "ner": formatted_entities # somehow throws an exception
+                        "ner": []
+                    }
+                    writer.write(json.dumps(batch) + '\n')
+
+        print(f'created train, dev, test.json at {output_dir}.')

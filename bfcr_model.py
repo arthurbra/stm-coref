@@ -76,7 +76,7 @@ class BFCRModel:
     STM_CORPUS = STMCorpus(STM_COREF_CORPUS_FP, STM_ENTITIES_CORPUS_FP)
 
     def __init__(self, experiment: Experiment = Experiment.BFCR_Span_Onto_STM_pretrained,
-                 corpus: STMCorpus = STM_CORPUS, fold: int = 0, seed: int = 0, max_seg_len: int = 384):
+                 corpus: Corpus = STM_CORPUS, fold: int = 0, seed: int = 0, max_seg_len: int = 384):
         self.experiment = experiment
         self.experiment_config = EXPERIMENT_TO_CONFIG[experiment]
         self.corpus = corpus
@@ -125,7 +125,7 @@ class BFCRModel:
 
         # creates train, test, dev.conll
         folds_fp = '../data/stm_coref_folds.json'
-        for partition, file_name in zip(self.corpus.get_train_dev_test(self.fold, folds_fp), ['train', 'dev', 'test']):
+        for partition, file_name in zip(self.corpus.get_train_dev_test(folds_fp, self.fold), ['train', 'dev', 'test']):
             texts = [doc.text for doc in partition]
             doc_keys = [doc.key for doc in partition]
             clusters = [doc.clusters for doc in partition]
