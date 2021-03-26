@@ -14,12 +14,9 @@ import utils
 from brat_utils import Corpus, Document, STMCorpus
 from index_converter import IndexConverter
 from predictions_reader import read_predictions, Model
+from config import Config
 
 nltk.download("punkt")
-
-BFCR_FP = os.path.abspath('BertForCorefRes')
-BERT_DATA_FP = os.path.abspath(os.path.join(BFCR_FP, 'bert_data'))
-EVAL_RESULTS_DIR = os.path.abspath('EvalResults')
 
 Checkpoint = namedtuple('Checkpoint', 'folder dl_link')
 ExperimentConfig = namedtuple('ExperimentConfig', 'name vocab_folder ckpts')
@@ -85,10 +82,10 @@ class BFCRModel:
         self.max_seg_len = max_seg_len
         self.is_setup = False
 
-    def _setup(self, checkpoints_folder: str = os.path.join(BFCR_FP, 'checkpoints')):
+    def _setup(self, checkpoints_folder: str = os.path.join(Config.BFCR_DIR, 'checkpoints')):
         # cleanup the bert_data-folder from previous experiments
-        if os.path.exists(BERT_DATA_FP):
-            os.system(f'rm -r {BERT_DATA_FP}')
+        if os.path.exists(Config.BERT_DATA_DIR):
+            os.system(f'rm -r {Config.BERT_DATA_DIR}')
 
         # download checkpoints which are used for the first time
         for ckpt in self.experiment_config.ckpts:
@@ -110,18 +107,18 @@ class BFCRModel:
                 print('Download complete.')
 
             # move the checkpoints necessary for the experiment to the checkpoints-folder
-            os.mkdir(BERT_DATA_FP)
+            os.mkdir(Config.BERT_DATA_DIR)
 
             if self.experiment == Experiment.BFCR_Span_Onto_STM_pretrained:
                 # BFCR_Span_Onto_STM_pretrained has the following name in the checkpoints-folder: spanbert_base_stm to
                 # distinguish it from the other folders, but needs to have the name 'spanbert_base' in bert_data
                 # since the experiments.conf refers to that folder
-                dest = os.path.join(BERT_DATA_FP, 'spanbert_base')
+                dest = os.path.join(Config.BERT_DATA_DIR, 'spanbert_base')
             else:
-                dest = os.path.join(BERT_DATA_FP, ckpt.folder)
+                dest = os.path.join(Config.BERT_DATA_DIR, ckpt.folder)
             os.system(f'cp -av {os.path.join(checkpoints_folder, ckpt.folder)} {dest}')
 
-        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(Config.BFCR_DIR)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         # creates train, test, dev.conll
         folds_fp = '../data/stm_coref_folds.json'
@@ -129,27 +126,27 @@ class BFCRModel:
             texts = [doc.text for doc in partition]
             doc_keys = [doc.key for doc in partition]
             clusters = [doc.clusters for doc in partition]
-            self._create_conll_file(texts, file_name, doc_keys, output_folder=BERT_DATA_FP, clusters=clusters)
+            self._create_conll_file(texts, file_name, doc_keys, output_folder=Config.BERT_DATA_DIR, clusters=clusters)
 
         # creates train, dev, test.jsonlines,
         # where the texts are split into segments with a maximum length of max_seg_len
-        vocab_fp = os.path.abspath(os.path.join(BERT_DATA_FP, self.experiment_config.vocab_folder, 'vocab.txt'))
-        input_dir = output_dir = BERT_DATA_FP
+        vocab_fp = os.path.abspath(os.path.join(Config.BERT_DATA_DIR, self.experiment_config.vocab_folder, 'vocab.txt'))
+        input_dir = output_dir = Config.BERT_DATA_DIR
         utils.execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len)])
 
         utils.set_seed_value(self.seed)
         os.environ['eval_results_fp'] = os.path.join(
-            EVAL_RESULTS_DIR,
+            Config.EVAL_RESULTS_DIR,
             f'{self.experiment.name}_{self.fold}_s{self.seed}_msl_{self.max_seg_len}_eval.csv'
         )
-        os.environ['data_dir'] = BERT_DATA_FP
+        os.environ['data_dir'] = Config.BERT_DATA_DIR
         self.is_setup = True
 
     def train(self) -> None:
         if not self.is_setup:
             self._setup()
 
-        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(Config.BFCR_DIR)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         if self.experiment not in [Experiment.BFCR_Span_Onto, Experiment.BFCR_Span_Onto_scierc_eval_only]:
             # train on train-set and find the best checkpoint by evaluating on dev-set
@@ -159,7 +156,7 @@ class BFCRModel:
                 'conll_eval_path': '${data_dir}/dev.english.v4_gold_conll',
                 'max_segment_len': str(self.max_seg_len)
             }
-            utils.change_conf_params(self.experiment_config.name, f'{BFCR_FP}/experiments.conf', changes)
+            utils.change_conf_params(self.experiment_config.name, f'{Config.BFCR_DIR}/experiments.conf', changes)
             utils.execute(['python', 'train.py', self.experiment_config.name], show_stderr_first=True)
         else:
             print(f'Experiment: {self.experiment} is not meant to be trained! Use another Experiment if you want '
@@ -169,10 +166,10 @@ class BFCRModel:
         if not self.is_setup:
             self._setup()
 
-        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(Config.BFCR_DIR)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
-        if not os.path.exists(EVAL_RESULTS_DIR):
-            os.mkdir(EVAL_RESULTS_DIR)
+        if not os.path.exists(Config.EVAL_RESULTS_DIR):
+            os.mkdir(Config.EVAL_RESULTS_DIR)
 
         # evaluate on test-set
         changes = {
@@ -181,16 +178,16 @@ class BFCRModel:
             'conll_eval_path': '${data_dir}/test.english.v4_gold_conll',
             'max_segment_len': str(self.max_seg_len)
         }
-        utils.change_conf_params(self.experiment_config.name, f'{BFCR_FP}/experiments.conf', changes)
+        utils.change_conf_params(self.experiment_config.name, f'{Config.BFCR_DIR}/experiments.conf', changes)
         utils.execute(['python', 'evaluate.py', self.experiment_config.name])
 
     def predict(self, texts: List[str], domains: List[str] = None,
-                predictions_fp: str = os.path.join(BERT_DATA_FP, 'predictions.jsonlines'),
+                predictions_fp: str = os.path.join(Config.BERT_DATA_DIR, 'predictions.jsonlines'),
                 remove_input_file: bool = True, create_standoff_annotations: bool = False,
                 standoff_annotations_dir: str = os.path.join(DATA_DIR, 'coref_predictions_standoff')):
         if not self.is_setup:
             self._setup()
-        os.chdir(BFCR_FP)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
+        os.chdir(Config.BFCR_DIR)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         if not domains:
             domains = ['Computer_Science' for _ in texts]
@@ -201,18 +198,18 @@ class BFCRModel:
         doc_keys = [Document.DOMAIN_TO_DOMAIN_ID[domain] + '_' + str(i) for i, domain in enumerate(domains)]
 
         input_file_name = 'texts_to_predict'
-        self._create_conll_file(texts, input_file_name, doc_keys, output_folder=BERT_DATA_FP)
+        self._create_conll_file(texts, input_file_name, doc_keys, output_folder=Config.BERT_DATA_DIR)
 
         # creates a .jsonlines-file, where the texts are split into segments with a maximum length of max_seg_len
-        vocab_fp = os.path.abspath(os.path.join(BERT_DATA_FP, self.experiment_config.vocab_folder, 'vocab.txt'))
-        input_dir = output_dir = BERT_DATA_FP
+        vocab_fp = os.path.abspath(os.path.join(Config.BERT_DATA_DIR, self.experiment_config.vocab_folder, 'vocab.txt'))
+        input_dir = output_dir = Config.BERT_DATA_DIR
         utils.execute(['python3', 'minimize.py', vocab_fp, input_dir, output_dir, 'False', str(self.max_seg_len), input_file_name])
 
         # make sure the correct segment length is contained in the experiments.config
         changes = {'max_segment_len': str(self.max_seg_len)}
-        utils.change_conf_params(self.experiment_config.name, f'{BFCR_FP}/experiments.conf', changes)
+        utils.change_conf_params(self.experiment_config.name, f'{Config.BFCR_DIR}/experiments.conf', changes)
 
-        input_fp = os.path.join(BERT_DATA_FP, f'{input_file_name}.english.{self.max_seg_len}.jsonlines')
+        input_fp = os.path.join(Config.BERT_DATA_DIR, f'{input_file_name}.english.{self.max_seg_len}.jsonlines')
         utils.execute(['python3', 'predict.py', self.experiment_config.name, input_fp, predictions_fp])
 
         all_predicted_clusters = read_predictions(predictions_fp, texts, doc_keys, used_model=Model.BFCR)

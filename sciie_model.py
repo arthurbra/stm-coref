@@ -9,18 +9,12 @@ from nltk import word_tokenize, sent_tokenize
 from brat_utils import STMCorpus, Corpus
 import utils
 from index_converter import IndexConverter
+from config import Config
 
 nltk.download("punkt")
 
-SCIIE_DIR = os.path.abspath('SciERC')
-EVAL_RESULTS_DIR = os.path.abspath('EvalResults')
-
 
 class SCIIEModel:
-    STM_COREF_CORPUS_FP = os.path.abspath('data/stm-coref')
-    STM_ENTITIES_CORPUS_FP = os.path.abspath('data/stm-entities')
-    STM_CORPUS = STMCorpus(STM_COREF_CORPUS_FP, STM_ENTITIES_CORPUS_FP, allow_fragments=False)
-
     def __init__(self, corpus: Corpus = STMCorpus, fold: int = 0, use_pretrained_model: bool = False):
         self.corpus = corpus
         self.fold = fold
@@ -29,7 +23,7 @@ class SCIIEModel:
         self.is_setup = False
 
     def _setup(self) -> None:
-        os.chdir(SCIIE_DIR)
+        os.chdir(Config.SCIIE_DIR)
 
         embeddings_dir = 'embeddings'
         logs_dir = 'logs'
@@ -57,36 +51,36 @@ class SCIIEModel:
                 download_file(dl_link, embeddings_dir)
             print('Downloads finished.')
 
-        if self.use_pretrained_model and not os.path.exists(get_dir(pretrained_model_dl_link, SCIIE_DIR)):
+        if self.use_pretrained_model and not os.path.exists(get_dir(pretrained_model_dl_link, Config.SCIIE_DIR)):
             print('Downloading pretrained model.')
-            download_file(pretrained_model_dl_link, SCIIE_DIR)
+            download_file(pretrained_model_dl_link, Config.SCIIE_DIR)
             print('Download finished.')
 
         if self.use_pretrained_model:
-            shutil.copytree(src=get_dir(pretrained_model_dl_link, SCIIE_DIR), dst=logs_dir)
+            shutil.copytree(src=get_dir(pretrained_model_dl_link, Config.SCIIE_DIR), dst=logs_dir)
 
         # creates train-, dev-, test.json files
-        if os.path.exists(os.path.join(SCIIE_DIR, 'data')):
-            shutil.rmtree(os.path.join(SCIIE_DIR, 'data'))  # delete previous elmo embeddings and dataset-splits
-        os.makedirs(os.path.join(SCIIE_DIR, 'data/processed_data/json'))
+        if os.path.exists(os.path.join(Config.SCIIE_DIR, 'data')):
+            shutil.rmtree(os.path.join(Config.SCIIE_DIR, 'data'))  # delete previous elmo embeddings and dataset-splits
+        os.makedirs(os.path.join(Config.SCIIE_DIR, 'data/processed_data/json'))
 
         self._create_json_files(self.corpus, self.fold, folds_fp='../data/stm_coref_folds.json',
-                                output_dir=os.path.join(SCIIE_DIR, 'data/processed_data/json'))
+                                output_dir=os.path.join(Config.SCIIE_DIR, 'data/processed_data/json'))
 
         # generate elmo embeddings for the given train-dev-test split which will be stored at data/processed_data/elmo
         print('Creating elmo-embeddings and storing them at data/processed_data/elmo.')
-        os.makedirs(os.path.join(SCIIE_DIR, 'data/processed_data/elmo'))
+        os.makedirs(os.path.join(Config.SCIIE_DIR, 'data/processed_data/elmo'))
         utils.execute(['python3', 'scripts/filter_embeddings.py', 'embeddings/glove.840B.300d.txt',
                        'embeddings/glove.840B.300d.txt.filtered',
                        'data/processed_data/json/train.json', 'data/processed_data/json/dev.json'])
         utils.execute(['python3', 'scripts/get_char_vocab.py'])
         for split in ['train', 'dev', 'test']:
             utils.execute(['python3', 'generate_elmo.py',
-                           '--input', os.path.join(SCIIE_DIR, f'data/processed_data/json/{split}.json'),
-                           '--output', os.path.join(SCIIE_DIR, f'data/processed_data/elmo/{split}.hdf5')])
+                           '--input', os.path.join(Config.SCIIE_DIR, f'data/processed_data/json/{split}.json'),
+                           '--output', os.path.join(Config.SCIIE_DIR, f'data/processed_data/elmo/{split}.hdf5')])
 
         # saves Prec-, Rec- and F1-scores for each domain on the test-set to EVAL_RESULTS_DIR
-        os.environ['eval_results_fp'] = os.path.join(EVAL_RESULTS_DIR, f'{self.experiment}_{self.fold}_eval.csv')
+        os.environ['eval_results_fp'] = os.path.join(Config.EVAL_RESULTS_DIR, f'{self.experiment}_{self.fold}_eval.csv')
 
     def train(self) -> None:
         """
@@ -94,9 +88,9 @@ class SCIIEModel:
         """
         if not self.is_setup:
             self._setup()
-        os.chdir(SCIIE_DIR)
+        os.chdir(Config.SCIIE_DIR)
 
-        evaluator_thread = Thread(target=lambda: utils.execute(['python3', 'evaluator.py', 'scientific_best_coref']))
+        evaluator_thread = Thread(target=lambda: utils.execute(['python3', 'evaluator.py', 'scientific_best_coref'])) # TODO besser als funktion / partial? warum wird nicht abgebrochen, warum nicht in EvalResults geschrieben?
         trainer_thread = Thread(target=lambda: utils.execute(['python3', 'singleton.py', 'scientific_best_coref']))
 
         print('Starting training.')
@@ -118,10 +112,10 @@ class SCIIEModel:
         """
         if not self.is_setup:
             self._setup()
-        os.chdir(SCIIE_DIR)
+        os.chdir(Config.SCIIE_DIR)
 
-        if not os.path.exists(EVAL_RESULTS_DIR):
-            os.mkdir(EVAL_RESULTS_DIR)
+        if not os.path.exists(Config.EVAL_RESULTS_DIR):
+            os.mkdir(Config.EVAL_RESULTS_DIR)
 
         utils.execute(['python3', 'test_single.py', 'test_scientific_best_coref'])
 
