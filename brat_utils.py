@@ -98,7 +98,7 @@ class Corpus(object):
         raise NotImplementedError('Must be defined when inheriting from Corpus.')
 
     @staticmethod
-    def _extract_properties(corpus_dir: str) \
+    def _extract_properties(doc_fp: str) \
             -> Tuple[str, List[Tuple[str, Tuple[int, int]]], List[List[Tuple[int, int]]]]:
         raise NotImplementedError('Must be defined when inheriting from Corpus.')
 
@@ -111,7 +111,7 @@ class STMCorpus(Corpus):
             irrelevant_entity_types = irrelevant_entity_types_default
 
         docs = []
-        for doc_entities_fp, doc_clusters_fp in zip(get_files_in_folder(cluster_corpus_folder_path, pattern='*.txt'),
+        for doc_clusters_fp, doc_entities_fp in zip(get_files_in_folder(cluster_corpus_folder_path, pattern='*.txt'),
                                                     get_files_in_folder(entity_corpus_folder_path, pattern='*.txt')):
             text, _, clusters = self._extract_properties(doc_clusters_fp, allow_fragments)
             _, entities, _ = self._extract_properties(doc_entities_fp, allow_fragments)
@@ -152,18 +152,18 @@ class STMCorpus(Corpus):
                to_docs(folds[f'fold_{fold}']['test'])
 
     @staticmethod
-    def _extract_properties(corpus_dir: str, allow_fragments: bool = True) -> \
+    def _extract_properties(doc_fp: str, allow_fragments: bool = True) -> \
             Tuple[str, List[Tuple[str, Tuple[int, int]]], List[List[Tuple[int, int]]]]:
-        entities = {}  # T?(entity identifier) -> (type, (start, end))
+        entities = {}  # T?(entity identifier) -> (type, (start, end))  # TODO CORPUS_DIR??
         clusters = defaultdict(list)
         text = ''
 
-        if os.path.exists(corpus_dir + '.txt'):
-            with open(corpus_dir + '.txt', mode='r') as reader:
+        if os.path.exists(doc_fp):
+            with open(doc_fp, mode='r') as reader:
                 text = reader.read()
 
-        if os.path.exists(corpus_dir + '.ann'):
-            with open(corpus_dir + '.ann', mode='r') as file:
+        if os.path.exists(doc_fp.replace('.txt', '.ann')):
+            with open(doc_fp.replace('.txt', '.ann'), mode='r') as file:
                 for line in file:
                     if '\t' not in line:
                         continue
@@ -223,9 +223,8 @@ class SciercCorpus(Corpus):
         self.num_docs_reduction_to_percent = num_docs_reduction_to_percent
         self.reduced_fold_fp = reduced_fold_fp
 
-        doc_paths = [doc_path.replace('.txt', '') for doc_path in get_files_in_folder(corpus_fp, pattern='*.txt')]
         docs = []
-        for fp in doc_paths:
+        for fp in get_files_in_folder(corpus_fp, pattern='*.txt'):
             doc_key = os.path.basename(fp).split('.')[0]
             text, entities, clusters = self._extract_properties(fp)
             doc = Document(name=doc_key, text=text, clusters=clusters, entities=entities)
@@ -308,19 +307,19 @@ class SciercCorpus(Corpus):
         return fold_to_train_dev_test_docs
 
     @staticmethod
-    def _extract_properties(corpus_dir: str) \
+    def _extract_properties(doc_fp: str) \
             -> Tuple[str, List[Tuple[str, Tuple[int, int]]], List[List[Tuple[int, int]]]]:
         entities = {}  # T?(entity identifier) -> (type, (start, end))
         clusters = []
 
-        with open(corpus_dir + '.txt', mode='r') as reader:
+        with open(doc_fp, mode='r') as reader:
             text = reader.read()
 
-        if os.path.exists(corpus_dir + '.ann'):
-            with open(corpus_dir + '.ann', mode='r') as file:
+        if os.path.exists(doc_fp.replace('.txt', '.ann')):
+            with open(doc_fp.replace('.txt', '.ann'), mode='r') as file:
                 for line in file:
                     if '\t' not in line:
-                        print('no tab', corpus_dir, line)
+                        print('no tab', doc_fp, line)
                         continue
                     annotation_type, annotation = line[0:line.index('\t')], line[line.index('\t') + 1:]
                     is_entity_entry, is_relation_entry = annotation_type[0] == 'T', annotation_type[0] == 'R'
@@ -333,7 +332,7 @@ class SciercCorpus(Corpus):
                             entities[annotation_type] = (entity_type, entity_indices)
                         except ValueError:
                             print(
-                                f'ValueError, __brat_extract_properties, handle this fp: {corpus_dir}, line: {line}')  # TODO temp
+                                f'ValueError, __brat_extract_properties, handle this fp: {doc_fp}, line: {line}')  # TODO temp
                     elif is_relation_entry:
                         relation_type, arg1, arg2 = annotation.split()
                         arg1, arg2 = arg1.split(':')[1], arg2.split(':')[1]  # Arg1:T1 Arg2:T3 ->(T1, T3)

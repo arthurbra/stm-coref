@@ -67,13 +67,8 @@ EXPERIMENT_TO_CONFIG = {
 
 
 class BFCRModel:
-    DATA_DIR = os.path.abspath('data')
-    STM_COREF_CORPUS_FP = os.path.abspath('data/stm-coref')
-    STM_ENTITIES_CORPUS_FP = os.path.abspath('data/stm-entities')
-    STM_CORPUS = STMCorpus(STM_COREF_CORPUS_FP, STM_ENTITIES_CORPUS_FP)
-
     def __init__(self, experiment: Experiment = Experiment.BFCR_Span_Onto_STM_pretrained,
-                 corpus: Corpus = STM_CORPUS, fold: int = 0, seed: int = 0, max_seg_len: int = 384):
+                 corpus: Corpus = Config.STM_CORPUS, fold: int = 0, seed: int = 0, max_seg_len: int = 384):
         self.experiment = experiment
         self.experiment_config = EXPERIMENT_TO_CONFIG[experiment]
         self.corpus = corpus
