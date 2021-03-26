@@ -179,7 +179,7 @@ class BFCRModel:
     def predict(self, texts: List[str], domains: List[str] = None,
                 predictions_fp: str = os.path.join(Config.BERT_DATA_DIR, 'predictions.jsonlines'),
                 remove_input_file: bool = True, create_standoff_annotations: bool = False,
-                standoff_annotations_dir: str = os.path.join(DATA_DIR, 'coref_predictions_standoff')):
+                standoff_annotations_dir: str = os.path.join(Config.DATA_DIR, 'coref_predictions_standoff')):
         if not self.is_setup:
             self._setup()
         os.chdir(Config.BFCR_DIR)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
@@ -217,9 +217,9 @@ class BFCRModel:
                 shutil.rmtree(standoff_annotations_dir)
             os.makedirs(standoff_annotations_dir)
 
-            shutil.copyfile(src=os.path.join(self.STM_COREF_CORPUS_FP, 'annotation.conf'),
+            shutil.copyfile(src=os.path.join(Config.STM_COREF_CORPUS_DIR, 'annotation.conf'),
                             dst=os.path.join(standoff_annotations_dir, 'annotation.conf'))
-            shutil.copyfile(src=os.path.join(self.STM_COREF_CORPUS_FP, 'visual.conf'),
+            shutil.copyfile(src=os.path.join(Config.STM_COREF_CORPUS_DIR, 'visual.conf'),
                             dst=os.path.join(standoff_annotations_dir, 'visual.conf'))
 
             for doc_key, text, predicted_clusters in zip(doc_keys, texts, all_predicted_clusters):
