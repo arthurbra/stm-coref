@@ -116,7 +116,10 @@ class BFCRModel:
         os.chdir(Config.BFCR_DIR)  # BFCR_FP is the path to the python-scripts, which are used in train(), evaluate(), predict()
 
         # creates train, test, dev.conll
-        folds_fp = os.path.join(Config.DATA_DIR, 'stm_coref_folds.json')
+        if isinstance(self.corpus, STMCorpus):
+            folds_fp = os.path.join(Config.DATA_DIR, 'stm_coref_folds.json')
+        else:
+            folds_fp = os.path.join(Config.DATA_DIR, 'scierc_folds.json')
         for partition, file_name in zip(self.corpus.get_train_dev_test(folds_fp, self.fold), ['train', 'dev', 'test']):
             texts = [doc.text for doc in partition]
             doc_keys = [doc.key for doc in partition]

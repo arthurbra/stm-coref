@@ -64,7 +64,11 @@ class SCIIEModel:
             shutil.rmtree(os.path.join(Config.SCIIE_DIR, 'data'))  # delete previous elmo embeddings and dataset-splits
         os.makedirs(os.path.join(Config.SCIIE_DIR, 'data/processed_data/json'))
 
-        self._create_json_files(self.corpus, self.fold, folds_fp='../data/stm_coref_folds.json',
+        if isinstance(self.corpus, STMCorpus):
+            folds_fp = os.path.join(Config.DATA_DIR, 'stm_coref_folds.json')
+        else:
+            folds_fp = os.path.join(Config.DATA_DIR, 'scierc_folds.json')
+        self._create_json_files(self.corpus, self.fold, folds_fp,
                                 output_dir=os.path.join(Config.SCIIE_DIR, 'data/processed_data/json'))
 
         # generate elmo embeddings for the given train-dev-test split which will be stored at data/processed_data/elmo
