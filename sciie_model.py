@@ -15,7 +15,7 @@ nltk.download("punkt")
 
 
 class SCIIEModel:
-    def __init__(self, corpus: Corpus = STMCorpus, fold: int = 0, use_pretrained_model: bool = False):
+    def __init__(self, corpus: Corpus = Config.STM_CORPUS, fold: int = 0, use_pretrained_model: bool = False):
         self.corpus = corpus
         self.fold = fold
         self.use_pretrained_model = use_pretrained_model
