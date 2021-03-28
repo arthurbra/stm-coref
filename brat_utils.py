@@ -1,10 +1,12 @@
 import os
+import shutil
 from collections import defaultdict
 import re
 from typing import Tuple, List, Dict
 import json
 import random
 
+from config import Config
 from utils import get_files_in_folder, flatten
 
 
@@ -27,6 +29,39 @@ def print_clusters(clusters, text, return_output=False):
         return output
     else:
         print(output)
+
+
+def visualize_coref_predictions(doc_keys: List[str], texts: List[str],
+                                all_predicted_clusters: List[List[List[Tuple[int, int]]]],
+                                standoff_annotations_dir: str) -> None:
+    """
+    Creates .ann- and .txt-files for each given document, represented by a doc_key, its text and its predicted clusters.
+    Thus the results of the coreference-predictions can be viewed with brat.
+    """
+    if os.path.exists(standoff_annotations_dir):
+        shutil.rmtree(standoff_annotations_dir)
+    os.makedirs(standoff_annotations_dir)
+
+    shutil.copyfile(src=os.path.join(Config.STM_COREF_CORPUS_DIR, 'annotation.conf'),
+                    dst=os.path.join(standoff_annotations_dir, 'annotation.conf'))
+    shutil.copyfile(src=os.path.join(Config.STM_COREF_CORPUS_DIR, 'visual.conf'),
+                    dst=os.path.join(standoff_annotations_dir, 'visual.conf'))
+
+    for doc_key, text, predicted_clusters in zip(doc_keys, texts, all_predicted_clusters):
+        file_name = os.path.join(standoff_annotations_dir, doc_key)
+
+        with open(file_name + '.ann', mode='w') as file:
+            t_index = 1
+            start_end_to_t_index = {}
+            for c_i, cluster in enumerate(predicted_clusters):
+                for m_start, m_end in cluster:
+                    file.write(f'T{t_index}\tCluster{c_i + 1} {m_start} {m_end}\t{text[m_start:m_end]}\n')
+                    start_end_to_t_index[(m_start, m_end)] = t_index
+                    t_index += 1
+
+        with open(file_name + '.txt', mode='w') as file:
+            file.write(text)
+
 
 class Document(object):
     DOMAIN_TO_DOMAIN_ID = {  # domain id is used in the genre embeddings

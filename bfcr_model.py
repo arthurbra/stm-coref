@@ -1,17 +1,14 @@
 import os
-import shutil
 from collections import namedtuple
 from enum import Enum
-import subprocess
 from typing import List, Tuple
-import shutil
 
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 import gdown
 
 import utils
-from brat_utils import Corpus, Document, STMCorpus
+from brat_utils import Corpus, Document, STMCorpus, visualize_coref_predictions
 from index_converter import IndexConverter
 from predictions_reader import read_predictions, Model
 from config import Config
@@ -216,29 +213,7 @@ class BFCRModel:
             os.remove(input_fp)
 
         if create_standoff_annotations:
-            if os.path.exists(standoff_annotations_dir):
-                shutil.rmtree(standoff_annotations_dir)
-            os.makedirs(standoff_annotations_dir)
-
-            shutil.copyfile(src=os.path.join(Config.STM_COREF_CORPUS_DIR, 'annotation.conf'),
-                            dst=os.path.join(standoff_annotations_dir, 'annotation.conf'))
-            shutil.copyfile(src=os.path.join(Config.STM_COREF_CORPUS_DIR, 'visual.conf'),
-                            dst=os.path.join(standoff_annotations_dir, 'visual.conf'))
-
-            for doc_key, text, predicted_clusters in zip(doc_keys, texts, all_predicted_clusters):
-                file_name = os.path.join(standoff_annotations_dir, doc_key)
-
-                with open(file_name + '.ann', mode='w') as file:
-                    t_index = 1
-                    start_end_to_t_index = {}
-                    for c_i, cluster in enumerate(predicted_clusters):
-                        for m_start, m_end in cluster:
-                            file.write(f'T{t_index}\tCluster{c_i + 1} {m_start} {m_end}\t{text[m_start:m_end]}\n')
-                            start_end_to_t_index[(m_start, m_end)] = t_index
-                            t_index += 1
-
-                with open(file_name + '.txt', mode='w') as file:
-                    file.write(text)
+            visualize_coref_predictions(doc_keys, texts, all_predicted_clusters, standoff_annotations_dir)
 
         return all_predicted_clusters
 
