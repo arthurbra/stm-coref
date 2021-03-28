@@ -1,7 +1,5 @@
 venv/
 .idea/
-Pipfile.lock
-Pipfile
 BertForCorefRes/bert_data/*
 BertForCorefRes/checkpoints/*
 BertForCorefRes/__pycache__/
