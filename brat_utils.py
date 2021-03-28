@@ -6,7 +6,6 @@ from typing import Tuple, List, Dict
 import json
 import random
 
-from config import Config
 from utils import get_files_in_folder, flatten
 
 
@@ -38,6 +37,7 @@ def visualize_coref_predictions(doc_keys: List[str], texts: List[str],
     Creates .ann- and .txt-files for each given document, represented by a doc_key, its text and its predicted clusters.
     Thus the results of the coreference-predictions can be viewed with brat.
     """
+    from config import Config  # otherwise circular import (with config.py)
     if os.path.exists(standoff_annotations_dir):
         shutil.rmtree(standoff_annotations_dir)
     os.makedirs(standoff_annotations_dir)
