@@ -103,6 +103,7 @@ class SCIIEModel:
 
         # blocks until the training has finished (after 300 Epochs)
         trainer_thread.join()
+        print('trainer has stopped')
 
         # evaluator runs indefinitely until 'stop_sciie_evaluator' is set to True
         os.environ['stop_sciie_evaluator'] = 'True'
