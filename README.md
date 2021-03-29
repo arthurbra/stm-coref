@@ -10,7 +10,8 @@ Brack A., Müller D., Hoppe A., Ewerth R. (2021) Coreference Resolution in Resea
 
 ## Installation
 Python 3.8 required.  Install the requirements with:
-- pipenv install
+- (`pip install pipenv`, in case pipenv isn't installed yet)
+- `pipenv install`
 
 ## Datasets
 
@@ -39,22 +40,53 @@ To evaluate the effect of coreference resolution in knowledge graph population a
 To build the in-domain and cross-domain Test-STM-KG and the research knowledge graphs, run the following python script:
 - build_kgs.py: creates the knowledge graphs in knowledge_graph/
 
-## Use Coref-Models [Under Construction]
+## Coref-Models
+The following two models were tested in the paper: [BFCR](https://github.com/mandarjoshi90/coref) 
+and [SCIIE](https://github.com/YerevaNN/SciERC). Experiments with the two models on STM-coref, SciERC or any corpus 
+that inherits from brat_utils.Corpus can be performed in the following ways:
+
+#### BFCR
+```python
+model = BFCRModel()
+```
+The fold to train and evaluate on and the exact experiment involving BFCR can be specified with the
+`fold` and `experiments` parameters. By default an already pretrained BFCR_Span_Onto_STM-model is used.
+
+#### SCIIE
+```python
+model = SCIIEModel()
+```
+
+#### In general
+
+BFCRModel and SCIIEModel automatically download the necessary checkpoints to run and store them locally for future use. 
+By default BFCRModel and SCIIEModel use STM-coref, but [SciERC](http://nlp.cs.washington.edu/sciIE/) can also
+be used. If you want to use SciERC, download it as explained in brat_utils.SciercCorpus.
+
 
 ### Training
-
+Runs for a fixed number of epochs.
+```python
+model.train()
+```
 ### Evaluation
+```python
+model.evaluate()
+```
+Evaluates on the test-set and prints the average MUC-, B³-, CEAFE- and CoNLL-scores. Also stores the average scores 
+for the entire test-set and for each domain in the dataset as a .csv-file at stm-coref/EvalResults.
 
-### Make Predictions
+### Making Predictions
 Coreference-clusters in texts can be predicted in the following two ways:
 ##### 1. ```Model.predict()```
 ```python
-model = BFCRModel()
-predicted_clusters = model.predict(texts, domains)
+predicted_clusters = model.predict(texts, domains)  # domains optional
 ```
 ##### 2. using the ```predict.py```
-Predict.py downloads the best performing model (BFCR_Span_Onto_STM), which is already pretrained, uses it to predict coreference-clusters of the texts stored in the file given. 
-```python predict.py "path/to/texts.jsonlines" "Optional-path/to/domains.jsonlines"```
+Predict.py downloads the best performing model (BFCR_Span_Onto_STM), which is already pretrained and uses it to predict 
+coreference-clusters of the texts stored in the input-file. The predictions are then stored in another file. Usage:
+
+```pipenv run python predict.py "path/to/texts.jsonlines" "Optional-path/to/domains.jsonlines"```
 
 ## Visualize predictions:
 The predictions can be visualized using [brat](https://brat.nlplab.org/). Creating the files needed for brat to visualize the predicted-clusters can be done in the two following ways:
@@ -62,4 +94,4 @@ The predictions can be visualized using [brat](https://brat.nlplab.org/). Creati
 model.predict(texts, domains, create_standoff_annotations=True)
 ```
 or \
-```python predict.py "path/to/texts.jsonlines" "Optional-path/to/domains.jsonlines" --create_standoff_annotations```
+```pipenv run python predict.py "path/to/texts.jsonlines" "Optional-path/to/domains.jsonlines" --create_standoff_annotations```
