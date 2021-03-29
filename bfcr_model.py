@@ -79,7 +79,7 @@ class BFCRModel:
         if os.path.exists(Config.BERT_DATA_DIR):
             os.system(f'rm -r {Config.BERT_DATA_DIR}')
 
-        # download checkpoints which are used for the first time
+        # download the checkpoints which are used for the first time
         for ckpt in self.experiment_config.ckpts:
             if not os.path.exists(os.path.join(checkpoints_folder, ckpt.folder)):
                 print(f'Downloading file "{ckpt.folder}" to "{checkpoints_folder}".')
@@ -94,12 +94,15 @@ class BFCRModel:
                 if ending == '.zip':
                     os.system(f'unzip {os.path.join(checkpoints_folder, ckpt.folder)}.zip -d {checkpoints_folder}')
                 else:
-                    os.system(f'tar xvzf {os.path.join(checkpoints_folder, ckpt.folder)}.tar.gz -C {checkpoints_folder}')
+                    os.mkdir(os.path.join(checkpoints_folder, ckpt.folder))
+                    os.system(f'tar xvzf {os.path.join(checkpoints_folder, ckpt.folder)}.tar.gz '
+                              f'-C {os.path.join(checkpoints_folder, ckpt.folder)}')
                 os.system(f'rm {os.path.join(checkpoints_folder, ckpt.folder)}{ending}')
                 print('Download complete.')
 
             # move the checkpoints necessary for the experiment to the checkpoints-folder
-            os.mkdir(Config.BERT_DATA_DIR)
+            if not os.path.exists(Config.BERT_DATA_DIR):
+                os.mkdir(Config.BERT_DATA_DIR)
 
             if self.experiment == Experiment.BFCR_Span_Onto_STM_pretrained:
                 # BFCR_Span_Onto_STM_pretrained has the following name in the checkpoints-folder: spanbert_base_stm to
