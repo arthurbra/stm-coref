@@ -95,8 +95,8 @@ class BFCRModel:
                     os.system(f'unzip {os.path.join(checkpoints_folder, ckpt.folder)}.zip -d {checkpoints_folder}')
                 else:
                     os.mkdir(os.path.join(checkpoints_folder, ckpt.folder))
-                    os.system(f'tar xvzf {os.path.join(checkpoints_folder, ckpt.folder)}.tar.gz '
-                              f'-C {os.path.join(checkpoints_folder, ckpt.folder)}')
+                    dest = checkpoints_folder if ckpt != CKPTS.SPANBERT else os.path.join(checkpoints_folder, ckpt.folder)
+                    os.system(f'tar xvzf {os.path.join(checkpoints_folder, ckpt.folder)}.tar.gz -C {dest}')
                 os.system(f'rm {os.path.join(checkpoints_folder, ckpt.folder)}{ending}')
                 print('Download complete.')
 
