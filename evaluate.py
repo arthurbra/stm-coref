@@ -3,11 +3,6 @@ np.seterr(divide='ignore', invalid='ignore')
 from collections import Counter
 from sklearn.utils.linear_assignment_ import linear_assignment
 from sklearn.metrics import cohen_kappa_score
-# from scipy.optimize import linear_sum_assignment as linear_assignment
-
-########################################################################################
-########## MY CODE #####################################################################
-########################################################################################
 
 
 def calc_prec_rec_f1(actual, predicted):
@@ -71,9 +66,10 @@ class Document:
         self.mention_to_cluster = {m: tuple(c) for c in clusters for m in c}
         self.mention_to_gold = {m: tuple(c) for c in gold for m in c}
 
+
  ###############################################################################
  # code above my code
- # code below COPIED FROM https://github.com/clarkkev/deep-coref/blob/master/evaluation.py
+ # code below copied FROM https://github.com/clarkkev/deep-coref/blob/master/evaluation.py
  ###############################################################################
 
 

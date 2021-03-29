@@ -243,14 +243,16 @@ class SciercCorpus(Corpus):
         Download the json-files containing the original train-, dev-, test-split from
         http://nlp.cs.washington.edu/sciIE/data/sciERC_processed.tar.gz if you want to set use_predefined_split to True.
 
-        :param corpus_fp: directory containing the brat files from the scierc-corpus.
+
+        :param corpus_fp: directory containing the brat documents from the scierc-corpus.
         :param use_predefined_split: if True: get_train_dev_test() will use the original train-, dev-, test-split
-        contained in the second link above, if False: will create 10 different folds and use them in get_train_dev_test().
+            contained in the second link above, if False: will create 10 different folds and use them in
+            get_train_dev_test().
         :param predefined_split_files_fp: directory where the json-files with the original split are stored.
         :param num_docs_reduction_to_percent: num_docs_reduction_to_percent = 20: reduces the num of docs in the split
-        to 20% of its original size.
+            to 20% of its original size.
         :param reduced_fold_fp: if num_docs_reduction_to_percent smaller than 100: will reduce the number of docs in the
-         split and store the results at this file-path.
+            split and store the results at this file-path.
         """
         self.corpus_fp = corpus_fp
         self.use_predefined_split = use_predefined_split
