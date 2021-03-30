@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-tensorflow = "1.14.0"
+tensorflow = ">=1.15,<2.0"
 nltk = "*"
 gdown = "*"
 numpy = "*"
@@ -14,10 +14,10 @@ pandas = "*"
 torch = "*"
 pyhocon = "*"
 six = "*"
-tensorflow-hub = "*"
 astor = "*"
+tensorflow-hub = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
