@@ -9,8 +9,8 @@ Brack A., Müller D., Hoppe A., Ewerth R. (2021) Coreference Resolution in Resea
 - Preprint: https://arxiv.org/abs/2101.00884
 
 ## Installation
-Python 3.8 required.  Install the requirements with:
-- (`pip install pipenv`, in case pipenv isn't installed yet)
+Python 3.7 required.  Install the requirements with:
+- (in case pipenv isn't installed yet: `pip install pipenv`)
 - `pipenv install`
 
 ## Datasets
