@@ -85,6 +85,7 @@ class SCIIEModel:
 
         # saves Prec-, Rec- and F1-scores for each domain on the test-set to EVAL_RESULTS_DIR
         os.environ['eval_results_fp'] = os.path.join(Config.EVAL_RESULTS_DIR, f'{self.experiment}_{self.fold}_eval.csv')
+        self.is_setup = True
 
     def train(self) -> None:
         """
