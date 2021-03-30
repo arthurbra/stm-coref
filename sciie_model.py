@@ -94,20 +94,21 @@ class SCIIEModel:
             self._setup()
         os.chdir(Config.SCIIE_DIR)
 
-        # evaluator_thread = Thread(target=lambda: utils.execute(['python3', 'evaluator.py', 'scientific_best_coref'])) # TODO besser als funktion / partial? warum wird nicht abgebrochen, warum nicht in EvalResults geschrieben?
-        trainer_thread = Thread(target=lambda: utils.execute(['python3', 'singleton.py', 'scientific_best_coref'])) # scheitn hier nicht zu exiten. Wegen closed filewriter? wo ist der Filewriter im code? Nur singleton ohne eval versucehn
+        trainer_thread = Thread(target=lambda: utils.execute(['python3', 'singleton.py', 'scientific_best_coref']))
+        evaluator_thread = Thread(target=lambda: utils.execute(['python3', 'evaluator.py', 'scientific_best_coref']))
 
         print('Starting training.')
         trainer_thread.start()
-        # evaluator_thread.start()
+        evaluator_thread.start()
 
         # blocks until the training has finished (after 300 Epochs)
         trainer_thread.join()
-        print('trainer has stopped')
 
-        # evaluator runs indefinitely until 'stop_sciie_evaluator' is set to True
-        # os.environ['stop_sciie_evaluator'] = 'True'
-        # evaluator_thread.join()
+        # the evaluator runs indefinitely until stop_sciie_evaluator-file is created
+        # the evaluator checks periodically for the existence of this file
+        # previous attempts to communicate with the evaluator using environment-vars didn't work
+        open(os.path.join(os.environ['PWD'], 'stop_sciie_evaluator'), 'w').close()
+        evaluator_thread.join()
 
         print('Training finished.')
 

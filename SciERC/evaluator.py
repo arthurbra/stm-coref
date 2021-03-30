@@ -98,8 +98,8 @@ if __name__ == "__main__":
 
         evaluated_checkpoints.add(ckpt.model_checkpoint_path)
 
-        if 'stop_sciie_evaluator' in os.environ and os.environ['stop_sciie_evaluator'] == 'True':
-          print('Evaluator manually stopped.')
-          os.environ['stop_sciie_evaluator'] = 'False'
-          break
+      if os.path.exists(os.path.join(os.environ['PWD'], 'stop_sciie_evaluator')):
+        os.remove(os.path.join(os.environ['PWD'], 'stop_sciie_evaluator'))
+        print('Evaluator manually stopped.')
+        break
       time.sleep(config["eval_sleep_secs"])
