@@ -119,12 +119,26 @@ class SCIIEModel:
         """
         if not self.is_setup:
             self._setup()
+
         os.chdir(Config.SCIIE_DIR)
 
         if not os.path.exists(Config.EVAL_RESULTS_DIR):
             os.mkdir(Config.EVAL_RESULTS_DIR)
 
-        utils.execute(['python3', 'test_single.py', 'test_scientific_best_coref'])
+        changes = {
+            'lm_path_dev': 'data/processed_data/elmo/test.hdf5',
+            'eval_path': 'data/processed_data/json/test.json'
+        }
+        utils.change_conf_params('scientific_best_coref', f'{Config.SCIIE_DIR}/experiments.conf', changes)
+
+        utils.execute(['python3', 'test_single.py', 'scientific_best_coref'])
+
+        changes = {
+            'lm_path_dev': 'data/processed_data/elmo/dev.hdf5',
+            'eval_path': 'data/processed_data/json/dev.json'
+        }
+        utils.change_conf_params('scientific_best_coref', f'{Config.SCIIE_DIR}/experiments.conf', changes)
+
 
     def predict(self, input_json_fp: str, output_dir: str):
         raise NotImplementedError('Will be implemented in the future.')
